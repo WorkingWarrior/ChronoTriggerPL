@@ -159,12 +159,12 @@ Zapisz: zapisuje postępy w grze.
 Bestiariusz: przeglądaj informacje o przeciwnikach.
 Bestiariusz: przeglądaj informacje o przeciwnikach.
 Wybierz prędkość poruszania się.
-65,000,000 P.N.E.
-12,000 P.N.E.
+65 000 000 P.N.E.
+12 000 P.N.E.
 600 N.E.
-1000 N.E.
-2300 N.E.
-1999 N.E.
+1 000 N.E.
+2 300 N.E.
+1 999 N.E.
 Prehistoria
 Starożytność
 Średniowiecze
