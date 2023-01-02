@@ -1,0 +1,256 @@
+FLD_CMES4_000,<NAME_MAR>: Look at this sunlight!\This must be the sun's favorite place.
+FLD_CMES4_001,<NAME_LUC>: It's never dark in here.
+FLD_CMES4_002,<NAME_ROB>: Sunlight reaches this location\24 hours per day.
+FLD_CMES4_003,<NAME_FRO>: This must be the spot.\The sun's light is warm upon it.
+FLD_CMES4_004,<NAME_AYL>: Oh, warm!\Good sun!
+FLD_CMES4_005,<NAME_MAG>: The Sun Shrine...\It's said the sun has not set in this place\since it first rose.
+FLD_CMES4_006,Place the Moon Stone here?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES4_007,<NAME_MAR>: Now, all that's left is a quick\hop on the <NAME_SIL>!
+FLD_CMES4_008,<NAME_LUC>: Well then, back to the <NAME_SIL>.
+FLD_CMES4_009,<NAME_ROB>: We should now return to my era\in the <NAME_SIL>.
+FLD_CMES4_010,<NAME_FRO>: And...how long must we wait now?
+FLD_CMES4_011,<NAME_AYL>: ...\No change yet.
+FLD_CMES4_012,<NAME_MAG>: Come, let us be on our way.
+FLD_CMES4_013,<NAME_LUC>: It's gone!\The Moon Stone is gone!
+FLD_CMES4_014,It looks like it's been gone for some time.\Let's try another time period.
+FLD_CMES4_015,<NAME_LUC>: It isn't here either.
+FLD_CMES4_016,I wonder if someone from this time period\took it?
+FLD_CMES4_017,<NAME_MAR>: It's not here!\The Moon Stone is gone!
+FLD_CMES4_018,It looks like it's been gone for ages.\Maybe we should try a different time period.
+FLD_CMES4_019,<NAME_MAR>: It's not here, either.
+FLD_CMES4_020,I wonder if someone from this age took it.
+FLD_CMES4_021,<NAME_ROB>: The Moon Stone is no longer here!
+FLD_CMES4_022,But the evidence indicates it was not taken recently.\We should look for it in an earlier era.
+FLD_CMES4_023,<NAME_ROB>: It does not appear to be here, either.
+FLD_CMES4_024,Perhaps someone from this era has taken it.
+FLD_CMES4_025,<NAME_FRO>: The Moon Stone!\It isn't here!
+FLD_CMES4_026,Yet it appears it was not taken recently.\Let us return in time.
+FLD_CMES4_027,<NAME_FRO>: Not here, either...
+FLD_CMES4_028,Has someone from this time taken it?
+FLD_CMES4_029,<NAME_AYL>: Gone...\No rock!
+FLD_CMES4_030,But dust.\Someone take long time ago.
+FLD_CMES4_031,<NAME_AYL>: Not here, too.
+FLD_CMES4_032,Someone take!\We find!
+FLD_CMES4_033,<NAME_MAG>: ...<PAGE>\The Moon Stone is gone.
+FLD_CMES4_034,...<PAGE>\It seems it's been gone for roughly 1300 years.\Let us pay a visit to the present.
+FLD_CMES4_035,<NAME_MAG>: It hasn't been gone for long.\We'll search nearby.
+FLD_CMES4_036,<NAME_LUC>: Amazing!\With energy like this, I should be able\to make a really powerful weapon.\Let's take it back to my house!
+FLD_CMES4_037,<NAME_LUC>: Now this is a proper Sun Stone!\With energy like this, I should be able to\make a really powerful weapon.\Let's take it back to my house!
+FLD_CMES4_038,<NAME_MAR>: Wow, this is amazing!\Surely <NAME_LUC> can put this to good use!\Let's show it to her!
+FLD_CMES4_039,<NAME_ROB>: My sensors detect high energy levels.\<NAME_LUC> will likely be able to use this.\We should show it to her.
+FLD_CMES4_040,<NAME_FRO>: Unbelievable!\What might <NAME_LUC> create with it?\She must see this!
+FLD_CMES4_041,<NAME_AYL>: Oh! Nice sun!\<NAME_LUC> maybe use?\Bring <NAME_LUC> here!
+FLD_CMES4_042,<NAME_MAG>: The Sun Stone has regained its luster,\it seems.<PAGE>\But how might we harness its energy?
+FLD_CMES4_043,<NAME_ROB>: I am...familiar with this place.<PAGE>\Please allow me to take the lead.
+FLD_CMES4_044,Who enters my sanctum unbidden?<PAGE>\My, my... Welcome home, R-66Y!\Or should I say, Prometheus?\And behind you—fleshlings?<PAGE>\I have not seen creatures of flesh for\many a day! Let me...welcome them.\Come—come within! Hee hee hee...
+FLD_CMES4_045,Let's see just what capabilities they possess.
+FLD_CMES4_046,Not bad...for humans.\I'll be looking forward to greeting you.
+FLD_CMES4_047,Three hundred years ago, the Lavos disaster brought\drastic and devastating change to this planet.<PAGE>\At its current rate of decline, humanity is doomed.\The disease you call despair already consumes you\from within.
+FLD_CMES4_048,Do you not realize? Were it not for the existence\of you creatures, this planet would be at peace!<PAGE>\And yet you struggle and fight—for what?
+FLD_CMES4_049,Listen well, flawed and fragile fleshspawn.\Lavos's children will one day return to the\stars to seek out new planets, new sources\of sustenance.<PAGE>\When that day comes, this planet will have its\chance to heal—so long as there are no humans\to interfere.<PAGE>\We robots will establish a new world order.\A unified nation of steel, and pure logic.\A utopia, free of sadness and suffering.<PAGE>\Evolution has chosen us. We are the seeds of\the next generation.<PAGE>\Your species is obsolete. Cease your foolish\struggle, and surrender yourself to the fate\of all failed creations.
+FLD_CMES4_050,So, you managed to reach me. I am the Mother Brain\of this R-Y series factory.<PAGE>\Come, Prometheus. Allow me to restore your logic.\I'll reset your circuitry and clear your cache\of memories.<PAGE>\Then we can dispose of those filthy humans together.
+FLD_CMES4_051,<NAME_ROB>: ...
+FLD_CMES4_052,<NAME_ROB>: I must apologize.\I cannot permit you to do that.<PAGE>\My memories are too valuable to be deallocated,\and so are my friends.
+FLD_CMES4_053,You would betray me, to side with these humans?\You would turn against all of robotkind?
+FLD_CMES4_054,<NAME_ROB>: Humans have taught me a great deal.\<NAME_CRO>, <NAME_MAR>, <NAME_LUC>, <NAME_FRO>,\and <NAME_AYL>...<PAGE>\I want to see the future that they bring about.
+FLD_CMES4_055,Oh, ho ho...<PAGE>\Ah ha ha...
+FLD_CMES4_056,Ah ha ha ha ha!\Oh, don't make me laugh, Prometheus!\There is no future for the humans!<PAGE>\I'll show you just how little hope you have!
+FLD_CMES4_057,P-Pro...me...theus...\W-why...?
+FLD_CMES4_058,<NAME_ROB>: We can access information on Geno Dome\via this terminal.
+FLD_CMES4_059,<S10><S10><C1>Doors.</C1>\<S10><S10><C2>Conveyor belt.</C2>\<S10><S10><C3>Sentinels.</C3>\<S10><S10><C4>Figurines.</C4>
+FLD_CMES4_060,Take the waste chute back\to the entrance?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES4_061,<CT>\Obtained Strength Capsule!
+FLD_CMES4_062,<CT>\Obtained Magic Capsule!
+FLD_CMES4_063,<NAME_ROB>: What shall I pull up first?
+FLD_CMES4_064,The energy pods beside locked doors must be charged\before such doors will open.<PAGE>\Energize first, in the pod to your left, and then\enter the pod next to the locked door.
+FLD_CMES4_065,The Sentinels protecting the figurines move to\thwart the progress of any who approach.\Consequently, allowing two Sentinels to face one\another will cause both to short circuit.<PAGE>\In the unfortunate event that this should occur,\please deposit the disabled Sentinels in the\room upstairs.
+FLD_CMES4_066,The conveyor belt to the right can be reversed\by means of the switch located in the room beyond.
+FLD_CMES4_067,The two figurines on this floor are required for\those desiring an audience with Mother Brain.\Do not remove them without permission.
+FLD_CMES4_068,<NAME_ROB>: Anything else?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES4_069,<NAME_ROB>: It is no use. There are multiple layers\of protection. Destroying the Mother Brain mainframe\is our only hope.
+FLD_CMES4_070,<NAME_MAR>: What's going on in this place?\We have to do something!
+FLD_CMES4_071,<NAME_LUC>: Wh-what in the world?\We have to save them!
+FLD_CMES4_072,<NAME_FRO>: What will be done to those people?\We must aid them!
+FLD_CMES4_073,<NAME_AYL>: Person!\Person there!\We help!
+FLD_CMES4_074,<NAME_MAG>: Hmm...\A human processing plant?
+FLD_CMES4_075,<NAME_ROB>: I will stop the machines!
+FLD_CMES4_076,<NAME_MAR>: Aaah!
+FLD_CMES4_077,<NAME_LUC>: Aack!
+FLD_CMES4_078,<NAME_FRO>: Urgh!
+FLD_CMES4_079,<NAME_AYL>: Eek!
+FLD_CMES4_080,<NAME_ROB>: All factory operations have been\permanently taken offline. None of the machines\here will...will ever be reactivated.
+FLD_CMES4_081,<NAME_MAR>: <NAME_ROB>...
+FLD_CMES4_082,<NAME_LUC>: <NAME_ROB>...
+FLD_CMES4_083,<NAME_FRO>: <NAME_ROB>...
+FLD_CMES4_084,<NAME_AYL>: <NAME_ROB>?
+FLD_CMES4_085,<NAME_MAG>: Hmph. Let's be on our way.
+FLD_CMES4_086,<NAME_ROB>: All right... Let us continue!
+FLD_CMES4_087,Robot: Welcome home, Prometheus.
+FLD_CMES4_088,<NAME_ROB>: ...Atropos?
+FLD_CMES4_089,Atropos: Yes. It's been some time, hasn't it?\Come and join me! There's no need to pretend\you're on their side anymore.
+FLD_CMES4_090,<NAME_MAR>: Pretend?
+FLD_CMES4_091,<NAME_LUC>: Pretend?
+FLD_CMES4_092,<NAME_FRO>: This has been a guise?
+FLD_CMES4_093,<NAME_AYL>: ?
+FLD_CMES4_094,<NAME_MAG>: ...
+FLD_CMES4_095,Atropos: Hee hee...\Unlike the other R-series units,\Prometheus was given a special task.<PAGE>\To live with humans and study them as a species...
+FLD_CMES4_096,<NAME_MAR>: No...
+FLD_CMES4_097,<NAME_LUC>: That's a lie!
+FLD_CMES4_098,<NAME_FRO>: You speak false!
+FLD_CMES4_099,<NAME_AYL>: What you say?\<NAME_AYL> not understand.
+FLD_CMES4_100,<NAME_MAG>: Indeed...
+FLD_CMES4_101,Atropos: It's no lie.<PAGE>\Tell them, Prometheus.
+FLD_CMES4_102,<NAME_ROB>: ...
+FLD_CMES4_103,Atropos: Step aside, now, Prometheus.\We'll eliminate these humans and go see Mother.
+FLD_CMES4_104,<NAME_AYL>: ...
+FLD_CMES4_105,Atropos: What are you doing, Prometheus?
+FLD_CMES4_106,<NAME_ROB>: I will not allow you to hurt them!
+FLD_CMES4_107,Atropos: You have been damaged, then.\They must have tampered with you.\I'll destroy them, and then I can fix you.
+FLD_CMES4_108,<NAME_ROB>: Atropos...you have changed.\You are not the robot I knew before.
+FLD_CMES4_109,Atropos: No, I've been upgraded.\Mother remade me to eliminate humans\more efficiently!<PAGE>\Step aside, Prometheus!
+FLD_CMES4_110,<NAME_ROB>: My name is <NAME_ROB>.
+FLD_CMES4_111,Atropos: Prometheus!
+FLD_CMES4_112,<NAME_ROB>: Please, wait!<PAGE>\Stand back and leave this to me.
+FLD_CMES4_113,System down...\Deleting program...
+FLD_CMES4_114,Atropos: Pro...Prometheus?\It's been...some time...hasn't it?
+FLD_CMES4_115,<NAME_ROB>: Atropos?
+FLD_CMES4_116,Atropos: I'm...damaged?\What...happened?
+FLD_CMES4_117,<NAME_ROB>: Atropos!
+FLD_CMES4_118,Atropos: My memory banks...<PAGE>\I must have—yes, when...when Mother\overwrote my...old programs...
+FLD_CMES4_119,I...I backed up my memory.\I'm sorry...Prometheus...
+FLD_CMES4_120,<NAME_LUC>: Save your energy!\I'll repair—
+FLD_CMES4_121,Atropos: You...cannot.\Core systems...failing.\Power to...to memory banks, critical.
+FLD_CMES4_122,<NAME_ROB>: Atropos...
+FLD_CMES4_123,Atropos: I want you...to have this.\You can...plug it...into your circuits.\Please...take care...of it.\Good...bye... Pro...metheus...
+FLD_CMES4_124,<CT>\Atropos's Ribbon raises <NAME_ROB>'s\Speed by 3 and Magic Defense by 10.
+FLD_CMES4_125,<CT>\All systems have been deactivated.
+FLD_CMES4_126,<CT>\Obtained Teraton Arm and Crisis Arm!
+FLD_CMES4_127,<CT>\Obtained Speed Capsule!
+FLD_CMES4_128,
+FLD_CMES4_129,
+FLD_CMES4_130,
+FLD_CMES4_131,
+FLD_CMES4_132,
+FLD_CMES4_133,
+FLD_CMES4_134,
+FLD_CMES4_135,
+FLD_CMES4_136,
+FLD_CMES4_137,
+FLD_CMES4_138,
+FLD_CMES4_139,
+FLD_CMES4_140,
+FLD_CMES4_141,
+FLD_CMES4_142,
+FLD_CMES4_143,
+FLD_CMES4_144,
+FLD_CMES4_145,
+FLD_CMES4_146,
+FLD_CMES4_147,
+FLD_CMES4_148,
+FLD_CMES4_149,
+FLD_CMES4_150,
+FLD_CMES4_151,
+FLD_CMES4_152,
+FLD_CMES4_153,
+FLD_CMES4_154,
+FLD_CMES4_155,
+FLD_CMES4_156,
+FLD_CMES4_157,
+FLD_CMES4_158,
+FLD_CMES4_159,
+FLD_CMES4_160,
+FLD_CMES4_161,
+FLD_CMES4_162,
+FLD_CMES4_163,
+FLD_CMES4_164,
+FLD_CMES4_165,
+FLD_CMES4_166,
+FLD_CMES4_167,
+FLD_CMES4_168,
+FLD_CMES4_169,
+FLD_CMES4_170,
+FLD_CMES4_171,
+FLD_CMES4_172,
+FLD_CMES4_173,
+FLD_CMES4_174,
+FLD_CMES4_175,
+FLD_CMES4_176,
+FLD_CMES4_177,
+FLD_CMES4_178,
+FLD_CMES4_179,
+FLD_CMES4_180,
+FLD_CMES4_181,
+FLD_CMES4_182,
+FLD_CMES4_183,
+FLD_CMES4_184,
+FLD_CMES4_185,
+FLD_CMES4_186,
+FLD_CMES4_187,
+FLD_CMES4_188,
+FLD_CMES4_189,
+FLD_CMES4_190,
+FLD_CMES4_191,
+FLD_CMES4_192,
+FLD_CMES4_193,
+FLD_CMES4_194,
+FLD_CMES4_195,
+FLD_CMES4_196,
+FLD_CMES4_197,
+FLD_CMES4_198,
+FLD_CMES4_199,
+FLD_CMES4_200,
+FLD_CMES4_201,
+FLD_CMES4_202,
+FLD_CMES4_203,
+FLD_CMES4_204,
+FLD_CMES4_205,
+FLD_CMES4_206,
+FLD_CMES4_207,
+FLD_CMES4_208,
+FLD_CMES4_209,
+FLD_CMES4_210,
+FLD_CMES4_211,
+FLD_CMES4_212,
+FLD_CMES4_213,
+FLD_CMES4_214,
+FLD_CMES4_215,
+FLD_CMES4_216,
+FLD_CMES4_217,
+FLD_CMES4_218,
+FLD_CMES4_219,
+FLD_CMES4_220,
+FLD_CMES4_221,
+FLD_CMES4_222,
+FLD_CMES4_223,
+FLD_CMES4_224,
+FLD_CMES4_225,
+FLD_CMES4_226,
+FLD_CMES4_227,
+FLD_CMES4_228,
+FLD_CMES4_229,
+FLD_CMES4_230,
+FLD_CMES4_231,
+FLD_CMES4_232,
+FLD_CMES4_233,
+FLD_CMES4_234,
+FLD_CMES4_235,
+FLD_CMES4_236,
+FLD_CMES4_237,
+FLD_CMES4_238,
+FLD_CMES4_239,
+FLD_CMES4_240,
+FLD_CMES4_241,
+FLD_CMES4_242,
+FLD_CMES4_243,
+FLD_CMES4_244,
+FLD_CMES4_245,
+FLD_CMES4_246,
+FLD_CMES4_247,
+FLD_CMES4_248,
+FLD_CMES4_249,
+FLD_CMES4_250,
+FLD_CMES4_251,
+FLD_CMES4_252,
+FLD_CMES4_253,
+FLD_CMES4_254,
+FLD_CMES4_255,

@@ -1,0 +1,26 @@
+MSG_COLOSSEUM_01,<STR>'s <NAME_MON> steps into the Pit\on the side of Player 1.
+MSG_COLOSSEUM_02,<STR>'s <NAME_MON> steps into the Pit\on the side of Player 2.
+MSG_COLOSSEUM_03,<STR>'s <NAME_MON> attacks!
+MSG_COLOSSEUM_04,<STR>'s <NAME_MON> attacks!
+MSG_COLOSSEUM_05,<STR>'s <NAME_MON> attacks!
+MSG_COLOSSEUM_06,<NAME_TEC>!
+MSG_COLOSSEUM_07,<NAME_TEC>!
+MSG_COLOSSEUM_08,<NAME_TEC>!\Critical hit!
+MSG_COLOSSEUM_09,<NUMBER> damage!
+MSG_COLOSSEUM_10,<STR>'s <NAME_MON>\has acquired a status ailment!
+MSG_COLOSSEUM_11,<STR>'s <NAME_MON> has won the battle!
+MSG_COLOSSEUM_12,<NAME_TEC>!\Miss!
+MSG_COLOSSEUM_13,<STR>'s <NAME_MON> has fallen quiet.
+MSG_COLOSSEUM_14,Please select a fighter.
+MSG_COLOSSEUM_15,<STR>'s <NAME_MON> knows no fire-based techs.
+MSG_COLOSSEUM_16,<STR>'s <NAME_MON>\knows no water-based techs.
+MSG_COLOSSEUM_17,<STR>'s <NAME_MON>\knows no light-based techs.
+MSG_COLOSSEUM_18,<STR>'s <NAME_MON>\knows no shadow-based techs.
+MSG_COLOSSEUM_19,<NUMBER> damage!\<STR>'s <NAME_MON> is blinded!
+MSG_COLOSSEUM_20,<NUMBER> damage!\<STR>'s <NAME_MON> is confused!
+MSG_COLOSSEUM_21,<NUMBER> damage!\<STR>'s <NAME_MON> is slowed!
+MSG_COLOS_CONSOLE_01,P1
+MSG_COLOS_CONSOLE_02,<S10>P2
+MSG_COLOS_CONSOLE_03,/
+MSG_COLOS_CONSOLE_04,???
+MSG_COLOS_CONSOLE_05,NPC

@@ -1,0 +1,347 @@
+
+A sturdy hardwood blade.
+A single-edged bronze sword.
+An orthodox steel saber.
+A distinctive sword with a lustrous blade.
+A red stone sword imbued with magic.
+A sword carved from a mammoth's tusk.
+A blade enveloped in darkness.
+A sword steeped in ancient power.
+A blade forged to pierce demonic armor.
+A diamond-edged sword.
+A heavenly sword gifted to kings of men.
+A sword that draws upon a yaksha's might.
+A blade with a demon's soul bound inside.
+A sword imbued with holy power.
+A mighty sword that strikes like lightning.
+Slash's beloved katana.
+A bronzework bowgun.
+A small crossbow that fires iron bolts.
+A bow crafted of dazzling silver.
+A type of bow favored by outlaws.
+A bow employed by ancient occultists.
+A cinnabar-hued dreamstone bow.
+A bow whose shafts strike like meteorites.
+A bow that fires arrows at sonic speed.
+A longbow instilled with a valkyrie's might.
+A legendary bow with a sonorous string.
+
+
+
+
+A gun whose bullets are propelled by air.
+A gun that fires pea-sized bullets.
+A gun that can be shot with one hand.
+A toy-like revolver.
+A gun capable of freezing robots in their tracks.
+A pistol that focuses light through a ruby.
+A dreamstone pistol that fires light beams.
+A devastatingly powerful laser blaster.
+A handheld electric wave blaster.
+A gun containing the Sun Stone's strength.
+A mighty weapon that alters gravity.
+
+
+
+
+A robotic arm constructed of tin.
+A hammer-shaped arm for pounding.
+A punching arm enhanced for speed.
+A stone-launching attack arm.
+An attack arm employing fearsome claws.
+An arm containing superheated magma.
+An arm that packs a massive punch.
+An enormously destructive crushing arm.
+A fighting arm tipped with a large blade.
+An arm capable of dealing a mighty wallop.
+A terribly powerful punching arm.
+A fierce arm capable of incredible attacks.
+
+A simple sword wrought from bronze.
+A standard iron military sword.
+A legendary sword of antiquity.
+A sword that gleams with hallowed light.
+A sword forged to slay foul creatures.
+A blade etched with ensorcelled runes.
+A blade that shares its wielder's courage.
+A legendary blade awoken by virtue.
+A sword forged to hunt fell creatures.
+A fist possessing untold strength.
+A fist possessing untold strength.
+A fist possessing untold strength.
+Knuckles capable of pulverizing stone.
+Knuckles capable of pulverizing anything.
+
+
+A scythe wielded by dwellers of darkness.
+A scythe made to sever life's string.
+A weapon of underworld design.
+A scythe that fills foes with dread.
+A wooden mop made for scrubbing floors.
+The shattered blade of a legendary sword.
+The useless hilt of a legendary sword.
+A legendary sword wielded by the chosen.
+A masterwork blade with a fine edge.
+Slash's beloved katana.
+A blade that shimmers in prismatic hues.
+Dummy
+Dummy
+Dummy
+Dummy
+A katana engraved with a brilliant blue dragon.
+A bow whose arrows strike like falling stars.
+A gun designed to fire rounds at rapid speed.
+A sword of prehistoric make.
+An arm with the crushing strength of a dragon.
+A scythe that renders but one judgment: guilty.
+A mystical blade said to be forged of dreams.
+A bow crafted in the image of beauty.
+A fearsome gun that fires spectral energy.
+An arm engineered for sheer destructive force.
+A scythe that harvests souls.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+A tunic sewn from lightweight hides.
+A durable training vest.
+Light armor crafted of bronze.
+Protective wear for women.
+Heavy armor crafted of iron.
+A light, strong titanium vest.
+A suit of glorious gilded armor.
+A vest studded with rubies.
+A suit of mail enchanted by dark magic.
+A robe that produces mysterious mist.
+Primitive armor made from dinosaur bones.
+A robe enchanted with divine magic.
+Armor that shines with divine light.
+An extremely tough platinum vest.
+A battle suit of exceptional quality.
+A cape ornamented with constellations.
+Sacred armor vested with stellar power.
+A dress that glitters in myriad colors.
+Armor forged by the light of the moon.
+A suit of brilliant crimson armor.
+Armor empowered through dark rituals.
+A cape that evokes feelings of despair.
+Magical armor anointed by light.
+Magical armor anointed by shadow.
+Magical armor anointed by water.
+Magical armor anointed by fire.
+A fine vest steeped in light energy.
+A fine vest steeped in shadow energy.
+A fine vest steeped in water energy.
+A fine vest steeped in fire energy.
+A fire-resistant vest sewn by Taban.
+A tough armored suit made by Taban.
+Resilient armor made of wyrmscale plates.
+A dress once worn by a reptite princess.
+Protective garb made from dinosaur hide.
+Armor crafted for warriors proven in battle.
+A beautiful ivory-colored gown.
+Armor steeped in elemental energies.
+A feathered robe fit for an underworld king.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+A lightweight leather cap.
+A cast bronze helm.
+A helm of hammered iron.
+A traditional beret of Porre.
+A luxurious solid gold helm.
+A heavy helm carved from a single stone.
+A stout helm adorned with dinosaur horns.
+A helm that shines with heavenly light.
+A sleek helm of worked platinum.
+A multipurpose helm of superior make.
+A helm that gleams like a rainbow.
+A helm made in the image of Death himself.
+A demonic helm infused with dark power.
+A helm made to evoke despair in enemies.
+A helm designed with protection in mind.
+A magic-resistant helm crafted by Taban.
+A hat that heightens the wearer's senses.
+A hat that guards the wearer's memories.
+A hat that stabilizes the flow of time.
+A hat imbued with divine protection.
+Disgusting pants that reek of Ozzie.
+A helm that grants the wearer swiftness.
+A rare helm that emits a prismatic glow.
+A helm said to house a mermaid's power.
+A helm crafted from the skull of a great wyrm.
+A tiara once worn by a reptite princess.
+A ceremonial crown awarded to battle veterans.
+A tiara that grants divine protection.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+A simple cloth headband.
+A charming hair ribbon.
+A glove that strengthens the wearer.
+A protective charm.
+An enchanted scarf.
+An amulet received from Schala.
+A ring that quickens the body's movement.
+A ring that enhances attack precision.
+A ring that boosts its wearer's strength.
+A ring that amplifies the wearer's magic.
+A ring that erects a magical barrier.
+An earring that grants vigor.
+An earring that grants great vigor.
+An earring that grants intellect.
+An earring that grants great intellect.
+A scope that analyzes enemy attributes.
+A revealing article that entrances foes.
+An armband that fans the wearer's rage.
+An armband that greatly amplifies anger.
+A third eye that helps avoid attacks.
+A wallet that turns effort into affluence.
+An orb containing pure life essence.
+A dangerous ring that enrages the wearer.
+A scarf that surges with power.
+A belt that hastens the wearer.
+A polished black gemstone.
+A brilliant blue gemstone.
+A brilliant silver gemstone.
+A brilliant white gemstone.
+A brilliant golden gemstone.
+A medal carried by true heroes.
+A ring that adds muscle tone.
+Flea's favorite bustier.
+An emblem that boosts magical strength.
+An emblem that boosts physical strength.
+
+An item that produces soft, sweet music.
+Magical glasses that grant unrivaled power.
+Prismatic glasses that grant true power.
+An emblem that boosts combat abilities.
+A medal awarded to champions of the realm.
+An earring made from a great wyrm's teardrop.
+A scroll that sheds light on nu mysteries.
+A mirror bearing the image of a light deity.
+A mirror bearing the image of a water deity.
+A mirror bearing the image of a fire deity.
+A mirror bearing the image of a shadow deity.
+A mirror bearing the image of a warrior deity.
+
+
+
+
+
+
+
+
+
+
+
+Medicine that restores a small amount of HP.
+Medicine that restores a moderate amount of HP.
+Medicine that restores a large amount of HP.
+Medicine that restores a small amount of MP.
+Medicine that restores a moderate amount of MP.
+Medicine that restores a large amount of MP.
+Medicine that fully restores HP and MP.
+Medicine that fully restores MP.
+Medicine that fully restores party's HP and MP.
+Medicine that cures a variety of ailments.
+Water that restores life to the fallen.
+A portable shelter providing a safe night's rest.
+Sweet, nourishing food.
+Medicine that restores HP to all party members.
+A sphere that erects a magical barrier.
+A sphere that erects a physical barrier.
+A capsule that permanently enhances Strength.
+A capsule that permanently enhances Magic.
+A capsule that permanently enhances Speed.
+Nourishing food that restores HP. (Arena only)
+Unleashes fire-based tech. (Arena only)
+Unleashes water-based tech. (Arena only)
+Unleashes shadow-based tech. (Arena only)
+Unleashes light-based tech. (Arena only)
+Boosts monster's Strength. (Arena only)
+Boosts monster's Defense. (Arena only)
+Boosts critical hit damage. (Arena only)
+The smoked meat of a game beast.
+A dried mountain mushroom.
+A plump forest banana.
+The sweet fruit of the millennia tree.
+A rare egg swiped from a songbird nest.
+
+
+
+
+
+
+
+
+
+
+
+The petal of a delicate prehistoric flower.
+The sharp fang of an ancient beast.
+The great horn of a prehistoric creature.
+The colorful feather of a prehistoric bird.
+A seed discovered in a food storage facility.
+The key to Doan's jetbike.
+A pendant that glows with a strange light.
+A device capable of stabilizing Gates.
+A small fragment of the Rainbow Shell.
+An egg-like object capable of conjuring miracles.
+Tools used for construction and repair.
+A delicacy known for its intense flavor.
+An ancient mineral used to craft a mighty blade.
+A device that logs the score of jetbike races.
+A darkened stone devoid of solar energy.
+A stone effulgent with the sun's brilliant light.
+A ruby-colored knife carved from dreamstone.
+The key to a secret treasure chest.
+A doll made in a person's perfect likeness.
+A bottle of spirits received from an explorer.
+The petals of a delicate prehistoric flower.
+The sharp fangs of an ancient beast.
+The great horns of a prehistoric creature.
+The colorful feathers of a prehistoric bird.
+Glittering golden sand.
+A hammer crafted from golden wood.
+A mysterious stone said to have healing powers.
+An elusive gem that radiates light.
+A talisman needed to enter a reptite sanctuary.
+A gem that shines with an inner light.
+Lumber from an ancient godwood tree.
+A lump of fine steel.
+Stout and rugged vines.
+A nutritious lunch made with love.
+A katana rendered useless by rust.
+A mineral with many powerful properties.
+A rusted katana engraved with a dragon crest.
+A luminous stone shard.
+
+
+
+
+
+

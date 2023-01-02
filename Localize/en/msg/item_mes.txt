@@ -1,0 +1,347 @@
+
+
+
+
+
+Magic +2.
+
+
+
+Damage x1.5 to magical beings.
+
+
+
+
+Damage x4 for critical hits.
+
+Speed +2.
+
+
+
+
+
+
+
+May inflict Slow.
+
+May inflict Stop.
+
+
+
+
+
+
+
+
+May inflict Stop on robots.
+
+
+
+May inflict Confuse.
+Play time determines damage.
+May halve enemy's HP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last digit of own HP determines damage.
+
+
+
+
+
+Damage x1.5 to magical beings.
+Magic +4.
+
+
+Damage x2 to magical beings.
+
+
+
+May inflict Confuse.
+Critical hits deal 9999 damage.
+
+
+
+
+
+Attack power grows when allies are KO'd.
+
+
+
+
+Speed +3.
+
+70% critical hit rate.
+Dummy
+Dummy
+Dummy
+Dummy
+
+May inflict Confuse.
+Speed +3.
+Strength +5.
+
+May inflict Stop.
+90% critical hit rate.
+Guaranteed 777 damage.
+Last digit of own MP determines damage.
+May inflict 9999 damage.
+Damage x4 for critical hits.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+
+
+
+
+
+
+
+Halves fire damage.
+Magic Defense +5.
+
+
+Magic Defense +5.
+
+
+
+Magic Defense +10.
+Prevents all status ailments.
+Reduces magical damage by 1/3.
+Magic Defense +10.
+Reduces fire damage to 1/5.
+
+
+Absorbs light damage.
+Absorbs shadow damage.
+Absorbs water damage.
+Absorbs fire damage.
+Absorbs 50% of light damage.
+Absorbs 50% of shadow damage.
+Absorbs 50% of water damage.
+Absorbs 50% of fire damage.
+Speed +2, halves fire damage.
+Speed +3, halves fire damage.
+Strength +10.
+Magic +10.
+Speed +3, Strength +3.
+Stamina +10, Magic Defense +10.
+Reduces all damage by 1/3.
+Nullifies all elemental damage.
+Mag. Def. +20, reduces magical damage.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+
+
+
+
+
+
+
+
+
+
+Mag. Def. +9, prevents all status ailments.
+
+Halves shadow damage.
+Prevents all status ailments.
+Reduces physical damage by 1/3.
+Magic Defense +10.
+Prevents Confuse.
+Prevents Lock.
+Prevents Stop and Slow.
+Prevents all status ailments.
+???
+Halves time between turns.
+Halves light damage.
+Halves water damage.
+Strength +5.
+Magic +5.
+Boosts damage, prevents status ailments.
+Faster turns, prevents all status ailments.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Speed +1.
+Accuracy +2.
+Strength +2.
+Stamina +2.
+Magic +2.
+Prevents all status ailments.
+Speed +3.
+Accuracy +10.
+Strength +6.
+Magic +6.
+Magic Defense +10.
+Boosts Max HP by 25%.
+Boosts Max HP by 50%.
+Reduces MP consumption by 50%.
+Reduces MP consumption by 75%.
+Reveals HP of enemies.
+Boosts success rate of Charm.
+Grants 50% counter attack rate.
+Grants 80% counter attack rate.
+Doubles Evasion.
+Turns EXP into G.
+Automatically revives KO'd wearer once.
+Boosts Attack/Defense, cannot control wearer.
+Strength +4.
+Speed +2.
+Enables Eternal Darkness triple tech.
+Enables Omega Flare triple tech.
+Enables Spin Strike triple tech.
+Enables Poyozo Dance triple tech.
+Enables Master Mune triple tech.
+Boosts critical hit rate of Masamune.
+Stamina +6.
+Magic Defense +12.
+Magic +5, Magic Defense +5.
+Strength +10, Stamina +10.
+
+
+Boosts damage.
+Greatly boosts damage.
+Boosts critical hit rate, 50% counter rate.
+Enhances Masamune, halves MP costs.
+Boosts critical hit rate.
+May instantly reduce opponent's HP to 1.
+Counters non-light attacks 25% of the time.
+Counters non-water attacks 25% of the time.
+Counters non-fire attacks 25% of the time.
+Counters non-shadow attacks 25% of the time.
+Counters non-physical attacks 25% of the time.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Restores 50 HP.
+Restores 200 HP.
+Restores 500 HP.
+Restores 10 MP.
+Restores 30 MP.
+Restores 60 MP.
+Fully restores HP/MP.
+Fully restores MP.
+Fully restores entire party's HP/MP.
+Removes status ailments.
+Revives a KO'd ally.
+Fully restores HP/MP at a save point.
+Restores ???.
+Restores 200 HP to all party members.
+Reduces magical damage by 1/3.
+Reduces physical damage by 1/3.
+Permanently raises Strength by 1.
+Permanently raises Magic by 1.
+Permanently raises Speed by 1.
+Restores a small amount of HP.
+Unleashes fire-based monster tech.
+Unleashes water-based monster tech.
+Unleashes shadow-based monster tech.
+Unleashes light-based monster tech.
+Temporarily boosts Strength by 5.
+Reduces physical damage by 1/3.
+Boosts critical hit damage to 4x.
+Restores 250 HP.
+Removes status ailments.
+Restores 20 MP.
+Restores 150 HP.
+Restores 40 MP.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remembers bike race score.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

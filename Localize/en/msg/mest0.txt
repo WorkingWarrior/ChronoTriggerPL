@@ -1,0 +1,256 @@
+FLD_MEST0_000,<CT>\Obtained <NAME_ITM>!
+FLD_MEST0_001,<CT>\Obtained <NAME_ITM>!
+FLD_MEST0_002,<CT>\The pendant begins to glow.
+FLD_MEST0_003,<NAME_MAR>: Eek!
+FLD_MEST0_004,<NAME_LUC>: Oww...
+FLD_MEST0_005,<NAME_MAR>: There's no way the Chancellor can get\us here.
+FLD_MEST0_006,<NAME_MAR>: But, where are we?
+FLD_MEST0_007,<NAME_LUC>: The civilization here seems pretty\advanced.
+FLD_MEST0_008,<NAME_MAR>: It almost looks like we're in another world.
+FLD_MEST0_009,<CT>\A curious crest is engraved here,\and a mysterious force seals it shut.
+FLD_MEST0_010,If you're looking for food, you won't find any here.
+FLD_MEST0_011,It's strange. Looking at that thing makes me want to\keep on living.
+FLD_MEST0_012,Truce? Never heard of a dome by that name.\This is Trann Dome.
+FLD_MEST0_013,What's this?<PAGE>\A plant, you say?\What's a plant?
+FLD_MEST0_014,Kingdom? Chancellor?\Has the hunger driven you mad?
+FLD_MEST0_015,I've never seen a thing like this before.
+FLD_MEST0_016,There should still be some food at Arris Dome to\the northeast, if you can get through Site 16 alive.<PAGE>\The specters that haunt the place can't be harmed\by weapons, like guns or blades.
+FLD_MEST0_017,So, there are still people in Arris Dome, too!
+FLD_MEST0_018,This is an Enertron.\You get a full night's sleep in a few seconds,\but it won't do a thing for your hunger.
+FLD_MEST0_019,That thing edible?
+FLD_MEST0_020,*wheeze*... *pant*...<PAGE>\I made it through the ruins with a cutting from\the sapling that grew from that seed.<PAGE>\Amazing what you can do when you think you're\dead anyway.
+FLD_MEST0_021,Rest in the Enertron?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_022,<CT>\HP and MP restored!
+FLD_MEST0_023,<CT>\But you're still just as hungry as before.
+FLD_MEST0_024,Old Man: You there, where have you come from?
+FLD_MEST0_025,<NAME_LUC>: We just came from the other side of the\ruins to the west.
+FLD_MEST0_026,Old Man: Wh-what did you say?
+FLD_MEST0_027,Old Man: Hey, we've got people who crossed the ruins!
+FLD_MEST0_028,What?
+FLD_MEST0_029,Are you serious?
+FLD_MEST0_030,Old Man: So there are people strong enough to fight\those mutants...
+FLD_MEST0_031,Old Man: Pardon me, I didn't even tell you my name.\I'm Doan, a descendant of the former director of this\information center—in the days when it still was one.<PAGE>\This dome's substructure holds a supercomputer and\a food storage facility. But the robot guards are still\active and will not let us through.<PAGE>\Ironic, is it not?\We starve right atop our own stores of food.
+FLD_MEST0_032,Doan: You plan to go below?
+FLD_MEST0_033,<NAME_MAR>: Of course!
+FLD_MEST0_034,Doan: We've made many attempts ourselves,\but they've always met with failure.
+FLD_MEST0_035,<NAME_LUC>: Well, there's no way of knowing\what'll happen unless we try, right?
+FLD_MEST0_036,Doan: Hmm.<PAGE>\It's nice to see such spirited young people for a\change.
+FLD_MEST0_037,Doan: Careful, then.\And come back alive.
+FLD_MEST0_038,Doan: Oh, it's you!\Look! The seed's sprouted!
+FLD_MEST0_039,The door with the crest?\Push it, pull it, bash it—the thing won't budge.
+FLD_MEST0_040,Proto Dome and an old abandoned factory site lie to\the east. We can't get near them, though. The places\are filled with robots running berserk.
+FLD_MEST0_041,Since you've come, everyone seems to\have regained their will to survive.\It appears your energy is contagious.
+FLD_MEST0_042,You can reach the continent to the south through\the sewers, but I wouldn't advise it. That's where\Death Peak sits—the source of all this devastation.<PAGE>\And besides, even someone as strong as you would\never stand a chance against the mutants that live\down in those sewers.
+FLD_MEST0_043,There's an old man living in a dome he built near\Death Peak—said he wanted to monitor it.\Talk about crackpots!
+FLD_MEST0_044,There's something odd about you.\Did you really come from the dome to the west?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_045,All right...\Not that it really matters.
+FLD_MEST0_046,Huh? A rift in...time?\Well, I can't help you, but if you can get the\supercomputer in the substructure running, you\might be able to find some helpful information.
+FLD_MEST0_047,Thank you.\You've filled me with hope.
+FLD_MEST0_048,Wonder what kind of fruit that thing will bear.
+FLD_MEST0_049,Daddy's gonna be back with some food soon.
+FLD_MEST0_050,Mommy said Daddy's somewhere far away now.
+FLD_MEST0_051,My husband left for the food storage facility down\below.<PAGE>\We haven't seen him since.
+FLD_MEST0_052,Don't worry, I won't give up.\I have this child to raise, and that sapling.
+FLD_MEST0_053,Who are you?
+FLD_MEST0_054,Hey!\You're back!
+FLD_MEST0_055,Hey!\You're back!
+FLD_MEST0_056,<NAME_LUC>: This must be the supercomputer!
+FLD_MEST0_057,<NAME_LUC>: Good! It's still operational!\If we run a search on temporal distortions,\we might just find our Gate!
+FLD_MEST0_058,<NAME_LUC>: Got it!
+FLD_MEST0_059,<NAME_LUC>: East of here...
+FLD_MEST0_060,<NAME_LUC>: There!\Proto Dome!
+FLD_MEST0_061,<NAME_MAR>: Leave it to <NAME_LUC>!\Who'd have thought this machine could\tell us something like that?
+FLD_MEST0_062,<NAME_MAR>: Say, what does this button do?
+FLD_MEST0_063,<NAME_LUC>: 1999 A.D.?\Visual record of the Day of Lavos...
+FLD_MEST0_064,<NAME_MAR>: What...what was that?
+FLD_MEST0_065,<NAME_LUC>: Lavos...\Is that what destroyed the world?
+FLD_MEST0_066,<NAME_MAR>: Then, this really is our future?
+FLD_MEST0_067,<NAME_MAR>: No! It can't be!\I won't believe it!
+FLD_MEST0_068,<NAME_MAR>: This...
+FLD_MEST0_069,<NAME_MAR>: This can't be the way the world ends...
+FLD_MEST0_070,<NAME_LUC>: ...
+FLD_MEST0_071,<NAME_MAR>: <NAME_CRO>...
+FLD_MEST0_072,<NAME_MAR>: Hey, that's right! We can change it!\Change history, just like <NAME_CRO> did when he\saved me! We have to!
+FLD_MEST0_073,<NAME_MAR>: Right, <NAME_LUC>?
+FLD_MEST0_074,<NAME_MAR>: Right, <NAME_CRO>!?
+FLD_MEST0_075,<NAME_LUC>: Yeah, I guess so.
+FLD_MEST0_076,<NAME_LUC>: We can't just go back to our own\time and live knowing this is what the future\has in store.
+FLD_MEST0_077,<NAME_LUC>: And fortunately, we've got Gates\that will let us move through time.\
+FLD_MEST0_078,<NAME_LUC>: What do you say, <NAME_CRO>?\<S10><S10><C1>Okay, let's do it!</C1>\<S10><S10><C2>No way.</C2>
+FLD_MEST0_079,<NAME_LUC>: Come on, dummy!\Show <NAME_MAR> what you're made of!
+FLD_MEST0_080,<NAME_MAR>: All right, it's set!\<NAME_CRO>! <NAME_LUC>!\Let's do this!
+FLD_MEST0_081,<NAME_LUC>: First things first, let's get back to\our own time period and see if we can find any\information about this Lavos!
+FLD_MEST0_082,<NAME_LUC>: Next stop, Proto Dome!
+FLD_MEST0_083,Doan: You...you're back!
+FLD_MEST0_084,Doan: And?\What did you discover?
+FLD_MEST0_085,<NAME_MAR>: This is...our future!
+FLD_MEST0_086,Doan: Hmm?
+FLD_MEST0_087,Man: Who cares? Where's the food!?
+FLD_MEST0_088,<NAME_MAR>: This was the only thing left.
+FLD_MEST0_089,Doan: A seed...
+FLD_MEST0_090,<NAME_LUC>: You don't know how long that Enertron'll\hold out. That seed might be your only hope.
+FLD_MEST0_091,<NAME_MAR>: Anyway, just...stay alive!\Don't give up! We won't either!
+FLD_MEST0_092,Doan: Hmm...<PAGE>\You're a strange bunch.\You're...different from us, somehow.
+FLD_MEST0_093,<NAME_MAR>: You mean because we haven't lost hope?
+FLD_MEST0_094,Doan: Hope...\There's a word I haven't heard in some time.\It does have a comforting ring to it, though.<PAGE>\I don't know what kind of seed this is,\but I'll do my best to grow it.
+FLD_MEST0_095,Child: What's that?
+FLD_MEST0_096,Doan: This may be just the thing we needed.
+FLD_MEST0_097,Doan: You're off to Proto Dome, then?\You'll need to pass through Site 32.\Take this with you.
+FLD_MEST0_098,Doan: It's the key to a jetbike parked at the Site 32\ruins.<PAGE>\I used to ride it when I was young.\Hopefully it still works.
+FLD_MEST0_099,Doan: They've got even more powerful robots\in that dome, and they've overrun the place.\Take care, and...don't give up hope!
+FLD_MEST0_100,So my husband, he's...gone.<PAGE>\But he left me precious gifts.\That seed...and our child.
+FLD_MEST0_101,Why's Daddy taking so long?
+FLD_MEST0_102,<NAME_ROB>: Where are we?
+FLD_MEST0_103,Old Man: Ah, more drifters...
+FLD_MEST0_104,<NAME_MAR>: Where...where are we?
+FLD_MEST0_105,<NAME_LUC>: "Drifters"?\Where are we?
+FLD_MEST0_106,Old Man: It is not a question of where, my friends,\so much as when. This is the End of Time.<PAGE>\Travelers lost in time's flow turn up\here, much like driftwood on a beach.\Might I ask when you are from?
+FLD_MEST0_107,<NAME_LUC>: We're from 1000 A.D.
+FLD_MEST0_108,<NAME_ROB>: I come from the year 2300 A.D.
+FLD_MEST0_109,Old Man: When four or more entities of varying\origins enter a temporal rift together, the\torsion exerted on time's flow pushes them to\the point of least resistance: here.<PAGE>\There have been a number of folks turning up\here unintended recently like yourselves. I fear\something is having a powerful effect on the\very fabric of time.
+FLD_MEST0_110,<NAME_LUC>: Which means it would be safest if one of\us stayed here.
+FLD_MEST0_111,<NAME_MAR>: Here? Alone?
+FLD_MEST0_112,Old Man: It is a bleak place, isn't it?<PAGE>\But not to worry. For all its desolation,\it is well connected. There are roads here\to any time you could ever wish to visit.<PAGE>\Should you so desire, you can call upon your\friends at any time. But you can never travel\in groups of more than three.
+FLD_MEST0_113,<NAME_ROB>: One of us must remain.
+FLD_MEST0_114,<NAME_LUC>: Who'll it be, <NAME_CRO>?
+FLD_MEST0_115,<NAME_MAR>: Don't leave me here for long, <NAME_CRO>!
+FLD_MEST0_116,<NAME_LUC>: Don't you go getting any ideas because\it's just the two of us, mister!
+FLD_MEST0_117,<NAME_ROB>: I will be happy to assist you again\whenever you have the need.
+FLD_MEST0_118,Old Man: Should the need arise, you can place\a person left here in your party at any time.
+FLD_MEST0_119,Old Man: Well, that is the way of things.<PAGE>\Should you desire to switch party members, you\can do so via the main menu whenever you wish.
+FLD_MEST0_120,<NAME_MAR>: How do we get back to our own time?
+FLD_MEST0_121,Old Man: You saw the pillars of light when you\arrived, yes? Each connects this place to a\different era.<PAGE>\Once you've been through a Gate, you can use\it to return here whenever you wish.\Step back into the light and press <BTN_CONF> once\more, and you will return to the Gate.<PAGE>\But beware the Gate connected to that bucket.
+FLD_MEST0_122,Old Man: That Gate leads to 1999 A.D.,\the Day of Lavos...<PAGE>\If you wish to see the world destroyed before\your very eyes, then by all means, go.\But know that you yourselves may share the\same fate.
+FLD_MEST0_123,Old Man: Hey!
+FLD_MEST0_124,Old Man: You needn't be in such a rush.\Before you go, have a look past the door behind me.
+FLD_MEST0_125,<CT>\It is firmly sealed.
+FLD_MEST0_126,Old Man: Well, well... It seems I was right.\People who lived long ago all enjoyed such\powers, you know.<PAGE>\Yes, long, long ago...<PAGE>\Well, I know you must be eager to finish this\thing you seem so intent on doing, but why not\first pay a visit back to your own era?<PAGE>\Haste makes waste, as they say.\And you'll find that even truer here.<PAGE>\Come and see me whenever you have the need.\Think of me as your guide on time's road.
+FLD_MEST0_127,Old Man: Come and see me whenever you have the\need. Think of me as your guide on time's road.
+FLD_MEST0_128,Will you take <NAME_CRO>?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_129,<NAME_MAR>: Take me with you!\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_130,<NAME_MAR>: All right!
+FLD_MEST0_131,<NAME_MAR>: Aw, come on!
+FLD_MEST0_132,<NAME_LUC>: Don't you need my brain power?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_133,<NAME_LUC>: See!\You do need me!
+FLD_MEST0_134,<NAME_LUC>: Oh...
+FLD_MEST0_135,<NAME_ROB>: May I be of assistance?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_136,<NAME_ROB>: I am ready, <NAME_PT1>!
+FLD_MEST0_137,<NAME_ROB>: I shall await your next instruction, then.
+FLD_MEST0_138,<NAME_FRO>: You've returned!\Have you a need for my sword?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_139,<NAME_FRO>: Very well. Let us be on our way!
+FLD_MEST0_140,<NAME_FRO>: The unused blade goes to rust, you know.
+FLD_MEST0_141,<NAME_AYL>: <NAME_AYL> go.\Boring here.\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_142,<NAME_AYL>: <NAME_AYL> fight hard!\Too much no fight!
+FLD_MEST0_143,<NAME_AYL>: <NICK_CRO>, take <NAME_AYL>!
+FLD_MEST0_144,<NAME_AYL>: <NAME_PT1>, take <NAME_AYL>!
+FLD_MEST0_145,<NAME_MAG>: Are my powers required?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_146,<NAME_MAG>: Know that I will not hesitate to\take your life should you prove a hindrance.
+FLD_MEST0_147,<NAME_MAG>: Hmph. The weak comfort themselves\with delusions of their own grandeur.
+FLD_MEST0_148,Go to the Day of Lavos,\1999 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_149,Go to Proto Dome,\2300 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_150,Go to Medina Village,\1000 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_151,Go to the Mystic Mountains,\65,000,000 B.C.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_152,Go to Leene Square,\1000 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_153,Go to Truce Canyon,\600 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_154,Go to Guardia Forest,\1000 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_155,Go to Bangor Dome,\2300 A.D.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_156,Go to the Tyranno Lair ruins,\65,000,000 B.C.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_157,Go to the Earthbound Isle,\12,000 B.C.?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_158,<S10><S10><C1>Take off.</C1>\<S10><S10><C2>Get off.</C2>
+FLD_MEST0_159,<NAME_MAR>: Let's go!
+FLD_MEST0_160,<NAME_LUC>: Come on, <NAME_SIL>!
+FLD_MEST0_161,<NAME_ROB>: <NAME_SIL> engines engaged!
+FLD_MEST0_162,<NAME_FRO>: Away, <NAME_SIL>!
+FLD_MEST0_163,<NAME_AYL>: <NAME_SIL>, go!
+FLD_MEST0_164,<NAME_MAG>: We go.
+FLD_MEST0_165,Board the <NAME_SIL>?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_166,Got any cash?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_167,This stuff real?\Never seen money like this before...\Oh well, I have some good stuff for ya.
+FLD_MEST0_168,Then I got nothing for you.
+FLD_MEST0_169,If I just keep saving up money, someday it'll come\in handy. That's what I tell myself, anyway.
+FLD_MEST0_170,Do you have money?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST0_171,You sure this stuff is money?\Well, here's what I have.
+FLD_MEST0_172,Then I can't sell you anything!
+FLD_MEST0_173,If I just keep saving up money, someday it'll come in\handy.<PAGE>\That's what that guy who left to cross the ruins used\to say.
+FLD_MEST0_174,Old Man: Oh, where's that sprightly young man?
+FLD_MEST0_175,Old Man: ...<PAGE>\I see. How terrible...<PAGE>\There's little I can do for you, but let me honor him\with a song.<PAGE>\I'll call it..."Memories of <NAME_CRO>."
+FLD_MEST0_176,Old Man: Were there anything more I could do,\I would, but I fear I can be of little aid.
+FLD_MEST0_177,<NAME_MAR>: We're looking for the Guru of Time.
+FLD_MEST0_178,<NAME_MAG>: Only the Guru of Time can help us now.
+FLD_MEST0_179,<NAME_AYL>: <NAME_AYL> need Time Guru.\Want meet. Search!
+FLD_MEST0_180,<NAME_ROB>: We are looking for an individual\known as the Guru of Time.
+FLD_MEST0_181,Old Man: That face...\Have I not seen you before?
+FLD_MEST0_182,Old Man: Ah, indeed...\You've grown strong.\Tainted of soul, to be sure,\but formidable all the same.
+FLD_MEST0_183,<NAME_MAG>: Hmm?
+FLD_MEST0_184,Old Man: The Guru of Time, you say?<PAGE>\I know of him.\But what business have you with the Guru of Time?
+FLD_MEST0_185,<NAME_MAR>: We heard he knows a way to bring\<NAME_CRO> back.
+FLD_MEST0_186,<NAME_FRO>: We've heard he may know a way\to restore life to our fallen friend.\The truth of it I do not know.\
+FLD_MEST0_187,<NAME_AYL>: Time Guru bring back <NICK_CRO>!\He strong.
+FLD_MEST0_188,<NAME_LUC>: We think he can tell us a way to\bring <NAME_CRO> back to life.
+FLD_MEST0_189,Old Man: Ah, yes...to break death's hold over one you\hold dearer still. You are not the first to wish such\a thing, nor will you be the last.<PAGE>\<NAME_CRO> must be happy indeed, knowing such dear\friends as you.
+FLD_MEST0_190,Old Man: Here.\Take this with you.
+FLD_MEST0_191,<NAME_AYL>: Egg!\<NAME_AYL> eat!\Okay eat?
+FLD_MEST0_192,<NAME_FRO>: What is this?\The egg of some beast?
+FLD_MEST0_193,<NAME_ROB>: This is...an egg, is it not?
+FLD_MEST0_194,<NAME_LUC>: An...egg?
+FLD_MEST0_195,Old Man: That is the Chrono Trigger—a Time Egg.\Should you wish to try and hatch it, the one who\crafted your Wings of Time can tell you the way.<PAGE>\But know that it may not necessarily hatch the\results which you desire.<PAGE>\The Chrono Trigger represents potential.\Results require action.<PAGE>\As long as you keep <NAME_CRO> in your heart and\pursue what you seek, the results should follow.\But I can make no guarantees.
+FLD_MEST0_196,<NAME_MAG>: I see it now.\It's you, isn't it?
+FLD_MEST0_197,<NAME_MAR>: Wait, then...<PAGE>\Does that mean you're Gaspar?\The Guru of Time?
+FLD_MEST0_198,<NAME_LUC>: It's you, isn't it?<PAGE>\You're Gaspar, the Guru of Time!
+FLD_MEST0_199,<NAME_ROB>: I have arrived at a hypothesis.<PAGE>\Sir, are you Gaspar, the Guru of Time?
+FLD_MEST0_200,<NAME_FRO>: Then...<PAGE>\Then, you are Gaspar, the Guru of Time!
+FLD_MEST0_201,Old Man: Ah ha ha...<PAGE>\Yes, I believe that is what they used to call me.<PAGE>\But that was long, long ago.
+FLD_MEST0_202,<NAME_LUC>: This console controls the door lock.\We need a password to get through.
+FLD_MEST0_203,<NAME_MAR>: Let's go!\Let's go get <NAME_CRO>!
+FLD_MEST0_204,<NAME_LUC>: ...<PAGE>\I mean, he was always a pain, but now that he's gone...<PAGE>\Don't...don't go getting any crazy ideas, now!\I just thought of him like...like a brother!<PAGE>\...
+FLD_MEST0_205,<NAME_ROB>: <NAME_CRO>'s absence seems to\adversely affect everyone's mood.
+FLD_MEST0_206,<NAME_FRO>: That fool...<PAGE>\No man so young should have to die.
+FLD_MEST0_207,<NAME_AYL>: <NICK_CRO> strong!\<NICK_CRO> no die! No true!\<NAME_AYL> find <NICK_CRO>!
+FLD_MEST0_208,<NAME_MAG>: That boy's existence is of no consequence.<PAGE>\My attention is focused elsewhere.
+FLD_MEST0_209,<NAME_MAR>: I can't believe it!\I'm so happy!
+FLD_MEST0_210,<NAME_LUC>: Don't you dare put us through that again!
+FLD_MEST0_211,<NAME_ROB>: Everyone appears to be in a more\cheerful state when <NAME_CRO> is here!
+FLD_MEST0_212,<NAME_FRO>: Hah! Look at you—ladies weeping over you\left and right!
+FLD_MEST0_213,<NAME_AYL>: <NICK_CRO>!\<NICK_CRO>!\<NICK_CRO>!
+FLD_MEST0_214,<NAME_MAG>: ...<PAGE>\Your death was owed to weakness.
+FLD_MEST0_215,Old Man: So, all went well...<PAGE>\No, don't thank me.\I merely placed a piece upon the board.\It was not my hand that moved it.<PAGE>\If you would thank someone, thank the ones who\cared enough to see their friend returned to them.<PAGE>\By the way, the Wings of Time have come looking\for you. They seem to have a heart and mind all\their own.
+FLD_MEST0_216,Old Man: You wish to fight Lavos, correct?<PAGE>\Many paths lie before you.\You might choose to leap into that bucket,\or fly the Wings of Time to the Day of Lavos.<PAGE>\Or there is the Black Omen, which now straddles\time, seeking to summon Lavos yet again.\Such folly! Lusting so greedily after power\that the power wields you...<PAGE>\It is up to you to decide when and where you\will face Lavos. However, do not think that\you stand alone.<PAGE>\I have had glimpses, albeit vague, of events,\people, and places that will empower you.
+FLD_MEST0_217,A forest brought back to life by the sheer\determination of a woman in the Middle Ages...
+FLD_MEST0_218,The fortress of one of <NAME_MAG>'s three former\generals in the Middle Ages...
+FLD_MEST0_219,A task to be done in the future, in a birthplace\of machines...
+FLD_MEST0_220,A prehistoric stone that will shine with the\light of all the ages of the world...
+FLD_MEST0_221,The restless spirit of a proud knight,\slain by <NAME_MAG> in the Middle Ages,\and lingering even in the present...
+FLD_MEST0_222,An object of legend in the Middle Ages that\sparkles like a rainbow...
+FLD_MEST0_223,Old Man: Speak to your companions.\Some among you may well know the figures\behind the events which I have seen.<PAGE>\Borrow the might of all these lives throughout\the ages. Let their strength become your own!\For only then can you hope to defeat the\enemy you face.<PAGE>\Such is the power required, should you wish to\change the future.<PAGE>\I will remain here, and bear witness to the world's fate.
+FLD_MEST0_224,Old Man: The Black Omen is gone, and that\woman's tortured soul is finally at rest.\She has regained her humanity at last.<PAGE>\Now is the time for you to enter the Gate\contained within that bucket!<PAGE>\You fight not only for yourselves, but for\all that lives and breathes in this world.<PAGE>\This is a battle between Lavos and the very\planet itself!
+FLD_MEST0_225,Old Man: Ah!\You've been to the Magic Kingdom.<PAGE>\With that pillar of light sealed, you'll be needing\to find a way to move through time more freely\should you wish to return.<PAGE>\I recall someone working on such a device.\The Wings of Time, I believe he called it.\Though, sadly, I fear the man's mind left him\in the course of those long years of research.
+FLD_MEST0_226,Old Man: Interesting.\So he actually completed his Wings of Time.<PAGE>\And at the cost of his own life, no less.<PAGE>\Why not put those Wings to good use, and pay\a visit to the ancient Magic Kingdom?
+FLD_MEST0_227,Old Man: Dreamstone?<PAGE>\Yes, I remember that word.\It's an incredibly ancient mineral, if I recall.<PAGE>\Have you considered searching for some in the\prehistoric era?
+FLD_MEST0_228,Old Man: Ah, dreamstone.\I'd forgotten how beautifully it shone.<PAGE>\There is a man who knows the secret to working\that stone. He resides near Medina, a village\of fiends.
+FLD_MEST0_229,Old Man: What luster!\Is that the Masamune?<PAGE>\In the Middle Ages, there is one who is\fated to slay <NAME_MAG> with that blade.\Can none among you wield it?
+FLD_MEST0_230,Old Man: What a peculiar new guest!\You are from the Middle Ages, yes?
+FLD_MEST0_231,Gaspar: What...what is this place?
+FLD_MEST0_232,Hello?
+FLD_MEST0_233,There's no one here.<PAGE>\Is this...the End of Time?
+FLD_MEST0_234,<NAME_MAG>: My generals...<PAGE>\So, they still live.<PAGE>\Ozzie did maintain a fortress in the style of\my own keep. I wonder...
+FLD_MEST0_235,<NAME_MAR>: Father...<PAGE>\I wonder how you're doing now.
+FLD_MEST0_236,<NAME_ROB>: A birthplace of machines...<PAGE>\Do I have a hometown, too?
+FLD_MEST0_237,<NAME_FRO>: The spirit of a proud knight...<PAGE>\Could it be?
+FLD_MEST0_238,<NAME_AYL>: Fight Lavos!\Strong armor, <NAME_AYL> village have!\Go see!
+FLD_MEST0_239,<NAME_LUC>: Solar energy was used aeons ago,\long before Lavos was discovered as a source\of power.<PAGE>\It might be just the thing we need to combat him.
+FLD_MEST0_240,Old Man: Have you, by chance, observed any odd\distortions in time's fabric in recent days?
+FLD_MEST0_241,<NAME_MAG>: You speak of the dimensional vortices, no?\One appears to have arisen in every age.
+FLD_MEST0_242,<NAME_ROB>: Yes, we have.\Dimensional vortices connecting to a place with\a civilization entirely different from our own.
+FLD_MEST0_243,<NAME_LUC>: Oh, you mean the dimensional vortices?\Yes, we went inside. It was like an entirely\different world in there.
+FLD_MEST0_244,<NAME_FRO>: Yes, we've seen sights most peculiar.\No matter where we go, a strange dimensional\distortion now lies within our own world.
+FLD_MEST0_245,<NAME_MAR>: Oh, yeah! I think we've been there.\It was strange—different from our world.
+FLD_MEST0_246,Old Man: Indeed...\Then it is as I thought.
+FLD_MEST0_247,<NAME_AYL>: What you mean?
+FLD_MEST0_248,<NAME_MAR>: Has something happened?
+FLD_MEST0_249,<NAME_FRO>: Is something the matter?
+FLD_MEST0_250,<NAME_LUC>: Is something wrong?
+FLD_MEST0_251,<NAME_ROB>: What has happened?
+FLD_MEST0_252,Old Man: As it were, the bucket here has seemed a\bit...different as of late. It's still connected to the\Day of Lavos, of course, but...there's more.<PAGE>\A great power flows into it from some distant plane,\far beyond even the darkened borders of Time's\Eclipse.<PAGE>\It's a power similar to that of Lavos, but not entirely\the same—a fearsome presence, to be sure. And yet\I sense longing and loneliness there as well.<PAGE>\It may well be another terrible foe awaits you in\that place. If you have a mind to face it, by all\means go—but I cannot say I recommend it.
+FLD_MEST0_253,Old Man: I will remain here, and bear witness to the\world's fate.
+FLD_MEST0_254,Where will you go?\<S10><S10><C1>The Day of Lavos, 1999 A.D.</C1>\<S10><S10><C2>Time's Eclipse.</C2>\<S10><S10><C3>Remain here.</C3>
+FLD_MEST0_255,Go to the Arena of the Ages,\beyond the flow of time?\　　<C1>Yes.</C1>\　　<C2>No.</C2>

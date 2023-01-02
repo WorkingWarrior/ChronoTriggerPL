@@ -1,0 +1,8 @@
+Screen Size
+The screen size has been changed.\\The game will now close.\\Please reboot the game.
+Full Screen
+%dx%d [%d:%d]
+Quit
+Exit?
+*You can adjust the screen size from the menu on the title screen.
+*You can adjust the screen size from the menu on the title screen.

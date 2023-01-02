@@ -1,0 +1,260 @@
+MSG_EX_MON_01,Gato
+MSG_EX_MON_02,Amanita
+MSG_EX_MON_03,Scarab
+MSG_EX_MON_04,Gilded Bellbird
+MSG_EX_MON_05,Royal Guard
+MSG_EX_MON_06,Sentry
+MSG_EX_MON_07,Gaoler
+MSG_EX_MON_08,Lancer
+MSG_EX_MON_09,Cave Stalker
+MSG_EX_MON_10,Djinn Bottle
+MSG_EX_MON_11,Rhino Weevil
+MSG_EX_MON_12,Boundillo
+MSG_EX_MON_13,Cave Bat
+MSG_EX_MON_14,Cyrus
+MSG_EX_MON_15,Blue Imp
+MSG_EX_MON_16,Green Imp
+MSG_EX_MON_17,Roundillo
+MSG_EX_MON_18,Fiendillo
+MSG_EX_MON_19,Imp Hawk
+MSG_EX_MON_20,Roundillo Rider
+MSG_EX_MON_21,Blue Eaglet
+MSG_EX_MON_22,Naga
+MSG_EX_MON_23,Viper
+MSG_EX_MON_24,Diablo
+MSG_EX_MON_25,Underling (Blue)
+MSG_EX_MON_26,Mad Bat
+MSG_EX_MON_27,Skeleton
+MSG_EX_MON_28,Ogan
+MSG_EX_MON_29,Ogan (Hammer)
+MSG_EX_MON_30,Bellbird
+MSG_EX_MON_31,Freelancer
+MSG_EX_MON_32,Edible Frog
+MSG_EX_MON_33,Fangtooth
+MSG_EX_MON_34,Grimling
+MSG_EX_MON_35,Vampire Bat
+MSG_EX_MON_36,Underling (Purple)
+MSG_EX_MON_37,Servant (Sword)
+MSG_EX_MON_38,Servant (Crossbow)
+MSG_EX_MON_39,Blue Gargoyle
+MSG_EX_MON_40,Save Point
+MSG_EX_MON_41,Sorcerer
+MSG_EX_MON_42,Outlaw
+MSG_EX_MON_43,Roundillo Bomber
+MSG_EX_MON_44,Juggler
+MSG_EX_MON_45,Ghost Knight
+MSG_EX_MON_46,Flesh Reaper
+MSG_EX_MON_47,Fallen
+MSG_EX_MON_48,Soul
+MSG_EX_MON_49,Fallen + Soul
+MSG_EX_MON_50,Sandrago
+MSG_EX_MON_51,Vilepillar
+MSG_EX_MON_52,Aecytosaur
+MSG_EX_MON_53,Aecytonyx
+MSG_EX_MON_54,Lizardactyl
+MSG_EX_MON_55,Fossil Ape
+MSG_EX_MON_56,Ruin Stalker
+MSG_EX_MON_57,Floral Horror
+MSG_EX_MON_58,Crater
+MSG_EX_MON_59,Shadow
+MSG_EX_MON_60,Mutant
+MSG_EX_MON_61,Rat
+MSG_EX_MON_62,Exterminator
+MSG_EX_MON_63,Bug
+MSG_EX_MON_64,Version 2.0
+MSG_EX_MON_65,Dondrago
+MSG_EX_MON_66,Egg Ooze
+MSG_EX_MON_67,Deverminator
+MSG_EX_MON_68,Version 3.0
+MSG_EX_MON_69,Acid
+MSG_EX_MON_70,Alkali
+MSG_EX_MON_71,Blood Yolk
+MSG_EX_MON_72,Macabre
+MSG_EX_MON_73,Deverminator EX
+MSG_EX_MON_74,Version 4.0
+MSG_EX_MON_75,Laser Guard
+MSG_EX_MON_76,Reptite (Green)
+MSG_EX_MON_77,Kilwala
+MSG_EX_MON_78,Crested Sprinter
+MSG_EX_MON_79,Prehistoric Frog
+MSG_EX_MON_80,Ion Cloud
+MSG_EX_MON_81,Golden Eaglet
+MSG_EX_MON_82,Red Eaglet
+MSG_EX_MON_83,Bao Bao
+MSG_EX_MON_84,Aecyto Weevil
+MSG_EX_MON_85,Megasaur
+MSG_EX_MON_86,Mossback
+MSG_EX_MON_87,Rafflesia
+MSG_EX_MON_88,Cave Ape
+MSG_EX_MON_89,Avian Rex
+MSG_EX_MON_90,Schist
+MSG_EX_MON_91,Terasaur
+MSG_EX_MON_92,Volcanite
+MSG_EX_MON_93,Reptite (Purple)
+MSG_EX_MON_94,Mudbeast
+MSG_EX_MON_95,Rubble
+MSG_EX_MON_96,Bomber Bird
+MSG_EX_MON_97,Stone Imp
+MSG_EX_MON_98,Gargoyle
+MSG_EX_MON_99,Death Lily
+MSG_EX_MON_100,Djinn
+MSG_EX_MON_101,Ghul
+MSG_EX_MON_102,Zealot Mage
+MSG_EX_MON_103,Scouter
+MSG_EX_MON_104,Red Scouter
+MSG_EX_MON_105,Blue Scouter
+MSG_EX_MON_106,Monk
+MSG_EX_MON_107,Warrior
+MSG_EX_MON_108,Daltonite
+MSG_EX_MON_109,Byte
+MSG_EX_MON_110,Turret
+MSG_EX_MON_111,Shieldsman
+MSG_EX_MON_112,Martello
+MSG_EX_MON_113,Fangbeast
+MSG_EX_MON_114,Synchrite
+MSG_EX_MON_115,Panel
+MSG_EX_MON_116,Watcher
+MSG_EX_MON_117,Nomad
+MSG_EX_MON_118,Metal Mutant
+MSG_EX_MON_119,Flyclops
+MSG_EX_MON_120,Cybot
+MSG_EX_MON_121,Hydraconda
+MSG_EX_MON_122,Blubber Hulk
+MSG_EX_MON_123,Narble
+MSG_EX_MON_124,Ghaj
+MSG_EX_MON_125,Nu
+MSG_EX_MON_126,Spekkio
+MSG_EX_MON_127,Spekkio
+MSG_EX_MON_128,Spekkio
+MSG_EX_MON_129,Spekkio
+MSG_EX_MON_130,Spekkio
+MSG_EX_MON_131,Spekkio
+MSG_EX_MON_132,Exile
+MSG_EX_MON_133,Slate Imp
+MSG_EX_MON_134,Pink Imp
+MSG_EX_MON_135,Wonder Rock
+MSG_EX_MON_136,Deathcreeper
+MSG_EX_MON_137,Jackpot
+MSG_EX_MON_138,Ogan Chieftain
+MSG_EX_MON_139,Ogan Youth
+MSG_EX_MON_140,Ogan Youth (Hammer)
+MSG_EX_MON_141,Kingfrog
+MSG_EX_MON_142,Dire Rat
+MSG_EX_MON_143,Black Bat
+MSG_EX_MON_144,Chrysosaur
+MSG_EX_MON_145,Pterranyx
+MSG_EX_MON_146,Twin Snake
+MSG_EX_MON_147,Hercules Beetle
+MSG_EX_MON_148,Jadewing
+MSG_EX_MON_149,Deathguard
+MSG_EX_MON_150,Bone Knight
+MSG_EX_MON_151,Soul Stalker
+MSG_EX_MON_152,Chaos Mage
+MSG_EX_MON_153,Snowbeast
+MSG_EX_MON_154,Red Ghaj
+MSG_EX_MON_155,Fireball
+MSG_EX_MON_156,Prototype
+MSG_EX_MON_157,Searcher
+MSG_EX_MON_158,Iron Maiden
+MSG_EX_MON_159,
+MSG_EX_MON_160,
+MSG_EX_BOSS_01,Yakra
+MSG_EX_BOSS_02,Dragon Tank (Head)
+MSG_EX_BOSS_03,Dragon Tank (Wheel)
+MSG_EX_BOSS_04,Dragon Tank (Body)
+MSG_EX_BOSS_05,Guardian
+MSG_EX_BOSS_06,Pod
+MSG_EX_BOSS_07,Krawlie
+MSG_EX_BOSS_08,R-Series
+MSG_EX_BOSS_09,Heckran
+MSG_EX_BOSS_10,Ozzie
+MSG_EX_BOSS_11,Zombor (Upper Body)
+MSG_EX_BOSS_12,Zombor (Lower Body)
+MSG_EX_BOSS_13,Masa
+MSG_EX_BOSS_14,Mune
+MSG_EX_BOSS_15,Masa & Mune
+MSG_EX_BOSS_16,Nizbel
+MSG_EX_BOSS_17,Flea?
+MSG_EX_BOSS_18,Flea
+MSG_EX_BOSS_19,Slash (Unarmed)
+MSG_EX_BOSS_20,Slash (Sword)
+MSG_EX_BOSS_21,Ozzie
+MSG_EX_BOSS_22,<NAME_MAG>
+MSG_EX_BOSS_23,Nizbel II
+MSG_EX_BOSS_24,Azala
+MSG_EX_BOSS_25,Black Tyranno
+MSG_EX_BOSS_26,Golem
+MSG_EX_BOSS_27,Mud Imp
+MSG_EX_BOSS_28,Blue Mudbeast
+MSG_EX_BOSS_29,Red Mudbeast
+MSG_EX_BOSS_30,Giga Gaia
+MSG_EX_BOSS_31,Defense Arm
+MSG_EX_BOSS_32,Attack Arm
+MSG_EX_BOSS_33,Dalton
+MSG_EX_BOSS_34,Lavos
+MSG_EX_BOSS_35,Golem Overlord
+MSG_EX_BOSS_36,King Dalton
+MSG_EX_BOSS_37,<NAME_MAG>
+MSG_EX_BOSS_38,Lavos Spawn (Mouth)
+MSG_EX_BOSS_39,Lavos Spawn (Shell)
+MSG_EX_BOSS_40,Melphyx (Upper Body)
+MSG_EX_BOSS_41,Melphyx (Lower Body)
+MSG_EX_BOSS_42,Melphyx (Core)
+MSG_EX_BOSS_43,Diva Flea
+MSG_EX_BOSS_44,Super Slash
+MSG_EX_BOSS_45,Diva Flea
+MSG_EX_BOSS_46,Super Slash
+MSG_EX_BOSS_47,Ozzie the Great
+MSG_EX_BOSS_48,Atropos XR
+MSG_EX_BOSS_49,Mother Brain
+MSG_EX_BOSS_50,Display
+MSG_EX_BOSS_51,Son of the Sun
+MSG_EX_BOSS_52,Prominence
+MSG_EX_BOSS_53,Rust Tyranno
+MSG_EX_BOSS_54,Yakra XIII
+MSG_EX_BOSS_55,Mega Mutant (Upper Body)
+MSG_EX_BOSS_56,Mega Mutant (Lower Body)
+MSG_EX_BOSS_57,Giga Mutant (Upper Body)
+MSG_EX_BOSS_58,Giga Mutant (Lower Body)
+MSG_EX_BOSS_59,Tera Mutant (Upper Body)
+MSG_EX_BOSS_60,Tera Mutant (Lower Body)
+MSG_EX_BOSS_61,Elder Lavos Spawn (Mouth)
+MSG_EX_BOSS_62,Elder Lavos Spawn (Shell)
+MSG_EX_BOSS_63,Queen Zeal
+MSG_EX_BOSS_64,Mammon Machine
+MSG_EX_BOSS_65,Queen Zeal (Face)
+MSG_EX_BOSS_66,Queen Zeal (Right Hand)
+MSG_EX_BOSS_67,Queen Zeal (Left Hand)
+MSG_EX_BOSS_68,Lavos
+MSG_EX_BOSS_69,Lavos
+MSG_EX_BOSS_70,Lavos (Body)
+MSG_EX_BOSS_71,Lavos (Left Hand)
+MSG_EX_BOSS_72,Lavos (Right Hand)
+MSG_EX_BOSS_73,Lavos Pod
+MSG_EX_BOSS_74,Center Pod
+MSG_EX_BOSS_75,Lavos Core
+MSG_EX_BOSS_76,Goldhammer
+MSG_EX_BOSS_77,Nu Guardian
+MSG_EX_BOSS_78,Nu Master
+MSG_EX_BOSS_79,Archaeofang (Elder)
+MSG_EX_BOSS_80,Archaeofang (Younger)
+MSG_EX_BOSS_81,Master-at-Arms
+MSG_EX_BOSS_82,Bladesman
+MSG_EX_BOSS_83,Once-King Dalton 
+MSG_EX_BOSS_84,Steel Shade
+MSG_EX_BOSS_85,Alabaster Shade
+MSG_EX_BOSS_86,Crimson Shade
+MSG_EX_BOSS_87,Eggsterminator
+MSG_EX_BOSS_88,Dream Devourer
+MSG_EX_BOSS_89,
+MSG_EX_BOSS_90,
+MSG_EX_BOSS_91,
+MSG_EX_BOSS_92,
+MSG_EX_BOSS_93,
+MSG_EX_BOSS_94,
+MSG_EX_BOSS_95,
+MSG_EX_BOSS_96,
+MSG_EX_BOSS_97,
+MSG_EX_BOSS_98,
+MSG_EX_BOSS_99,
+MSG_EX_BOSS_100,

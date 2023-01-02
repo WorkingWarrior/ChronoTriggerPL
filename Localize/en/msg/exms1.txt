@@ -1,0 +1,296 @@
+FLD_EXMS1_000,<CT>\Obtained <NAME_ITM>!
+FLD_EXMS1_001,<NAME_LUC>: It looks like everyone's all right.
+FLD_EXMS1_002,<NAME_ROB>: Where are we?\My memory banks contain no data on this location.
+FLD_EXMS1_003,<NAME_AYL>: <NAME_AYL> smell something.\Maybe animal here!
+FLD_EXMS1_004,<NAME_MAG>: I've not seen this place before.\Is this a world apart from our own?\Perhaps a different dimension altogether...\There may be some value in the knowing.\
+FLD_EXMS1_005,<NAME_FRO>: Well, since we've come all this way...\Shall we have a look around?
+FLD_EXMS1_006,<NAME_MAR>: I wonder if there are any people here.
+FLD_EXMS1_007,Would you like to leave?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_008,<NAME_FRO>: Anybody here?\...Apparently not.<PAGE>\But it looks to be a village of sorts, does it not?\Mayhap a search will turn up some people.
+FLD_EXMS1_009,<NAME_ROB>: This appears to be a settlement.\We may be able to find people nearby if we search.
+FLD_EXMS1_010,<NAME_AYL>: This village?\But no person.\Maybe near?
+FLD_EXMS1_011,<NAME_MAG>: Not a soul to be seen...\And yet all signs point toward habitation.\Perhaps a search will yield some clue.
+FLD_EXMS1_012,<NAME_MAR>: Is anybody here?<PAGE>\I guess not.\But this is a village, isn't it?\It sure looks like one.\Let's look around!
+FLD_EXMS1_013,<NAME_MAR>: Whew, I'm worn out!\Why don't we head back?\There doesn't seem to be anything here\but monsters, anyway.
+FLD_EXMS1_014,<NAME_LUC>: There's nothing here at all!\Guess I shouldn't have gotten my hopes up.\I'm getting kind of tired, too.\Why don't we head back?
+FLD_EXMS1_015,<NAME_FRO>: Naught to be found here, it seems.\Shall we return, then?
+FLD_EXMS1_016,<NAME_ROB>: We've discovered nothing of significance.\What shall we do now?
+FLD_EXMS1_017,<NAME_AYL>: Boring. Nothing here.\Go back now?
+FLD_EXMS1_018,Voice: Who's making all that hullabaloo outside?\Go on, get yourself eaten by monsters!\Serve you right, it will!
+FLD_EXMS1_019,<NAME_MAR>: Oh! A reptite!\They're still alive!
+FLD_EXMS1_020,<NAME_LUC>: Oh, no, not another—oh!\You're a reptite, aren't you?\Don't scare people like that!
+FLD_EXMS1_021,<NAME_FRO>: Oh, there is someone here after all!\You are a reptite, are you not?
+FLD_EXMS1_022,<NAME_ROB>: You appear similar in nature to the\creatures known as reptites.
+FLD_EXMS1_023,<NAME_AYL>: Ack!\No surprise!\<NAME_AYL> no like surprise!\You...reptite?
+FLD_EXMS1_024,T-talking apes!\And—they stand upon two feet?\What madness is this?
+FLD_EXMS1_025,<NAME_MAG>: You'd call me an ape?\You'd best learn your place, and quickly.
+FLD_EXMS1_026,<NAME_AYL>: Ape no good?\You say bad <NAME_AYL>?\You bad reptite!
+FLD_EXMS1_027,<NAME_ROB>: You classify humans as apes?\I suppose that is a logical grouping,\from a reptilian perspective.
+FLD_EXMS1_028,<NAME_FRO>: You'd have me for an ape?\I am quite wholly froggish, last I checked.
+FLD_EXMS1_029,<NAME_LUC>: Apes!?\I'm not about to take that from some creepy\green-skinned thing!
+FLD_EXMS1_030,Well, never minding that...did you not spy any big,\strong beasties about?
+FLD_EXMS1_031,<NAME_FRO>: We've slain the monsters that lurked in\this place. I hope you'll not be missing them.
+FLD_EXMS1_032,<NAME_ROB>: Do you mean the monsters in the forest?\We have exterminated them.
+FLD_EXMS1_033,<NAME_AYL>: <NAME_AYL> beat monster.
+FLD_EXMS1_034,<NAME_MAG>: Beasts, yes. Strong ones, no.\We slew them all.
+FLD_EXMS1_035,<NAME_MAR>: We cleared out all the monsters in the\woods, if that's what you mean.
+FLD_EXMS1_036,You...you—WHAT!?
+FLD_EXMS1_037,Oh, you wonderful, beautiful apes!
+FLD_EXMS1_038,<NAME_PT2>: Hm?
+FLD_EXMS1_039,<NAME_PT1>: Hm?
+FLD_EXMS1_040,We're free at last! Prisoners in our homes no more!\After all these long years of suffering...<PAGE>\Come out, everyone!\The monsters are gone for good!
+FLD_EXMS1_041,This isn't some cruel joke, is it?
+FLD_EXMS1_042,Is it truly safe?
+FLD_EXMS1_043,We can come outside?
+FLD_EXMS1_044,You have our most heartfelt thanks.\Who would have dreamt that ape-men\would come to save us?
+FLD_EXMS1_045,Our days of cowering in cramped caves are finally at\an end!
+FLD_EXMS1_046,You've done us a great kindness.
+FLD_EXMS1_047,It's not much, but we'd like to offer you this in thanks.\After all you've done, it's the least we can give you.
+FLD_EXMS1_048,<CT>\Obtained Dragon's Tear!
+FLD_EXMS1_049,I, uh—well, I mean, provided you've the time and all,\but...being as strong as you are, I don't suppose you'd\be willing to lend an ear when we've need of some help,\would you?<PAGE>\We wouldn't ask you to work for free, of course.\We're prepared to compensate you for your efforts,\and I think it would be worth your while.\What do you say?
+FLD_EXMS1_050,Agree to listen to the reptites' requests?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_051,Please, won't you at least hear what we'd ask?
+FLD_EXMS1_052,Excellent! Come and speak to us now and again, then.\We'll tell you if we ever have need of anything.
+FLD_EXMS1_053,<NAME_LUC>: It wouldn't hurt to apologize for calling us\apes before you start asking for favors!
+FLD_EXMS1_054,<NAME_MAR>: Are we sure about this?
+FLD_EXMS1_055,<NAME_MAG>: Yet more meaningless endeavors?
+FLD_EXMS1_056,<NAME_AYL>: Help reptite?\<NAME_AYL> no understand.
+FLD_EXMS1_057,<NAME_ROB>: So, this time we are on the reptites' side,\correct?
+FLD_EXMS1_058,This is grave news, indeed.\We cannot stand against that horde.\Everyone, prepare to flee for your lives!\You all had best return to your own village, too.
+FLD_EXMS1_059,<NAME_AYL>: <NAME_AYL> help!
+FLD_EXMS1_060,<NAME_MAR>: Hey, we can help you!
+FLD_EXMS1_061,<NAME_LUC>: Leave it to us!
+FLD_EXMS1_062,<NAME_FRO>: No fiends will claim this village on my watch!
+FLD_EXMS1_063,<NAME_ROB>: We shall stop the monsters.
+FLD_EXMS1_064,You...you'd do that?\I certainly cannot protest, but...to speak frankly,\you stand to gain nothing by helping us, you know?<PAGE>\They've far greater numbers this time.\And strong as you may be, surely there's no need for\you to risk your lives. This is not even your village.<PAGE>\You've risked a great deal on our behalf already,\and we're grateful for it. But that is enough.\You needn't fight all our battles for us.
+FLD_EXMS1_065,<NAME_ROB>: We are friends, are we not?\It is quite normal to fight on behalf of one's friends.
+FLD_EXMS1_066,<NAME_FRO>: We can win, and we shall.\I do not wish to lose more friends!
+FLD_EXMS1_067,<NAME_LUC>: We're friends, aren't we?\You just leave this to me and my genius!
+FLD_EXMS1_068,<NAME_MAR>: We're friends.\That's reason enough to help!
+FLD_EXMS1_069,<NAME_AYL>: Reptite...before, fight.\Now, friend.\<NAME_AYL> help friend!
+FLD_EXMS1_070,Truly? You consider us friends?<PAGE>\Well, you'll hear no more protests from me.\Our lives are in your hands!
+FLD_EXMS1_071,You've done it!\Magnificent!<PAGE>\Perhaps now joy and laughter can take the place of\fear and dread in our lives.<PAGE>\No words are enough to express our appreciation.\But know that word of your great deeds will be\legend in our village for generations to come.
+FLD_EXMS1_072,This is the Valor Crest, an ancient treasure of our\village. Please, accept it as a token of our gratitude.\You are our saviors.
+FLD_EXMS1_073,<CT>\Obtained Valor Crest!
+FLD_EXMS1_074,Oh, greetings again!\If I've ever another favor to ask of you,\I'll be sure to ask.
+FLD_EXMS1_075,Looking for the Golden Hammer, you say? Well, there's\a patch of golden sand in the flower meadow down in\the Great Southern Swamp. Guess that's not what\you're looking for, though, is it?
+FLD_EXMS1_076,Lumber, eh?\Try my friend in the Millennia Wood.\He might be able to help.
+FLD_EXMS1_077,Something to feed a Nu? Well, monsters sometimes\carry food. Why not hunt some in the woods or\up in the mountains or somewhere else nearby?\You're bound to find something a Nu can eat.
+FLD_EXMS1_078,We'll stay in the village and do what we can to help.\The rest is up to you!
+FLD_EXMS1_079,I'll see that your deeds become the words of legend.
+FLD_EXMS1_080,There's something I was hoping you might help me with.\A legend in our village tells of a tool known as the\Golden Hammer, and I'd like you to search for it, if\you'd be willing.<PAGE>\The tales say it's made from the wood of a golden\tree, but I'm afraid I can't tell you very much else.\Do you suppose you could spare the time to search?
+FLD_EXMS1_081,Oh, my! This—this is it!\The Golden Hammer of legend!
+FLD_EXMS1_082,<CT>\Obtained 100,000 G!
+FLD_EXMS1_083,Thank you ever so much!\The Golden Hammer is as glorious as the legends say.
+FLD_EXMS1_084,What?\You need to borrow the Golden Hammer?
+FLD_EXMS1_085,All right. I'm not using it at the moment,\and I did receive it from you, after all.\Here you go!
+FLD_EXMS1_086,<CT>\Obtained Golden Hammer!
+FLD_EXMS1_087,Take care of that hammer, you hear?
+FLD_EXMS1_088,You've brought wondrous change to our lives.\It's hard to believe this is the same village.\Thank you ever so much.
+FLD_EXMS1_089,Thank you for all you've done. Now, if only I could\find a way to make that child of mine feel better...\She's a bit under the weather, I'm afraid.
+FLD_EXMS1_090,I've need of your help.\My daughter has taken gravely ill, you see.<PAGE>\Do you know of the Prismastone?\It's said to hold the power to cure affliction.<PAGE>\The tales say it sits at the peak of Mount Emerald,\east of the Great Southern Swamp. But a guardian\blocks the way up the mountain, and I cannot go.\Please, will you not retrieve it for me?
+FLD_EXMS1_091,The Prismastone—you've found it!\May I borrow it?
+FLD_EXMS1_092,Oh, praise be!\My daughter should be fine now.<PAGE>\This is all I have to offer you in thanks,\but I hope it will prove useful.\Please, take it.
+FLD_EXMS1_093,<CT>\Obtained Capsule Set!<PAGE><CT>\\Inside are 2 Strength Capsules,\2 Magic Capsules, and 2 Speed Capsules!
+FLD_EXMS1_094,My daughter is as hale as before, thanks to you.\You've no idea how a mother worries when her child\is not well!
+FLD_EXMS1_095,I'll never forget your unselfish charity.\You've saved me and my daughter both.
+FLD_EXMS1_096,If you happen to come across a rusted blade, bring it\to me, will you? I'll reforge it for you.
+FLD_EXMS1_097,Oh, you've brought me a rusted blade!\Very well, then. I'll set to work straight away!
+FLD_EXMS1_098,It's finished.\Here you are—Icewyrm!
+FLD_EXMS1_099,<CT>\Obtained Icewyrm!
+FLD_EXMS1_100,This is a gift from me to you.\May it help to keep you safe.
+FLD_EXMS1_101,<CT>\Obtained Megalixir!
+FLD_EXMS1_102,Are the monsters truly gone for good?\No one has seen any, but I still find it hard to relax.
+FLD_EXMS1_103,The legend of the Golden Hammer? Ah, yes...\As I heard it long ago, sprinkling golden sand about\a young sapling will cause it to produce golden wood.\The hammer is made from that.
+FLD_EXMS1_104,You need something that will shine in the darkness?\Well, the Prismastone is said to absorb light.<PAGE>\Perhaps if you left a stone like that in the sun on\some high peak for a long time, it would absorb\enough light to shine on its very own.
+FLD_EXMS1_105,We've nothing more to worry about, thanks to you.
+FLD_EXMS1_106,Through the narrow passage to the west is a cavern\dark as pitch. Beyond that...well, who could know?\The place is so dark you cannot see a thing.\But I think there's something hidden there.
+FLD_EXMS1_107,Oh, that stone—it shines like the sun!<PAGE>\With that, you should be able to find your way even\in the deepest darkness! Won't you go and see what\lies within that darkened cave beyond the Great\Southern Swamp?
+FLD_EXMS1_108,Won't you go and see what lies within that dark cave?
+FLD_EXMS1_109,What? The cave is full of monsters?\And they're planning to attack the village!?<PAGE>\Oh, no!\We have to call everyone together!
+FLD_EXMS1_110,So, that cave was the monsters' lair...\It's a good thing I asked you to investigate.\
+FLD_EXMS1_111,We'll seal off the interior of the cave to make sure no\more monsters come out.
+FLD_EXMS1_112,I love things that sparkle. Don't you?\Gemstones and such. They're so beautiful!
+FLD_EXMS1_113,You know, it's said that if two such stones are\enshrined together in this village's sanctuary,\a divine power will merge them to form a gem of\even greater power.
+FLD_EXMS1_114,Oh, I'd love to see such a gem.\And you already have the Prismastone!\Won't you try to make my dream come true?
+FLD_EXMS1_115,It couldn't be!\This is the gem I spoke of?\My, it certainly is gorgeous!<PAGE>\But wherever did you find another Prismastone?\There shouldn't have been more than one in the world.
+FLD_EXMS1_116,You...traveled through time?\I'm afraid I don't understand what you mean.\But still, I appreciate you coming to show it to me.<PAGE>\Let me give you a little something, as a way of\saying thanks. Hold on, I just need to put the\finishing touches on it.
+FLD_EXMS1_117,Here you are. Go on, take it!
+FLD_EXMS1_118,<CT>\Obtained Dragon Arm!
+FLD_EXMS1_119,Such a gorgeous gem that was!\If you find any other pretty stones,\be sure to show me them, all right?
+FLD_EXMS1_120,Thank you so much! The village is saved.\I, um...I don't suppose you've found any new gems?
+FLD_EXMS1_121,If you're tired, feel free to rest in my home.
+FLD_EXMS1_122,Set the Prismastone here?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_123,Take the Prismastone?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_124,<CT>\Obtained Saintstone!
+FLD_EXMS1_125,<NAME_LUC>: This place is full of monsters.\You don't suppose they got the people in that village,\do you?
+FLD_EXMS1_126,<NAME_MAR>: Look at all those monsters!\I wonder if they attacked that village.
+FLD_EXMS1_127,<NAME_MAG>: Monsters everywhere.\Yet there seem to be no humans...\Are they all dead?
+FLD_EXMS1_128,<NAME_AYL>: No person.\Monster eat person?
+FLD_EXMS1_129,<NAME_ROB>: There is a high monster population here.\It is possible that humans have become extinct.
+FLD_EXMS1_130,<NAME_AYL>: Come on!\Fight monster!\Beat all!
+FLD_EXMS1_131,<NAME_MAG>: Hmph.\Either way, we'd best clear out all these monsters.
+FLD_EXMS1_132,<NAME_MAR>: Well, we'd better take care of all the\monsters first! We don't want them attacking\us while we search for the villagers.
+FLD_EXMS1_133,<NAME_LUC>: Well, first things first.\Let's get rid of all these monsters!\We don't want them catching us off guard.
+FLD_EXMS1_134,<NAME_FRO>: Best slay the lot of these fiends,\before we risk whatever fate befell the others.
+FLD_EXMS1_135,<NAME_ROB>: Look!\This appears to be a freshly sprouted sapling.
+FLD_EXMS1_136,<NAME_FRO>: What's this?\Hmm... A young seedling.
+FLD_EXMS1_137,<NAME_LUC>: Look!\A sapling!
+FLD_EXMS1_138,<NAME_MAR>: Look, a little tree!\It's so cute!
+FLD_EXMS1_139,<NAME_MAG>: Hmm...\A sapling.
+FLD_EXMS1_140,Sprinkle the golden sand around the sapling?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_141,<NAME_MAR>: All right.\Now we just have to wait for it to grow into a tree!\How long do you suppose that will take?<PAGE>\Oh! What if we came back here through the other Gate\in the Middle Ages? Maybe it would have already grown!
+FLD_EXMS1_142,<NAME_LUC>: Well, we spread the sand. Now all we can\do is wait for it to grow into a proper tree.<PAGE>\Hey! There was a Gate to this place in the Middle\Ages, too. What if we tried going there?<PAGE>\I really am a genius!
+FLD_EXMS1_143,<NAME_FRO>: There's naught we can do now but wait.\Let us hope it truly grows to be a golden tree.\I wonder how many long years it will take?<PAGE>\Wait... There was another Gate leading here in my\own era. What if we were to come through it?
+FLD_EXMS1_144,<NAME_ROB>: Objective complete.\Now we must wait for the tree to grow up.\That may take longer than your lifespans, though.<PAGE>\Was there not another Gate to this place from the\year 600 A.D.? Surely it will have become a golden\tree by then!
+FLD_EXMS1_145,<NAME_AYL>: All done.\Now wait, tree get big!\Long, long wait!\Maybe <NAME_AYL> no can wait.<PAGE>\Oh!\Other Gate!\Go there, maybe big tree!\
+FLD_EXMS1_146,There used to be an enormous tree growing in this\wood, but those monsters felled it.
+FLD_EXMS1_147,What a waste.\It was such a strong and stalwart tree.
+FLD_EXMS1_148,You need lumber to build a bridge?\Well, I'd much rather see that tree\used than let it go to waste.
+FLD_EXMS1_149,Wait right here.\I'll saw some wood for you.
+FLD_EXMS1_150,Here you go.\I'm sure it will serve well.
+FLD_EXMS1_151,<CT>\Obtained Godwood!
+FLD_EXMS1_152,<CT>\Obtained Reptmark!
+FLD_EXMS1_153,<CT>\Obtained Golden Sand!
+FLD_EXMS1_154,<NAME_MAG>: They've come this far already.\They move quickly.
+FLD_EXMS1_155,<NAME_AYL>: Monster here now!\Village danger!\Quick, beat monster!
+FLD_EXMS1_156,<NAME_ROB>: They have already come this far.\The village is in danger!
+FLD_EXMS1_157,<NAME_FRO>: They move quickly.\We must make haste if we are to save the village.
+FLD_EXMS1_158,<NAME_LUC>: They're already here.\We have to stop them!
+FLD_EXMS1_159,<NAME_FRO>: I cannot see a thing.\We'd best go back for now.
+FLD_EXMS1_160,<NAME_ROB>: My visual sensors do not function in total\darkness. We should go back!
+FLD_EXMS1_161,<NAME_AYL>: No can see.\Go back!
+FLD_EXMS1_162,<NAME_MAG>: It's too dark to see a thing.\Might I suggest we not waste our time here?
+FLD_EXMS1_163,<NAME_MAR>: It's too dark to see anything in here.\Can we go back? This place is kind of scary.
+FLD_EXMS1_164,<NAME_LUC>: Wow, that was amazing!\There's a path ahead. Let's go!
+FLD_EXMS1_165,<NAME_MAR>: Wow, that was bright!\Looks like there's a path ahead.\Let's check it out!
+FLD_EXMS1_166,<NAME_MAG>: Incredible...\Come, let us press onward.
+FLD_EXMS1_167,<NAME_AYL>: Bright, bright!\<NAME_AYL> eye hurt.\Go up?
+FLD_EXMS1_168,<NAME_ROB>: Such a dazzling scintillation!\It nearly overloaded my sensors.\But it revealed a path.\Shall we go?
+FLD_EXMS1_169,<NAME_AYL>: Hide!\Something come!
+FLD_EXMS1_170,<NAME_MAG>: Someone comes!
+FLD_EXMS1_171,<NAME_MAR>: Quick, hide!\Someone's coming!
+FLD_EXMS1_172,<NAME_FRO>: Someone comes!\Quickly, take cover!
+FLD_EXMS1_173,<NAME_ROB>: Approaching entities detected.\Please take cover!
+FLD_EXMS1_174,I hear there are reptites living nearby.\*hiss*
+FLD_EXMS1_175,Finally, some good prey! *hiss*\Oh, I can't wait to sink my teeth into 'em!
+FLD_EXMS1_176,Don't be so hasty! *hiss*\We've gotta wait for the boss.\Then it's feeding time!
+FLD_EXMS1_177,Hey...\Who's hiding down there!?
+FLD_EXMS1_178,<NAME_ROB>: This is an emergency!\We must inform the villagers!
+FLD_EXMS1_179,<NAME_FRO>: They mean to strike the village.\We must warn them!
+FLD_EXMS1_180,<NAME_LUC>: Oh, no!\They're going to attack the village!\We have to go and warn them!
+FLD_EXMS1_181,<NAME_MAR>: We have to warn the villagers!\They're in danger!
+FLD_EXMS1_182,<NAME_MAG>: So, they plan to feed upon the villagers.\You'll no doubt wish to go and warn them, yes?\I'd as soon attend to more important matters.
+FLD_EXMS1_183,Intruders!\*hiss*
+FLD_EXMS1_184,Voice: So, it's you who meddle in our plans...
+FLD_EXMS1_185,We will not suffer meddlers to live!
+FLD_EXMS1_186,<NAME_MAR>: Whew...\We did it.
+FLD_EXMS1_187,<NAME_LUC>: We won!
+FLD_EXMS1_188,<NAME_FRO>: That should put the matter to rest.
+FLD_EXMS1_189,<NAME_ROB>: That was a difficult battle.\But we succeeded!
+FLD_EXMS1_190,<NAME_AYL>: Village safe now!
+FLD_EXMS1_191,<NAME_MAG>: We've no more business here.\Let's be on our way.
+FLD_EXMS1_192,<NAME_AYL>: Go tell village!\Everyone happy!
+FLD_EXMS1_193,<NAME_ROB>: We should return to report our success.
+FLD_EXMS1_194,<NAME_FRO>: Well then...\Let us return and tell of our success!
+FLD_EXMS1_195,<NAME_LUC>: Let's go tell everyone they're safe now!
+FLD_EXMS1_196,I guard here.\You no pass.
+FLD_EXMS1_197,You not bad.\If I lose, I no more guard here.
+FLD_EXMS1_198,I guard here.\This time I win.
+FLD_EXMS1_199,You really good.\But I guard.\I no lose.
+FLD_EXMS1_200,I guard here.\This time I don't hold back.
+FLD_EXMS1_201,I lose.\You really tough!\You can pass.
+FLD_EXMS1_202,Next time I don't lose.\I train hard. Very hard!\Then I win.
+FLD_EXMS1_203,<NAME_FRO>: This is the ladder that had collapsed.\Let us build the new one beside it.
+FLD_EXMS1_204,<NAME_ROB>: This ladder is the one that collapsed.\Let us put our new one beside it.
+FLD_EXMS1_205,<NAME_AYL>: This ladder break.\Put new one here!
+FLD_EXMS1_206,<NAME_MAG>: This is the ladder that was broken.\Hang our new one here, and the problem is solved.
+FLD_EXMS1_207,<NAME_LUC>: This looks like our problem ladder.\Why don't we put the new one next to it?
+FLD_EXMS1_208,<NAME_LUC>: That oughta do it.\Now we just need to come back in the other era!
+FLD_EXMS1_209,<NAME_MAR>: Perfect!\Let's just hope this one lasts for a long, long time.
+FLD_EXMS1_210,<NAME_MAG>: This should suffice, no?\Assuming this one does not fail as well.
+FLD_EXMS1_211,<NAME_AYL>: New ladder, all done!
+FLD_EXMS1_212,<NAME_ROB>: That should resolve the problem.
+FLD_EXMS1_213,<CT>\Obtained Prismastone!
+FLD_EXMS1_214,Place the Saintstone here?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_215,Oh, how are you liking that Golden Hammer?
+FLD_EXMS1_216,I'll be praying for your safety.
+FLD_EXMS1_217,<NAME_AYL>: Nothing here.\Go other place?
+FLD_EXMS1_218,<NAME_ROB>: I detect no human activity.\Shall we search someplace else?
+FLD_EXMS1_219,<NAME_MAG>: There's no one here.\Let us search elsewhere.
+FLD_EXMS1_220,<NAME_FRO>: There's not a soul here.\Shall we try our luck elsewhere?
+FLD_EXMS1_221,<NAME_MAR>: There's nobody here.\Let's try somewhere else!
+FLD_EXMS1_222,<NAME_AYL>: Beat all monster!\Go back?
+FLD_EXMS1_223,<NAME_MAG>: I believe those were the last of them.\What now? Do we return?
+FLD_EXMS1_224,<NAME_MAR>: I think we got them all.\Why don't we head back to the village?
+FLD_EXMS1_225,<NAME_LUC>: I don't see any more monsters around.\Why don't we head back to the village now?
+FLD_EXMS1_226,<NAME_FRO>: The monsters are all slain.\Shall we return to that village?
+FLD_EXMS1_227,<NAME_ROB>: Yes.\Let us return for now.
+FLD_EXMS1_228,<NAME_FRO>: Yes, mayhap we overlooked something.
+FLD_EXMS1_229,<NAME_LUC>: Yes.\Maybe someone's come back.
+FLD_EXMS1_230,<NAME_MAR>: Yes, the villagers might have come back.\Let's go see!
+FLD_EXMS1_231,<NAME_MAG>: It appears we've little other choice.
+FLD_EXMS1_232,Won't you give it to me?\I will make it well worth your while.\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_233,Thank you ever so much!\Please, take this in return.
+FLD_EXMS1_234,I see. Well, it is your decision to make.\Come back anytime if you change your mind.
+FLD_EXMS1_235,You no pass.\I win.\You want pass, you come back.
+FLD_EXMS1_236,*gasp* *pant* *wheeze*\You...no pass.\I...win.\Please...don't come back!
+FLD_EXMS1_237,<NAME_LUC>: There are still monsters out there.\Shouldn't we finish them off?
+FLD_EXMS1_238,<NAME_FRO>: Are you certain we should leave?\There are still monsters afoot.
+FLD_EXMS1_239,<NAME_MAG>: Monsters yet remain.\I can feel their presence.
+FLD_EXMS1_240,<NAME_AYL>: Forest, still monster!\<NAME_AYL> can smell!
+FLD_EXMS1_241,<NAME_ROB>: My sensors detect activity!\There are still monsters within the forest.
+FLD_EXMS1_242,Look!
+FLD_EXMS1_243,Would you like to rest?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_244,How did you sleep?
+FLD_EXMS1_245,<NAME_FRO>: There will be no end this way.\We need to enter their castle, and defeat\the one who commands these foul fiends!
+FLD_EXMS1_246,<NAME_ROB>: There is no end in sight!\We must neutralize their leader within the castle!\
+FLD_EXMS1_247,<NAME_AYL>: Too many monster! No stop!\Beat chief, make stop!
+FLD_EXMS1_248,<NAME_MAG>: Let us not waste time on these vermin.\We should enter the keep and slay their leader.
+FLD_EXMS1_249,<NAME_MAR>: Let's try to keep moving forward!\We can't fight them all here!
+FLD_EXMS1_250,Agree to search for the Golden Hammer?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_251,Truly?\Oh, I knew I could depend on you!
+FLD_EXMS1_252,Don't have the time? I understand.\Just let me know if you change your mind.
+FLD_EXMS1_253,Agree to look for the Prismastone?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_254,Oh, bless your heart!\I've no one else to turn to.\I'll be waiting for your return!
+FLD_EXMS1_255,But, my daughter...\Is there no way I can convince you to help?
+FLD_EXMS1_256,That stone—is that the Prismastone?
+FLD_EXMS1_257,Incredible!\It truly exists!
+FLD_EXMS1_258,Agree to try and show her the elusive gem?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_259,You mean it!?\Oh, I can't wait!\If anyone can do it, it's you!
+FLD_EXMS1_260,Yes, I suppose that's a lot to promise, isn't it?\Still...
+FLD_EXMS1_261,Agree to explore the cave?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_262,Wonderful! But please be careful.\Foul things lurk in dark places.
+FLD_EXMS1_263,Hmm. Are you sure you won't reconsider?\There's really no one else I can ask.
+FLD_EXMS1_264,Oh, hello.\Have you sampled any of our local delicacies?\Monsters love them, so they sometimes carry them.\You should find some and give them a try!
+FLD_EXMS1_265,If it's not one thing, it's the next.\You'll save our village, won't you?
+FLD_EXMS1_266,My daughter has just recovered, and now this...\Please, you must protect our village!
+FLD_EXMS1_267,I've crafted some truly fine equipment.\Won't you have a look before you go?
+FLD_EXMS1_268,Monsters are coming to attack the village.\I'm so scared. What should I do?
+FLD_EXMS1_269,Monsters are coming to attack the village.\I hope they don't take away my gems!
+FLD_EXMS1_270,Where could you have found such a stone?\You really are mysterious apes, aren't you?
+FLD_EXMS1_271,<NAME_MAR>: Hey, that looks pretty good.\That must be what the Nu wanted.
+FLD_EXMS1_272,<NAME_LUC>: That looks tasty enough.\I wonder if that's the food the Nu wanted.
+FLD_EXMS1_273,<NAME_FRO>: That looks savory enough.\Must it not be the food of which the Nu spoke?
+FLD_EXMS1_274,<NAME_ROB>: I am not capable of ingesting food, but\that looks like it would be pleasing to your palates.\Perhaps that is what that Nu wanted us to bring him.
+FLD_EXMS1_275,<NAME_AYL>: Oh, look good food!\Nu want eat, maybe that!
+FLD_EXMS1_276,Any luck finding the Golden Hammer? It's said to be\crafted from the wood of a golden tree, but it's not\very often you see one of those, either.
+FLD_EXMS1_277,Thank you so much for offering to help!\The Prismastone should be at the peak of Mount\Emerald, east of the Great Southern Swamp.
+FLD_EXMS1_278,I'll be waiting to hear what you find in that cave.\It lies through a narrow tunnel just beyond the\Great Southern Swamp.
+FLD_EXMS1_279,You want to hear the secret of the Prismastone again?<PAGE>\It's said that if two such gems are enshrined together\in this village's sanctuary, a divine power will merge\them to form a stone of even greater power.<PAGE>\If you ever happen to encounter a stone like that,\bring it to me to see, won't you?
+FLD_EXMS1_280,Please, take this!\It might be of some help.
+FLD_EXMS1_281,<CT>\Obtained Judgment Scythe!
+FLD_EXMS1_282,Greetings! I hope you'll be willing to help us out again\if anything else should happen.
+FLD_EXMS1_283,You seem to be doing well.\If only my daughter had that much energy...
+FLD_EXMS1_284,I'm afraid I'm bit of a worrywart. Everyone tells me I\have to relax, but it's hard for me to stop worrying\about things.
+FLD_EXMS1_285,I like exploring dark places. I go to the cave west of\the Great Southern Swamp all the time.
+FLD_EXMS1_286,I guard here.\You no pass.<PAGE>\You beat me, then you can pass.
+FLD_EXMS1_287,<NAME_MAG>: We've no quarrel with you, but if you mean\to bar our way then we'll remove you from it.
+FLD_EXMS1_288,<NAME_ROB>: It appears we have no choice except to\eliminate the obstacle in our path.
+FLD_EXMS1_289,<NAME_LUC>: So much for getting through the easy way.\I guess we'll do it the hard way!
+FLD_EXMS1_290,<NAME_MAR>: You really won't let us through?\We'd rather not fight, but we need to get\by one way or another!
+FLD_EXMS1_291,<NAME_FRO>: If you'll not stand aside, then I suppose\we've no choice but to go through you!
+FLD_EXMS1_292,Hand over the rusted blade?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS1_293,
+FLD_EXMS1_294,
+FLD_EXMS1_295,

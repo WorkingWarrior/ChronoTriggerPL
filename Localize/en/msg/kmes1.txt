@@ -1,0 +1,256 @@
+FLD_KMES1_000,<NAME_AYL>: Kino!\What you do?
+FLD_KMES1_001,<NAME_AYL>: Say NOW!
+FLD_KMES1_002,Kino: Kino sorry, <NAME_AYL>...\Kino take <NICK_CRO> stuff.
+FLD_KMES1_003,<NAME_AYL>: Why take!?
+FLD_KMES1_004,Kino: Kino like <NAME_AYL> best.\<NAME_AYL> say like <NICK_CRO>, Kino mad.
+FLD_KMES1_005,<NAME_MAR>: <NAME_AYL>, y-you don't have to do that!
+FLD_KMES1_006,<NAME_LUC>: Wow, talk about strict!
+FLD_KMES1_007,<NAME_ROB>: Madam <NAME_AYL>, violence is never\the best solution.
+FLD_KMES1_008,<NAME_AYL>: Kino know why <NAME_AYL> hit?
+FLD_KMES1_009,Kino: <NAME_AYL> no like Kino...
+FLD_KMES1_010,<NAME_AYL>: No!\<NAME_AYL> like Kino BEST!\So <NAME_AYL> no want Kino do bad thing!\Bad thing not good!
+FLD_KMES1_011,Kino: <NAME_AYL>...
+FLD_KMES1_012,Kino: Kino sorry, <NAME_AYL>!
+FLD_KMES1_013,Kino: Kino sorry, <NICK_CRO>!
+FLD_KMES1_014,<NAME_AYL>: Give thing back <NICK_CRO>!
+FLD_KMES1_015,Kino: No have. Reptites take!
+FLD_KMES1_016,<NAME_AYL>: Reptite!\Where reptite go!?
+FLD_KMES1_017,Kino: Run trees, there.
+FLD_KMES1_018,<NAME_AYL>: <NAME_AYL> go.\Kino go back village.\<NAME_AYL> gone, Kino protect Ioka!
+FLD_KMES1_019,Kino: Okay, <NAME_AYL>!
+FLD_KMES1_020,<NAME_AYL>: Kino man...\<NAME_AYL> die, <NAME_AYL> have baby, then Kino chief.
+FLD_KMES1_021,<NAME_MAR>: <NAME_AYL>...
+FLD_KMES1_022,<NAME_LUC>: <NAME_AYL>'s one tough cookie.
+FLD_KMES1_023,<NAME_ROB>: Madam <NAME_AYL>, my apologies\for implying you may have been out of control.
+FLD_KMES1_024,<NAME_AYL>: Follow reptite!\Get <NICK_CRO> thing!
+FLD_KMES1_025,Reptites come.\Burn village.
+FLD_KMES1_026,People fight...reptites kill all!
+FLD_KMES1_027,Reptites follow <NAME_AYL>.\<NAME_AYL> bad luck!
+FLD_KMES1_028,You fight, so reptites mad!
+FLD_KMES1_029,Elder: <NAME_AYL>...this your fault!\Look at village!
+FLD_KMES1_030,Elder: Reptites follow you!\Now village ruined!
+FLD_KMES1_031,<NAME_AYL>: ...<PAGE>\<NAME_AYL> sorry.
+FLD_KMES1_032,Elder: Reptites strong, live long before us!\So we hide. But <NAME_AYL> say fight together...\<NAME_AYL> still say fight now!?
+FLD_KMES1_033,<NAME_AYL>: <NAME_AYL> alive, <NAME_AYL> fight!<PAGE>\Win, live. Lose, die. That rule.\No can change rule.<PAGE>\Old man breathe, but dead inside!
+FLD_KMES1_034,Elder: <NAME_AYL> strong, so make big talk.\We not strong.
+FLD_KMES1_035,<NAME_AYL>: No! Strong!\Fight, get more strong!<PAGE>\<NAME_AYL> help. But now, need dactyl.\Give dactyl!
+FLD_KMES1_036,Elder: Dactyl?
+FLD_KMES1_037,Elder: Go Tyranno Lair!?\Tyranno Lair, reptite castle!\Danger. Even <NAME_AYL> danger!\<NAME_AYL> want die?
+FLD_KMES1_038,<NAME_AYL>: No, want live, so go!\<NAME_AYL> be okay. Give dactyl!
+FLD_KMES1_039,Elder: Yes...give dactyl.\Elder tell keeper, so go dactyl nest.\<NAME_AYL> be careful!
+FLD_KMES1_040,<NAME_AYL>: Elder, big help!
+FLD_KMES1_041,Big fire come fast, no warn.\Burn reptite castle.
+FLD_KMES1_042,Reptites gone!\People happy!
+FLD_KMES1_043,Now, no reptites.\Good!
+FLD_KMES1_044,No more fear.\No more run!
+FLD_KMES1_045,You strong. I become strong, too.
+FLD_KMES1_046,Elder: You take care <NAME_AYL>.
+FLD_KMES1_047,Elder: Reptites gone.\All because <NAME_AYL>.
+FLD_KMES1_048,Reptites take Kino!\Reptites kill all try stop reptites!\What do now!?
+FLD_KMES1_049,Oh, I forgot!\I don't need this stone, so I give it to you.
+FLD_KMES1_050,Nu... What? What the matter?\I was sound asleep, nu!\Can a Nu not get some rest?<PAGE>\I change <NAME_PT1>'s name, so please let me go back\to my dreams, nu.
+FLD_KMES1_051,Nighty-night.
+FLD_KMES1_052,Would you like to rest here for the night?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES1_053,We Earthbound Ones were banished from Zeal\because we are possessed of no magical talents.
+FLD_KMES1_054,The Guru of Life voiced opposition to the Queen's\plan, and so he was banished to the Mountain of Woe.
+FLD_KMES1_055,Like as not, Dalton came here using the Skyway\that Lady Schala opened.
+FLD_KMES1_056,Many inhabitants of this land were taken to build\the Ocean Palace, and none were ever seen again.
+FLD_KMES1_057,The Gurus of Time and Reason are missing,\and Lady Schala along with them.<PAGE>\Are there none now who can stop the Queen?
+FLD_KMES1_058,The mudbeast den is dangewous.\You shouldn't pway awound dewe.
+FLD_KMES1_059,Waaah! Schawa... Wady Schawa!
+FLD_KMES1_060,This tunnel connects to a mudbeast den.\And beyond the mouth of the den lies the\great chain that anchors the Mountain of\Woe to the earth.
+FLD_KMES1_061,This is Algetty, the village of the Earthbound.
+FLD_KMES1_062,The Queen has installed the Mammon Machine in\the Ocean Palace in an attempt to absorb Lavos's\energy, but is there not peril in such a thing?<PAGE>\The Guru of Life said as much, but it only led\her to imprison him upon the Mountain of Woe.\I fear there's little we can do.
+FLD_KMES1_063,Elder: The Guru of Life said that young Lord Janus\possessed power within him exceeding even that of\Lady Schala.<PAGE>\But then the Queen lost her mind, and the young\lord grew to hate that power and all the suffering\it causes Lady Schala. Now he hides it, denies it,\and shuts it from his thoughts.
+FLD_KMES1_064,In times past, the Enlightened Ones and we\Earthbound Ones lived as one.
+FLD_KMES1_065,The three Gurus and Lady Schala are near the\only ones who do not treat us as inferior.
+FLD_KMES1_066,When will Wady Schawa come and pway wiff us again?
+FLD_KMES1_067,Might I interest you in some goods?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES1_068,Yer not gettin' through 'ere!
+FLD_KMES1_069,<NAME_MAR>: The Guru of Life is trapped in there.
+FLD_KMES1_070,<NAME_LUC>: The Guru of Life's trapped inside.
+FLD_KMES1_071,<NAME_ROB>: We have found where the Guru of Life is\imprisoned.
+FLD_KMES1_072,<NAME_FRO>: So this is the prison that holds the Guru\of Life.
+FLD_KMES1_073,<NAME_AYL>: This, cage?
+FLD_KMES1_074,<NAME_MAR>: Look! It's disappearing!
+FLD_KMES1_075,<NAME_LUC>: It's disappearing!
+FLD_KMES1_076,<NAME_ROB>: What is happening?
+FLD_KMES1_077,<NAME_FRO>: It fades away before our eyes!
+FLD_KMES1_078,<NAME_AYL>: <NICK_CRO>! Look!
+FLD_KMES1_079,<NAME_MAR>: M-Melchior!?
+FLD_KMES1_080,<NAME_LUC>: Melchior!?
+FLD_KMES1_081,<NAME_ROB>: Sir Melchior?
+FLD_KMES1_082,<NAME_FRO>: Old Man Melchior!
+FLD_KMES1_083,<NAME_AYL>: Melchior?
+FLD_KMES1_084,Melchior: Indeed, I am none other.\But how do you know my name?\I do not believe we've met.<PAGE>\More pressingly, what of the Queen and\the Ocean Palace? Do you know what has\happened?
+FLD_KMES1_085,Melchior: I see... The Queen's mind has already\eroded to that extent.
+FLD_KMES1_086,Melchior: It seems the more energy the\Mammon Machine absorbs, the further the\Queen descends into madness.<PAGE>\The immortal Lavos is overtaking her soul\from within his slumber beneath the waves.
+FLD_KMES1_087,Melchior: We must flee! The seal is broken!\It will bring down the mountain!\Come, make haste!
+FLD_KMES1_088,Melchior: Lavos sleeps deep underground,\consuming the energy of this planet.<PAGE>\Brought so near, the Mammon Machine could\very well awaken him!
+FLD_KMES1_089,Melchior: We must hurry before it is too late!
+FLD_KMES1_090,Elder! Lady Schala is here!
+FLD_KMES1_091,Melchior: What? Schala?
+FLD_KMES1_092,Tsk, tsk, my dear...
+FLD_KMES1_093,Janus: Such a filthy place...
+FLD_KMES1_094,Elder: Lady Schala...\Why have you come to such a miserable place?
+FLD_KMES1_095,Schala: Do not degrade yourselves.\We Enlightened Ones were once the same as you.<PAGE>\The only difference is that we are now puppets\of Lavos.
+FLD_KMES1_096,Schala: Melchior...\When the Mountain fell, I knew I would find you here.<PAGE>\Melchior: But is it safe for you to leave the palace?
+FLD_KMES1_097,Schala: Whether it is safe or not no longer matters.\The Ocean Palace is complete!
+FLD_KMES1_098,Melchior: Then all is lost!
+FLD_KMES1_099,Schala: Not all. Without me, the Mammon Machine\is no more than a vessel. I will not activate\that evil thing again.
+FLD_KMES1_100,Schala: I've kept the Skyway open.\Please! You must stop my lady mother!
+FLD_KMES1_101,Schala: Dalton!<PAGE>\Dalton: It would be quite an...inconvenience\if you failed to activate the machine.
+FLD_KMES1_102,Melchior: Dalton!\Leave her alone!
+FLD_KMES1_103,Dalton: Ah! The fossil speaks.
+FLD_KMES1_104,Dalton: Be silent!
+FLD_KMES1_105,Melchior: Urgh!
+FLD_KMES1_106,Dalton: You'll come to the Ocean Palace with me.\Cause any trouble, and your life is—well, I will\bear no responsibilities.
+FLD_KMES1_107,Janus: Schala!
+FLD_KMES1_108,Dalton: None of the Queen's brats know their place,\do they?
+FLD_KMES1_109,Dalton: Oh, let's not be hasty!\I'd be more than happy to take the life of\this little pearl. I do not fear the Queen.
+FLD_KMES1_110,Dalton: Shall we be on our way, Schala, dear?\Your mother is waiting.
+FLD_KMES1_111,<NAME_MAR>: Melchior!
+FLD_KMES1_112,<NAME_LUC>: Melchior!
+FLD_KMES1_113,<NAME_ROB>: Melchior, sir!
+FLD_KMES1_114,<NAME_FRO>: Melchior!
+FLD_KMES1_115,<NAME_AYL>: Old man okay?
+FLD_KMES1_116,Melchior: I am all right.
+FLD_KMES1_117,Melchior: But we must rescue Schala, or there\will be terrible consequences!
+FLD_KMES1_118,Elder: There's no hope of rescuing her!\Not even for you, Melchior...
+FLD_KMES1_119,Melchior: If the Queen's plans come to fruition,\there's no hope for life as we know it!
+FLD_KMES1_120,Melchior: You...you would go and stop her?
+FLD_KMES1_121,Melchior: My pardons... You risk your life for us time\and time again, and I do not even know your names.
+FLD_KMES1_122,<NAME_MAR>: You'll know them one day!
+FLD_KMES1_123,<NAME_LUC>: Don't worry about it!\You're going to help us someday, too!
+FLD_KMES1_124,<NAME_ROB>: You have already helped us.\Now we are returning the favor.
+FLD_KMES1_125,<NAME_FRO>: Think naught of it. We've a debt to repay\for your repair of the Masamune.
+FLD_KMES1_126,<NAME_AYL>: Old man use red stone, help <NICK_CRO>.\Now, <NAME_AYL> help old man.
+FLD_KMES1_127,Melchior: Whatever are you talking about?
+FLD_KMES1_128,<NAME_MAR>: <NAME_CRO>, let's get going!
+FLD_KMES1_129,<NAME_LUC>: Come on, <NAME_CRO>!
+FLD_KMES1_130,<NAME_ROB>: <NAME_CRO>, we must hurry!
+FLD_KMES1_131,<NAME_FRO>: <NAME_CRO>, let us make haste!
+FLD_KMES1_132,<NAME_AYL>: <NICK_CRO>! Go now!
+FLD_KMES1_133,Melchior: Wait, take this with you.
+FLD_KMES1_134,Melchior: It's made from the same red stone\as the Mammon Machine. With it, you should be\able to destroy the thing for good.
+FLD_KMES1_135,Elder! Th-the Mountain of Woe—!
+FLD_KMES1_136,Mama, the mountain's falling!
+FLD_KMES1_137,Elder: Lady Schala, abducted...\But without magic, we're helpless to save her.
+FLD_KMES1_138,Young Lord Janus made for the Skyway to save\Lady Schala!
+FLD_KMES1_139,I hope Lady Schala is still alive.
+FLD_KMES1_140,You can take the Skyway to pursue Dalton.\Please hurry, for Lady Schala's sake!
+FLD_KMES1_141,How could something like this happen?
+FLD_KMES1_142,So the Enlightened Ones truly have lost reason...
+FLD_KMES1_143,Where did Wady Schawa go?
+FLD_KMES1_144,A tidal wave!<WAIT>08</WAIT><AUTO_END>
+FLD_KMES1_145,Ozzie: Welcome and well met!\This's the great Ozzie's—<PAGE>\What!?
+FLD_KMES1_146,Ozzie: Gah!
+FLD_KMES1_147,Ozzie: L-Lord <NAME_MAG>!
+FLD_KMES1_148,Ozzie: You again!
+FLD_KMES1_149,Ozzie: I'm outta here!
+FLD_KMES1_150,<NAME_MAG>: It is good to see you again, Ozzie.
+FLD_KMES1_151,Ozzie: The nerve! You think you can talk to\me after you desert your fellow fiends to\lick the boots of these filthy humans!\You're not our lord! You're a traitor!
+FLD_KMES1_152,Ozzie: Why did you leave us?
+FLD_KMES1_153,Flea: Stand back, great Ozzie, and let me take\care of these cretins.
+FLD_KMES1_154,Ozzie: Howdy!
+FLD_KMES1_155,Ozzie: Arise, my fearsome guardians!<PAGE>\Slash 'em to shreds! No one's taking back the treasure\I stole fair and square from <NAME_MAG>'s keep!
+FLD_KMES1_156,Ozzie: Claw 'em to pieces!
+FLD_KMES1_157,Ozzie: Oz...
+FLD_KMES1_158,Ozzie's in a pickle!
+FLD_KMES1_159,Ozzie: You pesky low-down good-for-nothings!\Can't take a hint, eh?<PAGE>\Guess I know what I have to do now!
+FLD_KMES1_160,Ozzie: Flea!
+FLD_KMES1_161,Ozzie: Slash!
+FLD_KMES1_162,Flea: You called?
+FLD_KMES1_163,Flea: Oh dear me, if it isn't Lord <NAME_MAG>!\You must like shame to have come back here.\A human-loving traitor like you deserves to be\punished like the bad, bad boy you are!
+FLD_KMES1_164,Flea: Oh, long time no see.\You know, no girl likes the ones who\can't take a hint.
+FLD_KMES1_165,Ozzie: Right! I'll, uh, just leave it to you, then, Flea!
+FLD_KMES1_166,Flea: All right! Time for a good, hard spanking!
+FLD_KMES1_167,Flea: Oh, just you wait!\I'll teach you a lesson next time!
+FLD_KMES1_168,Slash: You summoned?
+FLD_KMES1_169,Ozzie: D-don't you people ever give up?<PAGE>\Well, looks like there's only one choice...
+FLD_KMES1_170,Ozzie: Take care of this for me, will ya, Slash?
+FLD_KMES1_171,Ozzie: Im-impossible!
+FLD_KMES1_172,Ozzie's bungled that one!
+FLD_KMES1_173,Slash: Fortune favored you when last we met.\But it would seem your luck has run dry.
+FLD_KMES1_174,Slash: Normally I would not deign to cross\blades with my former lord, but who am I\to question the complex workings of fate?
+FLD_KMES1_175,Slash: Ready yourselves!
+FLD_KMES1_176,Slash: Hmph! You win this time.
+FLD_KMES1_177,Ozzie: Come on, sweethearts!
+FLD_KMES1_178,Ozzie: Mwa ha ha!\Gotcha!
+FLD_KMES1_179,Ozzie: Um...sweethearts? Don't you want to open\the treasure chest?
+FLD_KMES1_180,Oh! Treasure!
+FLD_KMES1_181,Probably filled with lots of nice goodies!
+FLD_KMES1_182,Ozzie: Heh heh. Not so fast, friends.\This time's not going to be so easy.
+FLD_KMES1_183,Ozzie: Ozzie Pants!
+FLD_KMES1_184,Flea: Flea Bustier!
+FLD_KMES1_185,Slash: Slasher II!
+FLD_KMES1_186,Ozzie: With these items combined, we're invincible!\Get ready to witness true power!
+FLD_KMES1_187,Ozzie: You can't defeat me!\What would become of fiendkind?\I can't lose! I won't!
+FLD_KMES1_188,Ozzie: <NAME_MAG>... You really have it out for\me, don't you? We fought side by side!\You said you wanted to create a world for fiends!\It was all a lie, wasn't it? You used me!<PAGE>\<NAME_MAG>: I sought power, nothing more.\Surely the howling of those bitter winds\does not escape your ear?\The end draws nigh.
+FLD_KMES1_189,<NAME_MAG>: The past is gone.\It was but a fleeting dream.
+FLD_KMES1_190,Ozzie: You're wasting your time!\You'll never defeat me!
+FLD_KMES1_191,Ozzie: Adios, amigos!
+FLD_KMES1_192,Ozzie: N-no! Not that switch!
+FLD_KMES1_193,<NAME_MAR>: Some people just don't know when to give\up.
+FLD_KMES1_194,<NAME_LUC>: What was he even trying to do?
+FLD_KMES1_195,<NAME_ROB>: I am unable to determine the logic\behind his actions.
+FLD_KMES1_196,<NAME_FRO>: Of all the half-witted fools...
+FLD_KMES1_197,<NAME_AYL>: What he want?\<NAME_AYL> not understand.
+FLD_KMES1_198,Tata the Hero: <NAME_MAG>!<WAIT>06</WAIT><AUTO_END>
+FLD_KMES1_199,
+FLD_KMES1_200,
+FLD_KMES1_201,
+FLD_KMES1_202,
+FLD_KMES1_203,
+FLD_KMES1_204,
+FLD_KMES1_205,
+FLD_KMES1_206,
+FLD_KMES1_207,
+FLD_KMES1_208,
+FLD_KMES1_209,
+FLD_KMES1_210,
+FLD_KMES1_211,
+FLD_KMES1_212,
+FLD_KMES1_213,
+FLD_KMES1_214,
+FLD_KMES1_215,
+FLD_KMES1_216,
+FLD_KMES1_217,
+FLD_KMES1_218,
+FLD_KMES1_219,
+FLD_KMES1_220,
+FLD_KMES1_221,
+FLD_KMES1_222,
+FLD_KMES1_223,
+FLD_KMES1_224,
+FLD_KMES1_225,
+FLD_KMES1_226,
+FLD_KMES1_227,
+FLD_KMES1_228,
+FLD_KMES1_229,
+FLD_KMES1_230,
+FLD_KMES1_231,
+FLD_KMES1_232,
+FLD_KMES1_233,
+FLD_KMES1_234,
+FLD_KMES1_235,
+FLD_KMES1_236,
+FLD_KMES1_237,
+FLD_KMES1_238,
+FLD_KMES1_239,
+FLD_KMES1_240,
+FLD_KMES1_241,
+FLD_KMES1_242,
+FLD_KMES1_243,
+FLD_KMES1_244,
+FLD_KMES1_245,
+FLD_KMES1_246,
+FLD_KMES1_247,
+FLD_KMES1_248,
+FLD_KMES1_249,
+FLD_KMES1_250,
+FLD_KMES1_251,
+FLD_KMES1_252,
+FLD_KMES1_253,
+FLD_KMES1_254,
+FLD_KMES1_255,<CT>\Obtained <NAME_ITM>!

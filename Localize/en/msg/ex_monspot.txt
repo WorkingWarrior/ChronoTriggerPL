@@ -1,0 +1,260 @@
+MSG_EX_MONSPOT_01,Present - Leene Square
+MSG_EX_MONSPOT_02,Present - Guardia Forest
+MSG_EX_MONSPOT_03,Present - Guardia Forest
+MSG_EX_MONSPOT_04,Present - Guardia Forest
+MSG_EX_MONSPOT_05,Present - Prison Towers
+MSG_EX_MONSPOT_06,Present - Prison Towers
+MSG_EX_MONSPOT_07,Present - Prison Towers\<S10><S10><S10><S6>- Market\Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_08,Present - Prison Towers\Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_09,Present - Heckran Cave
+MSG_EX_MONSPOT_10,Present - Heckran Cave
+MSG_EX_MONSPOT_11,Present - Heckran Cave
+MSG_EX_MONSPOT_12,Present - Heckran Cave
+MSG_EX_MONSPOT_13,Present - Heckran Cave
+MSG_EX_MONSPOT_14,Present - Northern Ruins
+MSG_EX_MONSPOT_15,Middle Ages - Truce Canyon
+MSG_EX_MONSPOT_16,Middle Ages - Truce Canyon\<S10><S10><S10><S10><S10><S1>- Guardia Forest
+MSG_EX_MONSPOT_17,Middle Ages - Truce Canyon\<S10><S10><S10><S10><S10><S1>- Guardia Forest\<S10><S10><S10><S10><S10><S1>- Magus's Keep
+MSG_EX_MONSPOT_18,Middle Ages - Truce Canyon
+MSG_EX_MONSPOT_19,Middle Ages - Truce Canyon
+MSG_EX_MONSPOT_20,Middle Ages - Truce Canyon\<S10><S10><S10><S10><S10><S1>- Guardia Forest
+MSG_EX_MONSPOT_21,Middle Ages - Guardia Forest
+MSG_EX_MONSPOT_22,Middle Ages - Cathedral\Present - Guardia Castle
+MSG_EX_MONSPOT_23,Middle Ages - Cathedral\Present - Guardia Castle
+MSG_EX_MONSPOT_24,Middle Ages - Cathedral\Present - Medina
+MSG_EX_MONSPOT_25,Middle Ages - Cathedral\Present - Medina
+MSG_EX_MONSPOT_26,Middle Ages - Cathedral
+MSG_EX_MONSPOT_27,Middle Ages - Zenan Bridge
+MSG_EX_MONSPOT_28,Middle Ages - Denadoro Mts.
+MSG_EX_MONSPOT_29,Middle Ages - Denadoro Mts.
+MSG_EX_MONSPOT_30,Middle Ages - Denadoro Mts.
+MSG_EX_MONSPOT_31,Middle Ages - Denadoro Mts.
+MSG_EX_MONSPOT_32,Middle Ages - Cursed Woods
+MSG_EX_MONSPOT_33,Middle Ages - Cursed Woods
+MSG_EX_MONSPOT_34,Middle Ages - Magic Cave
+MSG_EX_MONSPOT_35,Middle Ages - Magic Cave\<S10><S10><S10><S10><S10><S1>- Magus's Keep
+MSG_EX_MONSPOT_36,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_37,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_38,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_39,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_40,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_41,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_42,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_43,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_44,Middle Ages - Magus's Keep
+MSG_EX_MONSPOT_45,Middle Ages - Northern Ruins
+MSG_EX_MONSPOT_46,Middle Ages - Northern Ruins
+MSG_EX_MONSPOT_47,Middle Ages - Northern Ruins
+MSG_EX_MONSPOT_48,Middle Ages - Northern Ruins
+MSG_EX_MONSPOT_49,Middle Ages - Northern Ruins
+MSG_EX_MONSPOT_50,Middle Ages - Sunken Desert
+MSG_EX_MONSPOT_51,Middle Ages - Sunken Desert
+MSG_EX_MONSPOT_52,Middle Ages - Giant's Claw
+MSG_EX_MONSPOT_53,Middle Ages - Giant's Claw
+MSG_EX_MONSPOT_54,Middle Ages - Giant's Claw
+MSG_EX_MONSPOT_55,Middle Ages - Giant's Claw
+MSG_EX_MONSPOT_56,Future - Site 16
+MSG_EX_MONSPOT_57,Future - Site 16
+MSG_EX_MONSPOT_58,Future - Site 16
+MSG_EX_MONSPOT_59,Middle Ages - Magus's Keep\Future - Arris Dome\<S10><S10><S10><S1>- Sites 16 and 32
+MSG_EX_MONSPOT_60,Future - Site 16\<S10><S10><S10><S1>- Site 32
+MSG_EX_MONSPOT_61,Future - Arris Dome\<S10><S10><S10><S1>- Abandoned Sewers
+MSG_EX_MONSPOT_62,Future - Arris Dome\<S10><S10><S10><S1>- Proto Dome
+MSG_EX_MONSPOT_63,Future - Arris Dome\<S10><S10><S10><S1>- Derelict Factory
+MSG_EX_MONSPOT_64,Future - Arris Dome\<S10><S10><S10><S1>- Site 32
+MSG_EX_MONSPOT_65,Future - Abandoned Sewers
+MSG_EX_MONSPOT_66,Future - Abandoned Sewers
+MSG_EX_MONSPOT_67,Future - Derelict Factory
+MSG_EX_MONSPOT_68,Future - Derelict Factory
+MSG_EX_MONSPOT_69,Future - Derelict Factory
+MSG_EX_MONSPOT_70,Future - Derelict Factory
+MSG_EX_MONSPOT_71,Future - Death Peak
+MSG_EX_MONSPOT_72,Future - Death Peak
+MSG_EX_MONSPOT_73,Future - Geno Dome
+MSG_EX_MONSPOT_74,Future - Geno Dome
+MSG_EX_MONSPOT_75,Future - Geno Dome\Black Omen
+MSG_EX_MONSPOT_76,Prehistory - Mystic Mts.\<S10><S10><S10><S10><S7>- Reptite Lair
+MSG_EX_MONSPOT_77,Prehistory - Mystic Mts.\<S10><S10><S10><S10><S7>- Forest Maze
+MSG_EX_MONSPOT_78,Prehistory - Mystic Mts.\<S10><S10><S10><S10><S7>- Forest Maze
+MSG_EX_MONSPOT_79,Prehistory - Hunting Range
+MSG_EX_MONSPOT_80,Prehistory - Hunting Range
+MSG_EX_MONSPOT_81,Prehistory - Forest Maze
+MSG_EX_MONSPOT_82,Prehistory - Forest Maze
+MSG_EX_MONSPOT_83,Prehistory - Forest Maze\<S10><S10><S10><S10><S7>- Reptite Lair
+MSG_EX_MONSPOT_84,Prehistory - Reptite Lair
+MSG_EX_MONSPOT_85,Prehistory - Reptite Lair
+MSG_EX_MONSPOT_86,Prehistory - Reptite Lair
+MSG_EX_MONSPOT_87,Prehistory - Reptite Lair
+MSG_EX_MONSPOT_88,Prehistory - Dactyl Nest\<S10><S10><S10><S10><S7>- Tyranno Lair
+MSG_EX_MONSPOT_89,Prehistory - Dactyl Nest\<S10><S10><S10><S10><S7>- Tyranno Lair
+MSG_EX_MONSPOT_90,Prehistory - Dactyl Nest
+MSG_EX_MONSPOT_91,Prehistory - Tyranno Lair
+MSG_EX_MONSPOT_92,Prehistory - Tyranno Lair
+MSG_EX_MONSPOT_93,Prehistory - Tyranno Lair
+MSG_EX_MONSPOT_94,Antiquity - Mudbeast Den
+MSG_EX_MONSPOT_95,Antiquity - Mountain of Woe\Middle Ages - Giant's Claw
+MSG_EX_MONSPOT_96,Antiquity - Mountain of Woe
+MSG_EX_MONSPOT_97,Antiquity - Mountain of Woe
+MSG_EX_MONSPOT_98,Antiquity - Mountain of Woe
+MSG_EX_MONSPOT_99,Antiquity - Mountain of Woe
+MSG_EX_MONSPOT_100,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_101,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_102,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_103,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_104,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_105,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_106,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_107,Antiquity - Ocean Palace
+MSG_EX_MONSPOT_108,Antiquity - Blackbird
+MSG_EX_MONSPOT_109,Antiquity - Blackbird
+MSG_EX_MONSPOT_110,Antiquity - Blackbird
+MSG_EX_MONSPOT_111,Black Omen
+MSG_EX_MONSPOT_112,Black Omen
+MSG_EX_MONSPOT_113,Black Omen
+MSG_EX_MONSPOT_114,Black Omen
+MSG_EX_MONSPOT_115,Black Omen
+MSG_EX_MONSPOT_116,Black Omen
+MSG_EX_MONSPOT_117,Black Omen
+MSG_EX_MONSPOT_118,Black Omen
+MSG_EX_MONSPOT_119,Black Omen
+MSG_EX_MONSPOT_120,Black Omen
+MSG_EX_MONSPOT_121,Black Omen
+MSG_EX_MONSPOT_122,Black Omen
+MSG_EX_MONSPOT_123,Black Omen
+MSG_EX_MONSPOT_124,Black Omen
+MSG_EX_MONSPOT_125,Middle Ages - Cursed Woods\Prehistory - Hunting Range\Antiquity - Enhasa
+MSG_EX_MONSPOT_126,End of Time
+MSG_EX_MONSPOT_127,End of Time
+MSG_EX_MONSPOT_128,End of Time
+MSG_EX_MONSPOT_129,End of Time
+MSG_EX_MONSPOT_130,End of Time
+MSG_EX_MONSPOT_131,End of Time
+MSG_EX_MONSPOT_132,Lost Sanctum
+MSG_EX_MONSPOT_133,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_134,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_135,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_136,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_137,Lost Sanctum
+MSG_EX_MONSPOT_138,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_139,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_140,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_141,Lost Sanctum
+MSG_EX_MONSPOT_142,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_143,Lost Sanctum
+MSG_EX_MONSPOT_144,Lost Sanctum
+MSG_EX_MONSPOT_145,Lost Sanctum
+MSG_EX_MONSPOT_146,Lost Sanctum
+MSG_EX_MONSPOT_147,Lost Sanctum
+MSG_EX_MONSPOT_148,Lost Sanctum
+MSG_EX_MONSPOT_149,Lost Sanctum
+MSG_EX_MONSPOT_150,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_151,Lost Sanctum\Dimensional Vortex
+MSG_EX_MONSPOT_152,Dimensional Vortex
+MSG_EX_MONSPOT_153,Dimensional Vortex
+MSG_EX_MONSPOT_154,Dimensional Vortex
+MSG_EX_MONSPOT_155,Dimensional Vortex
+MSG_EX_MONSPOT_156,Dimensional Vortex
+MSG_EX_MONSPOT_157,Dimensional Vortex
+MSG_EX_MONSPOT_158,Dimensional Vortex
+MSG_EX_MONSPOT_159,
+MSG_EX_MONSPOT_160,
+MSG_EX_BOSSSPOT_01,Middle Ages - Cathedral
+MSG_EX_BOSSSPOT_02,Present - Prison Towers
+MSG_EX_BOSSSPOT_03,Present - Prison Towers
+MSG_EX_BOSSSPOT_04,Present - Prison Towers
+MSG_EX_BOSSSPOT_05,Future - Arris Dome
+MSG_EX_BOSSSPOT_06,Future - Arris Dome
+MSG_EX_BOSSSPOT_07,Future - Abandoned Sewers
+MSG_EX_BOSSSPOT_08,Future - Derelict Factory
+MSG_EX_BOSSSPOT_09,Present - Heckran Cave
+MSG_EX_BOSSSPOT_10,Middle Ages - Zenan Bridge
+MSG_EX_BOSSSPOT_11,Middle Ages - Zenan Bridge
+MSG_EX_BOSSSPOT_12,Middle Ages - Zenan Bridge
+MSG_EX_BOSSSPOT_13,Middle Ages - Denadoro Mts.
+MSG_EX_BOSSSPOT_14,Middle Ages - Denadoro Mts.
+MSG_EX_BOSSSPOT_15,Middle Ages - Denadoro Mts.
+MSG_EX_BOSSSPOT_16,Prehistory - Reptite Lair
+MSG_EX_BOSSSPOT_17,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_18,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_19,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_20,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_21,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_22,Middle Ages - Magus's Keep
+MSG_EX_BOSSSPOT_23,Prehistory - Tyranno Lair
+MSG_EX_BOSSSPOT_24,Prehistory - Tyranno Lair
+MSG_EX_BOSSSPOT_25,Prehistory - Tyranno Lair
+MSG_EX_BOSSSPOT_26,Antiquity - Zeal Palace\<S10><S10><S10><S10>- Ocean Palace
+MSG_EX_BOSSSPOT_27,Antiquity - Mudbeast Den
+MSG_EX_BOSSSPOT_28,Antiquity - Mudbeast Den
+MSG_EX_BOSSSPOT_29,Antiquity - Mudbeast Den
+MSG_EX_BOSSSPOT_30,Antiquity - Mountain of Woe
+MSG_EX_BOSSSPOT_31,Antiquity - Mountain of Woe
+MSG_EX_BOSSSPOT_32,Antiquity - Mountain of Woe
+MSG_EX_BOSSSPOT_33,Antiquity - Zeal Palace
+MSG_EX_BOSSSPOT_34,Antiquity - Ocean Palace
+MSG_EX_BOSSSPOT_35,Antiquity - Blackbird
+MSG_EX_BOSSSPOT_36,Antiquity - Blackbird
+MSG_EX_BOSSSPOT_37,Antiquity - North Cape
+MSG_EX_BOSSSPOT_38,Future - Death Peak
+MSG_EX_BOSSSPOT_39,Future - Death Peak
+MSG_EX_BOSSSPOT_40,Middle Ages - Sunken Desert
+MSG_EX_BOSSSPOT_41,Middle Ages - Sunken Desert
+MSG_EX_BOSSSPOT_42,Middle Ages - Sunken Desert
+MSG_EX_BOSSSPOT_43,Middle Ages - Ozzie's Fort
+MSG_EX_BOSSSPOT_44,Middle Ages - Ozzie's Fort
+MSG_EX_BOSSSPOT_45,Middle Ages - Ozzie's Fort
+MSG_EX_BOSSSPOT_46,Middle Ages - Ozzie's Fort
+MSG_EX_BOSSSPOT_47,Middle Ages - Ozzie's Fort
+MSG_EX_BOSSSPOT_48,Future - Geno Dome
+MSG_EX_BOSSSPOT_49,Future - Geno Dome
+MSG_EX_BOSSSPOT_50,Future - Geno Dome
+MSG_EX_BOSSSPOT_51,Future - Sun Temple
+MSG_EX_BOSSSPOT_52,Future - Sun Temple
+MSG_EX_BOSSSPOT_53,Middle Ages - Giant's Claw
+MSG_EX_BOSSSPOT_54,Present - Guardia Castle
+MSG_EX_BOSSSPOT_55,Black Omen
+MSG_EX_BOSSSPOT_56,Black Omen
+MSG_EX_BOSSSPOT_57,Black Omen
+MSG_EX_BOSSSPOT_58,Black Omen
+MSG_EX_BOSSSPOT_59,Black Omen
+MSG_EX_BOSSSPOT_60,Black Omen
+MSG_EX_BOSSSPOT_61,Black Omen
+MSG_EX_BOSSSPOT_62,Black Omen
+MSG_EX_BOSSSPOT_63,Black Omen
+MSG_EX_BOSSSPOT_64,Black Omen
+MSG_EX_BOSSSPOT_65,Black Omen
+MSG_EX_BOSSSPOT_66,Black Omen
+MSG_EX_BOSSSPOT_67,Black Omen
+MSG_EX_BOSSSPOT_68,? ? ?
+MSG_EX_BOSSSPOT_69,? ? ?
+MSG_EX_BOSSSPOT_70,? ? ?
+MSG_EX_BOSSSPOT_71,? ? ?
+MSG_EX_BOSSSPOT_72,? ? ?
+MSG_EX_BOSSSPOT_73,? ? ?
+MSG_EX_BOSSSPOT_74,? ? ?
+MSG_EX_BOSSSPOT_75,? ? ?
+MSG_EX_BOSSSPOT_76,Lost Sanctum
+MSG_EX_BOSSSPOT_77,Lost Sanctum
+MSG_EX_BOSSSPOT_78,Lost Sanctum
+MSG_EX_BOSSSPOT_79,Lost Sanctum
+MSG_EX_BOSSSPOT_80,Lost Sanctum
+MSG_EX_BOSSSPOT_81,Lost Sanctum
+MSG_EX_BOSSSPOT_82,Lost Sanctum
+MSG_EX_BOSSSPOT_83,Dimensional Vortex
+MSG_EX_BOSSSPOT_84,Dimensional Vortex
+MSG_EX_BOSSSPOT_85,Dimensional Vortex
+MSG_EX_BOSSSPOT_86,Dimensional Vortex
+MSG_EX_BOSSSPOT_87,Dimensional Vortex
+MSG_EX_BOSSSPOT_88,Beyond Time's Eclipse
+MSG_EX_BOSSSPOT_89,
+MSG_EX_BOSSSPOT_90,
+MSG_EX_BOSSSPOT_91,
+MSG_EX_BOSSSPOT_92,
+MSG_EX_BOSSSPOT_93,
+MSG_EX_BOSSSPOT_94,
+MSG_EX_BOSSSPOT_95,
+MSG_EX_BOSSSPOT_96,
+MSG_EX_BOSSSPOT_97,
+MSG_EX_BOSSSPOT_98,
+MSG_EX_BOSSSPOT_99,
+MSG_EX_BOSSSPOT_100,

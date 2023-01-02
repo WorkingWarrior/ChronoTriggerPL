@@ -1,0 +1,257 @@
+MSG_EX_ITEM_01,Potion
+MSG_EX_ITEM_02,Mid-Potion
+MSG_EX_ITEM_03,Hi-Potion
+MSG_EX_ITEM_04,Ether
+MSG_EX_ITEM_05,Mid-Ether
+MSG_EX_ITEM_06,Hi-Ether
+MSG_EX_ITEM_07,Turbo Ether
+MSG_EX_ITEM_08,Elixir
+MSG_EX_ITEM_09,Megalixir
+MSG_EX_ITEM_10,Panacea
+MSG_EX_ITEM_11,Athenian Water
+MSG_EX_ITEM_12,Lapis
+MSG_EX_ITEM_13,Mop
+MSG_EX_ITEM_14,Wooden Sword
+MSG_EX_ITEM_15,Bronze Blade
+MSG_EX_ITEM_16,Steel Saber
+MSG_EX_ITEM_17,Silver Sword
+MSG_EX_ITEM_18,Thunder Blade
+MSG_EX_ITEM_19,Crimson Blade
+MSG_EX_ITEM_20,Mammoth Tusk
+MSG_EX_ITEM_21,Slasher
+MSG_EX_ITEM_22,Primeval Blade
+MSG_EX_ITEM_23,Zanmato
+MSG_EX_ITEM_24,Vajra Sword
+MSG_EX_ITEM_25,Empyrean Blade
+MSG_EX_ITEM_26,Yaksha Blade
+MSG_EX_ITEM_27,Swallow
+MSG_EX_ITEM_28,Onimaru
+MSG_EX_ITEM_29,Slasher II
+MSG_EX_ITEM_30,Suzaku
+MSG_EX_ITEM_31,Rainbow
+MSG_EX_ITEM_32,Bronze Bowgun
+MSG_EX_ITEM_33,Iron Bowgun
+MSG_EX_ITEM_34,Silver Bow
+MSG_EX_ITEM_35,Bandit's Bow
+MSG_EX_ITEM_36,Shaman's Bow
+MSG_EX_ITEM_37,Dreamstone Bow
+MSG_EX_ITEM_38,Comet Bow
+MSG_EX_ITEM_39,Sonic Bow
+MSG_EX_ITEM_40,Siren's Kiss
+MSG_EX_ITEM_41,Valkyrie Bow
+MSG_EX_ITEM_42,Airgun
+MSG_EX_ITEM_43,Pea Shooter
+MSG_EX_ITEM_44,Pocket Blaster
+MSG_EX_ITEM_45,Plasma Gun
+MSG_EX_ITEM_46,Ruby Gun
+MSG_EX_ITEM_47,Dreamstone Gun
+MSG_EX_ITEM_48,Megablaster
+MSG_EX_ITEM_49,Shockwave
+MSG_EX_ITEM_50,Wondershot
+MSG_EX_ITEM_51,Bronze Sword
+MSG_EX_ITEM_52,Iron Sword
+MSG_EX_ITEM_53,Radiant Blade
+MSG_EX_ITEM_54,Smiter's Blade
+MSG_EX_ITEM_55,Rune Blade
+MSG_EX_ITEM_56,Demonslayer
+MSG_EX_ITEM_57,Brave Sword
+MSG_EX_ITEM_58,Masamune
+MSG_EX_ITEM_59,Masamune
+MSG_EX_ITEM_60,Tin Arm
+MSG_EX_ITEM_61,Hammer Arm
+MSG_EX_ITEM_62,Mirage Hand
+MSG_EX_ITEM_63,Stone Arm
+MSG_EX_ITEM_64,Death Claw
+MSG_EX_ITEM_65,Magma Hand
+MSG_EX_ITEM_66,Megaton Arm
+MSG_EX_ITEM_67,Heavy Hand
+MSG_EX_ITEM_68,Kaiser Arm
+MSG_EX_ITEM_69,Gigaton Arm
+MSG_EX_ITEM_70,Teraton Arm
+MSG_EX_ITEM_71,Crisis Arm
+MSG_EX_ITEM_72,Moonfall Scythe
+MSG_EX_ITEM_73,Headman's Scythe
+MSG_EX_ITEM_74,Hadean Sickle
+MSG_EX_ITEM_75,Doom Scythe
+MSG_EX_ITEM_76,Hide Tunic
+MSG_EX_ITEM_77,Padded Vest
+MSG_EX_ITEM_78,Bronze Armor
+MSG_EX_ITEM_79,Maiden's Suit
+MSG_EX_ITEM_80,Iron Suit
+MSG_EX_ITEM_81,Titanium Vest
+MSG_EX_ITEM_82,Taban's Vest
+MSG_EX_ITEM_83,Golden Suit
+MSG_EX_ITEM_84,Ruby Vest
+MSG_EX_ITEM_85,Dark Mail
+MSG_EX_ITEM_86,White Vest
+MSG_EX_ITEM_87,Black Vest
+MSG_EX_ITEM_88,Blue Vest
+MSG_EX_ITEM_89,Red Vest
+MSG_EX_ITEM_90,Mesozoic Mail
+MSG_EX_ITEM_91,Mist Robe
+MSG_EX_ITEM_92,Luminous Robe
+MSG_EX_ITEM_93,Radiant Plate
+MSG_EX_ITEM_94,White Plate
+MSG_EX_ITEM_95,Black Plate
+MSG_EX_ITEM_96,Blue Plate
+MSG_EX_ITEM_97,Red Plate
+MSG_EX_ITEM_98,Platinum Vest
+MSG_EX_ITEM_99,Aeonian Suit
+MSG_EX_ITEM_100,Raven Armor
+MSG_EX_ITEM_101,Ruby Armor
+MSG_EX_ITEM_102,Taban's Suit
+MSG_EX_ITEM_103,Zodiac Cape
+MSG_EX_ITEM_104,Nova Armor
+MSG_EX_ITEM_105,Gloom Cape
+MSG_EX_ITEM_106,Moonbeam Armor
+MSG_EX_ITEM_107,Prismatic Dress
+MSG_EX_ITEM_108,Hide Cap
+MSG_EX_ITEM_109,Bronze Helm
+MSG_EX_ITEM_110,Iron Helm
+MSG_EX_ITEM_111,Porrean Beret
+MSG_EX_ITEM_112,Golden Helm
+MSG_EX_ITEM_113,Stone Helm
+MSG_EX_ITEM_114,Triceratopper
+MSG_EX_ITEM_115,Taban's Helm
+MSG_EX_ITEM_116,Radiant Helm
+MSG_EX_ITEM_117,Platinum Helm
+MSG_EX_ITEM_118,Doom Helm
+MSG_EX_ITEM_119,Clarity Cap
+MSG_EX_ITEM_120,Memory Cap
+MSG_EX_ITEM_121,Time Hat
+MSG_EX_ITEM_122,Aeonian Helm
+MSG_EX_ITEM_123,Mermaid Helm
+MSG_EX_ITEM_124,Rainbow Helm
+MSG_EX_ITEM_125,Dark Helm
+MSG_EX_ITEM_126,Haste Helm
+MSG_EX_ITEM_127,Vigilant's Hat
+MSG_EX_ITEM_128,Guardian Helm
+MSG_EX_ITEM_129,Prismatic Helm
+MSG_EX_ITEM_130,Gloom Helm
+MSG_EX_ITEM_131,Ozzie Pants
+MSG_EX_ITEM_132,Headband
+MSG_EX_ITEM_133,Ribbon
+MSG_EX_ITEM_134,Power Glove
+MSG_EX_ITEM_135,Guardian Bangle
+MSG_EX_ITEM_136,Magic Scarf
+MSG_EX_ITEM_137,Schala's Amulet
+MSG_EX_ITEM_138,Speed Ring
+MSG_EX_ITEM_139,Acuity Ring
+MSG_EX_ITEM_140,Power Ring
+MSG_EX_ITEM_141,Magic Ring
+MSG_EX_ITEM_142,Barrier Ring
+MSG_EX_ITEM_143,Silver Earring
+MSG_EX_ITEM_144,Golden Earring
+MSG_EX_ITEM_145,Silver Stud
+MSG_EX_ITEM_146,Golden Stud
+MSG_EX_ITEM_147,Sight Scope
+MSG_EX_ITEM_148,Alluring Top
+MSG_EX_ITEM_149,Rage Band
+MSG_EX_ITEM_150,Wrath Band
+MSG_EX_ITEM_151,Third Eye
+MSG_EX_ITEM_152,Workman's Wallet
+MSG_EX_ITEM_153,Green Dream
+MSG_EX_ITEM_154,Berserker Ring
+MSG_EX_ITEM_155,Power Scarf
+MSG_EX_ITEM_156,Speed Belt
+MSG_EX_ITEM_157,Black Gemstone
+MSG_EX_ITEM_158,Blue Gemstone
+MSG_EX_ITEM_159,Silver Gemstone
+MSG_EX_ITEM_160,White Gemstone
+MSG_EX_ITEM_161,Golden Gemstone
+MSG_EX_ITEM_162,Hero's Badge
+MSG_EX_ITEM_163,Muscle Ring
+MSG_EX_ITEM_164,Flea Bustier
+MSG_EX_ITEM_165,Magic Crest
+MSG_EX_ITEM_166,Power Crest
+MSG_EX_ITEM_167,Sunglasses
+MSG_EX_ITEM_168,Prism Spectacles
+MSG_EX_ITEM_169,Shelter
+MSG_EX_ITEM_170,Lunch
+MSG_EX_ITEM_171,Barrier Sphere
+MSG_EX_ITEM_172,Shield Sphere
+MSG_EX_ITEM_173,Strength Capsule
+MSG_EX_ITEM_174,Magic Capsule
+MSG_EX_ITEM_175,Speed Capsule
+MSG_EX_ITEM_176,Spiced Jerky
+MSG_EX_ITEM_177,Blue Vest -OR- Blue Plate
+MSG_EX_ITEM_178,Red Vest -OR- Red Plate
+MSG_EX_ITEM_179,White Vest -OR- White Plate
+MSG_EX_ITEM_180,Black Vest -OR- Black Plate
+MSG_EX_ITEM_181,3 Prismatic Helms -OR- Prismatic Dress
+MSG_EX_ITEM_182,Onimaru -OR- Suzaku
+MSG_EX_ITEM_183,Siren's Kiss -OR- Valkyrie Bow
+MSG_EX_ITEM_184,Nova Armor -OR- Moonbeam Armor
+MSG_EX_ITEM_185,Barrier Ring + Speed Ring
+MSG_EX_ITEM_186,5 Ethers
+MSG_EX_ITEM_187,10 Mid-Ethers
+MSG_EX_ITEM_188,5 Hi-Ethers
+MSG_EX_ITEM_189,5 Mid-Potions
+MSG_EX_ITEM_190,10 Mid-Potions
+MSG_EX_ITEM_191,10 Strength Capsules
+MSG_EX_ITEM_192,10 Magic Capsules
+MSG_EX_ITEM_193,10 Speed Capsules
+MSG_EX_ITEM_194,10 Elixirs
+MSG_EX_ITEM_195,Chancellor
+MSG_EX_ITEM_196,Yakra's Key
+MSG_EX_ITEM_197,Broken Blade
+MSG_EX_ITEM_198,Broken Hilt
+MSG_EX_ITEM_199,Race Recorder
+MSG_EX_ITEM_200,Lead Character's Equipment
+MSG_EX_ITEM_201,Second Character's Equipment
+MSG_EX_ITEM_202,Third Character's Equipment
+MSG_EX_ITEM_203,Capsule Replica
+MSG_EX_ITEM_204,Moon Stone
+MSG_EX_ITEM_205,Strength Capsule + Spiced Jerky
+MSG_EX_ITEM_206,Money
+MSG_EX_ITEM_207,Item
+MSG_EX_ITEM_208,Naga Bromide
+MSG_EX_ITEM_209,White Gemstone
+MSG_EX_ITEM_210,Atropos's Ribbon
+MSG_EX_ITEM_211,Seed
+MSG_EX_ITEM_212,5 Mid-Ethers
+MSG_EX_ITEM_213,10 Megalixirs
+MSG_EX_ITEM_214,Icewyrm
+MSG_EX_ITEM_215,Stardust Bow
+MSG_EX_ITEM_216,Turboshot
+MSG_EX_ITEM_217,Dinoblade
+MSG_EX_ITEM_218,Dragon Arm
+MSG_EX_ITEM_219,Judgment Scythe
+MSG_EX_ITEM_220,Dreamseeker
+MSG_EX_ITEM_221,Venus Bow
+MSG_EX_ITEM_222,Spellslinger
+MSG_EX_ITEM_223,Apocalypse Arm
+MSG_EX_ITEM_224,Dreamreaper
+MSG_EX_ITEM_225,Dragon Armor
+MSG_EX_ITEM_226,Reptite Dress
+MSG_EX_ITEM_227,Saurian Leathers
+MSG_EX_ITEM_228,Regal Plate
+MSG_EX_ITEM_229,Regal Gown
+MSG_EX_ITEM_230,Elemental Aegis
+MSG_EX_ITEM_231,Shadowplume Robe
+MSG_EX_ITEM_232,Dragonhead
+MSG_EX_ITEM_233,Reptite Tiara
+MSG_EX_ITEM_234,Master's Crown
+MSG_EX_ITEM_235,Angel's Tiara
+MSG_EX_ITEM_236,Valor Crest
+MSG_EX_ITEM_237,Champion's Badge
+MSG_EX_ITEM_238,Dragon's Tear
+MSG_EX_ITEM_239,Golden Sand
+MSG_EX_ITEM_240,Golden Hammer
+MSG_EX_ITEM_241,Prismastone
+MSG_EX_ITEM_242,Saintstone
+MSG_EX_ITEM_243,Reptmark
+MSG_EX_ITEM_244,Waystone
+MSG_EX_ITEM_245,Godwood
+MSG_EX_ITEM_246,Steel Ingot
+MSG_EX_ITEM_247,Sturdy Vines
+MSG_EX_ITEM_248,Hearty Lunch
+MSG_EX_ITEM_249,2 of Each Capsule
+MSG_EX_ITEM_250,5 Megalixirs
+MSG_EX_ITEM_251,Rusted Blade
+MSG_EX_ITEM_252,Lumicite Shard
+MSG_EX_ITEM_253,100,000 G
+MSG_EX_ITEM_254,3 Petals
+MSG_EX_ITEM_255,3 Fangs
+MSG_EX_ITEM_256,3 Horns
+MSG_EX_ITEM_257,3 Feathers

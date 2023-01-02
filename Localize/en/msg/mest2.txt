@@ -1,0 +1,256 @@
+FLD_MEST2_000,<NAME_MAR>: What!?
+FLD_MEST2_001,<NAME_LUC>: This must be the Day of...of...!
+FLD_MEST2_002,<NAME_ROB>: Energy reading at 100!\200, and increasing!
+FLD_MEST2_003,<NAME_FRO>: What dark sorcery is this?
+FLD_MEST2_004,<NAME_AYL>: !
+FLD_MEST2_005,<NAME_MAG>: He comes.
+FLD_MEST2_006,<NAME_MAR>: It's emerging?
+FLD_MEST2_007,<NAME_LUC>: No way!
+FLD_MEST2_008,<NAME_ROB>: 1999 A.D.! Date confirmed!\The time is 1:24!\This is the precise moment!
+FLD_MEST2_009,<NAME_FRO>: Lavos?
+FLD_MEST2_010,<NAME_AYL>: He strong!\Strong, strong, strong!
+FLD_MEST2_011,<NAME_MAG>: Come... Face me!
+FLD_MEST2_012,<NAME_MAR>: That...that's—!
+FLD_MEST2_013,<NAME_LUC>: Oh, my...
+FLD_MEST2_014,<NAME_ROB>: Offensive capabilities...incalculable!
+FLD_MEST2_015,<NAME_FRO>: Sweet mercy...\The size of it!
+FLD_MEST2_016,<NAME_AYL>: Ooohhhh...
+FLD_MEST2_017,<NAME_MAG>: Oh, how I've awaited this!
+FLD_MEST2_018,Lavos...
+FLD_MEST2_019,<NAME_MAR>: <NAME_PT1>! What do we do?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_020,<NAME_LUC>: Are...are we really going on?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_021,<NAME_ROB>: <NAME_PT1>, shall we go?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_022,<NAME_FRO>: <NAME_PT1>! Do you truly mean to do this?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_023,<NAME_AYL>: Fight now?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_024,<NAME_MAG>: Hmph. You grow hesitant?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Flee for now.</C2>
+FLD_MEST2_025,<NAME_MAR>: You're right!\For Doan and the others, too!
+FLD_MEST2_026,<NAME_LUC>: Ours was a short youth!
+FLD_MEST2_027,<NAME_ROB>: Understood! Let us go!
+FLD_MEST2_028,<NAME_FRO>: Masamune, do not fail me now!
+FLD_MEST2_029,<NAME_AYL>: <NAME_AYL> no run!\<NAME_AYL> fight!
+FLD_MEST2_030,<NAME_MAG>: Finally, I shall destroy you for good\and all!
+FLD_MEST2_031,Did we do it?
+FLD_MEST2_032,<NAME_MAR>: Unbelievable!
+FLD_MEST2_033,<NAME_LUC>: It's finally over.
+FLD_MEST2_034,<NAME_ROB>: Mission accomplished!
+FLD_MEST2_035,<NAME_FRO>: He is truly slain?
+FLD_MEST2_036,<NAME_AYL>: Lavos lose!\<NAME_AYL> most strong!
+FLD_MEST2_037,<NAME_MAG>: It is done? Hmm...
+FLD_MEST2_038,<NAME_MAR>: Look, a hole!
+FLD_MEST2_039,<NAME_LUC>: Did we make that?
+FLD_MEST2_040,<NAME_ROB>: Did that hole result from the damage\we inflicted?
+FLD_MEST2_041,<NAME_FRO>: That hole...\Did we open that?
+FLD_MEST2_042,<NAME_AYL>: Lavos...hole!
+FLD_MEST2_043,<NAME_MAG>: The carapace is dead.
+FLD_MEST2_044,<NAME_MAR>: This couldn't be enough to have\done in something so strong!
+FLD_MEST2_045,<NAME_LUC>: I wish it were over, but I get the\feeling it's not.
+FLD_MEST2_046,<NAME_ROB>: I detect even more powerful life force\within Lavos's shell!
+FLD_MEST2_047,<NAME_FRO>: I cannot think this the end of such\a creature.
+FLD_MEST2_048,<NAME_AYL>: This, Lavos shell.\Inside, still strong!
+FLD_MEST2_049,<NAME_MAG>: Be wary!\The end is yet far.
+FLD_MEST2_050,<NAME_MAR>: L-let's go in, then.
+FLD_MEST2_051,<NAME_LUC>: Ugh...\I guess we don't have a choice.
+FLD_MEST2_052,<NAME_ROB>: We must enter the interior and destroy\its core!
+FLD_MEST2_053,<NAME_FRO>: These plates are but its armor!\What we need destroy lies within.
+FLD_MEST2_054,<NAME_AYL>: <NAME_AYL> no lose!
+FLD_MEST2_055,<NAME_MAG>: I will sever the wick of your life's\candle, Lavos!
+FLD_MEST2_056,Operator: Tr-Truce!\Direct impact on Truce!
+FLD_MEST2_057,Director: Calm yourself!\Give me a full status update!
+FLD_MEST2_058,Operator: Porre...Choras...Medina!<PAGE>\They've all been destroyed!
+FLD_MEST2_059,Director: ...
+FLD_MEST2_060,Operator: Director, we've got incoming!
+FLD_MEST2_061,Director: Evacuate to the shelter dome!
+FLD_MEST2_062,Operator: Director!\Sir, you must come with us!
+FLD_MEST2_063,Director: There's no time!\Get moving!
+FLD_MEST2_064,Operator: Y-yes, sir!
+FLD_MEST2_065,Director: ...<PAGE>\Lavos...
+FLD_MEST2_066,<NAME_MAR>: Eeeek!
+FLD_MEST2_067,<NAME_LUC>: We're all right, aren't we?!
+FLD_MEST2_068,<NAME_ROB>: Unbelievable energy readings!\It is as if the total mental energy of all\humans who ever lived were being amplified!
+FLD_MEST2_069,<NAME_FRO>: Wh-what's this?
+FLD_MEST2_070,<NAME_AYL>: <NAME_SIL> alive?
+FLD_MEST2_071,<NAME_MAR>: Wow!
+FLD_MEST2_072,<NAME_LUC>: Interdimensional travel at warp speed!
+FLD_MEST2_073,<NAME_ROB>: Even in my time, we did not have vehicles\capable of time travel!
+FLD_MEST2_074,<NAME_FRO>: Whoa!
+FLD_MEST2_075,<NAME_AYL>: This great!\Fast, fast!
+FLD_MEST2_076,The <NAME_SIL> is capable of this?
+FLD_MEST2_077,<NAME_MAR>: <NAME_CRO>'s gotta be somewhere!\I'll find him!
+FLD_MEST2_078,<NAME_LUC>: <NAME_CRO> might be on this island.
+FLD_MEST2_079,<NAME_ROB>: We should search for <NAME_CRO>.
+FLD_MEST2_080,<NAME_FRO>: We must find <NAME_CRO>, regardless of\what fate may have befallen him.
+FLD_MEST2_081,<NAME_AYL>: Find <NAME_CRO>!\<NAME_CRO> alive!\<NAME_AYL> know!
+FLD_MEST2_082,<NAME_MAR>: What's that?
+FLD_MEST2_083,<NAME_LUC>: Impossible!\I'm picking up interference from an enormous Gate!\Could it be Lavos!?
+FLD_MEST2_084,<NAME_ROB>: The <NAME_SIL>'s space-time compass has\gone haywire!
+FLD_MEST2_085,<NAME_FRO>: !?
+FLD_MEST2_086,<NAME_MAG>: That's...!
+FLD_MEST2_087,<NAME_MAR>: It's like it's calling us.
+FLD_MEST2_088,<NAME_LUC>: It feels like we're going to get\sucked in there.
+FLD_MEST2_089,<NAME_ROB>: It is enormous!\I detect a tremendous amount of mental energy!
+FLD_MEST2_090,<NAME_FRO>: D-Death's Ferry?\Has it come for us?
+FLD_MEST2_091,<NAME_AYL>: <NAME_AYL> no like boat.\Boat no like <NAME_AYL>!
+FLD_MEST2_092,<NAME_MAG>: The Ocean Palace?\But—no!
+FLD_MEST2_093,<NAME_MAG>: We'll break our way through.
+FLD_MEST2_094,<NAME_AYL>: Okay! <NAME_SIL>, go!
+FLD_MEST2_095,<NAME_FRO>: We stand no chance if we face him head on.<PAGE>\We must use the <NAME_SIL> to breach his armor!
+FLD_MEST2_096,<NAME_MAR>: Let's bust through Lavos's shell with\the <NAME_SIL>!
+FLD_MEST2_097,<NAME_ROB>: We will be unable to damage it from here.<PAGE>\Why do we not penetrate his shell with the <NAME_SIL>\and attack from within?
+FLD_MEST2_098,<NAME_LUC>: Wonder if we can burst through his\outer shell with the <NAME_SIL>?
+FLD_MEST2_099,<NAME_LUC>: It might destroy the <NAME_SIL>!\Of course, there's no telling if we'll make it, either.
+FLD_MEST2_100,<NAME_ROB>: The <NAME_SIL>'s durability is roughly\equivalent to that of Lavos's armor, but I cannot\be sure that we will withstand the impact.
+FLD_MEST2_101,<NAME_MAR>: What!?\That'll be the end of us all!
+FLD_MEST2_102,<NAME_FRO>: Should we err in this, we'll have no\second chance.
+FLD_MEST2_103,<NAME_AYL>: That okay!?\<NAME_SIL> not die!?
+FLD_MEST2_104,<NAME_MAG>: Have you even a reason to believe this\might succeed?
+FLD_MEST2_105,<NAME_MAG>: I suppose our odds of defeating him\in open combat are no greater.
+FLD_MEST2_106,<NAME_MAR>: Let's put our trust in the <NAME_SIL>!
+FLD_MEST2_107,<NAME_LUC>: The <NAME_SIL>'ll get us through.
+FLD_MEST2_108,<NAME_ROB>: The odds of success are abysmally low.<PAGE>\But perhaps by combining the energy of the\<NAME_SIL> with our own...
+FLD_MEST2_109,<NAME_FRO>: We've no choice!\If we're to slay this beast, we must break through!
+FLD_MEST2_110,<NAME_AYL>: <NAME_SIL> win!\<NAME_AYL> win, too!
+FLD_MEST2_111,<NAME_MAG>: Very well.
+FLD_MEST2_112,<NAME_MAR>: Please, <NAME_SIL>!\Do this for us!
+FLD_MEST2_113,<NAME_LUC>: Sorry, <NAME_SIL>...
+FLD_MEST2_114,<NAME_ROB>: I am unable to ascertain any other plan\with a higher chance of success.
+FLD_MEST2_115,<NAME_FRO>: Let us cast the dice.
+FLD_MEST2_116,<NAME_AYL>: Okay!\<NAME_AYL> try!\<NAME_SIL> try, too!!
+FLD_MEST2_117,<NAME_MAR>: Hold on tight!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_118,<NAME_LUC>: We believe in you,\<NAME_SIL>!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_119,<NAME_ROB>: Everyone, please brace for impact!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_120,<NAME_FRO>: Cyrus, watch over us!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_121,<NAME_AYL>: <NAME_AYL> not give up!\<NAME_SIL> not give up, too!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_122,<NAME_MAG>: Your time is nigh, Lavos.<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_123,<NAME_MAR>: All right, everyone!\Let's do this!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_124,<NAME_LUC>: <NAME_SIL>, don't let\us down!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_125,<NAME_ROB>: Here we go!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_126,<NAME_FRO>: Away, <NAME_SIL>!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_127,<NAME_AYL>: <NAME_SIL>, go!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_128,<NAME_MAG>: I am coming for you, Lavos!<WAIT>0c</WAIT><AUTO_END>
+FLD_MEST2_129,<NAME_MAR>: Uhhnnn...
+FLD_MEST2_130,<NAME_LUC>: Is...is everyone okay?
+FLD_MEST2_131,<NAME_ROB>: ...
+FLD_MEST2_132,<NAME_FRO>: Owwww...
+FLD_MEST2_133,<NAME_AYL>: <NAME_AYL>...alive!
+FLD_MEST2_134,<NAME_MAG>: Get up, we've no time to lick our wounds!\We're within the beast!
+FLD_MEST2_135,<NAME_FRO>: We made it.\We beat the odds.
+FLD_MEST2_136,<NAME_ROB>: The <NAME_SIL> is in pieces.
+FLD_MEST2_137,<NAME_MAR>: Thanks, <NAME_SIL>.
+FLD_MEST2_138,<NAME_LUC>: I'm sorry, <NAME_SIL>.
+FLD_MEST2_139,<NAME_AYL>: <NAME_SIL>...\<NAME_AYL> proud!
+FLD_MEST2_140,<NAME_MAG>: There is no turning back now.
+FLD_MEST2_141,<NAME_MAR>: We're in pretty deep.
+FLD_MEST2_142,<NAME_LUC>: We're okay...right?
+FLD_MEST2_143,<NAME_ROB>: According to my sensors, we are close\to the core!
+FLD_MEST2_144,<NAME_FRO>: This is one dreadful place.\Even more ghastly than <NAME_MAG>'s keep...
+FLD_MEST2_145,<NAME_AYL>: !<PAGE>\Lavos smell get strong!
+FLD_MEST2_146,<NAME_MAR>: This must be Lavos!
+FLD_MEST2_147,<NAME_LUC>: This's the real thing!?
+FLD_MEST2_148,<NAME_ROB>: Amazing...\It possesses the DNA of every organism that has\ever dwelt on this planet!
+FLD_MEST2_149,<NAME_FRO>: Cyrus...\Stand with me in this battle!
+FLD_MEST2_150,<NAME_AYL>: <NAME_AYL> no lose!
+FLD_MEST2_151,<NAME_MAG>: At last...\You meet your end, Lavos!
+FLD_MEST2_152,<NAME_MAR>: It's...humanoid.<PAGE>\Could...could it have acquired the powers\of every creature on this planet?
+FLD_MEST2_153,<NAME_LUC>: Now I understand.<PAGE>\It lives on a planet for as long as possible,\selecting the most desirable life forms, allowing\them to advance and then harvesting their DNA.<PAGE>\The young it gave birth to on Death Peak must\have all of that DNA. Eventually they'll migrate\to other planets, and repeat the cycle.
+FLD_MEST2_154,<NAME_ROB>: That was Lavos's goal!<PAGE>\Storing and analyzing the genetic code of every\creature on the planet...<PAGE>\He aimed to use it all to induce self-evolution into\the ultimate form of life!
+FLD_MEST2_155,<NAME_FRO>: What manner of evil is this?<PAGE>\It looks to possess the strength of every bird\and beast ever to have lived upon this earth.\That must be the reason it is here!<PAGE>\Yes! And in its sleep, it hoarded what it\gleaned from all our progress!
+FLD_MEST2_156,<NAME_MAG>: ...<PAGE>\So... Since the dawn of time, it has slept\underground, guiding the evolution of this\planet's life toward its own foul purpose.
+FLD_MEST2_157,<NAME_AYL>: Smell like reptite, dactyl,\Nizbel...<PAGE>\Smell like <NAME_AYL>, <NAME_PT1>!\Smell like everyone!<PAGE>\Smell like all thing!\Person, beast, all!
+FLD_MEST2_158,<NAME_ROB>: His offensive capabilities are...<PAGE>\Incalculable!\My sensors are overheating!
+FLD_MEST2_159,<NAME_MAR>: This thing is the reason we're all here?
+FLD_MEST2_160,<NAME_MAG>: We were but sown for him to reap.\All of humanity...<PAGE>\Or, rather, all life on this planet.
+FLD_MEST2_161,<NAME_LUC>: It's a parasite!\Sleeping within the earth all this time,\stealing all our progress!
+FLD_MEST2_162,<NAME_FRO>: Such a vile being...\We do not live for your ends!
+FLD_MEST2_163,<NAME_AYL>: <NAME_AYL> no run!\Hate lose, hate run more!
+FLD_MEST2_164,<NAME_MAR>: This planet is our home!\Leene's, Doan's...everyone's!
+FLD_MEST2_165,<NAME_MAR>: This planet is our home!
+FLD_MEST2_166,And we're taking it back!
+FLD_MEST2_167,<NAME_LUC>: Impossible...
+FLD_MEST2_168,You can't toy with an entire world and think I'll\let you get away with it!
+FLD_MEST2_169,<NAME_ROB>: I was given life by human hands.<PAGE>\But life is life!\I am no different from <NAME_LUC> and the others.
+FLD_MEST2_170,This planet is my home!
+FLD_MEST2_171,<NAME_FRO>: Murderer...
+FLD_MEST2_172,We'll not be used by the likes of you!
+FLD_MEST2_173,<NAME_AYL>: <NAME_AYL> no lose!\This <NAME_AYL> home!
+FLD_MEST2_174,Not Lavos home!\Lavos lose!
+FLD_MEST2_175,<NAME_MAG>: ...<PAGE>\At last, our final meeting...
+FLD_MEST2_176,Your life ends here!
+FLD_MEST2_177,<CT>\Lavos enters attack mode!
+FLD_MEST2_178,<CT>\Lavos changes attack modes!
+FLD_MEST2_179,<NAME_LUC>: Hey, look at the time-space monitor!\It looks like something's happening in other ages, too!
+FLD_MEST2_180,<NAME_ROB>: Look at the <NAME_SIL>'s time-space\monitor! There is activity in other ages as well.
+FLD_MEST2_181,<NAME_MAR>: Uh-oh! Look at that screen!\It looks like something is happening!
+FLD_MEST2_182,<NAME_AYL>: Look, look!\Something strange!
+FLD_MEST2_183,<NAME_FRO>: A vortex has appeared.\But why?
+FLD_MEST2_184,<NAME_ROB>: The space-time balance appears to be\slipping off its axes.
+FLD_MEST2_185,<NAME_MAG>: Is Lavos's hand in this as well?
+FLD_MEST2_186,<NAME_AYL>: <NAME_AYL> not understand.\Think too much, head go boom.
+FLD_MEST2_187,<NAME_MAR>: What's happening to our world?
+FLD_MEST2_188,<NAME_LUC>: We need to hurry and do something about\Lavos!
+FLD_MEST2_189,
+FLD_MEST2_190,
+FLD_MEST2_191,
+FLD_MEST2_192,
+FLD_MEST2_193,
+FLD_MEST2_194,
+FLD_MEST2_195,
+FLD_MEST2_196,
+FLD_MEST2_197,
+FLD_MEST2_198,
+FLD_MEST2_199,
+FLD_MEST2_200,
+FLD_MEST2_201,
+FLD_MEST2_202,
+FLD_MEST2_203,
+FLD_MEST2_204,
+FLD_MEST2_205,
+FLD_MEST2_206,
+FLD_MEST2_207,
+FLD_MEST2_208,
+FLD_MEST2_209,
+FLD_MEST2_210,
+FLD_MEST2_211,
+FLD_MEST2_212,
+FLD_MEST2_213,
+FLD_MEST2_214,
+FLD_MEST2_215,
+FLD_MEST2_216,
+FLD_MEST2_217,
+FLD_MEST2_218,
+FLD_MEST2_219,
+FLD_MEST2_220,
+FLD_MEST2_221,
+FLD_MEST2_222,
+FLD_MEST2_223,
+FLD_MEST2_224,
+FLD_MEST2_225,
+FLD_MEST2_226,
+FLD_MEST2_227,
+FLD_MEST2_228,
+FLD_MEST2_229,
+FLD_MEST2_230,
+FLD_MEST2_231,
+FLD_MEST2_232,
+FLD_MEST2_233,
+FLD_MEST2_234,
+FLD_MEST2_235,
+FLD_MEST2_236,
+FLD_MEST2_237,
+FLD_MEST2_238,
+FLD_MEST2_239,
+FLD_MEST2_240,
+FLD_MEST2_241,
+FLD_MEST2_242,
+FLD_MEST2_243,
+FLD_MEST2_244,
+FLD_MEST2_245,
+FLD_MEST2_246,
+FLD_MEST2_247,
+FLD_MEST2_248,
+FLD_MEST2_249,
+FLD_MEST2_250,
+FLD_MEST2_251,
+FLD_MEST2_252,
+FLD_MEST2_253,
+FLD_MEST2_254,
+FLD_MEST2_255,

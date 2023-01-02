@@ -1,0 +1,66 @@
+MSG_EX_ENDING_01,Defeat Lavos after reviving Crono at Death Peak.
+MSG_EX_ENDING_02,Defeat Lavos while Crono is dead.
+MSG_EX_ENDING_03,Defeat Lavos in the Ocean Palace or immediately\upon starting New Game +.
+MSG_EX_ENDING_04,Defeat Lavos after saving Leene and Marle,\but before visiting the End of Time.
+MSG_EX_ENDING_05,Defeat Lavos after visiting the End of Time,\but before returning to the Middle Ages.
+MSG_EX_ENDING_06,Defeat Lavos after arriving in the Middle Ages,\but before obtaining the Hero's Badge from Tata.
+MSG_EX_ENDING_07,Defeat Lavos after obtaining the Hero's Badge,\but before the Gate Key is stolen in prehistory.
+MSG_EX_ENDING_08,Defeat Lavos after regaining the Gate Key,\but before giving the Masamune to Frog.
+MSG_EX_ENDING_09,Defeat Lavos after giving the Masamune to Frog,\but before facing Magus.
+MSG_EX_ENDING_10,Defeat Lavos after facing Magus, but before\facing Azala.
+MSG_EX_ENDING_11,Defeat Lavos after facing Azala, but before\Schala opens the sealed door.
+MSG_EX_ENDING_12,Defeat Lavos after Schala opens the sealed door,\but before restoring light to the pendant.
+MSG_EX_ENDING_13,Defeat the Dream Devourer beyond Time's Eclipse.
+MSG_EX_ENDING_14,This is the standard ending. Contents vary\according to the status of the Epoch.
+MSG_EX_ENDING_15,This is the ending if Crono is dead. Contents\vary according to the status of the Epoch.
+MSG_EX_ENDING_16,Use the right Telepod to warp to Lavos immediately\after starting New Game +.
+MSG_EX_ENDING_17,Use the Telepod immediately upon returning to\the present.
+MSG_EX_ENDING_18,Use the bucket to warp to Lavos upon reaching\the End of Time.
+MSG_EX_ENDING_19,Face Lavos after the fight with Zombor.
+MSG_EX_ENDING_20,Head to fight Lavos once Tata has given you the\Hero's Badge.
+MSG_EX_ENDING_21,Face Lavos once you have restored the Masamune.
+MSG_EX_ENDING_22,Double back upon entering the Magic Cave and\head for the End of Time.
+MSG_EX_ENDING_23,Go to the End of Time from the Mystic Mountains\after the fight with Magus.
+MSG_EX_ENDING_24,Go to face Lavos without entering the Gate at the\Tyranno Lair.
+MSG_EX_ENDING_25,Face Lavos immediately after opening the sealed\door. Becomes unavailable shortly thereafter.
+MSG_EX_ENDING_26,Use the gate at the End of Time to warp to Time's\Eclipse after clearing the dimensional vortex.
+MSG_EX_EDTITLE_01,Beyond Time
+MSG_EX_EDTITLE_02,Reunion
+MSG_EX_EDTITLE_03,The Dream Project
+MSG_EX_EDTITLE_04,The Successor of Guardia
+MSG_EX_EDTITLE_05,Good Night
+MSG_EX_EDTITLE_06,The Legendary Hero
+MSG_EX_EDTITLE_07,The Unknown Past
+MSG_EX_EDTITLE_08,People of the Times
+MSG_EX_EDTITLE_09,The Oath
+MSG_EX_EDTITLE_10,Dino Age
+MSG_EX_EDTITLE_11,What the Prophet Seeks
+MSG_EX_EDTITLE_12,Memory Lane
+MSG_EX_EDTITLE_13,Dream's Epilogue
+MSG_EX_STEAM_EDTITLE_01,Beyond Time 1
+MSG_EX_STEAM_EDTITLE_02,Beyond Time 2
+MSG_EX_STEAM_EDTITLE_03,Beyond Time 3
+MSG_EX_STEAM_EDTITLE_04,Beyond Time 4
+MSG_EX_STEAM_EDTITLE_05,Reunion 1
+MSG_EX_STEAM_EDTITLE_06,Reunion 2
+MSG_EX_STEAM_EDTITLE_07,Reunion 3
+MSG_EX_STEAM_EDTITLE_08,Reunion 4
+MSG_EX_STEAM_ENDING_01,Defeat Lavos after\reviving Crono at Death\Peak.\(with the Epoch and\Magus)
+MSG_EX_STEAM_ENDING_02,Defeat Lavos after\reviving Crono at Death\Peak.\(with the Epoch, but\without Magus)
+MSG_EX_STEAM_ENDING_03,Defeat Lavos after\reviving Crono at Death\Peak.\(without the Epoch, but\with Magus)
+MSG_EX_STEAM_ENDING_04,Defeat Lavos after\reviving Crono at Death\Peak.\(without the Epoch or\Magus)
+MSG_EX_STEAM_ENDING_05,Defeat Lavos without\reviving Crono.\(with the Epoch and\Magus)
+MSG_EX_STEAM_ENDING_06,Defeat Lavos without\reviving Crono.\(with the Epoch, but\without Magus)
+MSG_EX_STEAM_ENDING_07,Defeat Lavos without\reviving Crono.\(without the Epoch, but\with Magus)
+MSG_EX_STEAM_ENDING_08,Defeat Lavos without\reviving Crono.\(without the Epoch or\Magus)
+MSG_EX_STEAM_ENDING_09,Defeat Lavos in the\Ocean Palace or\immediately after\starting New Game+.
+MSG_EX_STEAM_ENDING_10,Defeat Lavos after\saving Leene and Marle,\but before visiting the\End of Time.
+MSG_EX_STEAM_ENDING_11,Defeat Lavos after\visiting the End of\Time, but before\returning to the Middle\Ages.
+MSG_EX_STEAM_ENDING_12,Defeat Lavos after\arriving in the Middle\Ages, but before\obtaining the Hero's\Badge from Tata.
+MSG_EX_STEAM_ENDING_13,Defeat Lavos after\obtaining the Hero's\Badge from Tata, but\before the Gate Key is\stolen in prehistory.
+MSG_EX_STEAM_ENDING_14,Defeat Lavos after\regaining the Gate Key,\but before giving the\restored Masamune to\Frog.
+MSG_EX_STEAM_ENDING_15,Defeat Lavos after\giving the Masamune to\Frog, but before facing\Magus.
+MSG_EX_STEAM_ENDING_16,Defeat Lavos after\facing Magus, but\before facing Azala.
+MSG_EX_STEAM_ENDING_17,Defeat Lavos after\facing Azala, but\before Schala opens the\sealed door.
+MSG_EX_STEAM_ENDING_18,Defeat Lavos after\Schala opens the sealed\door, but before\restoring light to the\pendant.
+MSG_EX_STEAM_ENDING_19,Defeat the Dream\Devourer in Time's\Eclipse after clearing\the dimensional vortex.

@@ -1,0 +1,256 @@
+FLD_MESK0_000,\1/11 1st Version
+FLD_MESK0_001,<CT>\A mysterious force seals it shut.
+FLD_MESK0_002,<CT>\Obtained <NAME_ITM>!
+FLD_MESK0_003,Princess!\Wearing our disguise out again, are we?
+FLD_MESK0_004,Your Majesty! I'd hardly recognized\you with all that makeup.
+FLD_MESK0_005,Princess!\You're dressed up like one of us again!
+FLD_MESK0_006,<NAME_MAR>: Something's strange here.
+FLD_MESK0_007,<NAME_MAR>: Let's go back to the castle.
+FLD_MESK0_008,*sniffle* *sob*\My kitty ran away!
+FLD_MESK0_009,You brought back my kitty!\Thank you!
+FLD_MESK0_010,Try and guess the next winner?\<S10><S10><C1>Sure!</C1>\<S10><S10><C2>Not this time.</C2>
+FLD_MESK0_011,<CT>\Yum!\You feel refreshed.
+FLD_MESK0_012,And the winner of the last race was...<PAGE>\Steel Runner!
+FLD_MESK0_013,And the winner of the last race was...<PAGE>\Green Ambler!
+FLD_MESK0_014,And the winner of the last race was...<PAGE>\Catalack!
+FLD_MESK0_015,And the winner of the last race was...<PAGE>\G.I. Jogger!
+FLD_MESK0_016,<S10><S10><C1>No. 1<CE><S10></CE>Steel Runner</C1>\<S10><S10><C2>No. 2<CE><S10></CE>Green Ambler</C2>\<S10><S10><C3>No. 3<CE><S10></CE>Catalack</C3>\<S10><S10><C4>No. 4<CE><S10></CE>G.I. Jogger</C4>
+FLD_MESK0_017,Your card is already full.\I can't give you any more points!
+FLD_MESK0_018,There's a race underway.\Be quiet and watch!<PAGE>\If you want to try and guess the next winner,\talk to me once the runners have lined up over\there after the race.
+FLD_MESK0_019,I've got a feeling that Steel Runner just might pull it\off today.
+FLD_MESK0_020,It'll be the Green Ambler for sure this time.\I can feel it in my bones!
+FLD_MESK0_021,That Catalack's got promise!
+FLD_MESK0_022,That one on G.I. Jogger's right...\That's gonna be our winner!
+FLD_MESK0_023,Not bad!\I'll put 5 Silver Points on your card.
+FLD_MESK0_024,You were right on the money!\I'll put your 20 Silver Points on your card.
+FLD_MESK0_025,Line up with the bell and tap when you're ready.\Judge your distance carefully, then tap once more!
+FLD_MESK0_026,Way to go!\I'll put 1 Silver Point on your card.
+FLD_MESK0_027,Oh, my! That pendant is—<PAGE>\Dear me, I haven't the money to buy a thing like that!\Keep it safe. That is a valuable trinket you carry.\
+FLD_MESK0_028,Melchior the swordsmith, at your service!\Might I interest you in one of my fine blades?<PAGE>\<S10><S10><C1>Take a look.</C1>\<S10><S10><C2>No, thanks.</C2>
+FLD_MESK0_029,By the way...<PAGE>\Is there any chance you could talk that young lady\into selling her pendant to me?\<S10><S10><C1>I'll try.</C1>\<S10><S10><C2>Sorry.</C2>
+FLD_MESK0_030,Melchior: I live on the continent to the east.\Come and see me if you ever have the need.
+FLD_MESK0_031,Drinking contest, step right up!\Tap, tap, tap as fast as you can!
+FLD_MESK0_032,Ready?\Set?\Go!
+FLD_MESK0_033,<NUMBER>? Is that the best you can do?
+FLD_MESK0_034,Not too shabby!
+FLD_MESK0_035,You're too much, kid!\I can't drink with you.
+FLD_MESK0_036,Girl: Oof!
+FLD_MESK0_037,Girl: Ouch...
+FLD_MESK0_038,Girl: I'm so sorry!\Are you okay?
+FLD_MESK0_039,Girl: Uh-oh...\My pendant!
+FLD_MESK0_040,Girl: Oh no, my pendant!\Don't tell me I lost it!
+FLD_MESK0_041,Girl: Oh, thank goodness! My pendant!\I know it doesn't look like much, but\it has a lot of sentimental value.<PAGE>\May I have it back?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK0_042,<NAME_MAR>: It's a family heirloom, and it's very\important to me. May I please have it back?
+FLD_MESK0_043,Thank you.<PAGE>\You must live in this town. I came to see the fair.\Awfully boring wandering around alone, though, isn't it?<PAGE>\Hey, why don't we walk around together for a while?\Wouldn't that be great?\<S10><S10><C1>Sure.</C1>\<S10><S10><C2>Sorry.</C2>
+FLD_MESK0_044,Girl: Oh, please!\I'm all alone, and I don't know anyone around here!\<S10><S10><C1>Okay, fine.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK0_045,Girl: Yahoo! This'll be fun!
+FLD_MESK0_046,Girl: Oh, I never told you my name, did I?\It's, uh... Umm...
+FLD_MESK0_047,Girl: It's <NAME_MAR>!\And you're...?
+FLD_MESK0_048,<NAME_MAR>: <NAME_CRO>... What a nice name!\Well, pleased to meet you, <NAME_CRO>.\Come on, let's enjoy the fair!
+FLD_MESK0_049,Today is the one thousandth anniversary of our\kingdom's foundation. Enjoy the festivities!\I surely would if I were your age!
+FLD_MESK0_050,I heard the Princess snuck out of the castle again.
+FLD_MESK0_051,Come one, come all, to the Tent of Horrors!\Spend your Silver Points here!\Put your bravery to the test!<PAGE>\Let me check how many points you have...<NUMBER>.\Well, this is as good a place as any to\spend them!
+FLD_MESK0_052,My dear old wife made that lunch for me.\Always the highlight of my day! Gives me that\extra oomph when I'm starting to feel worn down.
+FLD_MESK0_053,Those runners are busy racing, so they won't\answer you if you talk to them.
+FLD_MESK0_054,This Kingdom's been through some hard times, like\the war against the Fiendlord four hundred years ago.<PAGE>\You should be thankful things are so peaceful now.
+FLD_MESK0_055,This merchant said he'd buy accessories if they're in\good condition.<PAGE>\Hmm... Maybe I should sell him this old pendant of mine.
+FLD_MESK0_056,Go straight ahead if you want to try your hand\against <NAME_LUC>'s bipedal robot battler, Gato.\You can win Silver Points if you beat him!
+FLD_MESK0_057,This is Leene Square. Legend has it that people\who hear Leene's Bell live happily ever after.
+FLD_MESK0_058,There was a big war hundreds of years ago against\the Fiendlord's armies. My mom said if we'd lost,\we wouldn't be having a fair like this today!
+FLD_MESK0_059,Preparations are still underway.\Enjoy yourself in the square for a while,\and check back a little later.
+FLD_MESK0_060,I hear <NAME_LUC> and her father have put together\another crazy invention.<PAGE>\I just hope it doesn't blow up again like the last one.
+FLD_MESK0_061,They ought to be ready by now.\They were setting up at the far end of the square.<PAGE>\<NAME_MAR>: Oh, I want to see it!\Come on, <NAME_CRO>!
+FLD_MESK0_062,<NAME_LUC>'s device is all set up now, you know.\Just go straight, to the back of the square.
+FLD_MESK0_063,<NAME_MAR>: Just a minute!\I want to get some candy.
+FLD_MESK0_064,<NAME_MAR>: Wait, give me a second to choose!
+FLD_MESK0_065,<NAME_MAR>: Hey, there's no need to drag me by the\arm like a kidnapper!
+FLD_MESK0_066,<NAME_MAR>: Excuse me!\I'd like one of these.<PAGE>\Woman: Sure, young miss.
+FLD_MESK0_067,<NAME_MAR>: Thanks for waiting!
+FLD_MESK0_068,<NAME_MAR>: Hee hee...\You're such a pig, <NAME_CRO>!
+FLD_MESK0_069,<NAME_MAR>: <NAME_CRO>, you're so sweet!
+FLD_MESK0_070,<NAME_MAR>: You're awfully competitive, aren't you,\<NAME_CRO>?
+FLD_MESK0_071,<NAME_MAR>: Ah!\I'm having a great time with you, <NAME_CRO>.
+FLD_MESK0_072,The merchants who were in the square have all left\to restock. Why not pay a visit to the town market?
+FLD_MESK0_073,Let me see how many Silver Points you have\on your card... Looks like you've got <NUMBER>.<PAGE>\Would you like to exchange 10 Silver Points\for 50 G?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK0_074,Sorry, you don't have enough points!
+FLD_MESK0_075,There you go. Come again!
+FLD_MESK0_076,Oh hoh hoh... There's nothing like a good fair!\Say, have you heard the gossip?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK0_077,Oh... Well, never you mind, then.
+FLD_MESK0_078,Well, just between us, I heard that the King is\tearing his hair out over his tomboy of a daughter!<PAGE>\Just once, I'd like to meet her and see how wild\she really is.
+FLD_MESK0_079,Taban: Step right on up, any with the time and courage!\Our first-ever hyperdimensional transporter is the\invention of the century!
+FLD_MESK0_080,Taban: Simply hop up here...
+FLD_MESK0_081,Taban: ...and you'll be teleported here!<PAGE>\This fantastic machine is the masterwork of my\beautiful and brilliant daughter, <NAME_LUC>!
+FLD_MESK0_082,Taban: Give it a try, kid?\...Oh, it's you, <NAME_CRO>!
+FLD_MESK0_083,Taban: Nothing to be afraid of, it worked just fine with\the cat! No reason why it shouldn't work on a human.<PAGE>\So relax, step on up!
+FLD_MESK0_084,Taban: It...it worked!\Unbelievable! They never—<PAGE>\Ah, ahem! As I was saying, <NAME_LUC> has done it\again, ladies and gentlemen. A thrilling display of\science at its best!
+FLD_MESK0_085,<NAME_LUC>: <NAME_CRO>!
+FLD_MESK0_086,<NAME_LUC>: I was wondering when you'd show up!\No one wants to try my Telepod.<PAGE>\Would you be so kind?
+FLD_MESK0_087,<NAME_LUC>: Just hop up onto the left pod.
+FLD_MESK0_088,<NAME_LUC>: So, how was it?\Want to try it again?
+FLD_MESK0_089,<NAME_MAR>: Oh, this will be fun!\I'll watch while you try it out!
+FLD_MESK0_090,<NAME_MAR>: That looks like fun!\I want to try it, too!
+FLD_MESK0_091,<NAME_LUC>: Huh?
+FLD_MESK0_092,<NAME_LUC>: <NAME_CRO>, when did you manage to\pick up a cutie like her?
+FLD_MESK0_093,<NAME_MAR>: It's all right, isn't it, <NAME_CRO>?\Just wait right here—don't run off on me!
+FLD_MESK0_094,Taban: Behold, ladies and gentlemen, as this\vision of loveliness steps aboard the machine!
+FLD_MESK0_095,<NAME_MAR>: Hee hee.\Okay, I'll be right back!
+FLD_MESK0_096,Taban: You're sure about this?\There's still time to change your mind.
+FLD_MESK0_097,<NAME_MAR>: No way!\I'm not afraid.
+FLD_MESK0_098,Taban: Okay, everyone, let's give her a great big hand\when she teleports from the platform!
+FLD_MESK0_099,Taban: System activated!
+FLD_MESK0_100,<NAME_LUC>: Initiating energy transfer!
+FLD_MESK0_101,<NAME_MAR>: What's happening?\My pendant, it's—
+FLD_MESK0_102,<NAME_LUC>: That girl's face was so familiar.\I know I've seen her somewhere.
+FLD_MESK0_103,<NAME_LUC>: Huh?
+FLD_MESK0_104,Crowd: OOOOH!\Amazing!
+FLD_MESK0_105,Taban: Hmm?
+FLD_MESK0_106,Taban: <NAME_LUC>...\She's not reappearing.
+FLD_MESK0_107,<NAME_LUC>: ...
+FLD_MESK0_108,Taban: W-well, all right! As you can see,\the girl has vanished before your very eyes!\Show's over, folks! Move along!
+FLD_MESK0_109,Taban: What just happened, <NAME_LUC>?\Where is she?
+FLD_MESK0_110,<NAME_LUC>: The way she disappeared...\That couldn't have been the Telepod.<PAGE>\The way that rift appeared, and the way her\pendant seemed to be reacting to it...\Something else must have caused it all.
+FLD_MESK0_111,Taban: Well, what are we supposed to do now?\Is there any way we can help her?
+FLD_MESK0_112,<NAME_LUC>: <NAME_CRO>!\Where do you think you're going?\You brought that girl here.\You can't just abandon her!
+FLD_MESK0_113,<NAME_LUC>: <NAME_CRO>!
+FLD_MESK0_114,Taban: Oh! You're going after her?\What a fine lad!
+FLD_MESK0_115,<NAME_LUC>: It's the only way.\I don't know where that hole leads,\but we've got no other choice.<PAGE>\Taban: Let's just hope it opens up again.<PAGE>\<NAME_LUC>: Well, it's worth a shot!\That pendant seems to be the key, so hang on\to it, <NAME_CRO>—and brace yourself!
+FLD_MESK0_116,<NAME_LUC>: Boost the power output!
+FLD_MESK0_117,Taban: Roger!
+FLD_MESK0_118,<NAME_LUC>: More!\I need more power!
+FLD_MESK0_119,<NAME_LUC>: There!\I think we did it!
+FLD_MESK0_120,<NAME_LUC>: Good luck, <NAME_CRO>!\I'll follow you as soon as I figure out what went wrong!
+FLD_MESK0_121,<NAME_MAR>: Whew!\We made it!
+FLD_MESK0_122,<NAME_MAR>: <NAME_CRO>, <NAME_LUC>!\Why don't you come back with me to the castle?\It would give me a chance to thank you properly\for everything!
+FLD_MESK0_123,<NAME_LUC>: I'm really sorry for putting you through\all this, <NAME_MAR>.
+FLD_MESK0_124,<NAME_MAR>: What are you talking about?\It was the most fun I've had in months!\And I made new friends, too!
+FLD_MESK0_125,<NAME_LUC>: <NAME_CRO>, be a gentleman and take her\home.<PAGE>\I still need to do a little more snooping into why that\Gate appeared.
+FLD_MESK0_126,<NAME_MAR>: See you again soon, <NAME_LUC>!
+FLD_MESK0_127,<NAME_MAR>: Well, <NAME_CRO>, are you ready to escort\me home?
+FLD_MESK0_128,What does "teleport" mean?
+FLD_MESK0_129,This contraption is supposed to transport objects\in the blink of an eye.
+FLD_MESK0_130,Wow!
+FLD_MESK0_131,<NAME_LUC> invented this thing?\Wonder what'll go wrong this time...
+FLD_MESK0_132,I suppose even <NAME_LUC>'s inventions are bound to\work sometimes.
+FLD_MESK0_133,I, Pierre, represent the defense.
+FLD_MESK0_134,I, your Chancellor, shall serve as prosecutor!
+FLD_MESK0_135,Chancellor: Members of the court.<PAGE>\I will now bring forth the defendant, <NAME_CRO>, who\is charged with the abduction of Princess Nadia.
+FLD_MESK0_136,Chancellor: What shall be his fate?\To burn at the stake, perhaps?\To feel the Tickler, or hang upside down?<PAGE>\Or...shall we employ the guillotine?
+FLD_MESK0_137,Chancellor: The choice is yours, good jurors.\Now, let us begin.
+FLD_MESK0_138,Judge: We shall first hear the testimony of\the defense.
+FLD_MESK0_139,Pierre: <NAME_CRO> is charged with premeditated\abduction of royalty. The question is, how\could he be guilty of a crime that never\occurred?
+FLD_MESK0_140,Pierre: The prosecution would have you believe\that the defendant kidnapped the Princess.\However, the truth is quite to the contrary.<PAGE>\Not only was their meeting a coincidence, but\it was the Princess herself who asked <NAME_CRO>\if she could join him.
+FLD_MESK0_141,Chancellor: Is this true?\Who was responsible for initiating contact?\<S10><S10><C1>I was.</C1>\<S10><S10><C2><NAME_MAR> was.</C2>
+FLD_MESK0_142,Chancellor: Indeed! \The defendant deliberately approached the\Princess, pretending it was an accident.
+FLD_MESK0_143,Chancellor: Are you so certain?\Our witnesses say that you were the\one who bumped into the Princess.
+FLD_MESK0_144,Chancellor: Having subdued the Princess,\the defendant then coerced her into visiting \<NAME_LUC>'s little sideshow. There were countless\witnesses to this.<PAGE>\Shortly thereafter, both the Princess and\the defendant vanished. If that is not\criminal abduction, I don't know what is.
+FLD_MESK0_145,Chancellor: Several other acts have also\been brought to my attention that call the\defendant's character into question.
+FLD_MESK0_146,Pierre: Objection!<PAGE>\This cannot possibly have any relevance to the case!
+FLD_MESK0_147,Judge: Care to respond, Chancellor?
+FLD_MESK0_148,Chancellor: <NAME_CRO>'s character is at the very core\of this case, Your Honor. This evidence will show that\his testimony cannot be trusted.<PAGE>\Pierre: Very well. We have nothing to hide.
+FLD_MESK0_149,Pierre: I would like to call a witness who can\vouch for the defendant's good character.
+FLD_MESK0_150,That man brought me my kitty back.
+FLD_MESK0_151,Thank you, mister!
+FLD_MESK0_152,Pierre: How about that?\The man before you is a fine, upstanding youth.\He deserves to be honored, not put on trial!
+FLD_MESK0_153,Pierre: Whew...\Looks like they're buying it.
+FLD_MESK0_154,Chancellor: The defendant's coldhearted nature\is irrefutable.
+FLD_MESK0_155,Chancellor: You remember this child, don't you?\A poor little girl who'd lost her cat...\You wouldn't even listen to her cries!
+FLD_MESK0_156,I remember. You ignored me!
+FLD_MESK0_157,Chancellor: There, there, you poor little dear!\I know it must be a painful memory to recall.\You may run along now.
+FLD_MESK0_158,Chancellor: I think the people have seen enough.
+FLD_MESK0_159,Chancellor: Have you ever stolen anything?\<S10><S10><C1>I have.</C1>\<S10><S10><C2>No, never!</C2>
+FLD_MESK0_160,Chancellor: See! He admits it.\This man clearly lacks morals.
+FLD_MESK0_161,Chancellor: Do not feign innocence!\We have a witness.
+FLD_MESK0_162,That's him! That's the thief who ate my lunch!\Right off the table, too! My dear wife worked\all morning to make that meal for me.
+FLD_MESK0_163,Chancellor: Stealing from a helpless, hard-working\citizen who only wished to enjoy the fair...\How could anyone sympathize with such a ruffian?
+FLD_MESK0_164,Pierre: The real issue here is motive.\Was there any motive for this good\youth to kidnap Princess Nadia?\No! There was none.
+FLD_MESK0_165,Chancellor: Pardon me, but I believe the motive\was quite clear: greed.<PAGE>\Her fortune did tempt you, did it not,\<NAME_CRO>?\<S10><S10><C1>No.</C1>\<S10><S10><C2>Yes.</C2>
+FLD_MESK0_166,Chancellor: He does not deny it.
+FLD_MESK0_167,Chancellor: Nothing more, Your Honor.\The prosecution rests.
+FLD_MESK0_168,Chancellor: Are you sure?\You weren't in the least bit tempted?\<S10><S10><C1>Not at all.</C1>\<S10><S10><C2>Just a bit.</C2>
+FLD_MESK0_169,Chancellor: Very well.\No more questions, Your Honor.<PAGE>\Pierre: I believe it has been made quite\evident that my client is a fine and virtuous\young man. The defense rests, Your Honor.
+FLD_MESK0_170,Chancellor: Good people, please remember\that the defendant claims he had no interest\whatsoever in the Princess's wealth.<PAGE>\Allow me to introduce our next witness.
+FLD_MESK0_171,I saw it with my own eyes!
+FLD_MESK0_172,Dear me!\I'm so nervous!
+FLD_MESK0_173,That man grabbed the pendant right after he\bumped into the Princess—before he even\checked to see if she was okay!
+FLD_MESK0_174,The Princess asked him to return her pendant,\but he refused.
+FLD_MESK0_175,He tried to sell it to a merchant named Melchior.
+FLD_MESK0_176,Chancellor: And this citizen's final piece\of testimony should eliminate any lingering\traces of doubt.
+FLD_MESK0_177,I heard it from the Princess's own lips,\clear as could be!
+FLD_MESK0_178,Oh, is that all?\I can go now?\Goodbye, everyone!
+FLD_MESK0_179,Judge: Members of the jury, it is time for a verdict.\If you believe the defendant guilty, stand to the left.\Innocent, to the right.
+FLD_MESK0_180,Guilty.
+FLD_MESK0_181,Not guilty.
+FLD_MESK0_182,Order in the court!
+FLD_MESK0_183,A verdict has been reached!
+FLD_MESK0_184,It is unanimous!
+FLD_MESK0_185,The defendant has been found guilty as charged.\He is to be placed in solitary confinement for\a period of three days, after which he will be\executed for his crime.
+FLD_MESK0_186,The defendant has been found not guilty!<PAGE>\But even if he did not kidnap the Princess,\the fact remains that he aided in her flight\from the castle.<PAGE>\I sentence the accused to three days of\solitary confinement as punishment.
+FLD_MESK0_187,Chancellor: Take him away!
+FLD_MESK0_188,<NAME_MAR>: Stop!<PAGE>\Chancellor: P-Princess Nadia!
+FLD_MESK0_189,King: That's quite enough, young lady!
+FLD_MESK0_190,<NAME_MAR>: But, Father—!<PAGE>\King: All I asked was for you to remain at the castle\and behave like a princess.<PAGE>\What's done is done.\Even royalty must obey the laws of the land.<PAGE>\Leave the rest up to the Chancellor and forget\about your little escapade in town.
+FLD_MESK0_191,King: We are through here!
+FLD_MESK0_192,<NAME_MAR>: <NAME_CRO>!
+FLD_MESK0_193,Aaagh!
+FLD_MESK0_194,Boy: This is a terrible place!\Y-you'd best run away while you can!
+FLD_MESK0_195,The Badge...\The Hero's...Badge.
+FLD_MESK0_196,<NAME_FRO>: The Masamune, if you please.
+FLD_MESK0_197,<NAME_FRO>: My name is Glenn!\Long have I carried Cyrus's hopes and dreams,\and now I bear the Masamune as well!
+FLD_MESK0_198,<NAME_FRO>: Henceforth, I claim them as my own!\I shall slay the Fiendlord <NAME_MAG> and restore our\honor!
+FLD_MESK0_199,<CT>\A message is scrawled in blood here.<PAGE><CT>\"Beware the jugglers in the Fiendlord's keep!\Strike them, and they tighten their defense\against blows. Cast spells upon them, and they\strengthen their defense against magic."
+FLD_MESK0_200,<NAME_FRO>: Could it be that you wield magic?\I thought only fiends could employ it now.
+FLD_MESK0_201,You might be able to learn it, too, if you\visit the End of Time.
+FLD_MESK0_202,<NAME_ROB>: If you travel to the End of Time,\you may also be able to gain the use of magic.
+FLD_MESK0_203,
+FLD_MESK0_204,
+FLD_MESK0_205,
+FLD_MESK0_206,
+FLD_MESK0_207,
+FLD_MESK0_208,
+FLD_MESK0_209,
+FLD_MESK0_210,
+FLD_MESK0_211,
+FLD_MESK0_212,
+FLD_MESK0_213,
+FLD_MESK0_214,
+FLD_MESK0_215,
+FLD_MESK0_216,
+FLD_MESK0_217,
+FLD_MESK0_218,
+FLD_MESK0_219,
+FLD_MESK0_220,
+FLD_MESK0_221,
+FLD_MESK0_222,
+FLD_MESK0_223,
+FLD_MESK0_224,
+FLD_MESK0_225,
+FLD_MESK0_226,
+FLD_MESK0_227,
+FLD_MESK0_228,
+FLD_MESK0_229,
+FLD_MESK0_230,
+FLD_MESK0_231,
+FLD_MESK0_232,
+FLD_MESK0_233,
+FLD_MESK0_234,
+FLD_MESK0_235,
+FLD_MESK0_236,
+FLD_MESK0_237,
+FLD_MESK0_238,
+FLD_MESK0_239,
+FLD_MESK0_240,
+FLD_MESK0_241,
+FLD_MESK0_242,
+FLD_MESK0_243,
+FLD_MESK0_244,
+FLD_MESK0_245,
+FLD_MESK0_246,
+FLD_MESK0_247,
+FLD_MESK0_248,
+FLD_MESK0_249,
+FLD_MESK0_250,
+FLD_MESK0_251,
+FLD_MESK0_252,
+FLD_MESK0_253,
+FLD_MESK0_254,
+FLD_MESK0_255,

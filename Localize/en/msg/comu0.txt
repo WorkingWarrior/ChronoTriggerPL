@@ -1,0 +1,129 @@
+FLD_COMU0_000,Man: Welcome to the Arena of the Ages!<PAGE>\This coliseum hosts battles between monsters\from all across time. I'm the stable master.
+FLD_COMU0_001,Stable Master: You want a rundown of the place?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_002,Stable Master: These are the monster stables.\We raise 'em up strong here. Even monsters need\training if they want to be tough!<PAGE>\What do we train 'em for, you ask?\Why, for fighting, of course!\Then we set 'em against each other in the Pit.
+FLD_COMU0_003,That blue-faced fellow with the winsome smile?\He's a merchant.
+FLD_COMU0_004,There are a lot of specialized items that we use for\training and battling beasts, and he deals in the tools\of the trade. You'll want to talk to him later on.<PAGE>\Well, that's the meat and bones of it.\You'll catch on quick, don't you worry.<PAGE>\Oh, one more thing, though—this is important.
+FLD_COMU0_005,Stable Master: One of them learn-by-doing types, eh?\Well, you've got me here if you need anything.\You should be all right.<PAGE>\Oh, but there is one more thing I should tell you.
+FLD_COMU0_006,Stable Master: Got the itch to raise yourself a\monster, eh?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_007,Stable Master: Like that one, do you?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_008,Stable Master: Take good care of it, then, and raise\it up tough!
+FLD_COMU0_009,Stable Master: What do you need?
+FLD_COMU0_010,<NAME_MAR>: Good luck!
+FLD_COMU0_011,<NAME_LUC>: Don't hurt yourself!
+FLD_COMU0_012,<NAME_ROB>: Please make good developmental progress.
+FLD_COMU0_013,<NAME_FRO>: Return strong!
+FLD_COMU0_014,<NAME_AYL>: Not strong, lose.\So, get strong!
+FLD_COMU0_015,<NAME_MAG>: Never forget.\The weak go quickly to their graves.
+FLD_COMU0_016,Stable Master: Your monster's safely on its way.\I take it you'll be off again as well?<PAGE>\Your little darling should return before too long.\Give it some time and then check back.
+FLD_COMU0_017,Stable Master: Oh, excellent timing! Your monster\should be back from training any moment now.
+FLD_COMU0_018,Stable Master: Oh, looks like it's got something.\Must have found it while it was off training.
+FLD_COMU0_019,<CT>\Obtained <NAME_ITM>!
+FLD_COMU0_020,Pit Boss: This must be your first time, no?\This is the Pit, where monsters put their training\to the test.<PAGE>\Want to see how strong the one you've raised is?<PAGE>\You can let it fight another one of our monsters\in a prize match, or set it against an opponent's\monster in an interdimensional battle via DS Wireless\Communications.
+FLD_COMU0_021,Pit Boss: What do you say?\Want to enter a monster battle?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_022,Pit Boss: Sorry, the Pit's only for monster battles.\If you don't have a monsters, well...not much I can do\for you, I'm afraid. Come back again when you've got\one.
+FLD_COMU0_023,Pit Boss: Excellent! Just select a tier and I'll sign\you up.<PAGE>\Higher tiered battles have higher entrance fees and\offer better prizes, but the entrants are usually\stronger. Which tier would you like to compete in?
+FLD_COMU0_024,Pit Boss: Sorry, looks like you're short on funds.\I'll go ahead and cancel your registration.\Please come again soon.
+FLD_COMU0_025,Pit Boss: Thank you very much.\I'll just take your entrance fee, then.\Best of luck to you!
+FLD_COMU0_026,Pit Boss: What kind of battle would you like to enter?\<S10><S10><C1>Prize match.</C1>\<S10><S10><C2>Interdimensional battle.<CE> </CE>(Wireless battle)</C2>\<S10><S10><C3>Cancel.</C3>
+FLD_COMU0_027,Buy?
+FLD_COMU0_028,Come again.
+FLD_COMU0_029,Stable Master: Hey!\You remember to save your progress?
+FLD_COMU0_030,Stable Master: Oh... But if you came from somewhere\other than the End of Time, we can't have you keeping\records of this place, now can we?<PAGE>\Tell you what. If you came here from somewhere else,\I'll add a note of what happened here to the last\record you made, whenever and wherever that was.<PAGE>\That would be more convenient for you anyway,\wouldn't it?\
+FLD_COMU0_031,Return to the End of Time?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_032,Return to the title screen?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_033,<S10><S10><C1>Tier 1:<S6> 100 G</C1>\<S10><S10><C2>Tier 2:<S4> 500 G</C2>\<S10><S10><C3>Tier 3:<S1> 1000 G</C3>\<S10><S10><C4>Cancel.</C4>
+FLD_COMU0_034,<S10><S10><C1>Tier 2:<S4> 500 G</C1>\<S10><S10><C2>Tier 3:<S1> 1000 G</C2>\<S10><S10><C3>Tier 4: 3000 G</C3>\<S10><S10><C4>Cancel.</C4>
+FLD_COMU0_035,<S10><S10><C1>Tier 3:<S8> 1000 G</C1>\<S10><S10><C2>Tier 4:<S7> 3000 G</C2>\<S10><S10><C3>Tier 5:<S7> 5000 G</C3>\<S10><S10><C4>Cancel.</C4>
+FLD_COMU0_036,<S10><S10><C1>Tier 4:<S7> 3000 G</C1>\<S10><S10><C2>Tier 5:<S7> 5000 G</C2>\<S10><S10><C3>Tier 6: 10,000 G</C3>\<S10><S10><C4>Cancel.</C4>
+FLD_COMU0_037,Stable Master: One more thing...\Here's a little gift for you.
+FLD_COMU0_038,<CT>\Monster trainer's starter kit!<PAGE><CT>\Obtained Slops, Flameclaw, Seafang,\Duskeye, Luxwing, Hawk Talon,\Shield Cloak, and Feral Wrath!
+FLD_COMU0_039,Stable Master: The items in that starter kit are things\you'll need while you're raising that monster.<PAGE>\For instance, you'll need to give your monster an item\to carry with it when you send it off for training.\The one you give it will determine the outcome of its\efforts.<PAGE>\You can also pass items to your monster during duels\in the Pit. You know—help the critter out.<PAGE>\If you run out, you can buy more from the merchant\over there. Best to stock up in advance, though!<PAGE>\Oh, and I suppose I should explain a bit about training,\too.<PAGE>\If you decide to send your monster out for training,\you'll have to choose an era. Sending it to different\eras will cause it to grow in different ways.<PAGE>\Of course, you can only send it to time periods that\you've already visited. So if you want your monster\to progress in its training, you'd best progress\with your quest!
+FLD_COMU0_040,Stable Master: That orange one's got fire affinity.\Blue, water affinity. Yellow, light.\And purple, shadow.<PAGE>\They're just smidges, now—itsy-bitsy monsters.\But go on, take your pick!
+FLD_COMU0_041,Time flows a little differently here.\Might call it a different dimension altogether.<PAGE>\If you came from the End of Time, that old man can\probably keep things straight for you. But if you\came from anywhere else, everything that happened\here will be washed away the second you leave.<PAGE>\If you don't want that to happen, you'd best save\your progress over there before you go.
+FLD_COMU0_042,Pit Boss: What tier would you like to compete in?\The entrance fees are steeper for the higher tiers.
+FLD_COMU0_043,Pit Boss: You want to enter a Tier 1 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_044,Pit Boss: You want to enter a Tier 2 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_045,Pit Boss: You want to enter a Tier 3 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_046,Pit Boss: You want to enter a Tier 4 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_047,Pit Boss: You want to enter a Tier 5 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_048,Pit Boss: You want to enter a Tier 6 battle?\<S10><S10><C1>Enter.</C1>\<S10><S10><C2>Cancel.</C2>
+FLD_COMU0_049,Pit Boss: Changed your mind?\Well, please come back when you're ready!
+FLD_COMU0_050,Stable Master: Oh, hello there!\We're doing some maintenance here, unfortunately.\The facilities are closed at the moment.<PAGE>\Things should be back to normal before too long,\but why don't you take care of any other business\you have in the meantime?
+FLD_COMU0_051,Man: Oh, is this your first visit?\Welcome to the Arena of the Ages!<PAGE>\This coliseum hosts battles between monsters\from all across time. Unfortunately, we're doing\some maintenance now. The facilities are closed.<PAGE>\Things should be back to normal before too long,\so why don't you take care of any other business\you have in the meantime and check back later?
+FLD_COMU0_052,Have you earned your monster's trust?<PAGE>\If your monster doesn't trust you very much, it\probably won't use the items you give it in battle.<PAGE>\You'll gain more trust the more your monster fights.\Let it do some training and fight a few battles and\you'll start to develop a better bond.
+FLD_COMU0_053,What do you think of my monster?\Looks pretty tough, eh?\Trusts me, too!
+FLD_COMU0_054,Do you know your monster's elemental affinity?\You have to pay attention to that when it's dueling,\you know.<PAGE>\Monsters do more damage when they use techs that\match their own affinities. But if they use a tech\that matches their opponent's affinity, it won't be\very effective.
+FLD_COMU0_055,I heard that a monster's elemental affinity can\change when you send it off for training.
+FLD_COMU0_056,Has your monster learned any techs yet?\Mine finally learned a fire tech.<PAGE>\My dad told me the item your monster takes with it\when you send it out to train affects what it learns.\I gave mine a flameclaw.
+FLD_COMU0_057,You should try giving your monster different items\when it goes off for training.
+FLD_COMU0_058,<NAME_PT1>: What is this place?
+FLD_COMU0_059,<NAME_PT2>: What is this place?
+FLD_COMU0_060,<NAME_AYL>: What this place?
+FLD_COMU0_061,<NAME_ROB>: What is this place?
+FLD_COMU0_062,Man: Oh, is this your first visit?
+FLD_COMU0_063,Stable Master: Come over here, will you?
+FLD_COMU0_064,You want to stage a fight, you talk to that guy\over there in the armor.
+FLD_COMU0_065,Come and see me if you ever decide you'd like to try\your hand at raising a monster of your own.
+FLD_COMU0_066,Stable Master: That's a flame smidge.\Is that the one you want?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_067,Stable Master: That's a water smidge.\Is that the one you want?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_068,Stable Master: That's a light smidge.\Is that the one you want?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_069,Stable Master: That's a shadow smidge.\Is that the one you want?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_COMU0_070,Stable Master: All right.\Let's take a look at how strong it is.
+FLD_COMU0_071,Stable Master: If you ever want to take a closer look\at your monster's abilities or send it off for some\training, just come and talk to me.
+FLD_COMU0_072,Pit Boss: Isn't your monster off training right now?\You'll have to wait for it to get back before you can\register it for a battle.
+FLD_COMU0_073,Pit Boss: Let me explain how combat works here.\All fights in the Pit are one-on-one matches between\monsters.<PAGE>\Once the battle begins, each monster will attack its\opponent automatically. You can't issue commands,\but you can support your monster to help give it a\fighting chance.<PAGE>\Pass your monster the right items at the right time,\and it can use them to unleash abilities it knows or\heal its wounds.<PAGE>\Your monster won't necessarily use an item you give it\right away, though. And once you've given an item to a\monster, it's gone for good—even if the monster\never uses it.<PAGE>\You can always pass your monster a new item, even if\it's already holding one. But if you do, the old item will\be lost for good. So always think carefully about which\items to give it, and when.<PAGE>\Best of luck to you!
+FLD_COMU0_074,I wish I could show you my monster, but he's off\training right now. Such a shame!
+FLD_COMU0_075,All right, I'll give you one.\You just pick the one you want.
+FLD_COMU0_076,
+FLD_COMU0_077,
+FLD_COMU0_078,
+FLD_COMU0_079,
+FLD_COMU0_080,
+FLD_COMU0_081,
+FLD_COMU0_082,
+FLD_COMU0_083,
+FLD_COMU0_084,
+FLD_COMU0_085,
+FLD_COMU0_086,
+FLD_COMU0_087,
+FLD_COMU0_088,
+FLD_COMU0_089,
+FLD_COMU0_090,
+FLD_COMU0_091,
+FLD_COMU0_092,
+FLD_COMU0_093,
+FLD_COMU0_094,
+FLD_COMU0_095,
+FLD_COMU0_096,
+FLD_COMU0_097,
+FLD_COMU0_098,
+FLD_COMU0_099,
+FLD_COMU0_100,
+FLD_COMU0_101,
+FLD_COMU0_102,
+FLD_COMU0_103,
+FLD_COMU0_104,
+FLD_COMU0_105,
+FLD_COMU0_106,
+FLD_COMU0_107,
+FLD_COMU0_108,
+FLD_COMU0_109,
+FLD_COMU0_110,
+FLD_COMU0_111,
+FLD_COMU0_112,
+FLD_COMU0_113,
+FLD_COMU0_114,
+FLD_COMU0_115,
+FLD_COMU0_116,
+FLD_COMU0_117,
+FLD_COMU0_118,
+FLD_COMU0_119,
+FLD_COMU0_120,
+FLD_COMU0_121,
+FLD_COMU0_122,
+FLD_COMU0_123,
+FLD_COMU0_124,
+FLD_COMU0_125,
+FLD_COMU0_126,
+FLD_COMU0_127,
+FLD_COMU0_128,

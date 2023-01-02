@@ -1,0 +1,117 @@
+
+Whirl about enemy, striking others nearby.
+Slash enemies with wind gusts. <ICON_LIGHT>
+Attack an enemy with lightning. <ICON_LIGHT>
+Deal double damage to an enemy.
+Attack all enemies with lightning. <ICON_LIGHT>
+Revive KO'd ally.
+Strike enemy 4 times in succession.
+Attack all enemies with holy light. <ICON_LIGHT>
+Restore a small amount of HP to an ally.
+Confuse enemy.
+Attack an enemy with ice. <ICON_WATER>
+Restore moderate HP to an ally.
+Halve time between turns for ally.
+Attack all enemies with ice. <ICON_WATER>
+Restore a large amount of HP to an ally.
+Revive and fully heal ally.
+Burn enemies along a direct line. <ICON_FIRE>
+Put all enemies to sleep.
+Attack an enemy with fire. <ICON_FIRE>
+Bomb enemies within a circle. <ICON_FIRE>
+Boost ally's Defense.
+Attack all enemies with fire. <ICON_FIRE>
+Blast enemies within a circle. <ICON_FIRE>
+Attack all enemies with intense fire. <ICON_FIRE>
+Launch fist at an enemy.
+Restore a small amount of HP to an ally.
+Attack all enemies with laser. <ICON_SHADOW>
+Charge and attack an enemy.
+Restore a small amount of HP to all allies.
+Barrage enemy with rocket punches.
+Blast surrounding enemies. <ICON_FIRE>
+Zap all enemies with electricity. <ICON_LIGHT>
+Restore a small amount of HP to an ally.
+Snag enemy with tongue, then slash it.
+Attack an enemy with water. <ICON_WATER>
+Restore moderate HP to all allies.
+Leap up and stab an enemy from above.
+Attack all enemies with water. <ICON_WATER>
+Restore a large amount of HP to an ally.
+Hit all foes. Damage higher when HP is low.
+Lightly heal ally and restore status.
+Jump-kick an enemy.
+Savagely claw an enemy.
+Lob an enemy as if it were a stone.
+Seduce enemy to obtain an item.
+Spin and strike surrounding enemies.
+Hit all foes. Damage higher when HP is low.
+Kick an enemy 3 times.
+Attack all enemies with lightning. <ICON_LIGHT>
+Attack all enemies with ice. <ICON_WATER>
+Attack all enemies with fire. <ICON_FIRE>
+Bomb enemies within a circle. <ICON_SHADOW>
+Boost ally's Magic Defense.
+Attack all enemies with darkness. <ICON_SHADOW>
+Attempt to banish enemies within circle.
+Attack all enemies with darkness. <ICON_SHADOW>
+Restore a small amount of HP to all allies.
+Strike foe with enchanted blade. <ICON_WATER>
+Hit all foes in circle with spellblade. <ICON_WATER>
+Attack all enemies in circle with fire. <ICON_FIRE>
+Strike foe with enchanted blade. <ICON_FIRE>
+Hit all foes in circle with spellblade. <ICON_FIRE>
+Attack all enemies with laser. <ICON_SHADOW>
+Spin <NAME_CRO> through enemies.
+Attack all enemies with electricity. <ICON_LIGHT>
+Cross-slash an enemy.
+Shower enemy in a stream of pain. <ICON_WATER>
+Skewer foe and hit with lightning. <ICON_LIGHT>
+Strike enemy with a penetrating kick.
+Deliver a charged bite to an enemy. <ICON_LIGHT>
+Strike along horizontal line through enemy.
+Hit enemies in circle with fire and ice. <ICON_SHADOW>
+Hit enemies in circle with fire and ice. <ICON_SHADOW>
+Hit all enemies with fire and ice. <ICON_SHADOW>
+Restore a small amount of HP to all allies.
+Attack enemy with glacial ice. <ICON_WATER>
+Restore a large amount of HP to all allies.
+Bathe all enemies in an icy shower. <ICON_WATER>
+Strike enemy with colossal icicles. <ICON_WATER>
+Fully restore all allies' HP and status.
+Distract and steal from an enemy.
+Lob ice at enemies in a circle. <ICON_WATER>
+Lob iceberg to hit foes in a circle. <ICON_WATER>
+Burn foes in circle with fiery punch. <ICON_FIRE>
+Attack enemy with flames. <ICON_FIRE>
+Blast enemies around <NAME_ROB>. <ICON_FIRE>
+Strike enemy with a fiery kick. <ICON_FIRE>
+Engulf all enemies in whirling flame. <ICON_FIRE>
+Strike enemy with a fiery triple kick. <ICON_FIRE>
+Launch <NAME_FRO> to strike an enemy.
+Drop <NAME_ROB> on an enemy.
+Restore a large amount of HP to all allies.
+Inflict Stop on all enemies.
+Hit enemy with a spinning kick.
+Throw an enemy around.
+Heal all allies and restore status.
+Drop <NAME_AYL> on an enemy.
+Slam into an enemy from above.
+Impale enemy with a fiery blade. <ICON_FIRE>
+Bomb enemies along a horizontal line. <ICON_FIRE>
+Hit all foes with two mighty techs. <ICON_FIRE>
+Hit all foes with an elemental blast. <ICON_SHADOW>
+Grant all allies a one-time auto-revive.
+Strike enemy with an icy blade. <ICON_WATER>
+Strike foe with an elemental kick. <ICON_SHADOW>
+Spin <NAME_CRO> through enemies. <ICON_FIRE>
+Hit all foes with an elemental blast. <ICON_SHADOW>
+Strike foe with an elemental kick. <ICON_SHADOW>
+Hit enemy with a three-pronged attack.
+Hit all foes with whirling tornado. <ICON_SHADOW>
+Hit enemy with a triple attack.
+Attack all enemies with darkness. <ICON_SHADOW>
+Hit all foes with amplified laser. <ICON_SHADOW>
+Hit enemy with a whirling leap attack.
+Confuse all enemies and hit with ??? magic.
+Call upon Masa and Mune to smite enemies.

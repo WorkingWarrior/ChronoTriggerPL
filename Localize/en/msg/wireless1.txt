@@ -1,0 +1,101 @@
+MSG_WIRELESS_01,Scoreboard
+MSG_WIRELESS_02,W
+MSG_WIRELESS_03,L
+MSG_WIRELESS_04,Accept challenge
+MSG_WIRELESS_05,Issue challenge
+MSG_WIRELESS_06,View inventory.
+MSG_WIRELESS_07,Waiting for an opponent.
+MSG_WIRELESS_08,Opponent found.
+MSG_WIRELESS_09,Please select an item to wager.
+MSG_WIRELESS_10,Wager this item?
+MSG_WIRELESS_11,Please wait...
+MSG_WIRELESS_12,A communication error has occurred.
+MSG_WIRELESS_13, acquired!
+MSG_WIRELESS_14,<STR>'s <NAME_MON> has fallen silent.
+MSG_WIRELESS_15,Return to the stables.
+MSG_WIRELESS_16,Accept an opponent's challenge.
+MSG_WIRELESS_17,Issue an open challenge.
+MSG_WIRELESS_18,View current inventory.
+MSG_WIRELESS_19,Whose challenge do you wish to accept?
+MSG_WIRELESS_20,Prize obtained:
+MSG_WIRELESS_21,Lost:
+MSG_WIRELESS_22,Arena of the Ages
+MSG_WIRELESS_23,Wins
+MSG_WIRELESS_24,HP
+MSG_WIRELESS_25,Attack
+MSG_WIRELESS_26,Defense
+MSG_WIRELESS_27,Strength
+MSG_WIRELESS_28,Accuracy
+MSG_WIRELESS_29,Speed
+MSG_WIRELESS_30,Magic
+MSG_WIRELESS_31,Evasion
+MSG_WIRELESS_32,Stamina
+MSG_WIRELESS_33,Magic Defense
+MSG_WIRELESS_34,Item
+MSG_WIRELESS_35,Train Monster
+MSG_WIRELESS_36,Toggle Display
+MSG_WIRELESS_37,Release Monster
+MSG_WIRELESS_38,Please select an item and era\to use for training.
+MSG_WIRELESS_39,Future
+MSG_WIRELESS_40,Present
+MSG_WIRELESS_41,Middle Ages
+MSG_WIRELESS_42,Antiquity
+MSG_WIRELESS_43,Prehistory
+MSG_WIRELESS_44,A monster will not return once released.\Are you sure you wish to release it?
+MSG_WIRELESS_45,Yes.
+MSG_WIRELESS_46,No.
+MSG_WIRELESS_47,Shop
+MSG_WIRELESS_48,Buy
+MSG_WIRELESS_49,Sell
+MSG_WIRELESS_50,Equip
+MSG_WIRELESS_51,Funds:
+MSG_WIRELESS_52,Price:
+MSG_WIRELESS_53,Nothing available.
+MSG_WIRELESS_54,Nothing to sell.
+MSG_WIRELESS_55,Nothing to sell.
+MSG_WIRELESS_56,Nothing to sell.
+MSG_WIRELESS_57,Nothing to sell.
+MSG_WIRELESS_58,G
+MSG_WIRELESS_59,Trust
+MSG_WIRELESS_60,???
+MSG_WIRELESS_61,Techs:
+MSG_WIRELESS_62,Item:
+MSG_WIRELESS_63,Smidge
+MSG_WIRELESS_64,Initiate
+MSG_WIRELESS_65,Veteran
+MSG_WIRELESS_66,Master
+MSG_WIRELESS_67,
+MSG_WIRELESS_68,Gone for training.
+MSG_WIRELESS_69,Returned from training.\Attributes changed!
+MSG_WIRELESS_70,Returned from training.\Learned a new tech!
+MSG_WIRELESS_71,Returned from training.\Affinity became <ICON_FIRE>!
+MSG_WIRELESS_72,Returned from training.\Affinity became <ICON_WATER>!
+MSG_WIRELESS_73,Returned from training.\Affinity became <ICON_LIGHT>!
+MSG_WIRELESS_74,Returned from training.\Affinity became <ICON_SHADOW>!
+MSG_WIRELESS_75,Returned from training.\Class changed!
+MSG_WIRELESS_76,Returned from training.\Obtained <NAME_ITM>!
+MSG_WIRELESS_77,It won its last battle.\It appears content.
+MSG_WIRELESS_78,It lost its last battle.\It appears forlorn.
+MSG_WIRELESS_79,You do not have a monster.
+MSG_WIRELESS_80, 
+MSG_WIRELESS_81, →
+MSG_WIRELESS_82,Send monster out to train.
+MSG_WIRELESS_83,Toggle display of attributes and tech list.
+MSG_WIRELESS_84,Set monster free.
+MSG_WIRELESS_85,A communication error has occurred.
+MSG_WIRELESS_86,Preparing arena for battle.
+MSG_WIRELESS_87,Congratulations!
+MSG_WIRELESS_88,Better luck next time!
+MSG_WIRELESS_ITEM_01,Boosts Max HP.
+MSG_WIRELESS_ITEM_02,Teaches fire techs and may alter affinity.
+MSG_WIRELESS_ITEM_03,Teaches water techs and may alter affinity.
+MSG_WIRELESS_ITEM_04,Teaches shadow techs and may alter affinity.
+MSG_WIRELESS_ITEM_05,Teaches light techs and may alter affinity.
+MSG_WIRELESS_ITEM_06,Enhances offensive capabilities.
+MSG_WIRELESS_ITEM_07,Enhances defensive capabilities.
+MSG_WIRELESS_ITEM_08,Boosts odds of a class change occurring.
+MSG_WIRELESS_PERIOD_01,Training for Accuracy and Stamina.
+MSG_WIRELESS_PERIOD_02,Training for Max HP.
+MSG_WIRELESS_PERIOD_03,Training for Strength.
+MSG_WIRELESS_PERIOD_04,Tech training.
+MSG_WIRELESS_PERIOD_05,Training for Speed.

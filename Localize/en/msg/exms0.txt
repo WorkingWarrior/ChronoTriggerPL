@@ -1,0 +1,256 @@
+FLD_EXMS0_000,<CT>\Obtained <NAME_ITM>!
+FLD_EXMS0_001,<NAME_PT1>: Ugh...
+FLD_EXMS0_002,<NAME_PT2>: Ugh...
+FLD_EXMS0_003,<NAME_ROB>: Unh...
+FLD_EXMS0_004,<NAME_PT2>: Where are we?
+FLD_EXMS0_005,<NAME_PT3>: Where are we?
+FLD_EXMS0_006,<NAME_ROB>: What is this place?
+FLD_EXMS0_007,Voice: Here, Lavos is no more.\This is the future in which we've defeated him.
+FLD_EXMS0_008,<NAME_MAG>: ...!
+FLD_EXMS0_009,<NAME_MAG>: Whether that is the future of the world\from which you've come, I do not know.<PAGE>\There are as many worlds as there are potentialities.
+FLD_EXMS0_010,<NAME_MAG>: A new foe has arisen here, in this endless\expanse that is Time's Eclipse.<PAGE>\It feasts upon thoughts, dreams, and memories.\
+FLD_EXMS0_011,<NAME_MAG>: Do not think to meddle here.\This enemy is my affair.
+FLD_EXMS0_012,<NAME_MAG>: Grr...\I've not finished with you yet.
+FLD_EXMS0_013,<NAME_PT1>: <NAME_MAG>!
+FLD_EXMS0_014,<NAME_PT2>: <NAME_MAG>!
+FLD_EXMS0_015,<NAME_PT3>: <NAME_MAG>!
+FLD_EXMS0_016,<NAME_MAG>: I believe I told you...not to interfere!
+FLD_EXMS0_017,Schala: Let all that once was fade into oblivion!\I welcome the end of existence.
+FLD_EXMS0_018,<NAME_MAG>: No, Schala!\Free yourself from its spell!\Please... You must open your eyes!
+FLD_EXMS0_019,Oh no!
+FLD_EXMS0_020,<NAME_LUC>: This is the new enemy?\What...what is doing here?
+FLD_EXMS0_021,<NAME_ROB>: Offensive power incalculable.\We are in extreme danger!
+FLD_EXMS0_022,<NAME_FRO>: It seems we've little choice but to fight.
+FLD_EXMS0_023,<NAME_MAR>: Isn't that...Lavos?\Why is Schala with it?
+FLD_EXMS0_024,<NAME_AYL>: <NAME_AYL> no lose!
+FLD_EXMS0_025,<NAME_MAG>: No...\Impossible!
+FLD_EXMS0_026,Schala: Embrace your destruction!\It is inevitable!
+FLD_EXMS0_027,Schala: The end of all is nigh.
+FLD_EXMS0_028,<NAME_MAG>: No!\Schala!
+FLD_EXMS0_029,<NAME_MAG>: Schala!
+FLD_EXMS0_030,<NAME_MAG>: Schala?
+FLD_EXMS0_031,Schala: It is no doubt but a matter of time before\Lavos consumes the whole of my awareness.<PAGE>\It was I, after all, who wished it—wished from the\depths of my sadness and despair that all that was\would be erased.
+FLD_EXMS0_032,Schala: The strength you wield now cannot free me.<PAGE>\No, perhaps it is better said that no strength can.\So long as you lean upon the crutch of power, this\world's sorrow can know no true end.<PAGE>\Return to your own time now.\Dwell not on this.
+FLD_EXMS0_033,<NAME_MAG>: Schala...
+FLD_EXMS0_034,Schala: Janus...thank you.\But I am the girl I was no more.\Live, and be strong.
+FLD_EXMS0_035,<NAME_MAG>: Schala!
+FLD_EXMS0_036,Schala: Farewell...
+FLD_EXMS0_037,<NAME_MAG>: So, you mean to say that no matter how\hard I strive—no matter how strong I grow—there\is nothing I might do to save you?<PAGE>\What purpose, then, does this existence serve?
+FLD_EXMS0_038,<NAME_MAG>: Hmph. If this is to be the way of things,\then let me abandon all that was and fade away as well.<PAGE>\Should a part of me somehow even then remain,\then perhaps that will be the birth of something\new—something with greater meaning than all this.
+FLD_EXMS0_039,What is this place?
+FLD_EXMS0_040,Who...who am I?\What's happened?\I...I don't remember anything.
+FLD_EXMS0_041,There was something...something I needed to do.\Something I needed to...to find.
+FLD_EXMS0_042,I must find a way to remember.\I will.
+FLD_EXMS0_043,A new enemy waits beyond.\What will you do?\<S10><S10><C1>Fight!</C1>\<S10><S10><C2>Turn back for now.</C2>
+FLD_EXMS0_044,Return to the End of Time?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS0_045,<NAME_AYL>: Ugh...
+FLD_EXMS0_046,<NAME_AYL>: What this place?
+FLD_EXMS0_047,Ugh...
+FLD_EXMS0_048,<NAME_MAG>: But, Schala—
+FLD_EXMS0_049,<NAME_MAG>: Urgh!
+FLD_EXMS0_050,
+FLD_EXMS0_051,
+FLD_EXMS0_052,
+FLD_EXMS0_053,
+FLD_EXMS0_054,
+FLD_EXMS0_055,
+FLD_EXMS0_056,
+FLD_EXMS0_057,
+FLD_EXMS0_058,
+FLD_EXMS0_059,
+FLD_EXMS0_060,
+FLD_EXMS0_061,
+FLD_EXMS0_062,
+FLD_EXMS0_063,
+FLD_EXMS0_064,
+FLD_EXMS0_065,
+FLD_EXMS0_066,
+FLD_EXMS0_067,
+FLD_EXMS0_068,
+FLD_EXMS0_069,
+FLD_EXMS0_070,
+FLD_EXMS0_071,
+FLD_EXMS0_072,
+FLD_EXMS0_073,
+FLD_EXMS0_074,
+FLD_EXMS0_075,
+FLD_EXMS0_076,
+FLD_EXMS0_077,
+FLD_EXMS0_078,
+FLD_EXMS0_079,
+FLD_EXMS0_080,
+FLD_EXMS0_081,
+FLD_EXMS0_082,
+FLD_EXMS0_083,
+FLD_EXMS0_084,
+FLD_EXMS0_085,
+FLD_EXMS0_086,
+FLD_EXMS0_087,
+FLD_EXMS0_088,
+FLD_EXMS0_089,
+FLD_EXMS0_090,
+FLD_EXMS0_091,
+FLD_EXMS0_092,
+FLD_EXMS0_093,
+FLD_EXMS0_094,
+FLD_EXMS0_095,
+FLD_EXMS0_096,
+FLD_EXMS0_097,
+FLD_EXMS0_098,
+FLD_EXMS0_099,
+FLD_EXMS0_100,Br-brave heroes! H-help!
+FLD_EXMS0_101,M-my thanks.\I fear I'd not have survived much longer.
+FLD_EXMS0_102,I've been toiling away at this bridge, but the work\takes a good deal out of a man. Seems I grew a tad\careless and lost my footing.
+FLD_EXMS0_103,If only I'd someone with more brawn to assist me.\It'll be some time before I finish at this rate.
+FLD_EXMS0_104,<NAME_MAG>: Why not use a Nu?\They've strength and stamina enough.
+FLD_EXMS0_105,<NAME_AYL>: Nu strong!\Ask Nu!
+FLD_EXMS0_106,<NAME_ROB>: Nu possess great strength and endurance.\Why do we not ask that Nu?
+FLD_EXMS0_107,<NAME_FRO>: Would that Nu not serve?\They've strength and stamina to match.\We ought to ask.
+FLD_EXMS0_108,<NAME_LUC>: Couldn't that Nu help?\They're incredibly strong.\Let's ask!
+FLD_EXMS0_109,You've an idea of someone who could help?\My pardons, but it would be most gracious\of you if you could inquire on my behalf.
+FLD_EXMS0_110,This...this is the assistant of whom you spoke?
+FLD_EXMS0_111,<NAME_MAR>: Don't worry.\He's a lot stronger than he looks!
+FLD_EXMS0_112,<NAME_LUC>: Sure is!\Don't judge the book by its cover.\He's a strong one!
+FLD_EXMS0_113,<NAME_FRO>: Do not be deceived by appearances.\Ten men could not match the might of this Nu.
+FLD_EXMS0_114,<NAME_ROB>: Yes, it is.\His strength is far greater than it appears.\Please exercise caution.
+FLD_EXMS0_115,<NAME_AYL>: He strong.\So, no worry!
+FLD_EXMS0_116,I...I see.\Well, I suppose if you say so...
+FLD_EXMS0_117,It all right. I strong.
+FLD_EXMS0_118,Well then, haste makes waste.\First things first...
+FLD_EXMS0_119,You aren't so bad at all.
+FLD_EXMS0_120,No, I not bad at all.
+FLD_EXMS0_121,All right, next we need to—
+FLD_EXMS0_122,What's the matter, Nu!?
+FLD_EXMS0_123,Hungry. Can't move.\Need food!
+FLD_EXMS0_124,<NAME_ROB>: We have a lunch we obtained in the village.
+FLD_EXMS0_125,<NAME_FRO>: We've a lunch we acquired in the village.
+FLD_EXMS0_126,<NAME_LUC>: We have a lunch we got in the village.\You're welcome to it.
+FLD_EXMS0_127,<NAME_MAR>: Well, we do have this lunch we got in the\village. You can have it if you'd like.
+FLD_EXMS0_128,<NAME_MAG>: What of that lunch we had?\We could let it eat that.
+FLD_EXMS0_129,Mmm... Taste good.
+FLD_EXMS0_130,<NAME_MAR>: You like it?\A villager made that for you.
+FLD_EXMS0_131,<NAME_LUC>: Glad you like it.\A villager made that for you.
+FLD_EXMS0_132,<NAME_FRO>: A villager made that for you.\It's to her you owe your thanks.
+FLD_EXMS0_133,<NAME_ROB>: A reptite in the village worked very hard to\make that for you. It is no wonder it tastes so good.
+FLD_EXMS0_134,<NAME_AYL>: Villager make for you.
+FLD_EXMS0_135,Oh, she made this?\I feel strong now.\I work hard again.
+FLD_EXMS0_136,Can I ask favor?
+FLD_EXMS0_137,<NAME_AYL>: Favor? What favor?
+FLD_EXMS0_138,<NAME_MAG>: Speak.
+FLD_EXMS0_139,<NAME_MAR>: What is it?
+FLD_EXMS0_140,<NAME_LUC>: What?
+FLD_EXMS0_141,<NAME_FRO>: What manner of favor?
+FLD_EXMS0_142,I get hungry, I can't work.\I want you bring me food.<PAGE>\Old monster have good food, long, long time ago.\Sweet, yellow thing. I like that food.
+FLD_EXMS0_143,<NAME_LUC>: All right.\You just keep working on the bridge!
+FLD_EXMS0_144,<NAME_MAR>: Okay.\We'll try to bring you some!
+FLD_EXMS0_145,<NAME_ROB>: More food, correct?\Understood.
+FLD_EXMS0_146,<NAME_FRO>: Very well.\I'd not deny such a simple request.
+FLD_EXMS0_147,<NAME_AYL>: Okay.\<NAME_AYL> bring good food!
+FLD_EXMS0_148,I'll watch over this Nu.\Please, hurry back if you can.
+FLD_EXMS0_149,<NAME_FRO>: As promised.
+FLD_EXMS0_150,<NAME_ROB>: We have brought food.
+FLD_EXMS0_151,<NAME_AYL>: Bring food.\Eat!
+FLD_EXMS0_152,<NAME_MAG>: I trust this will suffice.
+FLD_EXMS0_153,<NAME_MAR>: We brought you this to eat.
+FLD_EXMS0_154,Thank you.
+FLD_EXMS0_155,Hmm...\Not food I wanted.\Still hungry.
+FLD_EXMS0_156,Oh, better now!\You wait, I finish.
+FLD_EXMS0_157,Nu: All done!
+FLD_EXMS0_158,Oh, at long last! The bridge is complete!\You have my deepest gratitude for all your help.
+FLD_EXMS0_159,I'd best return to the village.\I'm sure everyone's worried.
+FLD_EXMS0_160,<NAME_LUC>: We'll go with you.
+FLD_EXMS0_161,<NAME_MAR>: Why don't we go with you?
+FLD_EXMS0_162,<NAME_ROB>: We will accompany you.
+FLD_EXMS0_163,<NAME_FRO>: Shall we go together, then?
+FLD_EXMS0_164,<NAME_AYL>: <NAME_AYL> go, too!
+FLD_EXMS0_165,Death to all who yet draw breath!
+FLD_EXMS0_166,<NAME_MAG>: That spirit will stir no more.\Let us find the idols.
+FLD_EXMS0_167,<NAME_AYL>: <NAME_AYL> win!\Where idol?
+FLD_EXMS0_168,<NAME_ROB>: Did we eliminate that ghost?
+FLD_EXMS0_169,<NAME_FRO>: I do believe we've exorcised that ghost.\All that remains now is to find the idols.
+FLD_EXMS0_170,<NAME_LUC>: Well, that spirit's been put to rest.\Now let's look for the village's guardian idols!
+FLD_EXMS0_171,<NAME_MAR>: These...these are statues of us!
+FLD_EXMS0_172,<NAME_LUC>: They've...idolized us.
+FLD_EXMS0_173,<NAME_MAG>: Trust to a primitive people to engage in\such foolishness.
+FLD_EXMS0_174,<NAME_FRO>: We must have become the stuff of legend\to these people. I feel honored.
+FLD_EXMS0_175,<NAME_ROB>: This work is exquisite.\They resemble us in every detail.
+FLD_EXMS0_176,<NAME_AYL>: Village person see, maybe surprise!
+FLD_EXMS0_177,<NAME_MAR>: Well, I guess this ends our investigation.\Time to head back to the village.
+FLD_EXMS0_178,<NAME_LUC>: Well, looks like we're all done here.\Why don't we head back to the village?
+FLD_EXMS0_179,<NAME_MAG>: Are we done here?\Let us return.
+FLD_EXMS0_180,<NAME_FRO>: Well, we've seen all there is to see.\Shall we be on our way?
+FLD_EXMS0_181,<NAME_ROB>: Our investigation is complete.\Shall we return to the village?
+FLD_EXMS0_182,<NAME_AYL>: Done here.\Go back village now!
+FLD_EXMS0_183,You bring food?
+FLD_EXMS0_184,Oh, dear. This is a problem.\Please, I beg you!\Bring this poor Nu something to eat.
+FLD_EXMS0_185,<NAME_ROB>: Why do we not ask that villager if there\is somewhere we might obtain food?
+FLD_EXMS0_186,<NAME_FRO>: Something to eat?\Mayhap that villager could help us.
+FLD_EXMS0_187,<NAME_LUC>: Hmm...\Why don't we ask that villager?
+FLD_EXMS0_188,<NAME_MAR>: All right.\We should ask that reptite in the village!
+FLD_EXMS0_189,<NAME_MAG>: Well?\Shall we ask at the village?
+FLD_EXMS0_190,Oh, you know where you might be able to get some\food? Wonderful! I'll wait here with him.
+FLD_EXMS0_191,Oh, you've brought him food?\Thank you ever so much!
+FLD_EXMS0_192,Yes. This is sweet yellow food.\Now I can work.\You wait.\I build bridge.
+FLD_EXMS0_193,The bridge is almost finished now, thanks to all his\help. You should check back from time to time and\watch how things are coming along.
+FLD_EXMS0_194,This isn't sweet yellow food.\Oh, I'm hungry.\I can't work.
+FLD_EXMS0_195,
+FLD_EXMS0_196,
+FLD_EXMS0_197,
+FLD_EXMS0_198,
+FLD_EXMS0_199,
+FLD_EXMS0_200,
+FLD_EXMS0_201,
+FLD_EXMS0_202,
+FLD_EXMS0_203,
+FLD_EXMS0_204,
+FLD_EXMS0_205,
+FLD_EXMS0_206,
+FLD_EXMS0_207,
+FLD_EXMS0_208,
+FLD_EXMS0_209,
+FLD_EXMS0_210,
+FLD_EXMS0_211,
+FLD_EXMS0_212,
+FLD_EXMS0_213,
+FLD_EXMS0_214,
+FLD_EXMS0_215,
+FLD_EXMS0_216,
+FLD_EXMS0_217,
+FLD_EXMS0_218,
+FLD_EXMS0_219,
+FLD_EXMS0_220,
+FLD_EXMS0_221,
+FLD_EXMS0_222,
+FLD_EXMS0_223,
+FLD_EXMS0_224,
+FLD_EXMS0_225,
+FLD_EXMS0_226,
+FLD_EXMS0_227,
+FLD_EXMS0_228,
+FLD_EXMS0_229,
+FLD_EXMS0_230,
+FLD_EXMS0_231,
+FLD_EXMS0_232,
+FLD_EXMS0_233,
+FLD_EXMS0_234,
+FLD_EXMS0_235,
+FLD_EXMS0_236,
+FLD_EXMS0_237,
+FLD_EXMS0_238,
+FLD_EXMS0_239,
+FLD_EXMS0_240,
+FLD_EXMS0_241,
+FLD_EXMS0_242,
+FLD_EXMS0_243,
+FLD_EXMS0_244,
+FLD_EXMS0_245,
+FLD_EXMS0_246,
+FLD_EXMS0_247,
+FLD_EXMS0_248,
+FLD_EXMS0_249,
+FLD_EXMS0_250,
+FLD_EXMS0_251,
+FLD_EXMS0_252,
+FLD_EXMS0_253,
+FLD_EXMS0_254,
+FLD_EXMS0_255,

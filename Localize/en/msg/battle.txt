@@ -1,0 +1,51 @@
+Attack
+Tech
+Combo
+Item
+Escape
+Single Tech
+Dual Tech
+Triple Tech
+Poison
+Slow
+Sleep
+Confuse
+Blind
+Lock
+Stop
+Sap
+Omnilock
+Curse
+KO
+Haste
+Protect
+Barrier
+Reraise
+Berserk
+Enemies:
+Obtained
+!
+EXP
+TP
+Money
+G
+x
+<NAME_CNO>'s level\increased!
+LV
+→
+<NAME_CNO> learned 
+!
+Earned <NUMBER> EXP.
+Earned <NUMBER> TP.
+Found <NUMBER> G.
+Obtained <NAME_ITM>.
+<NAME_CNO>'s level increased!
+<NAME_CNO> learned <NAME_TEC>!
+Learned <NAME_TEC> dual tech!
+Learned <NAME_TEC> triple tech!
+Escaped!
+Can't escape!
+Enemy has nothing to give but gratitude.
+<NAME_MON>    <NUMBER>/<NUMBER>
+<NAME_CNO> got back up!
+Target

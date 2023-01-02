@@ -1,0 +1,13 @@
+MSG_TUTO_HELP_01,This menu allows you to equip your party,\view your inventory or tech lists, modify the\game controls, or otherwise prepare for the\adventures that await.
+MSG_TUTO_HELP_02,You can use buttons or the Touch Screen to\navigate the menu as desired.
+MSG_TUTO_HELP_03,Via this screen, you can arrange the icons that\are shown at the bottom of the screen as you\wander about the world.
+MSG_TUTO_HELP_04,If you wish to move an icon, first select it with\the cursor and press the <BTN_CONF> Button.
+MSG_TUTO_HELP_05,After moving the cursor to the desired location,\press the <BTN_CONF> Button again to place the icon.
+MSG_TUTO_HELP_06,You can disable an icon by selecting it and then\pressing the <BTN_WARP> Button. Disabled icons will not be\shown while you are exploring.
+MSG_TUTO_HELP_07,To move an icon with the stylus, simply touch\it and slide it to the desired position.
+MSG_TUTO_HELP_08,To disable an icon, touch it twice quickly with\the stylus. Alternately, you can touch the icon\once to select it, and then touch the panel\labeled "Enable/Disable."
+MSG_TUTO_HELP_09,To restore all icons to their default positions,\press SELECT or touch the panel labeled\"Defaults."
+MSG_TUTO_HELP_10,To undo the changes you have made, press the\<BTN_DASH> Button or touch the <BTN_DASH> Button icon located\in the bottom right corner of the screen.
+MSG_TUTO_HELP_11,To save your customized layout scheme, press\START or touch the panel labeled "Save & Apply."
+MSG_TUTO_HELP_12,Well then, why don't you give it a try?
+MSG_TUTO_HELP_13,Touch the Touch Screen or press the A Button.

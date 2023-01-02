@@ -1,0 +1,256 @@
+FLD_MEST4_000,<CT>\Obtained <NAME_ITM>!
+FLD_MEST4_001,Soldier: Halt!\Who goes there?
+FLD_MEST4_002,Soldier: I've not seen your face before.\And those outlandish clothes! Wouldn't be\one of the Fiendlord's agents, would we?<PAGE>\Soldier: Ha! Fat chance. Look at him!\That boy's not built to lift a sword,\let alone serve in the Fiendlord's army.<PAGE>\Soldier: Heh. Suppose you're right.\Now run along, boy, before we're forced\to lock you up in the towers!<PAGE>\Woman's Voice: Stop that at once!
+FLD_MEST4_003,Soldier: Queen Leene!
+FLD_MEST4_004,Queen: That man is my friend, and you will treat him\as such.
+FLD_MEST4_005,Soldier: But, Your Majesty, there's something...strange\about his look.
+FLD_MEST4_006,Queen: You refuse to obey my orders?
+FLD_MEST4_007,Soldier: No, I—forgive me, my lady!\Please, enter!
+FLD_MEST4_008,Queen: Hee hee...
+FLD_MEST4_009,Please pardon us.\We'd no idea you were Her Majesty's guest.
+FLD_MEST4_010,I envy you, to be favored by the Queen.
+FLD_MEST4_011,King Guardia XXI sits in audience within.
+FLD_MEST4_012,Be mindful of your place.
+FLD_MEST4_013,King: I am to understand that you played some\role in helping to rescue my lady wife.\I owe you a debt of gratitude.<PAGE>\Might you know what befell Leene?\She has been acting rather oddly since her return.<PAGE>\And she seems to have lost the coral hairpin she\always wore. She always treasured that thing so.<PAGE>\Forgive me, you must be tired. Please, rest in the\knights' quarters down the stairs to the left.\I'll speak to the Commander.
+FLD_MEST4_014,Chancellor: Hmm...
+FLD_MEST4_015,Chancellor: How did she manage to escape?\She shouldn't have been able to free herself\from there without assistance.
+FLD_MEST4_016,Chancellor: What do you want?\Begone from here!
+FLD_MEST4_017,The King's chambers are atop the tower ahead.\The knights' quarters are downstairs. Go straight\from here, and you'll find the stairway on the left.
+FLD_MEST4_018,The Queen's chambers are above.\She has granted you permission to pass.
+FLD_MEST4_019,Her Majesty awaits you.
+FLD_MEST4_020,You're the one who saved our Queen?\I'd expected one a bit more...dashing.
+FLD_MEST4_021,It's been over ten years since Her Majesty first\came to this castle, but she's scarce aged a day.<PAGE>\In fact, she looks even younger now than she did\before her disappearance!
+FLD_MEST4_022,Queen: Ah!\There you are.
+FLD_MEST4_023,Queen: Please leave us.\I need to have words with this man in private.
+FLD_MEST4_024,Handmaiden: As you wish, Your Majesty.
+FLD_MEST4_025,Queen: Come nearer. Don't be shy.
+FLD_MEST4_026,Queen: Hee hee...
+FLD_MEST4_027,Queen: Fooled you, didn't I, <NAME_CRO>?
+FLD_MEST4_028,<NAME_MAR>: It's me!\But everyone keeps calling me Leene for some reason.
+FLD_MEST4_029,<NAME_MAR>: I'm glad you came.
+FLD_MEST4_030,<NAME_MAR>: We were only together for that short time\at the fair, but somehow I knew you'd come for me.
+FLD_MEST4_031,<NAME_MAR>: Thank you, <NAME_CRO>.
+FLD_MEST4_032,<NAME_MAR>: What's happening!?
+FLD_MEST4_033,<NAME_MAR>: !<PAGE>\I feel...I feel like I'm being torn apart!
+FLD_MEST4_034,<NAME_MAR>: Help me, <NAME_CRO>!\I'm scared! It's like...I'm dying.\Please, <NICK_CRO>!\Help—!
+FLD_MEST4_035,...<PAGE>\A great number of things change as the years go by,\but if there is one thing that will ever be the same,\it's women and their insufferable love of gossip!
+FLD_MEST4_036,By the way, did Her Majesty seem somehow...not\herself?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST4_037,Just as I thought.\She claims she's not Leene, and there's\something...something different about her.<PAGE>\Ah, but don't let word of this escape!
+FLD_MEST4_038,Truly? Perhaps I worry overmuch.
+FLD_MEST4_039,Her Majesty's dismissed you already?
+FLD_MEST4_040,You didn't engage in any...untoward behavior, did you?\<S10><S10><C1>Of course not!</C1>\<S10><S10><C2>Well...yes.</C2>
+FLD_MEST4_041,Let us hope that is the case.
+FLD_MEST4_042,Oh, my! Speak of this to no one, or there will be\terrible consequences. I've not heard a thing!
+FLD_MEST4_043,Go downstairs if you wish to rest.
+FLD_MEST4_044,The knights' quarters are below.
+FLD_MEST4_045,The dining hall is below.
+FLD_MEST4_046,The Master of Kitchens has a foul temper.\Best stay out of his way, unless you fancy a\tongue-lashing.
+FLD_MEST4_047,This dining hall is for members of the knighthood,\but you're welcome at our tables.\Eat your fill before you go!
+FLD_MEST4_048,The Fiendlord's troops had better watch out for us!
+FLD_MEST4_049,The Master of Kitchens has earned his post.\His cooking is worthy of at least three stars.
+FLD_MEST4_050,I...I'm dying.<PAGE>\I'm dying...of hunger.
+FLD_MEST4_051,Servant: Your meal is ready!
+FLD_MEST4_052,Soldier: Finally!
+FLD_MEST4_053,Nom nom nom...
+FLD_MEST4_054,Hungry, my lord?\Take a seat at the upper left corner of the left table.
+FLD_MEST4_055,The kitchen is a battlefield in its own right!
+FLD_MEST4_056,Have you come to season my broth\with your lack of culinary expertise?\Out! You've no place in my kitchen!
+FLD_MEST4_057,Oh... What in the name of all that's good is this\"eyes cream" that Her Majesty so wishes I prepare?
+FLD_MEST4_058,Commander: Where is our food and drink?
+FLD_MEST4_059,Servant: Oh, Commander!\Beg pardons, it's not quite ready.
+FLD_MEST4_060,Commander: My men and I risk our lives in this war!\Is it so much to ask that you keep us fed?\Quickly, now!
+FLD_MEST4_061,Master of Kitchens: Enough of your self-righteous\ranting! You knights aren't the only ones putting\your lives on the line for this kingdom!
+FLD_MEST4_062,Commander: Hmph. I think I've lost my appetite.\I've no stomach for meat braised in cowardice.\See that my men are fed.
+FLD_MEST4_063,Master of Kitchens: Go find someone else to command!\I don't need you telling me how to do my job!
+FLD_MEST4_064,Arrogant jackanapes...\Thinks the only people making sacrifices are the\ones with swords!
+FLD_MEST4_065,Our Commander is a good man.\The Master of Kitchens but rubs him the wrong way.
+FLD_MEST4_066,Our new Commander is working hard to fill Sir Cyrus's\shoes.
+FLD_MEST4_067,The two of them are brothers, but they've never\gotten on well together.
+FLD_MEST4_068,My husband chose this life because he is a pacifist.
+FLD_MEST4_069,Zenan Bridge is our last line of defense.\It must hold, even should it mean our lives!
+FLD_MEST4_070,You're the Queen's friend, are you not?\Talk to the maid if you need to rest.
+FLD_MEST4_071,Would you like to rest?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST4_072,Did you sleep well?
+FLD_MEST4_073,If only Sir Cyrus were here!
+FLD_MEST4_074,You've heard of him, surely?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST4_075,Were he here, this whole affair with the Queen's\disappearance would never have happened.
+FLD_MEST4_076,You don't know of the great Sir Cyrus?\From what depraved village do you hail?
+FLD_MEST4_077,Sir Cyrus was Commander of the knighthood, sworn\to protect the King and Queen with his own blade.<PAGE>\Ten years ago, he and a lone friend departed on a\quest, and no one has heard from them since.
+FLD_MEST4_078,Long ago, a vile beast named Yakra lurked in the\western forest. People were loath to wander near.<PAGE>\But since the cathedral was built there, no monsters\have been seen. It seems the place is truly blessed.
+FLD_MEST4_079,What a relief! Now that the Queen's been found,\we can refocus our efforts on the war.
+FLD_MEST4_080,Uhhnn...
+FLD_MEST4_081,The Fiendlord's troops are strangely quiet.\Something must be afoot.
+FLD_MEST4_082,Just between you and I, the Chancellor has been\acting strangely these days. I've spied him sneaking\out of the castle time and time again.
+FLD_MEST4_083,The only thing I've noticed out of the ordinary\as of late is that the Queen's personal guard,\that froggish creature, has not been around.<PAGE>\They say a curse turned him into a frog, but I\question the truth of that. No doubt he's been\one of the Fiendlord's spies all along!
+FLD_MEST4_084,People think the Chancellor's behavior strange, \but I don't find it troubling at all.<PAGE>\The Chancellor is a man of strong faith.\Why, he goes to Manolia Cathedral every day to pray!
+FLD_MEST4_085,<NAME_CRO>!
+FLD_MEST4_086,<NAME_LUC>: Whew... You're okay.\Did you find the girl?
+FLD_MEST4_087,<NAME_LUC>: She—WHAT!?\She disappeared?
+FLD_MEST4_088,<NAME_LUC>: Hmm...\It's just as I thought, then.
+FLD_MEST4_089,<NAME_LUC>: I knew I recognized her from somewhere.
+FLD_MEST4_090,<NAME_LUC>: We seem to be in Guardia, but it looks\a lot older than the Guardia we're from.
+FLD_MEST4_091,<NAME_LUC>: They must have mistaken that girl for\her ancestor.
+FLD_MEST4_092,<NAME_LUC>: After all, that girl was our Princess Nadia!
+FLD_MEST4_093,<NAME_LUC>: Something must happen to the Queen in\this era if she isn't rescued. And if something\happens to her, her descendant, Princess Nadia,\will never come into being.
+FLD_MEST4_094,<NAME_LUC>: We have to find the real Queen!
+FLD_MEST4_095,King: You cannot know how I worried, Leene.
+FLD_MEST4_096,<NAME_FRO>: I am disgraced.\I failed to protect my Queen.\
+FLD_MEST4_097,Leene: <NAME_FRO>!
+FLD_MEST4_098,Leene: I am forever in your debt.\Who knows what would have happened to me\had you come even a little later than you did?<PAGE>\By the way, what became of the girl who was\mistaken for me?
+FLD_MEST4_099,<NAME_LUC>: Oh yeah!\I forgot all about Princess Nadia!
+FLD_MEST4_100,<NAME_LUC>: <NAME_CRO>!\Where did the Princess disappear?\She may be there now!
+FLD_MEST4_101,<NAME_LUC>: Princess Nadia!
+FLD_MEST4_102,<NAME_MAR>: Huh?\What happened?
+FLD_MEST4_103,<NAME_MAR>: <NAME_CRO>!
+FLD_MEST4_104,<NAME_MAR>: It was awful.\I was so afraid.<PAGE>\I couldn't see or feel anything,\but I knew I was someplace cold.<PAGE>\I wonder if that's what it's like to die.
+FLD_MEST4_105,<NAME_LUC>: Your Highness, I—
+FLD_MEST4_106,<NAME_MAR>: You came to help me, too!\Wait...\Your...Highness?<PAGE>\Uh-oh...
+FLD_MEST4_107,<NAME_MAR>: I guess you guys figured me out, huh?
+FLD_MEST4_108,<NAME_MAR>: Sorry, <NAME_CRO>.\I didn't mean to trick you.
+FLD_MEST4_109,<NAME_MAR>: My name is really Nadia.\My father's King Guardia XXXIII.<PAGE>\I just wanted to go to the fair and have fun\like everyone else! But if you'd known who I\really was...
+FLD_MEST4_110,<NAME_MAR>: You wouldn't have shown me around\the fair, would you <NAME_CRO>?\<S10><S10><C1>Probably not.</C1>\<S10><S10><C2>Yes, I would have.</C2>
+FLD_MEST4_111,<NAME_MAR>: See?\And I like <NAME_MAR> better than\"Your Highness" anyway!
+FLD_MEST4_112,<NAME_MAR>: Oh, <NAME_CRO>!\That's why I like you!
+FLD_MEST4_113,<NAME_MAR>: The real Queen's safe, right?\Let's go home, <NAME_CRO>!
+FLD_MEST4_114,Chancellor: Yakra... That vile beast!\Impersonating me and kidnapping the Queen!<PAGE>\We must institute a stricter criminal justice system\in this kingdom to ensure such fiends never threaten\the royal family's safety again.
+FLD_MEST4_115,Chancellor: My, you could be Queen Leene's twin!
+FLD_MEST4_116,King: You have my deepest gratitude, Lord <NAME_CRO>.\But I wonder... Who, then, was that girl we found in\the canyon?
+FLD_MEST4_117,King: Ah, good! You are safe.\Even to look again now, you are the ghostly image\of Leene. Your manner, on the other hand...<PAGE>\Well, never us mind that.\You've done me a great service.\If there is aught I might do for you,\simply speak it and it will be done.
+FLD_MEST4_118,<NAME_MAR>: You must be the real Queen Leene!
+FLD_MEST4_119,Leene: My, we truly could be twins.
+FLD_MEST4_120,<NAME_MAR>: You get along well with the King, now, you\hear? Or I'll get angry.<PAGE>\Actually, I wouldn't even be able to do that, would I?
+FLD_MEST4_121,Leene: ?
+FLD_MEST4_122,<NAME_MAR>: Um, never mind!\I just, uh...wish you all the best!
+FLD_MEST4_123,Leene: For some reason you almost seem one of\the family.
+FLD_MEST4_124,<NAME_FRO>: It was my presence here that endangered\the Queen.<PAGE>\I can remain at this castle no more.
+FLD_MEST4_125,<NAME_MAR>: Eeeek!
+FLD_MEST4_126,<NAME_FRO>: Indeed, your resemblance to the Queen\is uncanny.
+FLD_MEST4_127,<NAME_FRO>: <NAME_CRO>, you've the makings of a\great swordsman.
+FLD_MEST4_128,<NAME_LUC>: ...<PAGE>\Maybe frogs aren't so bad after all.
+FLD_MEST4_129,King: Well met!\You are always welcome here.\Is something troubling you?
+FLD_MEST4_130,<NAME_MAR>: Well, actually...
+FLD_MEST4_131,<NAME_LUC>: Um, well, you see...
+FLD_MEST4_132,<NAME_ROB>: We would like to ask a favor.
+FLD_MEST4_133,<NAME_FRO>: We've a favor to ask of you.
+FLD_MEST4_134,<NAME_AYL>: <NAME_AYL> ask favor.
+FLD_MEST4_135,King: I see. So, you wish for me to safeguard the shell\you found on that island within the castle for future\generations.
+FLD_MEST4_136,Leene: Grant them this small favor.\It is little enough to ask.
+FLD_MEST4_137,King: Very well.\I shall have the shell brought to the castle\and stored in our vaults as a royal heirloom.
+FLD_MEST4_138,Commander!
+FLD_MEST4_139,Commander: Yes, Majesty!
+FLD_MEST4_140,King: Go to the Giant's Claw and retrieve for me\this Rainbow Shell.
+FLD_MEST4_141,Commander: At once, Your Majesty!
+FLD_MEST4_142,<NAME_MAR>: Thank you, Your Majesty!\And Queen Leene, too, of course!
+FLD_MEST4_143,<NAME_LUC>: Thank you very much!
+FLD_MEST4_144,<NAME_ROB>: Thank you very much!
+FLD_MEST4_145,<NAME_FRO>: Your graciousness humbles one so\undeserving as I.
+FLD_MEST4_146,<NAME_AYL>: Good person!\<NAME_AYL> like!
+FLD_MEST4_147,Soldier: Oh, it's you again.
+FLD_MEST4_148,The Fiendlord's troops threatened to break us,\but now the Hero has appeared. We are saved!
+FLD_MEST4_149,The Hero? He passed by on his way to seek audience\with the King.
+FLD_MEST4_150,Chancellor: Lord <NAME_CRO>! The great Hero has\appeared, from the very pages of legend!<PAGE>\He arrived not long ago, then left to meet the King.
+FLD_MEST4_151,His Majesty is recuperating in bed.
+FLD_MEST4_152,Queen Leene has been at His Majesty's bedside night\and day.
+FLD_MEST4_153,Our King fought bravely against the Fiendlord's troops,\leading charge after charge. Had he not received word\of the Hero's arrival, he may well have fought to his\death.
+FLD_MEST4_154,I'm so ashamed.<PAGE>\I gave that boy the boot, thinking him no more than\some peasant brat. How was I to know he was the\legendary Hero?<PAGE>\Even still, he forgave me.\Compassion to rival courage—a Hero, indeed!
+FLD_MEST4_155,Queen Leene will collapse if she does not get\some rest.
+FLD_MEST4_156,King: Oh, <NAME_CRO>...\Have I grown too old for all this?<PAGE>\With Sir Cyrus nowhere to be found, all our hope\rests on the shoulder of that boy who bears the\Hero's Badge.<PAGE>\He has gone to the southern continent now, to search\for the sword that can slay <NAME_MAG>.
+FLD_MEST4_157,Leene: Sir Cyrus must have sent that boy to us.
+FLD_MEST4_158,The Commander has gone to Zenan Bridge.\The wounded from the battle there are resting\down below.
+FLD_MEST4_159,The Master of Kitchens has his hands full, trying to\get food to the front lines while making sure the King\keeps up his strength.
+FLD_MEST4_160,Beg pardons, my lord, the beds are all taken.
+FLD_MEST4_161,Even the Commander himself has gone to the front\lines to fight.
+FLD_MEST4_162,The Fiendlord has brought three fearsome generals\onto the field of battle.
+FLD_MEST4_163,The food supplies are being rationed on the front lines.\There will soon be none left.
+FLD_MEST4_164,They...they say the Hero has come.
+FLD_MEST4_165,Urgh...
+FLD_MEST4_166,Come on, now!\Your King is wounded, too, but he has not given up!
+FLD_MEST4_167,The wounded pour in faster than we can nurse them\back to health.
+FLD_MEST4_168,Master of Kitchens: Come on, now!\Time is wasting!
+FLD_MEST4_169,Is this food fit for the King?
+FLD_MEST4_170,We must hurry with the provisions for Zenan Bridge\as well!
+FLD_MEST4_171,Master of Kitchens: What?\My brother's larders are nearly empty?<PAGE>\...
+FLD_MEST4_172,Master of Kitchens: Hmph. Serves him right, thinking\you men with swords are the only ones protecting this\kingdom!
+FLD_MEST4_173,Wife: Enough of that!
+FLD_MEST4_174,Wife: Are you never going to set aside your petty feud?\You're grown men!\Act like it!
+FLD_MEST4_175,Master of Kitchens: ...<PAGE>\Mind your own business!\What do you know of it, anyway?\*grumble* *grumble*
+FLD_MEST4_176,Men are such fools!
+FLD_MEST4_177,He may act like he doesn't care, but our master is\always worried about the Commander.
+FLD_MEST4_178,Wait!
+FLD_MEST4_179,Master of Kitchens: *pant* *wheeze*...<PAGE>\Take this for the troops!
+FLD_MEST4_180,Master of Kitchens: When you see that fool brother\of mine...<PAGE>\Tell him he had better come back alive!
+FLD_MEST4_181,Henceforth, you may come and go as you please.
+FLD_MEST4_182,I envy you even more now.\You bested Yakra!
+FLD_MEST4_183,His Majesty should be able to rest more easily now.
+FLD_MEST4_184,Queen Leene's presence brightens these halls far\more than any torch could hope to do.
+FLD_MEST4_185,It has been many a day since the King and Queen\could sit together here.
+FLD_MEST4_186,So, she wasn't our true Queen after all.
+FLD_MEST4_187,The real Queen Leene was somewhere else, then.\It's just as I thought.
+FLD_MEST4_188,She truly was the very image of our Queen.
+FLD_MEST4_189,Hmm. The longer I look at you, the stronger the\resemblance to Her Majesty. It truly is incredible!
+FLD_MEST4_190,You're returning home?\I do not know from where you hail,\but I wish you a safe journey.
+FLD_MEST4_191,The real Queen Leene has returned?\That's wonderful!\We'd best prepare a feast!
+FLD_MEST4_192,You mean to tell me that was not Queen Leene?<PAGE>\And to think I wasted all this time whipping up a\batch of that "eyes cream" she wanted so badly!<PAGE>\I suppose it's for the best. I cannot imagine such\a dish would have been appetizing.
+FLD_MEST4_193,Now the Commander can concentrate on battling\the Fiendlord's troops.
+FLD_MEST4_194,Hard to believe she really wasn't Leene.
+FLD_MEST4_195,I should have known. Her Majesty would never come\here to snack between meals as that other girl did.
+FLD_MEST4_196,So, that cathedral was at the heart of it all.\It seems that <NAME_FRO> fellow served valiantly, too.<PAGE>\But now that our enemy's plan to kidnap the Queen\has been foiled, they will no doubt be quick to launch\their full assault. Oh, if only Sir Cyrus were here!
+FLD_MEST4_197,All that remains is to crush the enemy's troops!
+FLD_MEST4_198,Seems the Fiendlord sent Yakra here as well.
+FLD_MEST4_199,Who would have thought the cathedral their hideout?\Such sacrilege!
+FLD_MEST4_200,Her Majesty's abduction was the work of the Fiendlord's\troops as well, it seems.
+FLD_MEST4_201,I did not know a frog could be so brave.
+FLD_MEST4_202,I still don't trust him. All that business with\aiding in the Queen's rescue could have been a\ruse to trick us into believing he is not a spy.
+FLD_MEST4_203,A fiend was posing as the Chancellor all this time?\Well, I must say, the fake one was far more refined.
+FLD_MEST4_204,What will you have?\<S10><S10><C1>Refreshing salad.</C1>\<S10><S10><C2>Power stew.</C2>\<S10><S10><C3>Spiced roast.</C3>
+FLD_MEST4_205,Just a moment, then.
+FLD_MEST4_206,Here you go!
+FLD_MEST4_207,<CT>\MP restored!
+FLD_MEST4_208,<CT>\HP restored!
+FLD_MEST4_209,<CT>\HP and MP restored!
+FLD_MEST4_210,The master's stubborn and strict, but he's a good man.
+FLD_MEST4_211,So, you and Her Majesty the Queen are...acquainted?
+FLD_MEST4_212,I thought something strange.\She ate far too much to be our Queen.
+FLD_MEST4_213,Those two are both really looking for a way\to make up, though neither will admit it.
+FLD_MEST4_214,We must help the King maintain his stamina!
+FLD_MEST4_215,Forgive me, we haven't the time to cook for you\right now.
+FLD_MEST4_216,What? You want some of my spiced jerky?<PAGE>\I'm out of the ingredients right now, unfortunately.\Mine's a tad spicy for most people anyhow.
+FLD_MEST4_217,King: You're alive!<PAGE>\We sustained heavy casualties, but thanks to you,\our battle is won. Now we must all work together\to rebuild.<PAGE>\If there is ever any way this kingdom might repay\its debt to you, I shall see it done.
+FLD_MEST4_218,Leene: <NAME_FRO>!<PAGE>\So, you aided <NAME_CRO> and the others.<PAGE>\You've done a fine service for this kingdom.\Please, remain here for as long as you wish.\We would be honored by your presence.
+FLD_MEST4_219,Chancellor: I'll see that generations to come know\the name of <NAME_CRO>.
+FLD_MEST4_220,Master of Kitchens: You served us victory.\I but cooked the meal.<PAGE>\And speaking of cooking, I've a mind to prepare\a victory feast—something truly spectacular to\celebrate the Fiendlord's defeat!
+FLD_MEST4_221,Commander: Our victory is owed to you.
+FLD_MEST4_222,Commander: <NAME_FRO>, I've been considering—no,\there is no need for consideration.<PAGE>\I would have you take my place as Commander,\should you be willing to accept the honor.
+FLD_MEST4_223,<NAME_FRO>: I'm afraid I must decline.\I'm not suited to such a post.
+FLD_MEST4_224,<NAME_FRO>: ...<PAGE>\Your kind words are reward enough, Your Majesty.\My heart is glad to hear them.
+FLD_MEST4_225,Leene: I don't know what words of gratitude could\possibly suffice for all you've done.<PAGE>\<NAME_FRO>!\Where is <NAME_FRO>?
+FLD_MEST4_226,His Majesty has been expecting you!\Please, go and speak to him.
+FLD_MEST4_227,Oh, how I envy you!\To be able to say you defeated <NAME_MAG>!
+FLD_MEST4_228,I'd feared you did not survive when I heard you never\emerged from the Fiendlord's keep. But here you are!
+FLD_MEST4_229,If they had broken through at Zenan Bridge,\this castle would be no more than rubble.
+FLD_MEST4_230,The injured soldiers have all recovered.
+FLD_MEST4_231,Come, now!\Your wounds have already healed!
+FLD_MEST4_232,Please...<PAGE>\Be gentle...
+FLD_MEST4_233,You saved our skins at Zenan.
+FLD_MEST4_234,I'm sure Sir Cyrus is smiling, wherever he is.
+FLD_MEST4_235,The master's experimenting with a great new dish.
+FLD_MEST4_236,It's a terribly complicated recipe.\Who knows when he'll be done?
+FLD_MEST4_237,Hmm... A great dish deserves a great name.
+FLD_MEST4_238,The Commander and the Master of Kitchens have finally\made their peace. They still blush to admit it, though.
+FLD_MEST4_239,King: <NAME_FRO>, I offer my thanks to you again.\The valor of your deeds is worthy of the name of\knight.
+FLD_MEST4_240,<NAME_FRO>: Your Majesty, please do not waste such\words of honor on me.
+FLD_MEST4_241,Master of Kitchens: And this is for you.\Here.
+FLD_MEST4_242,<CT>\A mysterious force seals it shut.
+FLD_MEST4_243,The item inside is reacting to the pendant.\Remove the item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST4_244,
+FLD_MEST4_245,
+FLD_MEST4_246,
+FLD_MEST4_247,
+FLD_MEST4_248,
+FLD_MEST4_249,
+FLD_MEST4_250,
+FLD_MEST4_251,
+FLD_MEST4_252,
+FLD_MEST4_253,
+FLD_MEST4_254,
+FLD_MEST4_255,

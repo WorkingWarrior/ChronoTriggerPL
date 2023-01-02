@@ -1,0 +1,256 @@
+FLD_MESK1_000,<CT>\It is firmly sealed.
+FLD_MESK1_001,<CT>\Obtained <NAME_ITM>!
+FLD_MESK1_002,Walk when the wind dies down, and hide\behind trees when it picks up strength.
+FLD_MESK1_003,The footing here is icy and slick. Be careful.\Fall, and you'll have to start over.
+FLD_MESK1_004,Push the shell.\Climb the shell.
+FLD_MESK1_005,So, you want a doppel doll of <NAME_CRO>?\Normally I wouldn't give out another person's doll,\but today I'll make an exception. 40 Silver Points.<PAGE>\I'll give you the doll even if you lose the game,\but it will cost you. The longer you stay in the\game, the lower my price will be.<PAGE>\<S10><S10><C1>Play the game.</C1>\<S10><S10><C2>Don't play the game.</C2>
+FLD_MESK1_006,Hmm, you don't have enough money. If only you'd done\a little better, I could have lowered the price.
+FLD_MESK1_007,I'll take 60,000 G.
+FLD_MESK1_008,I'll take 30,000 G.
+FLD_MESK1_009,I'll take 10,000 G.
+FLD_MESK1_010,I'll take 5000 G.
+FLD_MESK1_011,I'll take 2000 G.
+FLD_MESK1_012,I'll take 1000 G.
+FLD_MESK1_013,Slither: The boss is finally gonna settle the score\on his thirteen-generation-old family grudge!\Gee hee hee!<PAGE>\Squirm: Yeah, he's gonna frame the King good with\that fake evidence! Gaw haw haw!
+FLD_MESK1_014,<NAME_MAR>: So there is a plot!\We'd better hurry!
+FLD_MESK1_015,This is the treasury.\No entry permitted.
+FLD_MESK1_016,Urgh...\A rat bit my toe.
+FLD_MESK1_017,Entry is forbidden!
+FLD_MESK1_018,I'd never dreamed the Chancellor was a monster.
+FLD_MESK1_019,<NAME_MAR>: Let me through!
+FLD_MESK1_020,I am sorry, my lady.\Not even you may enter.
+FLD_MESK1_021,<NAME_MAR>: What are you talking about?\The Chancellor made up the entire thing!\There is no heirloom!\
+FLD_MESK1_022,<NAME_MAR>: Aha!\The Rainbow Shell we gave to my ancestor four\hundred years ago must still be here.
+FLD_MESK1_023,<NAME_MAR>: It's probably in the basement.\Let's go!
+FLD_MESK1_024,<NAME_LUC>: If we can find the Rainbow Shell,\we'll be able to prove the King's innocence!
+FLD_MESK1_025,<NAME_LUC>: Did you forget we changed history back\in 600 A.D.? The Rainbow Shell should still be in\the castle!
+FLD_MESK1_026,<NAME_ROB>: The Rainbow Shell will prove the King's\innocence.
+FLD_MESK1_027,<NAME_ROB>: Have you forgotten our actions in 600 A.D.?\We altered the course of history. The Rainbow Shell\should be here in the castle.
+FLD_MESK1_028,<NAME_FRO>: Had we the Rainbow Shell, we could prove\his innocence.
+FLD_MESK1_029,<NAME_FRO>: Have you forgotten? History is changed.\The shell should lie within this castle now.
+FLD_MESK1_030,<NAME_AYL>: Take Rainbow Shell!\Save <NAME_MAR> father!
+FLD_MESK1_031,<NAME_AYL>: <NAME_MAR> forget?\Ask old king keep shell!\Rainbow Shell here now!
+FLD_MESK1_032,<NAME_MAG>: Would taking the Rainbow Shell to them\not resolve the issue?
+FLD_MESK1_033,<NAME_MAG>: Are you such an absent-minded fool\you've forgotten what we did in 600 A.D. already?
+FLD_MESK1_034,<NAME_MAR>: You really won't reconsider?<PAGE>\Soldier: No, Princess. I really won't.
+FLD_MESK1_035,<NAME_MAR>: There is one other way.\It's a bit rough, but just follow me!
+FLD_MESK1_036,What are you doing here?\Do you want to be put on trial again?
+FLD_MESK1_037,Pierre? He's in the soldiers' quarters.
+FLD_MESK1_038,<NAME_MAR>: The Rainbow Shell!
+FLD_MESK1_039,<NAME_LUC>: What's this? A letter?
+FLD_MESK1_040,<NAME_ROB>: There is a letter.
+FLD_MESK1_041,<NAME_FRO>: There is a letter here.
+FLD_MESK1_042,<NAME_AYL>: Thing here!\Paper here, paper!
+FLD_MESK1_043,<NAME_MAG>: There's a letter here.\Shall I burn it?
+FLD_MESK1_044,<NAME_MAR>: To <NAME_MAR>...<PAGE>\Dearest <NAME_MAR>,\   I know things are not easy with your father.\But though it may be hard to realize now, know that\you will ever be his daughter.<PAGE>\Nothing can break the bonds of blood—neither\distance, nor words of anger. Someday you will leave\the nest and have children of your own. Then you will\understand the truth of what I say.<PAGE>\Blood is the sap that flows through the limbs of\a family tree. And come what may in future days,\we will forever be joined by that.\<S10><S10> -Queen Guardia XXI, Leene.
+FLD_MESK1_045,<NAME_LUC>: Knows just what to say, doesn't she?<PAGE>\But we have more urgent things to think about!
+FLD_MESK1_046,<NAME_ROB>: I have no parents or blood, so it is\difficult for me to comprehend the meaning.\But this letter seems somehow...warm.
+FLD_MESK1_047,<NAME_FRO>: Queen Leene...<PAGE>\Time wastes. Let us finish what we came to do!
+FLD_MESK1_048,<NAME_AYL>: Oh, leave nest!\<NAME_AYL> know leave nest!\Dactyl leave nest.\Time pass, get big, leave nest!<PAGE>\<NAME_MAR> leave nest, too?\Big change!
+FLD_MESK1_049,<NAME_AYL>: Leave nest!\Have baby! Give milk!\Have more baby!
+FLD_MESK1_050,<NAME_AYL>: <NAME_MAR> ready leave nest?\Look still small.
+FLD_MESK1_051,<NAME_MAG>: Far be it from me to interrupt this\touching moment, but haven't we other matters to\attend?
+FLD_MESK1_052,<NAME_MAR>: Hang in there, Father!\We're coming!
+FLD_MESK1_053,<CT>\Obtained Rainbow Shard!
+FLD_MESK1_054,Melchior: The properties of this material are quite\unique. I can craft armor from it that will dampen\the effects of magical attacks.<PAGE>\I could make you one highly effective prismatic dress,\or I could make three less effective prismatic helms.<PAGE>\Which would you prefer?\<S10><S10><C1>1 prismatic dress.</C1>\<S10><S10><C2>3 prismatic helms.</C2>
+FLD_MESK1_055,Melchior: The prismatic dress? Are you certain?\Only women will be able to equip it.\<S10><S10><C1>Yes, I want the dress.</C1>\<S10><S10><C2>No, I've changed my mind.</C2>
+FLD_MESK1_056,Melchior: You want prismatic helms?\You're sure?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK1_057,Melchior: Very well, wait right there.
+FLD_MESK1_058,Melchior: My work is complete.
+FLD_MESK1_059,Melchior: I finally feel like I'm doing something\worthwhile!
+FLD_MESK1_060,Melchior: An interesting substance...\I could make something impressive if only I had\another material to combine it with.
+FLD_MESK1_061,Melchior: Ah, a Sun Stone!\That should do quite nicely.
+FLD_MESK1_062,Melchior: Heh heh.\Don't think that's the last of my bag of tricks.\These arms have some use left in them yet!
+FLD_MESK1_063,Welcome to Norstein Bekkler's tent of horrors!\The spine-tingling show is just about to start!
+FLD_MESK1_064,How many Silver Points would you like to spend?<PAGE>\<S10><S10><C1>10 Points.</C1>\<S10><S10><C2>40 Points.</C2>\<S10><S10><C3>80 Points.</C3>\<S10><S10><C4>Just came to look.</C4>
+FLD_MESK1_065,You can't play this game alone.\Go and bring some friends.
+FLD_MESK1_066,You don't have enough points.
+FLD_MESK1_067,You've just won yourself some cat food!\I'll have it delivered to <NAME_CRO>'s house.\Cats will run away if you don't feed them, you know!
+FLD_MESK1_068,I'm Biggs.
+FLD_MESK1_069,I'm Wedge.
+FLD_MESK1_070,I'm Piette.
+FLD_MESK1_071,Which one is Biggs?
+FLD_MESK1_072,Which one is Wedge?
+FLD_MESK1_073,Which one is Piette?
+FLD_MESK1_074,Oh, you got me!
+FLD_MESK1_075,It's a Poyozo doll.\It'll spruce up your room!
+FLD_MESK1_076,Mimic what you see!<PAGE>\Green Button: Left arm\Blue Button: Right arm\Yellow Button: Laugh\Red Button: Surprise
+FLD_MESK1_077,Start when you hear the signal after I move.<PAGE>\And...action!
+FLD_MESK1_078,Excellent!
+FLD_MESK1_079,I'll send this doppel doll to <NAME_PT1>'s house.
+FLD_MESK1_080,I'll send this doppel doll to <NAME_CRO>'s house.
+FLD_MESK1_081,Monsters will close in from above.\Throw beanbags at them, and push them all the way\back into the cage!
+FLD_MESK1_082,A hostage you provide will be slowly lowered into\the flames. You can buy time by hitting the blue\light to raise the rope, but let your friend get\charbroiled and the game's over!<PAGE>\Defeat all the monsters before the hostage's goose\is cooked!
+FLD_MESK1_083,Well done!\Take this cat!
+FLD_MESK1_084,Guard: It's the apes!
+FLD_MESK1_085,Turnkey: We're about to have a feast!\And you're about to be the roast beast!\Heh heh heh!
+FLD_MESK1_086,Kino: <NAME_AYL>!<PAGE>\<NAME_AYL>: Kino move back!\<NAME_AYL> save Kino!
+FLD_MESK1_087,<NAME_MAR>: Wow!
+FLD_MESK1_088,<NAME_LUC>: What are you going to do now!?
+FLD_MESK1_089,<NAME_ROB>: Her methods do not appear logical.
+FLD_MESK1_090,<NAME_FRO>: Hmm.
+FLD_MESK1_091,Kino: Kino sorry.\All Kino's fault.
+FLD_MESK1_092,<NAME_AYL>: It okay.\Kino take all Laruba person, run!
+FLD_MESK1_093,Kino: What <NAME_AYL> do?
+FLD_MESK1_094,<NAME_AYL>: Strong live, weak die.\<NAME_AYL> go be strong!
+FLD_MESK1_095,Kino: Kino go, too!
+FLD_MESK1_096,<NAME_AYL>: Kino no come.\<NAME_AYL> die, Kino new Ioka chief!
+FLD_MESK1_097,Kino: <NAME_AYL>...
+FLD_MESK1_098,<NAME_AYL>: <NAME_AYL> strong.\No lose!
+FLD_MESK1_099,Kino: Kino know.\Kino show you something!\Follow Kino!
+FLD_MESK1_100,Kino: You strong, Kino weak.\Kino jealous.
+FLD_MESK1_101,<NAME_LUC>: So Lavos arrived all this time ago...
+FLD_MESK1_102,<NAME_ROB>: It seems Lavos made his first appearance\here, and not in the year 600.
+FLD_MESK1_103,<NAME_MAR>: So Lavos fell to the earth in this era.
+FLD_MESK1_104,<NAME_FRO>: Lavos was not spawned by <NAME_MAG>.\It fell from the heavens—and so long ago!
+FLD_MESK1_105,<NAME_AYL>: Lavos huge!\<NICK_CRO> fight that?
+FLD_MESK1_106,<NAME_AYL>: <NICK_CRO>!\We go place Lavos fall!
+FLD_MESK1_107,<NAME_LUC>: She's right, we may be able to do\something now! Let's go and see!
+FLD_MESK1_108,<NAME_ROB>: Lavos should be weaker now.\We should go and see.
+FLD_MESK1_109,<NAME_MAR>: He just arrived here. We might still\be able to do something. Let's go see!
+FLD_MESK1_110,<NAME_FRO>: Left to its own devices, the creature will\burrow deep into the earth. Best defeat it now!
+FLD_MESK1_111,<NAME_MAR>: There's a Gate!
+FLD_MESK1_112,<NAME_LUC>: Why is there a Gate here?
+FLD_MESK1_113,<NAME_ROB>: A Gate has formed!
+FLD_MESK1_114,<NAME_FRO>: A Gate?
+FLD_MESK1_115,<NAME_AYL>: Lavos fast!\Deep under earth now.
+FLD_MESK1_116,<NAME_MAR>: This Gate was opened by Lavos.\He's probably the source of all the Gates.
+FLD_MESK1_117,<NAME_LUC>: Now I understand!\The immense energy that Lavos gives off must be\stretching time and space. That's what's causing the\Gates!
+FLD_MESK1_118,<NAME_ROB>: These Gates are likely the result of the\energy radiating from Lavos placing strains on the\surrounding time-space.
+FLD_MESK1_119,<NAME_FRO>: Might Lavos be the source of these?<PAGE>\That one in <NAME_MAG>'s keep was immense.
+FLD_MESK1_120,<NAME_AYL>: What wrong, <NICK_CRO>?\Want fight Lavos, go here. No?
+FLD_MESK1_121,<NAME_MAR>: This is exciting!
+FLD_MESK1_122,<NAME_LUC>: Yeah, it was the nearest Gate to Lavos\after all. I have no idea where we are.
+FLD_MESK1_123,<NAME_ROB>: My time gyro reads...12,000 B.C.!\We are still in the very distant past.
+FLD_MESK1_124,<NAME_FRO>: T-to where have we come?
+FLD_MESK1_125,<NAME_AYL>: <NICK_CRO>! Where this place?
+FLD_MESK1_126,<CT>\The way is sealed.
+FLD_MESK1_127,Prophet: Hmm... So you came through here.
+FLD_MESK1_128,Prophet: Now, Schala...\Once I throw them in, you will seal the portal shut.
+FLD_MESK1_129,Schala: N-no!\You can't make me!
+FLD_MESK1_130,Prophet: You will obey me.\Their lives are at stake.
+FLD_MESK1_131,Schala: I... Very well.
+FLD_MESK1_132,Schala: Please forgive me.
+FLD_MESK1_133,<NAME_MAR>: Why did the prophet let us go?
+FLD_MESK1_134,<NAME_LUC>: The prophet could have just as easily\killed us.
+FLD_MESK1_135,<NAME_ROB>: Why would the prophet not eliminate us?
+FLD_MESK1_136,<NAME_FRO>: He spared our lives, true enough.\But something is amiss.
+FLD_MESK1_137,<NAME_LUC>: The key to defeating Lavos must lie\in that period.
+FLD_MESK1_138,<NAME_ROB>: They were utilizing Lavos's power in\that era. The means to defeat him must be there.
+FLD_MESK1_139,<NAME_FRO>: Where has <NAME_MAG> gone?\I will not allow him to escape until he has\answered for the past.
+FLD_MESK1_140,<NAME_AYL>: They take Lavos power.\Lavos get weak?
+FLD_MESK1_141,<NAME_MAR>: But we can't get back to that time.\What should we do?
+FLD_MESK1_142,<NAME_LUC>: But the Gate to that time period has\been sealed off. I wonder if there's another way.
+FLD_MESK1_143,<NAME_ROB>: But, the Gate has been sealed shut.
+FLD_MESK1_144,<NAME_FRO>: Yet Schala has sealed the Gate,\and with it, it would seem, our fate.
+FLD_MESK1_145,<NAME_AYL>: No Gate.\No can go.
+FLD_MESK1_146,<NAME_MAR>: Wait a minute. The design from the door\that the pendant opened—I've seen it in other places.
+FLD_MESK1_147,<NAME_LUC>: Wait! The crest on that sealed door...\We've seen it elsewhere, haven't we?
+FLD_MESK1_148,<NAME_ROB>: Do you recall the crest on the door\that the pendant opened? I have seen several of\them in my own time.
+FLD_MESK1_149,<NAME_FRO>: The emblem upon the door that pendant\opened... Had you not seen it in other ages before?
+FLD_MESK1_150,<NAME_MAR>: Let's check it out, <NAME_CRO>!
+FLD_MESK1_151,<NAME_LUC>: We may find our way back to that era yet!\Let's get cracking, <NAME_CRO>!
+FLD_MESK1_152,<NAME_ROB>: Let us return to my time!
+FLD_MESK1_153,<NAME_FRO>: It seems our only hope, does it not,\<NAME_CRO>?
+FLD_MESK1_154,This is it—the summit of Death Peak.
+FLD_MESK1_155,<NAME_MAR>: You who fear the night and stand against\the darkness...\Please, give us your strength!
+FLD_MESK1_156,<NAME_LUC>: You who fear the night and fight the\coming of darkness...\Lend us strength!
+FLD_MESK1_157,<NAME_ROB>: Fearer of night and opposer of darkness...\Please grant us your power.
+FLD_MESK1_158,<NAME_FRO>: You who fear the night and stand\against the darkness—lend us your strength!
+FLD_MESK1_159,<NAME_LUC>: <NAME_CRO>!
+FLD_MESK1_160,<NAME_ROB>: <NAME_CRO>!
+FLD_MESK1_161,<NAME_FRO>: <NAME_CRO>!
+FLD_MESK1_162,<NAME_AYL>: <NICK_CRO>!
+FLD_MESK1_163,The pendant's reacting!
+FLD_MESK1_164,It...it shattered!
+FLD_MESK1_165,<NAME_MAR>: But...\We've come so far!
+FLD_MESK1_166,<NAME_MAR>: Please, answer me.\Don't leave me!
+FLD_MESK1_167,<NAME_MAR>: <NAME_CRO>!
+FLD_MESK1_168,<NAME_LUC>: No...\What use was it to come so far?
+FLD_MESK1_169,<NAME_LUC>: <NAME_CRO>!\Say something!\Don't just ignore us!
+FLD_MESK1_170,<NAME_FRO>: 'Twas folly to come here.\All this, and for naught...
+FLD_MESK1_171,<NAME_FRO>: <NAME_CRO>!\Answer us!
+FLD_MESK1_172,<NAME_ROB>: This cannot be!\All of our work accomplished nothing.
+FLD_MESK1_173,<NAME_ROB>: <NAME_CRO>!\Please answer us!
+FLD_MESK1_174,<NAME_LUC>: Try not to be upset.\It was silly to think we could get him back.
+FLD_MESK1_175,<NAME_ROB>: Please do not despair.\We placed too much hope in bringing <NAME_CRO> back.
+FLD_MESK1_176,<NAME_FRO>: Do not despair.\It was foolish to think we could cheat death.
+FLD_MESK1_177,<NAME_AYL>: No cry!\<NAME_AYL> miss <NICK_CRO>, too.\Sad <NICK_CRO> no come back.
+FLD_MESK1_178,<NAME_MAR>: <NAME_CRO>!\Oh, <NAME_CRO>, you're back!
+FLD_MESK1_179,<NAME_LUC>: <NAME_CRO>!\It's about time!
+FLD_MESK1_180,<NAME_FRO>: Good of you to return, <NAME_CRO>.
+FLD_MESK1_181,<NAME_ROB>: Sir <NAME_CRO>!\Welcome back!
+FLD_MESK1_182,<NAME_LUC>: I'm so glad you're back, <NAME_CRO>!
+FLD_MESK1_183,<NAME_FRO>: No worse for the wear, I trust?
+FLD_MESK1_184,<NAME_ROB>: Oh, Sir <NAME_CRO>...\It is a relief to have you with us again.
+FLD_MESK1_185,<NAME_AYL>: <NICK_CRO> back!\<NICK_CRO> okay?
+FLD_MESK1_186,<NAME_MAR>: We...<PAGE>\We were all waiting for you to come back.
+FLD_MESK1_187,<NAME_MAR>: You can't...<PAGE>\Don't ever leave us like that again!
+FLD_MESK1_188,<NAME_LUC>: You big dummy!<PAGE>\You...you wouldn't believe what we had to go through\for you!
+FLD_MESK1_189,<NAME_LUC>: You mess up like that again...<PAGE>\And you'll have to get yourself out of it!
+FLD_MESK1_190,<NAME_FRO>: You should be thankful.<PAGE>\You are blessed, to be so loved by everyone.\You lucky...lucky fool.
+FLD_MESK1_191,<NAME_ROB>: We have all been waiting for you!<PAGE>\<NAME_MAR>, and <NAME_LUC>, and...well, all of us!
+FLD_MESK1_192,<NAME_MAG>: Hmph.
+FLD_MESK1_193,<NAME_MAR>: A lot of things happened, <NAME_CRO>.\While you were away...\First, we...and then...<PAGE>\And after that I...so we...\But...<PAGE>\<NAME_CRO>!\Are you even listening?<PAGE>\There's so much I still have to tell you.
+FLD_MESK1_194,<NAME_LUC>: We had such a terrible time\without you. <NAME_MAR> was...and...\So then we...and even I...<PAGE>\Hey!\You listening, <NAME_CRO>?<PAGE>\I really...really can't stand you, you know!
+FLD_MESK1_195,<CT>\Obtained 3 Prismatic Helms!
+FLD_MESK1_196,
+FLD_MESK1_197,
+FLD_MESK1_198,
+FLD_MESK1_199,
+FLD_MESK1_200,
+FLD_MESK1_201,
+FLD_MESK1_202,
+FLD_MESK1_203,
+FLD_MESK1_204,
+FLD_MESK1_205,
+FLD_MESK1_206,
+FLD_MESK1_207,
+FLD_MESK1_208,
+FLD_MESK1_209,
+FLD_MESK1_210,
+FLD_MESK1_211,
+FLD_MESK1_212,
+FLD_MESK1_213,
+FLD_MESK1_214,
+FLD_MESK1_215,
+FLD_MESK1_216,
+FLD_MESK1_217,
+FLD_MESK1_218,
+FLD_MESK1_219,
+FLD_MESK1_220,
+FLD_MESK1_221,
+FLD_MESK1_222,
+FLD_MESK1_223,
+FLD_MESK1_224,
+FLD_MESK1_225,
+FLD_MESK1_226,
+FLD_MESK1_227,
+FLD_MESK1_228,
+FLD_MESK1_229,
+FLD_MESK1_230,
+FLD_MESK1_231,
+FLD_MESK1_232,
+FLD_MESK1_233,
+FLD_MESK1_234,
+FLD_MESK1_235,
+FLD_MESK1_236,
+FLD_MESK1_237,
+FLD_MESK1_238,
+FLD_MESK1_239,
+FLD_MESK1_240,
+FLD_MESK1_241,
+FLD_MESK1_242,
+FLD_MESK1_243,
+FLD_MESK1_244,
+FLD_MESK1_245,
+FLD_MESK1_246,
+FLD_MESK1_247,
+FLD_MESK1_248,
+FLD_MESK1_249,
+FLD_MESK1_250,
+FLD_MESK1_251,
+FLD_MESK1_252,
+FLD_MESK1_253,
+FLD_MESK1_254,
+FLD_MESK1_255,

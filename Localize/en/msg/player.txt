@@ -1,0 +1,24 @@
+Crono
+Marle
+Lucca
+Robo
+Frog
+Ayla
+Magus
+Epoch
+A kindhearted youth raised\in the quiet village of Truce.\Selfless and courageous, he\stands up for his beliefs and\lends a hand to those in need.
+An unusual young girl met\through random happenstance.\Endearingly strong-willed, she\seems to cherish the pendant\that hangs about her neck.
+<NAME_CRO>'s childhood friend.\A passionate inventor, she\has a gift for building and\repairing all things mechanical.
+A robot fixed and reactivated\by <NAME_LUC>. Bearing the\production number R-66Y, it\boasts technology of an era\far beyond the present.
+A mysterious amphibian knight\whose speech and manner\alike seem human. His elegant\swordsmanship speaks of\vast experience and skill.
+A beautiful female warrior from\a time before written record.\She favors the strong, her\own might far exceeding that\of any ordinary human.
+The once-prince of ancient\Zeal. Thrust into the Middle\Ages by Lavos's power, the\mighty sorcerer soon donned\the darker mantle of Fiendlord.
+A machine whose wings span\time itself. Its completion\culminated the life work of\Balthasar, one of the three\Gurus of antiquity.
+Crono
+Nadia
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

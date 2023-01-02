@@ -1,0 +1,347 @@
+
+Wooden Sword
+Bronze Blade
+Steel Saber
+Silver Sword
+Crimson Blade
+Mammoth Tusk
+Dark Saber
+Primeval Blade
+Zanmato
+Vajra Sword
+Empyrean Blade
+Yaksha Blade
+Onimaru
+Suzaku
+Thunder Blade
+Slasher
+Bronze Bowgun
+Iron Bowgun
+Silver Bow
+Bandit's Bow
+Shaman's Bow
+Dreamstone Bow
+Comet Bow
+Sonic Bow
+Valkyrie Bow
+Siren's Kiss
+
+
+
+
+Airgun
+Pea Shooter
+Pocket Blaster
+Picomagnum
+Plasma Gun
+Ruby Gun
+Dreamstone Gun
+Megablaster
+Shockwave
+Wondershot
+Gravitator
+
+
+
+
+Tin Arm
+Hammer Arm
+Mirage Hand
+Stone Arm
+Death Claw
+Magma Hand
+Megaton Arm
+Heavy Hand
+Kaiser Arm
+Gigaton Arm
+Teraton Arm
+Crisis Arm
+
+Bronze Sword
+Iron Sword
+Masamune
+Radiant Blade
+Smiter's Blade
+Rune Blade
+Brave Sword
+Masamune
+Demonslayer
+Fist
+Fist
+Fist
+Iron Fist
+Bronze Fist
+
+
+Moonfall Scythe
+Headman's Scythe
+Hadean Sickle
+Doom Scythe
+Mop
+Broken Blade
+Broken Hilt
+Masamune
+Swallow
+Slasher II
+Rainbow
+Dummy
+Dummy
+Dummy
+Dummy
+Icewyrm
+Stardust Bow
+Turboshot
+Dinoblade
+Dragon Arm
+Judgment Scythe
+Dreamseeker
+Venus Bow
+Spellslinger
+Apocalypse Arm
+Dreamreaper
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Hide Tunic
+Padded Vest
+Bronze Armor
+Maiden's Suit
+Iron Suit
+Titanium Vest
+Golden Suit
+Ruby Vest
+Dark Mail
+Mist Robe
+Mesozoic Mail
+Luminous Robe
+Radiant Plate
+Platinum Vest
+Aeonian Suit
+Zodiac Cape
+Nova Armor
+Prismatic Dress
+Moonbeam Armor
+Ruby Armor
+Raven Armor
+Gloom Cape
+White Plate
+Black Plate
+Blue Plate
+Red Plate
+White Vest
+Black Vest
+Blue Vest
+Red Vest
+Taban's Vest
+Taban's Suit
+Dragon Armor
+Reptite Dress
+Saurian Leathers
+Regal Plate
+Regal Gown
+Elemental Aegis
+Shadowplume Robe
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Hide Cap
+Bronze Helm
+Iron Helm
+Porrean Beret
+Golden Helm
+Stone Helm
+Triceratopper
+Radiant Helm
+Platinum Helm
+Aeonian Helm
+Prismatic Helm
+Doom Helm
+Dark Helm
+Gloom Helm
+Guardian Helm
+Taban's Helm
+Clarity Cap
+Memory Cap
+Time Hat
+Vigilant's Hat
+Ozzie Pants
+Haste Helm
+Rainbow Helm
+Mermaid Helm
+Dragonhead
+Reptite Tiara
+Master's Crown
+Angel's Tiara
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Headband
+Ribbon
+Power Glove
+Guardian Bangle
+Magic Scarf
+Schala's Amulet
+Speed Ring
+Acuity Ring
+Power Ring
+Magic Ring
+Barrier Ring
+Silver Earring
+Golden Earring
+Silver Stud
+Golden Stud
+Sight Scope
+Alluring Top
+Rage Band
+Wrath Band
+Third Eye
+Workman's Wallet
+Green Dream
+Berserker Ring
+Power Scarf
+Speed Belt
+Black Gemstone
+Blue Gemstone
+Silver Gemstone
+White Gemstone
+Golden Gemstone
+Hero's Badge
+Muscle Ring
+Flea Bustier
+Magic Crest
+Power Crest
+Accessory
+Seraph Song
+Sunglasses
+Prism Spectacles
+Valor Crest
+Champion's Badge
+Dragon's Tear
+Nu Arcana
+Uranian Mirror
+Pontic Mirror
+Promethean Mirror
+Hadean Mirror
+Aresian Mirror
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Potion
+Mid-Potion
+Hi-Potion
+Ether
+Mid-Ether
+Hi-Ether
+Elixir
+Turbo Ether
+Megalixir
+Panacea
+Athenian Water
+Shelter
+Ambrosia
+Lapis
+Barrier Sphere
+Shield Sphere
+Strength Capsule
+Magic Capsule
+Speed Capsule
+Slops
+Flameclaw
+Seafang
+Duskeye
+Luxwing
+Hawk Talon
+Shield Cloak
+Feral Wrath
+Smoked Meat
+Dried Mushroom
+Sweet Banana
+Millennia Fruit
+Songbird Egg
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Petal
+Fang
+Horn
+Feather
+Seed
+Jetbike Key
+Pendant
+Gate Key
+Rainbow Shard
+Chrono Trigger
+Carpenter's Tools
+Spiced Jerky
+Dreamstone
+Race Recorder
+Moon Stone
+Sun Stone
+Ruby Knife
+Yakra's Key
+Doppel Doll
+Toma's Spirits
+2 Petals
+2 Fangs
+2 Horns
+2 Feathers
+Golden Sand
+Golden Hammer
+Prismastone
+Saintstone
+Reptmark
+Waystone
+Godwood
+Steel Ingot
+Sturdy Vines
+Hearty Lunch
+Rusted Blade
+Lumicite Shard
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

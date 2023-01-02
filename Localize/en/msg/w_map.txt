@@ -1,0 +1,112 @@
+
+Mayor's Manor
+Residence
+<NAME_CRO>'s House
+<NAME_LUC>'s House
+Gobu's house
+Truce Inn
+Snail Stop
+Eternal Rest Arbor
+Ripples Arbor
+Leene Square
+Market
+Porre Inn
+Ferry Office
+Guardia Forest
+Guardia Castle
+Zenan Bridge
+Melchior's Cabin
+Forest Ruins
+Heckran Cave
+Fiona's Shrine
+West Cape
+Sun Shrine
+Hero's Grave
+Truce Canyon
+Manolia Cathedral
+Cursed Woods
+Denadoro Mountains
+Tata's House
+Fiona's Villa
+Sunken Desert
+Magic Cave
+Fiendlord's Keep
+Ozzie's Fort
+
+Elder's House
+Northern Ruins
+
+Bangor Dome
+Trann Dome
+Site 16
+Arris Dome
+Site 32
+Proto Dome
+Derelict Factory
+Abandoned Sewers
+Keeper's Dome
+Death Peak
+Geno Dome
+Sun Temple
+Robot Village
+Mystic Mountains
+Ioka Hut
+Chief's Hut
+Meeting Grounds
+Forest Maze
+Reptite Lair
+Hunting Range
+Dactyl Nest
+Tyranno Lair
+Singing Mountain
+Small Cave
+Enhasa
+Kajar
+Blackbird
+North Sealed Castle
+Terra Cave
+Zeal Palace
+Ocean Palace
+Surviving Village
+North Cape
+Lavos Carapace
+
+
+Tavern
+Medina Square
+Black Omen
+Coastal Vortex
+Skyway
+Land Bridge
+<NAME_AYL>'s Hut
+Laruba Ruins
+Tyranno Lair Ruins
+Village Commons
+Medina Inn
+Choras Inn
+Truce Inn
+Dorino Inn
+Porre Inn
+Choras Inn
+Giant's Claw
+Lost Sanctum
+Dimensional Vortex
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000 A.D.
+600 A.D.
+2300 A.D.
+65,000,000 B.C.
+12,000 B.C.
+? ? ? ? ? ? 

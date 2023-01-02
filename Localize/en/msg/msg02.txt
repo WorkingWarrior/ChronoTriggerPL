@@ -1,0 +1,256 @@
+FLD_MSG02_000,Welcome to Enhasa, Zeal's City of Dreams.\We seek enlightenment within the bliss of sleep.<PAGE>\Hmm...\You are...not of us, are you?
+FLD_MSG02_001,This is the Magic Kingdom of Zeal,\where dreams can be made reality.<PAGE>\But nothing in this world comes free.\There is always a price to be paid.
+FLD_MSG02_002,The world you see with your eyes may well differ\completely from the one I see with mine.<PAGE>\There are as many different worlds as there are\observers. Never assume that only those things\which you can see or touch are real.
+FLD_MSG02_003,I am Doreen.\Seek the hidden path, and open the\doors of knowledge, each in turn.
+FLD_MSG02_004,Welcome.\Have you come to do business?
+FLD_MSG02_005,The Queen has sealed away the great elemental\weapons and armors, forged with the power of\the sun, in the shrine to the north.<PAGE>\You can see its entrance on the northern continent,\but no one is allowed inside it now.
+FLD_MSG02_006,The door to the northern shrine is sealed by a\powerful force. Even we, the Enlightened Ones,\lack the means to open it.
+FLD_MSG02_007,You are most unusual visitors.\Am I waking, or is this but a continuation of my dream?<PAGE>\Regardless of that, I welcome you to Zeal.\Her Majesty Queen Zeal rules this Magic Kingdom.\She is without peer in beauty or grace.
+FLD_MSG02_008,We owe our prosperity to Her Majesty the Queen.<PAGE>\After the King died, she encouraged the development\of our kingdom's magical prowess, which has led to\great advancements. Zzz...
+FLD_MSG02_009,The Queen's palace sits at the heart of our kingdom.\She watches over all the world from its high vantage\point.<PAGE>\It's because of that we can sleep our days away\in peace. *yawn*
+FLD_MSG02_010,I wonder what's within the northern shrine.<PAGE>\No doubt the key to unlock its seal is held at the\palace, but entry there is strictly forbidden in the\name of Her Majesty the Queen.
+FLD_MSG02_011,Do you believe in such things as fate?\Do you think it possible our lives are\predetermined?
+FLD_MSG02_012,Well?\<S10><S10><C1>Yes, I do.</C1>\<S10><S10><C2>No, that's ridiculous.</C2>\<S10><S10><C3>That's none of your business.</C3>
+FLD_MSG02_013,So, you're a believer, too.<PAGE>\Yes, perhaps it is arrogant to think ourselves\strong enough to overturn destiny.
+FLD_MSG02_014,Yes, it is, isn't it?\We are the masters of our own destinies!<PAGE>\Speaking of which...I believe there may be a\doorway of destiny in this very place.
+FLD_MSG02_015,...
+FLD_MSG02_016,The city of Kajar, the high seat of magical research,\lies on the edge of the western continent.<PAGE>\The airship, the Blackbird, is maintained there as well.\Zzz...
+FLD_MSG02_017,Zzz...zzz...\Truths exist in dreams.\The world exists in me.\Zzz...
+FLD_MSG02_018,This is a Font of Recovery.\Rest your wearied mind and body within, traveler.
+FLD_MSG02_019,Boy: ...
+FLD_MSG02_020,<NAME_MAR>: What a weird kid.\What's wrong with him?
+FLD_MSG02_021,<NAME_LUC>: Hey, what's wrong?\You have something to say?
+FLD_MSG02_022,<NAME_ROB>: Do you wish to speak with us?
+FLD_MSG02_023,<NAME_FRO>: He seems a sullen lad.
+FLD_MSG02_024,<NAME_AYL>: What wrong?\That animal for eat?\Taste good?
+FLD_MSG02_025,Boy: The black winds howl.
+FLD_MSG02_026,Boy: One among you will shortly perish.
+FLD_MSG02_027,<NAME_MAR>: What!?\What's that supposed to mean?
+FLD_MSG02_028,<NAME_LUC>: H-hey!\What do you mean?
+FLD_MSG02_029,<NAME_ROB>: Is that true?\Let me calculate the probability.
+FLD_MSG02_030,<NAME_FRO>: Young one!\Of what do you speak?
+FLD_MSG02_031,<NAME_AYL>: ?
+FLD_MSG02_032,<NAME_MAR>: <NAME_CRO>...\That was kind of creepy.
+FLD_MSG02_033,<NAME_LUC>: It's only a bad joke.\Prophesy is completely unscientific.
+FLD_MSG02_034,<NAME_ROB>: Why would he say such a thing?
+FLD_MSG02_035,<NAME_FRO>: I do not know what this portends,\but I did not like the sound of that at all.
+FLD_MSG02_036,<NAME_AYL>: Strange boy...\But, not bad boy.
+FLD_MSG02_037,The Guru of Reason is gone.\Do you want to challenge me?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG02_038,All right. Prepare yourselves!
+FLD_MSG02_039,I see.
+FLD_MSG02_040,You're strong!\Take this.
+FLD_MSG02_041,Weaklings.\Nu...
+FLD_MSG02_042,<CT>\Obtained Magic Capsule!<PAGE><CT>\\Obtained Speed Capsule!<PAGE>\Nu...
+FLD_MSG02_043,The Mystery of Life\Volume 841, Chapter 26<PAGE>\All life begins and ends with Nu.<PAGE>\This is the undeniable truth, because I believe\it to be so. At least for the present.
+FLD_MSG02_044,...<PAGE>\...
+FLD_MSG02_045,I have platinum armor, too.\But I need Her Majesty's permission to sell it.
+FLD_MSG02_046,...<PAGE>\That pendant you carry...\Is that Schala's pendant?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG02_047,...<PAGE>\I've no love for liars.
+FLD_MSG02_048,...<PAGE>\Welcome.
+FLD_MSG02_049,Come again.
+FLD_MSG02_050,The structure you can see deep beneath the waves\below is the Ocean Palace—a symbol of our Queen's\greatness.<PAGE>\The Palace is the beacon of light which will guide us to\a brighter future. All praise the great and wondrous\Queen Zeal!
+FLD_MSG02_051,The construction of the Ocean Palace has fallen\behind schedule.<PAGE>\An everlasting palace beneath the waves...\It'll be a sight to see when it's finished!
+FLD_MSG02_052,The Earthbound Ones are being allowed to work on\the construction of the Ocean Palace.<PAGE>\It seems even they have their purpose.
+FLD_MSG02_053,The Ocean Palace is complete.\This heralds the dawn of an eternal age of\glory for the kingdom of Zeal!
+FLD_MSG02_054,This is the Magic City of Kajar.<PAGE>\We perform research in the magical arts\to help further Her Majesty's plans to\deliver our kingdom even greater glory.
+FLD_MSG02_055,My, you've an unusual aura!\You must possess the gift, too.<PAGE>\Yours seems very primitive compared to ours, though.\You poor thing!
+FLD_MSG02_056,Those lacking magic are known as the Earthbound\Ones. They have always lived beneath the clouds.<PAGE>\It's only fitting.\After all, they lack our talents.
+FLD_MSG02_057,How is it that we came to have the powers we do?<PAGE>\Why do some possess the gift while others lack it?\It is a conundrum.
+FLD_MSG02_058,We've been seeing a great deal of young lord Janus\lately. Before, he scarcely showed his face. But now\he paces around quite often, always looking upset.
+FLD_MSG02_059,What tempest must rage in young Lord Janus's head?<PAGE>\His only friend, other than his sister,\is that cat that follows him about.
+FLD_MSG02_060,The Gurus of Life, Time, and Reason dwell in Zeal.\Their knowledge and skill is without equal.
+FLD_MSG02_061,Zeal's progress stems from our new energy source.\Its power far surpasses that of the sun's elemental\energy.
+FLD_MSG02_062,Your power...differs from ours.<PAGE>\It's difficult to describe, but in you I sense a\strange...kindness.
+FLD_MSG02_063,I've been working to fashion a capsule that will\enhance one's magical skill.<PAGE>\But my precious products have been disappearing\in recent days.<PAGE>\It must be that naughty Nu that took them.\They do so love pranks. He's no doubt hidden\them all about. How can I work like this?
+FLD_MSG02_064,Oh, that capsule's not been completed yet.<PAGE>\Too bad, eh?\Ha ha ha!
+FLD_MSG02_065,I heard a strange prophet has come to the palace.<PAGE>\I do not know the details, but I heard he has powers\most uncanny.
+FLD_MSG02_066,Behold! That out the window is the great Blackbird,\built by Belthasar, the Guru of Reason.<PAGE>\To see it soar across the sky, you'd think it alive.\The Guru is a genius!
+FLD_MSG02_067,Her Majesty Queen Zeal has two children: Lady Schala\and young Lord Janus.<PAGE>\Lady Schala's an incredible child with extraordinary\magical powers.<PAGE>\With such a gift, her life must be all ease and luxury.
+FLD_MSG02_068,I heard Lady Schala's powers far surpass\those of her mother.<PAGE>\Then there's her brother, young Lord Janus.\He's of royal blood as well, of course, but\doesn't seem to have the faintest trace of\magical ability.
+FLD_MSG02_069,That's the Sun Temple which you see on the southern\sky isle. The Sun Stone, once our primary source of\power, was enshrined there.<PAGE>\However, the temple was sealed up along with the\northern shrine once we turned to our new energy\source.<PAGE>\The Queen claimed we'd no need for the energy of the\tired, old sun.
+FLD_MSG02_070,A Guru once told me that the Sun Stone once\held all the nearly infinite energy of our sun.<PAGE>\Over time that energy was slowly depleted, and\it turned into the lightless Moon Stone.
+FLD_MSG02_071,Know you this, traveler?<PAGE>\The Moon Stone could be restored to a glorious Sun\Stone if left to bask in the sun's warm light.<PAGE>\But such would require aeons. None of us will\ever witness that gorgeous glow again.
+FLD_MSG02_072,Scratch, scratch...
+FLD_MSG02_073,Oooh...
+FLD_MSG02_074,Phew...
+FLD_MSG02_075,Tee hee!
+FLD_MSG02_076,...
+FLD_MSG02_077,Water summons wind...\Wind makes fire dance...
+FLD_MSG02_078,<CT>\Obtained an unidentifiable object!
+FLD_MSG02_079,<CT>\But inside is a Black Gemstone!
+FLD_MSG02_080,It all began aeons ago, when Man's ancestors\stumbled upon a shard of strange red rock.<PAGE>\Its power was beyond human comprehension.\It cultivated dreams, and gave birth to love\and hate.<PAGE>\Only time will tell how it ends.
+FLD_MSG02_081,<CT>\Obtained <NAME_ITM>!
+FLD_MSG02_082,<CT>\Obtained <NAME_ITM>!
+FLD_MSG02_083,In ancient times, people crafted wondrous weapons\and armor by combining shards of a rainbow-colored\shell with the Sun Stone's power.<PAGE>\But now, only the Guru of Life knows the art of\crafting such things. And even if others did, the\Queen has ordered us to abandon use of the\sun's power.
+FLD_MSG02_084,Ah, such beauteous contentment there is in a newly\blossomed bud! Would that I could be a flower.
+FLD_MSG02_085,
+FLD_MSG02_086,
+FLD_MSG02_087,
+FLD_MSG02_088,
+FLD_MSG02_089,
+FLD_MSG02_090,
+FLD_MSG02_091,
+FLD_MSG02_092,
+FLD_MSG02_093,
+FLD_MSG02_094,
+FLD_MSG02_095,
+FLD_MSG02_096,
+FLD_MSG02_097,
+FLD_MSG02_098,
+FLD_MSG02_099,
+FLD_MSG02_100,
+FLD_MSG02_101,
+FLD_MSG02_102,
+FLD_MSG02_103,
+FLD_MSG02_104,
+FLD_MSG02_105,
+FLD_MSG02_106,
+FLD_MSG02_107,
+FLD_MSG02_108,
+FLD_MSG02_109,
+FLD_MSG02_110,
+FLD_MSG02_111,
+FLD_MSG02_112,
+FLD_MSG02_113,
+FLD_MSG02_114,
+FLD_MSG02_115,
+FLD_MSG02_116,
+FLD_MSG02_117,
+FLD_MSG02_118,
+FLD_MSG02_119,
+FLD_MSG02_120,
+FLD_MSG02_121,
+FLD_MSG02_122,
+FLD_MSG02_123,
+FLD_MSG02_124,
+FLD_MSG02_125,
+FLD_MSG02_126,
+FLD_MSG02_127,
+FLD_MSG02_128,
+FLD_MSG02_129,
+FLD_MSG02_130,
+FLD_MSG02_131,
+FLD_MSG02_132,
+FLD_MSG02_133,
+FLD_MSG02_134,
+FLD_MSG02_135,
+FLD_MSG02_136,
+FLD_MSG02_137,
+FLD_MSG02_138,
+FLD_MSG02_139,
+FLD_MSG02_140,
+FLD_MSG02_141,
+FLD_MSG02_142,
+FLD_MSG02_143,
+FLD_MSG02_144,
+FLD_MSG02_145,
+FLD_MSG02_146,
+FLD_MSG02_147,
+FLD_MSG02_148,
+FLD_MSG02_149,
+FLD_MSG02_150,
+FLD_MSG02_151,
+FLD_MSG02_152,
+FLD_MSG02_153,
+FLD_MSG02_154,
+FLD_MSG02_155,
+FLD_MSG02_156,
+FLD_MSG02_157,
+FLD_MSG02_158,
+FLD_MSG02_159,
+FLD_MSG02_160,
+FLD_MSG02_161,
+FLD_MSG02_162,
+FLD_MSG02_163,
+FLD_MSG02_164,
+FLD_MSG02_165,
+FLD_MSG02_166,
+FLD_MSG02_167,
+FLD_MSG02_168,
+FLD_MSG02_169,
+FLD_MSG02_170,
+FLD_MSG02_171,
+FLD_MSG02_172,
+FLD_MSG02_173,
+FLD_MSG02_174,
+FLD_MSG02_175,
+FLD_MSG02_176,
+FLD_MSG02_177,
+FLD_MSG02_178,
+FLD_MSG02_179,
+FLD_MSG02_180,
+FLD_MSG02_181,
+FLD_MSG02_182,
+FLD_MSG02_183,
+FLD_MSG02_184,
+FLD_MSG02_185,
+FLD_MSG02_186,
+FLD_MSG02_187,
+FLD_MSG02_188,
+FLD_MSG02_189,
+FLD_MSG02_190,
+FLD_MSG02_191,
+FLD_MSG02_192,
+FLD_MSG02_193,
+FLD_MSG02_194,
+FLD_MSG02_195,
+FLD_MSG02_196,
+FLD_MSG02_197,
+FLD_MSG02_198,
+FLD_MSG02_199,
+FLD_MSG02_200,
+FLD_MSG02_201,
+FLD_MSG02_202,
+FLD_MSG02_203,
+FLD_MSG02_204,
+FLD_MSG02_205,
+FLD_MSG02_206,
+FLD_MSG02_207,
+FLD_MSG02_208,
+FLD_MSG02_209,
+FLD_MSG02_210,
+FLD_MSG02_211,
+FLD_MSG02_212,
+FLD_MSG02_213,
+FLD_MSG02_214,
+FLD_MSG02_215,
+FLD_MSG02_216,
+FLD_MSG02_217,
+FLD_MSG02_218,
+FLD_MSG02_219,
+FLD_MSG02_220,
+FLD_MSG02_221,
+FLD_MSG02_222,
+FLD_MSG02_223,
+FLD_MSG02_224,
+FLD_MSG02_225,
+FLD_MSG02_226,
+FLD_MSG02_227,
+FLD_MSG02_228,
+FLD_MSG02_229,
+FLD_MSG02_230,
+FLD_MSG02_231,
+FLD_MSG02_232,
+FLD_MSG02_233,
+FLD_MSG02_234,
+FLD_MSG02_235,
+FLD_MSG02_236,
+FLD_MSG02_237,
+FLD_MSG02_238,
+FLD_MSG02_239,
+FLD_MSG02_240,
+FLD_MSG02_241,
+FLD_MSG02_242,
+FLD_MSG02_243,
+FLD_MSG02_244,
+FLD_MSG02_245,
+FLD_MSG02_246,
+FLD_MSG02_247,
+FLD_MSG02_248,
+FLD_MSG02_249,
+FLD_MSG02_250,
+FLD_MSG02_251,
+FLD_MSG02_252,
+FLD_MSG02_253,
+FLD_MSG02_254,
+FLD_MSG02_255,

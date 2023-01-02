@@ -1,0 +1,256 @@
+FLD_MESS0_000,<CT>\Obtained <NAME_ITM>!
+FLD_MESS0_001,Oh, prehistoric rhythm ♪
+FLD_MESS0_002,You are so very weak ♪\I am so strong ♪\I punched your lights out ♪\Now go run along ♪
+FLD_MESS0_003,They call me Gato ♪\I have metal joints ♪\If you can beat me up ♪\You'll earn 15 points ♪
+FLD_MESS0_004,Oh, no, I have lost ♪\And it seems you've won ♪\Here are your 15 points ♪\Now wasn't that fun? ♪
+FLD_MESS0_005,Soldier: There they are!\Don't lose 'em!
+FLD_MESS0_006,<NAME_MAR>: Looks like a dead end!
+FLD_MESS0_007,<NAME_LUC>: A Gate!
+FLD_MESS0_008,<NAME_MAR>: Come on!
+FLD_MESS0_009,<NAME_LUC>: Come on!?\We have no idea where it'll take us!\We might not even be able to get back!
+FLD_MESS0_010,<NAME_MAR>: Who cares?\Anywhere's better than here!
+FLD_MESS0_011,Chancellor: Princess Nadia!
+FLD_MESS0_012,<NAME_LUC>: This is totally irrational, you know!
+FLD_MESS0_013,<NAME_MAR>: Hurry, <NAME_CRO>!
+FLD_MESS0_014,Chancellor: They...they disappeared!
+FLD_MESS0_015,Soldier: There's nowhere left to run!
+FLD_MESS0_016,Soldier: Come along quietly!
+FLD_MESS0_017,Chancellor: Move away from that young hoodlum,\Your Highness!
+FLD_MESS0_018,20 G, paid in advance.\Would you like to stay?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESS0_019,Very well.
+FLD_MESS0_020,Come again soon.
+FLD_MESS0_021,A one-way ticket is 10 G.\You want one?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESS0_022,Here you go.\Have a pleasant trip!
+FLD_MESS0_023,Well, don't blame me if you regret it later.\You'd love the trip, I guarantee it!
+FLD_MESS0_024,Sorry, looks like you're a bit short on money.
+FLD_MESS0_025,I take the ferry every chance I get!
+FLD_MESS0_026,I want to ride the ferry.
+FLD_MESS0_027,Mayor: Gah hah hah!\I run this town, and I'm so rich I don't\know what to do with it all!
+FLD_MESS0_028,Give you 10 G if you spin around three times and\cluck like a chicken!\<S10><S10><C1>Okay.</C1>\<S10><S10><C2>No thanks.</C2>
+FLD_MESS0_029,Mayor: Bo-oring!
+FLD_MESS0_030,Mayor: Gah hah hah! That was great!\Here ya go, 10 G! Don't spend it all in one place!
+FLD_MESS0_031,Help the needy—share and share alike!\Thinkin' about makin' that the town motto.
+FLD_MESS0_032,I hate my dad more than anyone in the whole world.
+FLD_MESS0_033,My dad is my favorite person in the whole world!
+FLD_MESS0_034,Dad loves money more than he loves me.
+FLD_MESS0_035,I love my daddy!
+FLD_MESS0_036,The children are slipping away from us.\It's so painful to see.
+FLD_MESS0_037,I wish my husband were just a touch less generous.\I mean, it wouldn't kill him to save a little for us,\would it?
+FLD_MESS0_038,Everybody says Daddy's greedy.\That's not true, is it?
+FLD_MESS0_039,Everybody says Daddy's magnanimous,\but he says he's just big-boned.
+FLD_MESS0_040,Gran and Gramps went to the Millennial Fair in Truce.\We're keeping an eye on the house.
+FLD_MESS0_041,I wanna go to the fair, too!
+FLD_MESS0_042,Some monsters can coexist with humans.\Take that piano player, for instance.\
+FLD_MESS0_043,Everyone's off to that festival.\Buncha lazy sots...\*burp*
+FLD_MESS0_044,Four centuries ago, a woman named Fiona died\trying to revive the great forest that once\flourished to the north. It's a sad tale.
+FLD_MESS0_045,Four centuries ago, a woman named Fiona revived\the forest to the north, aided by a strange iron\construct. The thing is kept in a shrine within\the forest now.
+FLD_MESS0_046,I'm the piano man! Whaddaya want me to play? ♪\<S10><S10><C1>Play me a sad one!</C1>\<S10><S10><C2>Something upbeat!</C2>
+FLD_MESS0_047,With this armor, I can join the fight against the\Fiendlord!
+FLD_MESS0_048,Urgh...\It's so...so heavy!
+FLD_MESS0_049,I'm afraid my brother will hurt himself.
+FLD_MESS0_050,It was the warring of the great Fiendlord that\killed off the forest up north.
+FLD_MESS0_051,Village Elder: A place known as the Magic Cave lies\east from the Denadoro Mountains. That place will\send chills down a grown man's spine.
+FLD_MESS0_052,The boxes beside the bed have been handed down\through this family for generations.\I've not the slightest inkling what's within.\Find a way to open them, and the contents are yours.
+FLD_MESS0_053,Fiona loves all things that are green and grow.\She's a pure and noble heart to her, that one.\I pray her dream of greener days comes true.
+FLD_MESS0_054,Tata bears the Hero's Badge.<PAGE>\At first I thought it for a fake,\but it's the genuine article.\He truly is the Hero of legend!<PAGE>\I suspect he's combing the Denadoro Mountains\to the north even now, searching for the sword\the legends speak of.
+FLD_MESS0_055,Oh, that Tata! Always stirring up trouble.\But how could a person be wroth at that\innocent little face?
+FLD_MESS0_056,I'm going to be Tata's bride one day!
+FLD_MESS0_057,ZABIE door lock system operational.\Please enter passcode.
+FLD_MESS0_058,EMERGENCY ALERT STATUS.\ELEVATORS DISABLED.
+FLD_MESS0_059,<NAME_ROB>: Emergency!\The security system has gone haywire.\We must escape immediately!
+FLD_MESS0_060,<NAME_ROB>: Hurry!\Before it is too late!
+FLD_MESS0_061,I was worn out from running around.\But watching this dance gave me energy again!
+FLD_MESS0_062,A prehistoric dance...\Entrancing, isn't it?
+FLD_MESS0_063,Catchy rhythm, huh?\You can dance along with\<BTN_MENU>, <BTN_WARP>, <BTN_R>, and <BTN_L>, too!
+FLD_MESS0_064,La-dee-da-dee-da!\I got spending money from the mayor!
+FLD_MESS0_065,<NAME_MAR>, that is, Princess Nadia, is a descendant\of Queen Leene.
+FLD_MESS0_066,Queen Leene was kidnapped, and someone\was supposed to have gone and saved her. \But now history's been changed!
+FLD_MESS0_067,<NAME_MAR> looks so much like the Queen that they\probably called off their search when she appeared.\But if the real Queen is killed...
+FLD_MESS0_068,<NAME_MAR> will never have existed!\But there might still be enough time.\If we can save the Queen, history as\we know it should remain unchanged!
+FLD_MESS0_069,My own son, the legendary Hero!\Seems I sired myself a champion.\Can't say I truly see it, but I don't\s'pose I ought to question good fortune.<PAGE>\Father of the Hero!\Heh heh... I like the ring of it.
+FLD_MESS0_070,Tata: For...forgive me.\Truth be told, I plucked this badge from the\floor of the tavern. Some besotted froggish\fellow dropped it as he stumbled out.<PAGE>\I thought to sell it, see, but then everyone\started calling me the Hero when they saw it,\and, well...I didn't know what to do but go\along with it.
+FLD_MESS0_071,But it's too much for me, this Hero business.\I've had enough. Here, you can have the badge!
+FLD_MESS0_072,Tata's Father: Oh, what was I thinking?\I knew it'd turn out to be something like this!\I ought've seen it sooner.
+FLD_MESS0_073,Tata's Father: Oh, letting myself get all swept up when\I should have been looking out for m'boy! Well, from now\on, I'll make sure both of our feet stay on the ground.\For his dear departed mum's sake.
+FLD_MESS0_074,Tata: Hmph, listen to him!\And who does he think was going around\bragging to everyone he'd raised the Hero?
+FLD_MESS0_075,My grandson is the great Hero!\That's from my side of the family!\Hee hee hee.
+FLD_MESS0_076,Worry not, he's my grandson!\He won't let a little thing like this\spell the end to his great deeds.<PAGE>\He told me already, his next goal is to\become the legendary sea captain Bluebeard!\Ha ha ha!
+FLD_MESS0_077,
+FLD_MESS0_078,<CT>\Stole 500 G!<WAIT>04</WAIT><AUTO_END>
+FLD_MESS0_079,<CT>\Stole a Potion!<WAIT>04</WAIT><AUTO_END>
+FLD_MESS0_080,Aaahhh!
+FLD_MESS0_081,Stop that!
+FLD_MESS0_082,Oh, no, it's Cyrus!\Run!
+FLD_MESS0_083,*sniffle*\Thank you, Cyrus...\*sniffle*
+FLD_MESS0_084,Cyrus: Glenn, there are times when a man must\stand and face the things that trouble him.
+FLD_MESS0_085,Glenn: But...it hurts to be hit.\I cannot hurt another.\Not...not even them.
+FLD_MESS0_086,Cyrus: You're too soft, Glenn.
+FLD_MESS0_087,<CT>\Guardia Castle  -  North beyond the forest
+FLD_MESS0_088,<CT>\Guardia Castle\No trespassing!
+FLD_MESS0_089,<CT>\Dead end ahead.
+FLD_MESS0_090,<CT>\Open glade ahead.
+FLD_MESS0_091,Your Silver Point card is full!\I can't give you any more points.
+FLD_MESS0_092,The piano man's got talent.\Give him a listen.
+FLD_MESS0_093,I've got some spiced jerky, but I've been saving it for\a special occasion.
+FLD_MESS0_094,I might let some go for, say, 9,900 G.\How's about it?\<S10><S10><C1>Sold.</C1>\<S10><S10><C2>No thanks.</C2>
+FLD_MESS0_095,Now there's a customer with good taste!\Here you go.
+FLD_MESS0_096,I figured.
+FLD_MESS0_097,You strong!\Here! Take!
+FLD_MESS0_098,<CT>\Obtained 3 Petals, 3 Fangs,\3 Horns, and 3 Feathers!
+FLD_MESS0_099,You very strong!\Take this, too!<PAGE><CT>\\Obtained Third Eye!
+FLD_MESS0_100,<CT>\Obtained Power Ring!
+FLD_MESS0_101,<CT>\A mysterious force seals it shut.
+FLD_MESS0_102,The item inside is reacting to the pendant.\Remove the item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESS0_103,<CT>\Obtained White Vest!
+FLD_MESS0_104,<CT>\White Vest upgraded!\Obtained White Plate!
+FLD_MESS0_105,<CT>\Obtained Black Vest!
+FLD_MESS0_106,<CT>\Black Vest upgraded!\Obtained Black Plate!
+FLD_MESS0_107,If only I had some spiced jerky...\What a wondrous meal I could make!
+FLD_MESS0_108,Oh! Is that not spiced jerky you're carrying?
+FLD_MESS0_109,Might you part with it for 10,000 G?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>Take it for free.</C2>\<S10><S10><C3>No.</C3>
+FLD_MESS0_110,All right.\Here's 10,000 G!
+FLD_MESS0_111,Truly? Oh, thank you! I'd thought kindness\and sharing gone from this world altogether.\I'll teach my children from your example.\There are greater things in life than money!
+FLD_MESS0_112,Oh, well.
+FLD_MESS0_113,Right, then!\I'd best start cooking!
+FLD_MESS0_114,You're interested in the Moon Stone?\A passing young traveler left it here.\By all means, take it. It seems to be\important to you folks.
+FLD_MESS0_115,Moon Stone?\Never heard of it!
+FLD_MESS0_116,<NAME_MAR>: Is this the old Tyranno Lair?
+FLD_MESS0_117,<NAME_LUC>: Is this the old Tyranno Lair?
+FLD_MESS0_118,<NAME_ROB>: This appears to be the reptite castle.
+FLD_MESS0_119,<NAME_FRO>: The reptite castle?
+FLD_MESS0_120,<NAME_AYL>: What!?\Why reptite castle here?
+FLD_MESS0_121,<NAME_MAG>: The ruins of some ancient fortress?
+FLD_MESS0_122,<NAME_MAR>: This place must have been pushed\underground when Lavos fell to the earth.
+FLD_MESS0_123,<NAME_LUC>: When Lavos fell, this castle\must have been buried beneath the earth.
+FLD_MESS0_124,<NAME_ROB>: This castle must have been buried\underground when Lavos impacted the surface.
+FLD_MESS0_125,<NAME_FRO>: When Lavos fell, this place must\have been buried within the earth.\And here it yet lies...
+FLD_MESS0_126,<NAME_AYL>: Lavos fall, bury Tyranno Lair.\Under ground, long time!
+FLD_MESS0_127,<NAME_MAG>: A prehistoric castle...
+FLD_MESS0_128,<NAME_MAR>: This is the Rainbow Shell!
+FLD_MESS0_129,<NAME_LUC>: The Rainbow Shell!
+FLD_MESS0_130,<NAME_ROB>: This must be the Rainbow Shell.
+FLD_MESS0_131,<NAME_FRO>: So, this is the fabled Rainbow Shell.
+FLD_MESS0_132,<NAME_AYL>: Pretty! Big!\This Rainbow Shell?\Can eat?
+FLD_MESS0_133,<NAME_MAG>: Not exactly my color.
+FLD_MESS0_134,<NAME_MAR>: This thing's heavy!\We won't be able to carry it ourselves.\Better get some help at the castle!
+FLD_MESS0_135,<NAME_LUC>: It's too heavy.\Let's get some help from Guardia Castle.
+FLD_MESS0_136,<NAME_ROB>: Its mass is too great.\We must obtain assistance from Guardia Castle.
+FLD_MESS0_137,<NAME_FRO>: It is far too heavy for these hands alone.\Let us seek counsel with the King.
+FLD_MESS0_138,<NAME_AYL>: Heavy, heavy!\No can carry.\Castle person help?
+FLD_MESS0_139,<NAME_MAG>: Who shall we have carry it for us?
+FLD_MESS0_140,Soldier: It's heavy.\But we will manage!
+FLD_MESS0_141,Commander: Okay, men.\Lift!
+FLD_MESS0_142,<CT>\The enemy dropped a Shelter!
+FLD_MESS0_143,<CT>\Obtained Speed Capsule!
+FLD_MESS0_144,Crumpled note written in Toma's hand:\"Those holes... Perhaps they are meant to be\jumped into. Yes! I'd best start all over."
+FLD_MESS0_145,
+FLD_MESS0_146,
+FLD_MESS0_147,
+FLD_MESS0_148,
+FLD_MESS0_149,
+FLD_MESS0_150,
+FLD_MESS0_151,
+FLD_MESS0_152,
+FLD_MESS0_153,
+FLD_MESS0_154,
+FLD_MESS0_155,
+FLD_MESS0_156,
+FLD_MESS0_157,
+FLD_MESS0_158,
+FLD_MESS0_159,
+FLD_MESS0_160,
+FLD_MESS0_161,
+FLD_MESS0_162,
+FLD_MESS0_163,
+FLD_MESS0_164,
+FLD_MESS0_165,
+FLD_MESS0_166,
+FLD_MESS0_167,
+FLD_MESS0_168,
+FLD_MESS0_169,
+FLD_MESS0_170,
+FLD_MESS0_171,
+FLD_MESS0_172,
+FLD_MESS0_173,
+FLD_MESS0_174,
+FLD_MESS0_175,
+FLD_MESS0_176,
+FLD_MESS0_177,
+FLD_MESS0_178,
+FLD_MESS0_179,
+FLD_MESS0_180,
+FLD_MESS0_181,
+FLD_MESS0_182,
+FLD_MESS0_183,
+FLD_MESS0_184,
+FLD_MESS0_185,
+FLD_MESS0_186,
+FLD_MESS0_187,
+FLD_MESS0_188,
+FLD_MESS0_189,
+FLD_MESS0_190,
+FLD_MESS0_191,
+FLD_MESS0_192,
+FLD_MESS0_193,
+FLD_MESS0_194,
+FLD_MESS0_195,
+FLD_MESS0_196,
+FLD_MESS0_197,
+FLD_MESS0_198,
+FLD_MESS0_199,
+FLD_MESS0_200,
+FLD_MESS0_201,
+FLD_MESS0_202,
+FLD_MESS0_203,
+FLD_MESS0_204,
+FLD_MESS0_205,
+FLD_MESS0_206,
+FLD_MESS0_207,
+FLD_MESS0_208,
+FLD_MESS0_209,
+FLD_MESS0_210,
+FLD_MESS0_211,
+FLD_MESS0_212,
+FLD_MESS0_213,
+FLD_MESS0_214,
+FLD_MESS0_215,
+FLD_MESS0_216,
+FLD_MESS0_217,
+FLD_MESS0_218,
+FLD_MESS0_219,
+FLD_MESS0_220,
+FLD_MESS0_221,
+FLD_MESS0_222,
+FLD_MESS0_223,
+FLD_MESS0_224,
+FLD_MESS0_225,
+FLD_MESS0_226,
+FLD_MESS0_227,
+FLD_MESS0_228,
+FLD_MESS0_229,
+FLD_MESS0_230,
+FLD_MESS0_231,
+FLD_MESS0_232,
+FLD_MESS0_233,
+FLD_MESS0_234,
+FLD_MESS0_235,
+FLD_MESS0_236,
+FLD_MESS0_237,
+FLD_MESS0_238,
+FLD_MESS0_239,
+FLD_MESS0_240,
+FLD_MESS0_241,
+FLD_MESS0_242,
+FLD_MESS0_243,
+FLD_MESS0_244,
+FLD_MESS0_245,
+FLD_MESS0_246,
+FLD_MESS0_247,
+FLD_MESS0_248,
+FLD_MESS0_249,
+FLD_MESS0_250,
+FLD_MESS0_251,
+FLD_MESS0_252,
+FLD_MESS0_253,
+FLD_MESS0_254,
+FLD_MESS0_255,

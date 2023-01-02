@@ -1,0 +1,256 @@
+FLD_MSG04_000,Leene: Cyrus...\You're leaving, aren't you?
+FLD_MSG04_001,Cyrus: I am. It's long past time we reclaimed the Badge\from the Frog King.<PAGE>\And I need to see that sword with my own eyes.
+FLD_MSG04_002,King: Cyrus, this kingdom has need of you.<PAGE>\Leene and I need you as well.\See that you return.
+FLD_MSG04_003,Cyrus: As long as there is life in these bones,\I shall—come what may.<PAGE>\Well then, by your leave...
+FLD_MSG04_004,Knights: Sir Cyrus!
+FLD_MSG04_005,Knight: On behalf of the knighthood,\we wish you a safe journey and Godspeed.
+FLD_MSG04_006,Cyrus: My brothers...
+FLD_MSG04_007,Cyrus: I trust the kingdom's protection to you.\See that she is kept safe from her enemies.
+FLD_MSG04_008,Cyrus: Pardon the delay.\Let us be on our way.
+FLD_MSG04_009,Leene: Glenn, you be careful, too!
+FLD_MSG04_010,Glenn: Be well, Your Majesty!
+FLD_MSG04_011,So! You seek the Hero's Badge, knight of the kingdom\of men? Come and take it, then—if you can!\CROAK!
+FLD_MSG04_012,Cyrus: That is what I mean to do.<PAGE>\Nirvana Strike!
+FLD_MSG04_013,GRAAAACK!\I... I'm beaten!<PAGE>\Pfft! Filthy badge!\Do not think I'll forget this!
+FLD_MSG04_014,Child: I'm the wind!\Whoosh!
+FLD_MSG04_015,Child: Hey, don't go up there!
+FLD_MSG04_016,Child: Did you come to take it?\The Masamune, I mean.\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG04_017,Child: You didn't?\You should hurry up and leave, then.
+FLD_MSG04_018,Child: I thought so.\Wait just a second, all right?
+FLD_MSG04_019,Child: Oh Big Brother...\Where are you, Masa?
+FLD_MSG04_020,Masa: What is it, Mune?
+FLD_MSG04_021,Masa: Not again!
+FLD_MSG04_022,Masa: So, thought you'd make a name for yourself\as Hero by grabbing the Masamune, did you?\What a buffoon!
+FLD_MSG04_023,Mune: Humans are all the same, aren't they?\It's how you use the sword that's important,\not just that you have the strongest one!
+FLD_MSG04_024,Masa: You can't even understand something as simple\as that. Guess that proves you're human.
+FLD_MSG04_025,Mune: What should we do?
+FLD_MSG04_026,Masa: The usual—test them.\Might as well give them the chance\to entertain us for awhile.
+FLD_MSG04_027,Mune: All right!\Here we go!\Whoooosh!
+FLD_MSG04_028,Mune: Hey, Masa, these ones are pretty tough.
+FLD_MSG04_029,Masa: No one's lasted this long since Cyrus.
+FLD_MSG04_030,Masa: We fight them for real, of course!
+FLD_MSG04_031,Mune: All right, this is it!<PAGE>\Masa: No more games!
+FLD_MSG04_032,With Masa's bravery...
+FLD_MSG04_033,And Mune's brains...
+FLD_MSG04_034,We're unstoppable!
+FLD_MSG04_035,Mune: They beat us, Masa.
+FLD_MSG04_036,Masa: That was fun!
+FLD_MSG04_037,Mune: Do you think they'll fix us?<PAGE>\Will they find our proper owner?
+FLD_MSG04_038,Masa: Yes, it'll be all right.
+FLD_MSG04_039,Mune: Good luck to you.
+FLD_MSG04_040,Masa: Allow me!\We'll ride the wind to the base of the mountain!
+FLD_MSG04_041,<NAME_LUC>: So this is the Masamune.<PAGE>\It looks like it's been broken for ages.
+FLD_MSG04_042,<NAME_ROB>: This sword is the legendary Masamune.<PAGE>\Its appearance would indicate that a great\deal of time has passed since it was broken.
+FLD_MSG04_043,<CT>\Obtained the broken Masamune!
+FLD_MSG04_044,Ride the wind?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG04_045,<NAME_FRO>: You're no match for me, freelancer!
+FLD_MSG04_046,<CT>\The rock glows in <NAME_FRO>'s hand.
+FLD_MSG04_047,<CT>\Obtained Golden Gemstone!
+FLD_MSG04_048,<NAME_FRO>: I am no longer the frog I was before!
+FLD_MSG04_049,Y-you're humans?<PAGE>\They've hidden the Queen in the back.\Please rescue her!
+FLD_MSG04_050,Somewhere within this complex, there's a shrine to\the Fiendlord. I heard there's treasure to be found\there as well.
+FLD_MSG04_051,<CT>\Obtained hidden Naga Bromide!
+FLD_MSG04_052,Hey!\There're humans in here!
+FLD_MSG04_053,Try and steal our bromide, will you?
+FLD_MSG04_054,Get 'em!
+FLD_MSG04_055,*belch*\Hmm? What's with the disguises?<PAGE>\Hurry up and change!\No need to be walking around like humans in here.
+FLD_MSG04_056,Ugh, it's almost time for my shift.\I hate pretending to be human!\They're so smelly and repulsive.\It's demeaning! *burp*
+FLD_MSG04_057,All right, think I'll pay my respects to the\Fiendlord's statue before my shift starts.
+FLD_MSG04_058,Those ones we ate last time weren't so bad.\And those two soldiers we just caught look\plump and juicy. Hee hee hee...
+FLD_MSG04_059,Yakra's a genius!\His plan to imprison the Chancellor and\take on his role worked like magic!<PAGE>\Now the Queen's ours, and the castle's in an uproar.\This is rich!
+FLD_MSG04_060,Oh, how good of you to come.\I'm sure Yakra will be pleased.<PAGE>\Please, pass the time in here with us until he has\a chance to come and greet you properly.
+FLD_MSG04_061,Oh, you came to rescue me? How kind of you.\But I assure you, there's no need.<PAGE>\The master of this place, Yakra, is so very kind.\I've decided to stay here. Please, make yourselves\at home, too!
+FLD_MSG04_062,Did you by chance come to save Queen Leene?<PAGE>\Oh, you did! That's good to know.
+FLD_MSG04_063,Don't be in such a hurry to leave!\Please, take the time to enjoy yourselves with us.\Mwa ha ha ha!
+FLD_MSG04_064,Oh great <NAME_MAG>, <NAME_MAG> the Great ♪\Your eyes are brighter than the stars ♪\Your flowing hair, like waves atop the sea ♪<PAGE>\Even those miserable sunny days abate ♪\When we feel your seething hate ♪\Even brightened halls hold no fear ♪\Just so long as you are near ♪
+FLD_MSG04_065,Chorus: <NAME_MAG>, oh Lord <NAME_MAG> ♪\You are our Fiendlord and Savior ♪
+FLD_MSG04_066,Come, join us in singing your funeral dirge!\Gyah hah hah!
+FLD_MSG04_067,<CT>\Obtained <NAME_ITM>!
+FLD_MSG04_068,<CT>\Obtained <NAME_ITM>!
+FLD_MSG04_069,Dalton: You truly made it all this way.\Perhaps I did underestimate you.
+FLD_MSG04_070,Dalton: But this is the end.\My pets will put a stop to you!
+FLD_MSG04_071,Dalton: Come forth, Golem Sisters!
+FLD_MSG04_072,Dalton: Grr... The Sisters, too!\I suppose I've but one choice left.
+FLD_MSG04_073,Dalton: What's this?\I feel something strange.<PAGE>\Could this be...Lavos's energy!?
+FLD_MSG04_074,Dalton: ...\This won't do at all.<PAGE>\All my hard work will be in vain if I die before attaining\immortality!
+FLD_MSG04_075,Dalton: It seems this is your lucky day!<PAGE>\Farewell!
+FLD_MSG04_076,If history is to change, let it change!\If the world is to be destroyed, so be it!<WAIT>12</WAIT><AUTO_PAGE>\If I must vanish from existence to see this done,\then I shall welcome that fate!<WAIT>14</WAIT><AUTO_END>
+FLD_MSG04_077,I'm coming, Lavos!<WAIT>0c</WAIT><AUTO_END>
+FLD_MSG04_078,
+FLD_MSG04_079,
+FLD_MSG04_080,
+FLD_MSG04_081,
+FLD_MSG04_082,
+FLD_MSG04_083,
+FLD_MSG04_084,
+FLD_MSG04_085,
+FLD_MSG04_086,
+FLD_MSG04_087,
+FLD_MSG04_088,
+FLD_MSG04_089,
+FLD_MSG04_090,
+FLD_MSG04_091,
+FLD_MSG04_092,
+FLD_MSG04_093,
+FLD_MSG04_094,
+FLD_MSG04_095,
+FLD_MSG04_096,
+FLD_MSG04_097,
+FLD_MSG04_098,
+FLD_MSG04_099,
+FLD_MSG04_100,
+FLD_MSG04_101,
+FLD_MSG04_102,
+FLD_MSG04_103,
+FLD_MSG04_104,
+FLD_MSG04_105,
+FLD_MSG04_106,
+FLD_MSG04_107,
+FLD_MSG04_108,
+FLD_MSG04_109,
+FLD_MSG04_110,
+FLD_MSG04_111,
+FLD_MSG04_112,
+FLD_MSG04_113,
+FLD_MSG04_114,
+FLD_MSG04_115,
+FLD_MSG04_116,
+FLD_MSG04_117,
+FLD_MSG04_118,
+FLD_MSG04_119,
+FLD_MSG04_120,
+FLD_MSG04_121,
+FLD_MSG04_122,
+FLD_MSG04_123,
+FLD_MSG04_124,
+FLD_MSG04_125,
+FLD_MSG04_126,
+FLD_MSG04_127,
+FLD_MSG04_128,
+FLD_MSG04_129,
+FLD_MSG04_130,
+FLD_MSG04_131,
+FLD_MSG04_132,
+FLD_MSG04_133,
+FLD_MSG04_134,
+FLD_MSG04_135,
+FLD_MSG04_136,
+FLD_MSG04_137,
+FLD_MSG04_138,
+FLD_MSG04_139,
+FLD_MSG04_140,
+FLD_MSG04_141,
+FLD_MSG04_142,
+FLD_MSG04_143,
+FLD_MSG04_144,
+FLD_MSG04_145,
+FLD_MSG04_146,
+FLD_MSG04_147,
+FLD_MSG04_148,
+FLD_MSG04_149,
+FLD_MSG04_150,
+FLD_MSG04_151,
+FLD_MSG04_152,
+FLD_MSG04_153,
+FLD_MSG04_154,
+FLD_MSG04_155,
+FLD_MSG04_156,
+FLD_MSG04_157,
+FLD_MSG04_158,
+FLD_MSG04_159,
+FLD_MSG04_160,
+FLD_MSG04_161,
+FLD_MSG04_162,
+FLD_MSG04_163,
+FLD_MSG04_164,
+FLD_MSG04_165,
+FLD_MSG04_166,
+FLD_MSG04_167,
+FLD_MSG04_168,
+FLD_MSG04_169,
+FLD_MSG04_170,
+FLD_MSG04_171,
+FLD_MSG04_172,
+FLD_MSG04_173,
+FLD_MSG04_174,
+FLD_MSG04_175,
+FLD_MSG04_176,
+FLD_MSG04_177,
+FLD_MSG04_178,
+FLD_MSG04_179,
+FLD_MSG04_180,
+FLD_MSG04_181,
+FLD_MSG04_182,
+FLD_MSG04_183,
+FLD_MSG04_184,
+FLD_MSG04_185,
+FLD_MSG04_186,
+FLD_MSG04_187,
+FLD_MSG04_188,
+FLD_MSG04_189,
+FLD_MSG04_190,
+FLD_MSG04_191,
+FLD_MSG04_192,
+FLD_MSG04_193,
+FLD_MSG04_194,
+FLD_MSG04_195,
+FLD_MSG04_196,
+FLD_MSG04_197,
+FLD_MSG04_198,
+FLD_MSG04_199,
+FLD_MSG04_200,
+FLD_MSG04_201,
+FLD_MSG04_202,
+FLD_MSG04_203,
+FLD_MSG04_204,
+FLD_MSG04_205,
+FLD_MSG04_206,
+FLD_MSG04_207,
+FLD_MSG04_208,
+FLD_MSG04_209,
+FLD_MSG04_210,
+FLD_MSG04_211,
+FLD_MSG04_212,
+FLD_MSG04_213,
+FLD_MSG04_214,
+FLD_MSG04_215,
+FLD_MSG04_216,
+FLD_MSG04_217,
+FLD_MSG04_218,
+FLD_MSG04_219,
+FLD_MSG04_220,
+FLD_MSG04_221,
+FLD_MSG04_222,
+FLD_MSG04_223,
+FLD_MSG04_224,
+FLD_MSG04_225,
+FLD_MSG04_226,
+FLD_MSG04_227,
+FLD_MSG04_228,
+FLD_MSG04_229,
+FLD_MSG04_230,
+FLD_MSG04_231,
+FLD_MSG04_232,
+FLD_MSG04_233,
+FLD_MSG04_234,
+FLD_MSG04_235,
+FLD_MSG04_236,
+FLD_MSG04_237,
+FLD_MSG04_238,
+FLD_MSG04_239,
+FLD_MSG04_240,
+FLD_MSG04_241,
+FLD_MSG04_242,
+FLD_MSG04_243,
+FLD_MSG04_244,
+FLD_MSG04_245,
+FLD_MSG04_246,
+FLD_MSG04_247,
+FLD_MSG04_248,
+FLD_MSG04_249,
+FLD_MSG04_250,
+FLD_MSG04_251,
+FLD_MSG04_252,
+FLD_MSG04_253,
+FLD_MSG04_254,
+FLD_MSG04_255,

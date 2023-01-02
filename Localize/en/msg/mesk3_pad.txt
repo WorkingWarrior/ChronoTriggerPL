@@ -1,0 +1,256 @@
+FLD_MESK3_000,<CT>\Obtained <NAME_ITM>!
+FLD_MESK3_001,Lara: Oh, hello, <NAME_CRO>.\<NAME_LUC>'s off at Leene Square with her father\Taban, unveiling her new invention.
+FLD_MESK3_002,Lara: <NAME_LUC> and Taban are always off\tinkering on their latest inventions.
+FLD_MESK3_003,Lara: What a beautiful day! I think I'll go\for a walk once I finish the housework.
+FLD_MESK3_004,<NAME_LUC>: Hmm...\Reducing the form factor of a bipedal robot without\compromising balance is tougher than I thought.<PAGE>\Oh, <NAME_CRO>! Hurry up and escort the Princess\back to the castle!
+FLD_MESK3_005,Taban: I bought you this apple with what we\earned today.
+FLD_MESK3_006,Lara: Oh, you're so thoughtful.
+FLD_MESK3_007,Taban: Oh! <NAME_LUC>'s friends!
+FLD_MESK3_008,If you see <NAME_LUC>, tell her to drop by sometime.
+FLD_MESK3_009,Taban: Hey, <NAME_LUC>!
+FLD_MESK3_010,Taban: I've been working on some defensive gear for\my favorite daughter.
+FLD_MESK3_011,Taban: Oh, perfect timing!
+FLD_MESK3_012,Taban: Another great invention—just completed!\The ultimate in defense for my beautiful daughter!
+FLD_MESK3_013,<NAME_LUC>: Wh-what's this?
+FLD_MESK3_014,June 24, 990\Dad promised to go hiking with me, but he\blew me off again because of his research.<PAGE>\I don't get it. But whatever.\Who cares about stupid science anyway?\Girls don't need to know about that stuff!
+FLD_MESK3_015,Lara: What is this thing, anyway?\Taban said to keep away from it, but it's so dusty.\Surely it wouldn't hurt just to tidy up a little.
+FLD_MESK3_016,Lara: Dear me!\My skirt, it's—I'm stuck!\<NAME_LUC>!\<NAME_LUC>, help!
+FLD_MESK3_017,<NAME_LUC>: I can't pull it out.
+FLD_MESK3_018,Lara: Oh, no! <NAME_LUC>!\Enter the password!\Stop the machine!<PAGE>\<NAME_LUC>: But I don't know it, Mom!
+FLD_MESK3_019,Lara: Oh, no...\Help!<WAIT>04</WAIT><AUTO_END>
+FLD_MESK3_020,July 1, 990\I wish I hadn't heard what the doctor told Dad.<PAGE>\Mom's legs, they're...
+FLD_MESK3_021,July 15, 990\If only I'd known more about machines,\then Mom would still be okay.\It's all my fault.
+FLD_MESK3_022,July 2, 990\That was close. I think I'd better study a\little more about machines in case anything\like that ever happens again.
+FLD_MESK3_023,Enter password.
+FLD_MESK3_024,<NAME_LUC>: Mommy... Thank goodness!<PAGE>\Lara: <NAME_LUC>... Oh, <NAME_LUC>...
+FLD_MESK3_025,The password to shut down the device is\the name of my one true love.\Use it in an emergency.\<S10><S10><S10><S10><S10><S10>  -Taban
+FLD_MESK3_026,<NAME_LUC>: First, we'll extract the Sun Stone's\energy and convert it to a more manageable form.
+FLD_MESK3_027,<NAME_LUC>: Then, we'll just vacuum pack it into\a cartridge...
+FLD_MESK3_028,<NAME_LUC>: ...and it's finished!
+FLD_MESK3_029,<NAME_LUC>: Sometimes I amaze myself!
+FLD_MESK3_030,Taban: Take a look at this, <NAME_LUC>!\I borrowed a bit of the Sun Stone to\create something nifty of my own.
+FLD_MESK3_031,<NAME_ROB>: Override Security System 00.
+FLD_MESK3_032,<S10><S10><C1>Up.</C1>\<S10><S10><C2>Down.</C2>\<S10><S10><C3>Cancel.</C3>
+FLD_MESK3_033,<CT>\Left - Laboratory\Right - Factory<PAGE><CT>\DANGER - RISK OF DEATH\Deactivation of factory conveyor belt forbidden.\Stopping the belt will activate the security\system, which could result in loss of life.
+FLD_MESK3_034,Hatch opened.
+FLD_MESK3_035,<NAME_ROB>: All systems down.\Defense lasers deactivated.
+FLD_MESK3_036,EMERGENCY ALERT STATUS.\ELEVATORS DISABLED.
+FLD_MESK3_037,<NAME_ROB>: Wait!\These...these are my friends!
+FLD_MESK3_038,<NAME_ROB>: R-64Y, R-67Y, R-69Y!\It is good to see you again!
+FLD_MESK3_039,<NAME_ROB>: Wh-what are you doing?
+FLD_MESK3_040,R-64Y: YOU ARE DEFECTIVE.<PAGE>\R-67Y: YOU ARE NOT ONE OF US.
+FLD_MESK3_041,<NAME_ROB>: Pardon?
+FLD_MESK3_042,R-69Y: HAVE YOU FORGOTTEN OUR ASSIGNED TASK?<PAGE>\ALL INTRUDERS MUST BE ELIMINATED.
+FLD_MESK3_043,<NAME_ROB>: That was the reason for my creation?
+FLD_MESK3_044,<NAME_ROB>: I am...malfunctioning?<PAGE>\R-64Y: AFFIRMATIVE.
+FLD_MESK3_045,<NAME_ROB>: A defect...\I am a defect!
+FLD_MESK3_046,R-64Y: YOU DISGRACE OUR SERIES.\YOU MUST BE DESTROYED.
+FLD_MESK3_047,<NAME_LUC>: N-no! Stop!
+FLD_MESK3_048,<NAME_MAR>: <NAME_ROB>!\<NAME_CRO>, they're tearing him apart!
+FLD_MESK3_049,<NAME_ROB>: D-do not harm them, please!\These robots are my brothers!
+FLD_MESK3_050,<NAME_LUC>: They'll destroy you!
+FLD_MESK3_051,<NAME_MAR>: But what about you!?
+FLD_MESK3_052,<NAME_ROB>: Please stop.\Please...
+FLD_MESK3_053,<NAME_ROB>!
+FLD_MESK3_054,R-64Y: NOW WE SHALL ELIMINATE THE INTRUDERS.
+FLD_MESK3_055,<NAME_LUC>: No...<PAGE>\I think the intruders will eliminate you!
+FLD_MESK3_056,<NAME_MAR>: You cocky boxes of bolts!\You're not getting away with this!
+FLD_MESK3_057,I see him! He got stuck!
+FLD_MESK3_058,<NAME_LUC>: They really thrashed him.\I'm not sure I can fix this.
+FLD_MESK3_059,<NAME_LUC>: Let's get him back to Proto Dome for now.
+FLD_MESK3_060,<NAME_MAR>: Oh, no! What should we do?\He's in terrible shape!
+FLD_MESK3_061,<NAME_MAR>: <NAME_CRO>, let's take him back to\<NAME_LUC>!
+FLD_MESK3_062,To activate the crane, wait for the tone and white\flash and then press any two of\<BTN_MENU>, <BTN_WARP>, <BTN_DASH>, and <BTN_CONF>, one after the next.
+FLD_MESK3_063,ULTRA-HIGH SECURITY DOOR LOCK SYSTEM CODE...\X A B Y... <PAGE>\Decoding...\<BTN_CONF> <BTN_DASH> <BTN_MENU> <BTN_WARP>
+FLD_MESK3_064,Crane control codes:\Pattern 00: <BTN_CONF> <BTN_DASH>\Pattern 01: <BTN_MENU> <BTN_MENU>
+FLD_MESK3_065,Chancellor: Good citizens!\Have any of you heard of the royal heirloom\known as the Rainbow Shell?<PAGE>\I, too, had no idea of its existence—until I laid eyes\upon this, that is.
+FLD_MESK3_066,Chancellor: I hold before you an ancestral\will, written by the hand of our own King's\distant forebears. If I may...<PAGE>\"Unveil the Rainbow Shell to the people\at the Millennial Fair, that they might\enjoy the blessing of our royal treasure."
+FLD_MESK3_067,King: I have no idea what you're talking about!\We have no ancient royal heirlooms here.
+FLD_MESK3_068,Chancellor: Surely you don't intend to claim\this a forgery?<PAGE>\I ask you, good people of the court, why does\the defendant deny you a glimpse of this glorious\"Rainbow Shell"?<PAGE>\Why, because he no longer owns it.\He sold a priceless heirloom of our kingdom,\for no reason other than his own greed.\Witness, if you would please—
+FLD_MESK3_069,Chancellor: P-Princess!\We are conducting a trial here.<PAGE>\<NAME_MAR>: Father!
+FLD_MESK3_070,King: Nadia!\The Chancellor is trying to frame me.
+FLD_MESK3_071,Chancellor: Let us not hurl insults.\If you are innocent, it should be simple\enough to confirm the matter with proof.<PAGE>\<NAME_MAR>: Proof?<PAGE>\Chancellor: Yes.\If His Grace has not sold the heirloom,\it should remain within the castle.<PAGE>\Bring the Rainbow Shell before the court,\and his innocence will be beyond question.\Not that I expect you will succeed.\Heh heh...
+FLD_MESK3_072,King: Chancellor!\What kind of trickery is this?
+FLD_MESK3_073,Chancellor: Remove them!
+FLD_MESK3_074,Merchant: Yes, I bought it from the King.\I wasn't sure if I should, but, well...he\looked so desperate for the money.<PAGE>\King: Liar!\I've never even seen you before!
+FLD_MESK3_075,Judge: Order in the court!
+FLD_MESK3_076,Merchant: Heh heh...\Was I convincing?<PAGE>\Chancellor: Perfect!
+FLD_MESK3_077,Judge: Members of the jury, it is time for a verdict.\If you believe the defendant guilty, stand to the left.\Innocent, to the right.
+FLD_MESK3_078,Guilty.
+FLD_MESK3_079,Not guilty.
+FLD_MESK3_080,Judge: A verdict has been reached!\Four votes of guilty to a single of not guilty.\The defendant has been found guilty as charged.
+FLD_MESK3_081,Chancellor: The line of Guardia has ended.\This kingdom shall be mine!<PAGE>\Take him away!
+FLD_MESK3_082,WAIT!
+FLD_MESK3_083,Chancellor: Who is it?
+FLD_MESK3_084,<NAME_MAR>: Father!
+FLD_MESK3_085,King: Nadia!
+FLD_MESK3_086,Chancellor: Princess!
+FLD_MESK3_087,Chancellor: You're too late!\His Grace has been found guilty.\Even the King is subject to our laws.
+FLD_MESK3_088,<NAME_MAR>: No, not when the whole thing was a setup!
+FLD_MESK3_089,Chancellor: Nonsense, the King's a crook!\He sold—<PAGE>\<NAME_MAR>: The treasure's right here!
+FLD_MESK3_090,Chancellor: Impossible!
+FLD_MESK3_091,<NAME_MAR>: Give it up, Chancellor!\Your little scheme failed.
+FLD_MESK3_092,Chancellor: Heh heh...
+FLD_MESK3_093,<NAME_MAR>: Huh?
+FLD_MESK3_094,Chancellor: Hee hee hee!<PAGE>\You're the ones who had better give up.\If I can't avenge my ancestors the easy way,\I'll do it here and now—the hard way!
+FLD_MESK3_095,Chancellor: Super, ultra, presto, TRANSFORM-O!
+FLD_MESK3_096,<NAME_MAR>: Father...\I...
+FLD_MESK3_097,King: No, don't say it.\I was wrong to be so stubborn.
+FLD_MESK3_098,<NAME_MAR>: No, I didn't even think about how you must\have felt.<PAGE>\I...\Oh, I know what I want to say, but the words just\won't come out.
+FLD_MESK3_099,King: It's the same for me.\There was a time when I truly thought you\were lost to me.<PAGE>\But when I think about it now, I realize\that it was I who abandoned you.
+FLD_MESK3_100,<NAME_MAR>: But I'm here now.\We'll talk about everything from now on.<PAGE>\I'll ask you for advice, and tell you about <NAME_CRO>,\and ask you about Mother, and...
+FLD_MESK3_101,King: Ah, your mother...\Aliza...<PAGE>\I'm ashamed to admit it, but it's taken me until now to\understand what she meant with those final words.<PAGE>\"Someday, when Nadia is older, she'll bring someone\she loves to meet you. Welcome the two of them with\open arms."<PAGE>\She said that would make it a day you would remember\forever.
+FLD_MESK3_102,<NAME_MAR>: You heard her last words?<PAGE>\King: Of course. You were so young you\probably don't remember.<PAGE>\You kept saying, "Daddy, I love lots of people!\Lots and lots!"<PAGE>\It reassured your mother, seeing you so happy.\She left us with a smile on her face.
+FLD_MESK3_103,<NAME_MAR>: So that's how it was.<PAGE>\King: Yes, why?
+FLD_MESK3_104,<NAME_MAR>: I used to call you Daddy?<PAGE>\King: You did.
+FLD_MESK3_105,<NAME_MAR>: I'm sorry...Daddy.\For everything.
+FLD_MESK3_106,
+FLD_MESK3_107,
+FLD_MESK3_108,
+FLD_MESK3_109,
+FLD_MESK3_110,
+FLD_MESK3_111,
+FLD_MESK3_112,
+FLD_MESK3_113,
+FLD_MESK3_114,
+FLD_MESK3_115,
+FLD_MESK3_116,
+FLD_MESK3_117,
+FLD_MESK3_118,
+FLD_MESK3_119,
+FLD_MESK3_120,
+FLD_MESK3_121,
+FLD_MESK3_122,
+FLD_MESK3_123,
+FLD_MESK3_124,
+FLD_MESK3_125,
+FLD_MESK3_126,
+FLD_MESK3_127,
+FLD_MESK3_128,
+FLD_MESK3_129,
+FLD_MESK3_130,
+FLD_MESK3_131,
+FLD_MESK3_132,
+FLD_MESK3_133,
+FLD_MESK3_134,
+FLD_MESK3_135,
+FLD_MESK3_136,
+FLD_MESK3_137,
+FLD_MESK3_138,
+FLD_MESK3_139,
+FLD_MESK3_140,
+FLD_MESK3_141,
+FLD_MESK3_142,
+FLD_MESK3_143,
+FLD_MESK3_144,
+FLD_MESK3_145,
+FLD_MESK3_146,
+FLD_MESK3_147,
+FLD_MESK3_148,
+FLD_MESK3_149,
+FLD_MESK3_150,
+FLD_MESK3_151,
+FLD_MESK3_152,
+FLD_MESK3_153,
+FLD_MESK3_154,
+FLD_MESK3_155,
+FLD_MESK3_156,
+FLD_MESK3_157,
+FLD_MESK3_158,
+FLD_MESK3_159,
+FLD_MESK3_160,
+FLD_MESK3_161,
+FLD_MESK3_162,
+FLD_MESK3_163,
+FLD_MESK3_164,
+FLD_MESK3_165,
+FLD_MESK3_166,
+FLD_MESK3_167,
+FLD_MESK3_168,
+FLD_MESK3_169,
+FLD_MESK3_170,
+FLD_MESK3_171,
+FLD_MESK3_172,
+FLD_MESK3_173,
+FLD_MESK3_174,
+FLD_MESK3_175,
+FLD_MESK3_176,
+FLD_MESK3_177,
+FLD_MESK3_178,
+FLD_MESK3_179,
+FLD_MESK3_180,
+FLD_MESK3_181,
+FLD_MESK3_182,
+FLD_MESK3_183,
+FLD_MESK3_184,
+FLD_MESK3_185,
+FLD_MESK3_186,
+FLD_MESK3_187,
+FLD_MESK3_188,
+FLD_MESK3_189,
+FLD_MESK3_190,
+FLD_MESK3_191,
+FLD_MESK3_192,
+FLD_MESK3_193,
+FLD_MESK3_194,
+FLD_MESK3_195,
+FLD_MESK3_196,
+FLD_MESK3_197,
+FLD_MESK3_198,
+FLD_MESK3_199,
+FLD_MESK3_200,
+FLD_MESK3_201,
+FLD_MESK3_202,
+FLD_MESK3_203,
+FLD_MESK3_204,
+FLD_MESK3_205,
+FLD_MESK3_206,
+FLD_MESK3_207,
+FLD_MESK3_208,
+FLD_MESK3_209,
+FLD_MESK3_210,
+FLD_MESK3_211,
+FLD_MESK3_212,
+FLD_MESK3_213,
+FLD_MESK3_214,
+FLD_MESK3_215,
+FLD_MESK3_216,
+FLD_MESK3_217,
+FLD_MESK3_218,
+FLD_MESK3_219,
+FLD_MESK3_220,
+FLD_MESK3_221,
+FLD_MESK3_222,
+FLD_MESK3_223,
+FLD_MESK3_224,
+FLD_MESK3_225,
+FLD_MESK3_226,
+FLD_MESK3_227,
+FLD_MESK3_228,
+FLD_MESK3_229,
+FLD_MESK3_230,
+FLD_MESK3_231,
+FLD_MESK3_232,
+FLD_MESK3_233,
+FLD_MESK3_234,
+FLD_MESK3_235,
+FLD_MESK3_236,
+FLD_MESK3_237,
+FLD_MESK3_238,
+FLD_MESK3_239,
+FLD_MESK3_240,
+FLD_MESK3_241,
+FLD_MESK3_242,
+FLD_MESK3_243,
+FLD_MESK3_244,
+FLD_MESK3_245,
+FLD_MESK3_246,
+FLD_MESK3_247,
+FLD_MESK3_248,
+FLD_MESK3_249,
+FLD_MESK3_250,
+FLD_MESK3_251,
+FLD_MESK3_252,
+FLD_MESK3_253,
+FLD_MESK3_254,
+FLD_MESK3_255,

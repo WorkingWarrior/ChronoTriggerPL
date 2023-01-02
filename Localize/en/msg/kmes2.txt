@@ -1,0 +1,256 @@
+FLD_KMES2_000,<CT>\Obtained <NAME_ITM>!
+FLD_KMES2_001,<CT>\Onimaru upgraded!\Obtained <NAME_ITM>!
+FLD_KMES2_002,<CT>\Siren's Kiss upgraded!\Obtained <NAME_ITM>!
+FLD_KMES2_003,<CT>\Nova Armor upgraded!\Obtained <NAME_ITM>!
+FLD_KMES2_004,The item inside is reacting to the pendant.\Remove the item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_005,...len...<WAIT>08</WAIT><AUTO_END>\Gle...<WAIT>08</WAIT><AUTO_END>\Glenn...<WAIT>08</WAIT><AUTO_END>\<CT>\Glenn!
+FLD_KMES2_006,Grrrrrr!
+FLD_KMES2_007,<CT>\Here rests Cyrus,\the fool who defied <NAME_MAG>.
+FLD_KMES2_008,<CT>\Here rests the brave Sir Cyrus,\whose spirit lives on in his true friend, Glenn.
+FLD_KMES2_009,<NAME_ROB>: I am unable to damage it!
+FLD_KMES2_010,<NAME_AYL>: Hard, like rock!
+FLD_KMES2_011,<NAME_LUC>: It's too resilient!
+FLD_KMES2_012,<NAME_FRO>: My sword is to no avail!
+FLD_KMES2_013,<NAME_MAR>: Attacks just bounce right off it!
+FLD_KMES2_014,<NAME_FRO>: Cyrus...
+FLD_KMES2_015,<NAME_MAG>: ...
+FLD_KMES2_016,<NAME_FRO>: Cyrus!?\'Tis I, Glenn!
+FLD_KMES2_017,Ugh...<PAGE>\\Glenn...?
+FLD_KMES2_018,<NAME_FRO>: Cyrus...<PAGE>\Cyrus, I have returned.<PAGE>\I will fulfill that oath I swore so long ago,\and my final promise to you as well.
+FLD_KMES2_019,Cyrus: Glenn...<PAGE>\Thank you, for making the journey all this way.
+FLD_KMES2_020,<NAME_FRO>: Cyrus...<PAGE>\You must think ill of me.
+FLD_KMES2_021,Cyrus: Hah... You think overmuch.\You've come far, my friend.\I was never as fine a warrior as you are now.<PAGE>\As <NAME_MAG>'s fire consumed me, my heart burned\with the thoughts of all I'd left unfinished, and\all I left behind.<PAGE>\<NAME_MAG>...\King Guardia...\Queen Leene...<PAGE>\And of course you, my dear good friend.
+FLD_KMES2_022,Cyrus: But the skills you've honed over all this time\are superior to any I could ever claim to know.<PAGE>\I can rest now, knowing that all will be made right by\your hands.<PAGE>\Farewell, my friend.
+FLD_KMES2_023,<NAME_FRO>: Cyrus, wait!\I...<PAGE>\I...!
+FLD_KMES2_024,Cyrus: The Queen...\Look after Queen Leene.<PAGE>\Farewell, Glenn...my friend.
+FLD_KMES2_025,<NAME_FRO>: Cyrus!
+FLD_KMES2_026,<NAME_FRO>: Forgive me, Cyrus.
+FLD_KMES2_027,<NAME_FRO>: Hm?
+FLD_KMES2_028,<NAME_FRO>: The...the Masamune!?
+FLD_KMES2_029,<NAME_FRO>: It's pulsing with strength!
+FLD_KMES2_030,Heh...<PAGE>\What else?
+FLD_KMES2_031,Mune: All that emotional baggage was weighing\you down.<PAGE>\Masa: The Hero's strength is strength of will.<PAGE>\Mune: Can't very well save the world if you're\dwelling on the past!<PAGE>\Masa: Now you're truly strong!
+FLD_KMES2_032,<NAME_FRO>: True strength...
+FLD_KMES2_033,Mune: And now we can use all of our power, too!\Can't we, Masa?
+FLD_KMES2_034,Masa: You bet, Mune!
+FLD_KMES2_035,<NAME_FRO>: Ah!\The Masamune's true form!
+FLD_KMES2_036,<NAME_FRO>: I must go now, Cyrus.<PAGE>\But I go to follow in your footsteps,\and see done all that you had wished.
+FLD_KMES2_037,<NAME_FRO>: May my actions honor you!
+FLD_KMES2_038,<NAME_FRO>: Come! Let us be on our way.
+FLD_KMES2_039,There's an old structure to the north.\It's lain in ruin for centuries.
+FLD_KMES2_040,The grave of the heroic knight Sir Cyrus lies to\the north. He fell in battle defending our kingdom\from <NAME_MAG>.
+FLD_KMES2_041,Hm? You're thinking of visiting those ruins?\I'd stay away if I were you. They're quite dangerous,\what with all the structural damage underground.
+FLD_KMES2_042,The tale of Sir Cyrus the Hero and his loyal\friend Glenn is an old one. It's been four\hundred years since Sir Cyrus fought <NAME_MAG>.
+FLD_KMES2_043,They say ghosts lurk in the ruins to the north!
+FLD_KMES2_044,Another dull day...\Maybe I should go to Guardia's Millennial Fair.
+FLD_KMES2_045,Have you heard? Talk has it those ruins to the north\are haunted. Seems there's been ghost sightings!
+FLD_KMES2_046,Oh, how dreadful!
+FLD_KMES2_047,Spirits with lingering worldly attachments are drawn\to those sorts of places.
+FLD_KMES2_048,It does get a bit boring when the world is\too peaceful, wouldn't you agree?
+FLD_KMES2_049,The anguish of tormented spirits forms an almost\tangible cloud around the ruins to the north.
+FLD_KMES2_050,Sir Cyrus, the patron of our town, rests in a\grave to the north.
+FLD_KMES2_051,Toma's off in search of the Rainbow Shell, or\so he said before he left.
+FLD_KMES2_052,The grave of the great explorer Toma is on the\western cape. Even he never managed to find the\treasure known as the Rainbow Shell.
+FLD_KMES2_053,10 G for the night.\Will you be staying?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_054,You don't seem to have enough money.
+FLD_KMES2_055,Welcome!
+FLD_KMES2_056,Not a single sale yet!\And I came all the way from Porre.<PAGE>\Please, won't you buy something?
+FLD_KMES2_057,All the young 'uns are off at that Millennial Fair.\Kids these days...they're just gluttons for fun.
+FLD_KMES2_058,About ten years ago, a beast was seen dragging\something into the northern ruins. There was\talk it may have been some sort of treasure,\but no one knows for sure.
+FLD_KMES2_059,There's something eerie about those ruins to the north.
+FLD_KMES2_060,Sir Cyrus, a knight of Guardia, rests in a\grave to the north.
+FLD_KMES2_061,Sir Cyrus's grave is just north of town.\You ought to go and pay your respects sometime.
+FLD_KMES2_062,Have you heard?\About the ghost, I mean.\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_063,Aw, I wanted to be the first to tell you!\Oh well.
+FLD_KMES2_064,They say a ghostly knight haunts the northern ruins!<PAGE>\Scary, eh?\Sends chills down my spine just to think of it!
+FLD_KMES2_065,Have you heard the tale of Sir Cyrus and his\loyal friend?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_066,Well, they say Sir Cyrus's best friend was a man\named Glenn.<PAGE>\Sir Cyrus, of course, was killed by <NAME_MAG>.\But this Glenn, he wasn't about to let that go\unpunished. He took up a legendary blade and\went straight off to avenge his friend.<PAGE>\Ah—true friendship!
+FLD_KMES2_067,Oh, Toma...\Would that you'd stay here but a little longer!
+FLD_KMES2_068,Where must Toma's travels have taken him now?
+FLD_KMES2_069,Bring me another mug!
+FLD_KMES2_070,Barkeep: Sir, I think you've had quite enough already.
+FLD_KMES2_071,Who're you to tell me when I've had enough?\You're worse than the wife! What's wrong with a\carpenter having a few pints in the afternoon, eh?
+FLD_KMES2_072,Ah! So smooth and light upon the tongue...\I could drink this all day!
+FLD_KMES2_073,Hm? You want to borrow my tools?<PAGE>\Well...sure, why not? Be my guest!\I'm a little busy, as you can see, so you'll\need to go and get them from my wife.
+FLD_KMES2_074,Huh? When do I work if I'm in here doing this\all day? That's none of your concern!
+FLD_KMES2_075,When I grow up, I'll be a carpenter just like my dad!
+FLD_KMES2_076,All my husband does is sit at that tavern all day,\nursing drinks. Well, just wait till he comes home!\He'll be nursing a sore jaw then!
+FLD_KMES2_077,What? His tools?\Oh, hold on, they're right here.
+FLD_KMES2_078,Careful with those tools!
+FLD_KMES2_079,Robbed of my carpentry tools...\How am I to work without my tools?
+FLD_KMES2_080,Are those...are those carpentry tools you're carrying?<PAGE>\Might you be willing to lend them to me for a while?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_081,My thanks, friend.\Now I can finally get to work again!
+FLD_KMES2_082,*sigh*\Oh, well...
+FLD_KMES2_083,You've my thanks for lending me these tools.\'Twas most gracious of you. Now I can finally\get back to work!<PAGE>\All right! What say we start with the ruins up north?
+FLD_KMES2_084,On your feet, you lazy do-naughts!<PAGE>\Whatever you say, Master!
+FLD_KMES2_085,You want the northern ruins repaired?\2000 G ought to cover the cost.\<S10><S10><C1>Pay.</C1>\<S10><S10><C2>Don't pay.</C2>
+FLD_KMES2_086,Beg pardons, friend. Labor and lumber don't\come for free.
+FLD_KMES2_087,We can't repair monster-infested places.\Let us know when you've cleared a floor of beasties.\We'll handle the rest.
+FLD_KMES2_088,There's nowhere left that we can repair.
+FLD_KMES2_089,We've done all we can.
+FLD_KMES2_090,We're only carpenter's apprentices.
+FLD_KMES2_091,Our master's at the tavern.
+FLD_KMES2_092,Toma: Ah, well met, <NAME_PT1>!\I've finally stumbled upon a hint as to the\whereabouts of the Rainbow Shell.<PAGE>\Still, I can't shake the feeling that things will go sour\this time. I fear my luck may have finally run out.\Say, would you mind holding on to this for me?
+FLD_KMES2_093,Toma: Should the worst befall me, it would mean\a lot to me if you'd pour that over my headstone.<PAGE>\A touch morbid, I know, but...I beg you.
+FLD_KMES2_094,<CT>Here Lies the Great Explorer\Toma Levine\Sixth of Thirdmoon, 634
+FLD_KMES2_095,Toma: <NAME_PT1>! It's been many a day.<PAGE>\I located the Rainbow Shell, as it were.
+FLD_KMES2_096,Toma: To the northwest of this cape is a large\island called the Giant's Claw. The Shell is there.
+FLD_KMES2_097,Toma: But beware! There are droves of monsters\afoot there.
+FLD_KMES2_098,Toma: Well, then, I believe this is farewell.
+FLD_KMES2_099,Toma: Ah... There truly is no drink so fine as\one shared in the company of friends like you.<PAGE>\All the best to you!
+FLD_KMES2_100,Toma: So, <NAME_PT1>, you beat me to the\Rainbow Shell?<PAGE>\No, I'm not upset. It's for the best, really.\No doubt I would only have ended up in the belly\of that beast.<PAGE>\All right. I suppose it's time I began searching\for the fabled Sun Stone, then!
+FLD_KMES2_101,Toma XIII: Do you know of the legendary Sun Stone?<PAGE>\I discovered an ancient scroll that spoke of a\fearsome weapon that could be made by combining\a shard of the Stone with one of the Rainbow\Shell that the original Toma once sought.
+FLD_KMES2_102,Fiona: My husband Marco hasn't returned from the war.<PAGE>\But we planted and tended these woods together,\so I mean to do my best to protect them until the\day he returns.
+FLD_KMES2_103,Fiona: Much of this forest was destroyed in the\war against <NAME_MAG>. I toil endlessly to restore\it by replanting trees, but they all of them wither\and die.
+FLD_KMES2_104,Fiona: Anything I plant dies before it even has a\chance to grow. It's the work of monsters lurking\out in that desert somewhere.
+FLD_KMES2_105,Fiona: This young tree is one that has been cultivated\throughout the ages, mysteriously resilient, that could\surely restore this desert to a verdant land.<PAGE>\But I daren't plant so small a sapling out there now.\Not with all the monsters nesting in that cave.
+FLD_KMES2_106,Fiona: My husband Marco is finally home from the war!<PAGE>\Oh, I'm so relieved!
+FLD_KMES2_107,Marco: Worry not, my love.\We won't be parted again.
+FLD_KMES2_108,Marco: The monsters in the desert cave fear water.\They seem vulnerable to it. But the greatest of\them—water or no, I could not hope to slay that\beast on my own.
+FLD_KMES2_109,Marco: You vanquished all the monsters?\However can we thank you?
+FLD_KMES2_110,Marco: The monsters are defeated.\But our long battle to revive the\forest has only just begun.
+FLD_KMES2_111,Fiona: Thank you for dealing with those foul creatures.\Now I can set to work replanting again.<PAGE>\Alas, I fear it will take ages to plant enough trees to\reforest this land.<PAGE>\Ah, if only there were someone who could toil for\centuries on end! Then these wastes could truly\be made green again.
+FLD_KMES2_112,<NAME_ROB>: What do you think?<PAGE>\I could remain here and assist Madam Fiona, and\you could come to retrieve me here once my work\was complete.<PAGE>\Is that all right?\May I stay behind and help?\<S10><S10><C1>All right.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_113,Fiona: With <NAME_ROB>'s help, my dream may well\come true. How can I ever thank you?
+FLD_KMES2_114,This is Fiona's Shrine. Here we give thanks to Fiona\and <NAME_ROB> for reviving the forest scorched in the\war against <NAME_MAG> four hundred years ago.
+FLD_KMES2_115,The remains of the venerable <NAME_ROB> are\enshrined in the inner sanctum.
+FLD_KMES2_116,<NAME_ROB>: Systems reactivated.\Wh-where am I?
+FLD_KMES2_117,<NAME_ROB>: Oh...<PAGE>\<NAME_PT1>, how nice to finally see you again!\Only a few moments may have passed for you,\but I have been waiting for four hundred years.<PAGE>\However, my efforts were worthwhile.\The forest is restored.<PAGE>\Now, shall we celebrate our four hundred-year\reunion?
+FLD_KMES2_118,<NAME_MAR>: What was that?
+FLD_KMES2_119,<NAME_LUC>: A tremor?
+FLD_KMES2_120,<NAME_ROB>: A sudden earthquake, perhaps?
+FLD_KMES2_121,<NAME_FRO>: Why does the ground tremble?
+FLD_KMES2_122,<NAME_AYL>: Ground shake!
+FLD_KMES2_123,<NAME_MAG>: ...?
+FLD_KMES2_124,<NAME_MAR>: So that's the monster that killed all\the trees!
+FLD_KMES2_125,<NAME_LUC>: That must be the monster responsible\for turning this place into a desert.
+FLD_KMES2_126,<NAME_ROB>: The desertification here is likely\the result of that monster's presence.
+FLD_KMES2_127,<NAME_FRO>: So, that fell beast is what changed soil to\sand!
+FLD_KMES2_128,<NAME_AYL>: He make forest die!
+FLD_KMES2_129,<NAME_MAG>: Melphyx...\So he's the one draining the life from this land.
+FLD_KMES2_130,<NAME_MAR>: But if it can move through the earth,\it could come up...anywhere!
+FLD_KMES2_131,<NAME_LUC>: It will be hard defeating a monster that\travels underground.
+FLD_KMES2_132,<NAME_ROB>: But, engaging monsters capable of moving\through the earth is against all logical protocols!
+FLD_KMES2_133,<NAME_FRO>: We must fight a foe that moves beneath\the earth? This will be no easy task!
+FLD_KMES2_134,<NAME_AYL>: Bone, move under sand!\Hard see!
+FLD_KMES2_135,<NAME_MAG>: Plaguesome creature...
+FLD_KMES2_136,<NAME_MAR>: That should put a stop to the trees dying!\Fiona will be happy.
+FLD_KMES2_137,<NAME_LUC>: Well, we've cleared out the source of\the desert's spread. We should go tell Fiona.
+FLD_KMES2_138,<NAME_ROB>: We have neutralized the source of the\desertification. We should inform Madam Fiona.
+FLD_KMES2_139,<NAME_FRO>: It is done. Let us tell Fiona.
+FLD_KMES2_140,<NAME_AYL>: Bad bone smash.\Fiona, happy!
+FLD_KMES2_141,<NAME_MAG>: Hmph.
+FLD_KMES2_142,My hats are woven from twigs rich with the\mystical energies of the forest.
+FLD_KMES2_143,We are made immortal!\We shall live forever with Lavos, who\feasts upon this planet from within.
+FLD_KMES2_144,Now he rests, and gathers strength. But in a mere\14,000 years, he will emerge to rain destruction\upon the earth and crown himself its King!
+FLD_KMES2_145,Now he rests, and gathers strength. But in a mere\1400 years, he will emerge to rain destruction upon\the earth and crown himself its King!
+FLD_KMES2_146,Now he rests, and gathers strength. But in a mere\999 years, he will emerge to rain destruction upon\the earth and crown himself its King!
+FLD_KMES2_147,Queen: Behold! The almighty Lavos reigns!
+FLD_KMES2_148,The Black Omen is the path which leads to Lavos.\It is the conduit through which our limitless\power flows.<PAGE>\As long as the almighty Lavos reigns, your\dreams are all for naught!
+FLD_KMES2_149,Sacrifice yourself to Lavos, and fulfill the\only purpose left to you! Mwa ha ha ha!
+FLD_KMES2_150,Queen: Fools!\Have you not learned your lesson?
+FLD_KMES2_151,Return to the <NAME_SIL>?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES2_152,Queen: You maggots...<PAGE>\I am the Queen who shall rule for all eternity at\Lavos's side. You will not stand in my way!
+FLD_KMES2_153,<NAME_MAG>: You are deceived.\A pitiable plight...\One deserving of mercy, at least.
+FLD_KMES2_154,<NAME_MAG>: I will put an end to all of this!
+FLD_KMES2_155,Indulge in such arrogance in the next life!
+FLD_KMES2_156,Queen: Mwa ha ha...<PAGE>\At last, Lavos stirs!<PAGE>\Before him, you are as grist before the wheel.\But, I—I shall attain immortality!
+FLD_KMES2_157,Queen: Accursed prophet! Do not think I have\forgotten your transgression at the Ocean Palace.
+FLD_KMES2_158,You shall pay for it now with your life!
+FLD_KMES2_159,Queen: How dare you vermin hound my steps?
+FLD_KMES2_160,Oh, almighty Lavos! Lend me your power!
+FLD_KMES2_161,<NAME_MAG>: Fool. No thing, no life, can last forever.
+FLD_KMES2_162,Pitiful creatures...\All of your struggling is for nothing.\The almighty Lavos has already drained\the life force from this planet.
+FLD_KMES2_163,<CT>\It is firmly sealed.
+FLD_KMES2_164,Ah, such fine weather!
+FLD_KMES2_165,How the Black Omen shines in the sun!<PAGE>\Tomorrow should be a beautiful day as well.
+FLD_KMES2_166,
+FLD_KMES2_167,
+FLD_KMES2_168,
+FLD_KMES2_169,
+FLD_KMES2_170,
+FLD_KMES2_171,
+FLD_KMES2_172,
+FLD_KMES2_173,
+FLD_KMES2_174,
+FLD_KMES2_175,
+FLD_KMES2_176,
+FLD_KMES2_177,
+FLD_KMES2_178,
+FLD_KMES2_179,
+FLD_KMES2_180,
+FLD_KMES2_181,
+FLD_KMES2_182,
+FLD_KMES2_183,
+FLD_KMES2_184,
+FLD_KMES2_185,
+FLD_KMES2_186,
+FLD_KMES2_187,
+FLD_KMES2_188,
+FLD_KMES2_189,
+FLD_KMES2_190,
+FLD_KMES2_191,
+FLD_KMES2_192,
+FLD_KMES2_193,
+FLD_KMES2_194,
+FLD_KMES2_195,
+FLD_KMES2_196,
+FLD_KMES2_197,
+FLD_KMES2_198,
+FLD_KMES2_199,
+FLD_KMES2_200,
+FLD_KMES2_201,
+FLD_KMES2_202,
+FLD_KMES2_203,
+FLD_KMES2_204,
+FLD_KMES2_205,
+FLD_KMES2_206,
+FLD_KMES2_207,
+FLD_KMES2_208,
+FLD_KMES2_209,
+FLD_KMES2_210,
+FLD_KMES2_211,
+FLD_KMES2_212,
+FLD_KMES2_213,
+FLD_KMES2_214,
+FLD_KMES2_215,
+FLD_KMES2_216,
+FLD_KMES2_217,
+FLD_KMES2_218,
+FLD_KMES2_219,
+FLD_KMES2_220,
+FLD_KMES2_221,
+FLD_KMES2_222,
+FLD_KMES2_223,
+FLD_KMES2_224,
+FLD_KMES2_225,
+FLD_KMES2_226,
+FLD_KMES2_227,
+FLD_KMES2_228,
+FLD_KMES2_229,
+FLD_KMES2_230,
+FLD_KMES2_231,
+FLD_KMES2_232,
+FLD_KMES2_233,
+FLD_KMES2_234,
+FLD_KMES2_235,
+FLD_KMES2_236,
+FLD_KMES2_237,
+FLD_KMES2_238,
+FLD_KMES2_239,
+FLD_KMES2_240,
+FLD_KMES2_241,
+FLD_KMES2_242,
+FLD_KMES2_243,
+FLD_KMES2_244,
+FLD_KMES2_245,
+FLD_KMES2_246,
+FLD_KMES2_247,
+FLD_KMES2_248,
+FLD_KMES2_249,
+FLD_KMES2_250,
+FLD_KMES2_251,
+FLD_KMES2_252,
+FLD_KMES2_253,
+FLD_KMES2_254,
+FLD_KMES2_255,

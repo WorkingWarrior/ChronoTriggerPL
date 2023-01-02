@@ -1,0 +1,256 @@
+﻿FLD_CMES1_000,Hold it right there!
+FLD_CMES1_001,Robots: Oh!
+FLD_CMES1_002,Robots: Bro!
+FLD_CMES1_003,Bro: Thanks for the intro, boys!
+FLD_CMES1_004,Bro: You lowlifes can call me Johnny.\I'm the leader of this pack.<PAGE>\Now listen up. The ruined highway up ahead's the only\road you've got. You wanna reach the other side?\Then you're gonna hafta ride—in a race against me,\that is!
+FLD_CMES1_005,Johnny: I'll let you use that jetbike, 'cause that's\the kinda guy I am. Don't sweat it—and don't you\dare chicken out, babe!
+FLD_CMES1_006,Robot: Bro, Bro, he's the man!\If he can't do it, no one can!
+FLD_CMES1_007,Robot: Winning does that to Johnny's hair.
+FLD_CMES1_008,Robot: Bro, Bro, he's so fast!\You came in dead last!
+FLD_CMES1_009,Robot: Give it up! Go home!
+FLD_CMES1_010,Robot: Bro, Bro, he's so fast!\He came in...dead last?
+FLD_CMES1_011,Robot: Hey, you're not bad!
+FLD_CMES1_012,Johnny: So...\Do you shiny axels know how to ride?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_013,Johnny: Need some pointers?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_014,Johnny: All right, listen up and let Johnny tell you\how it's done!<PAGE>\The gas is on auto, so there's only one speed—fast!\To steer, just press the up and down directional buttons.<PAGE>\Tap the <BTN_DASH> button for a turbo boost.\I'll give you three of them. The "B" icons show how many\you've got left.<PAGE>\Heads up, though!\After you use one, you can't use another\until the gauge above the icons refills.<PAGE>\You can check your position from the\finish line on the screen.\Now show me what you've got, babe!
+FLD_CMES1_015,Johnny: You beat me? I don't get it!\Well, you can come challenge me again anytime.\We'll ride the wind, babe!
+FLD_CMES1_016,Johnny: My granny rides faster than that!\Hop on again, babe—if you think you can handle it.
+FLD_CMES1_017,Johnny: Hey, where's that spiky-headed bro?\No <NAME_CRO>, no race. I only ride with him.
+FLD_CMES1_018,Johnny: Ha! What a joke! If that's the best you can do,\you can walk your way across the ruins! Better watch\out for all those monsters, though...<PAGE>\Ride again if you think you can handle it, chump!
+FLD_CMES1_019,Johnny: Hey! Looks like you got your hands on\something spiffy! That baby can record your\hottest scores. Ask Rx-xR for the lowdown.
+FLD_CMES1_020,Rx-xR: Greetings, racing life forms!\I am Rx-xR, the Record Keeper.\I'll record your 3 highest scores.<PAGE>\There are two ways you can race Johnny.\Which would you prefer?
+FLD_CMES1_021,Rx-xR: Impressive! That's a new high score!\You've got some skills, don't you?
+FLD_CMES1_022,1st<S2><S10><NUMBER> pts.\2nd<S10><NUMBER> pts.\3rd<S1><S10><NUMBER> pts.
+FLD_CMES1_023,Rx-xR: Unbelievable! You broke the 1500-point barrier!\I've only got one of these, but it's all yours!
+FLD_CMES1_024,<CT>\Obtained Strength Capsule!
+FLD_CMES1_025,Rx-xR: Amazing! You were burning up the road!\Take this!
+FLD_CMES1_026,<CT>\Obtained Hi-Potion!
+FLD_CMES1_027,<CT>\Obtained Ether!
+FLD_CMES1_028,<CT>\Obtained Mid-Ether!
+FLD_CMES1_029,Rx-xR: Lucky 777! You don't see that every day!\You deserve a really big bonus for that!<PAGE><CT>\\Obtained 10 Mid-Ethers!
+FLD_CMES1_030,Rx-xR: Jumping anaconda! You broke the 2000-point\mark!<PAGE>\Take these—and don't use 'em all in one place!
+FLD_CMES1_031,<CT>\Obtained 5 Ethers!
+FLD_CMES1_032,Rx-xR: Beautiful! Over 1300 points!\Let me slap some of these on ya!<PAGE><CT>\\Obtained 5 Mid-Potions.
+FLD_CMES1_033,<NAME_MAR>: What's this thing?
+FLD_CMES1_034,<NAME_LUC>: It's in bad shape...but it looks like a\humanoid robot! Incredible!
+FLD_CMES1_035,<NAME_LUC>: Hmm...\I think I can fix it.
+FLD_CMES1_036,<NAME_MAR>: What!? Fix it?\What if it attacks us like the other ones?
+FLD_CMES1_037,<NAME_LUC>: I'll make sure it won't.\Robots don't attack of their own free will, you know.
+FLD_CMES1_038,They only do it because humans make them that way.
+FLD_CMES1_039,<NAME_MAR>: <NAME_LUC>... You really feel for them, don't you?
+FLD_CMES1_040,<NAME_LUC>: I'd better get to work.
+FLD_CMES1_041,<NAME_LUC>: All right, that should do it!<PAGE>\I'm going to give it some juice!
+FLD_CMES1_042,Robot: ...
+FLD_CMES1_043,<NAME_MAR>: Good morning!
+FLD_CMES1_044,Robot: G-good...<PAGE>\Good morning, mistress.\What is your command?
+FLD_CMES1_045,<NAME_MAR>: I'm not your mistress, I'm <NAME_MAR>!
+FLD_CMES1_046,This is <NAME_CRO>...
+FLD_CMES1_047,...and that's <NAME_LUC>, the one who fixed you!
+FLD_CMES1_048,Robot: Understood.\Madam <NAME_LUC> restored my circuits.
+FLD_CMES1_049,<NAME_LUC>: Just "<NAME_LUC>" will do.
+FLD_CMES1_050,Robot: That manner of address could potentially cause\offense. I am incapable of offensive speech.\
+FLD_CMES1_051,<NAME_LUC>: Well, some of us don't like it when\people are so formal all the time.\Isn't that right, <NAME_MAR>?
+FLD_CMES1_052,<NAME_MAR>: Hee hee!
+FLD_CMES1_053,Robot: Understood, <NAME_LUC>.
+FLD_CMES1_054,<NAME_LUC>: All right, so what's your name?
+FLD_CMES1_055,Robot: Name? Perhaps you are referring to my\serial number. My serial number is R-66Y.
+FLD_CMES1_056,<NAME_LUC>: R-66Y? Cool!
+FLD_CMES1_057,<NAME_MAR>: Cool? What are you talking about?\That won't do at all!
+FLD_CMES1_058,<NAME_MAR>: Come on, <NAME_CRO>!\Let's give him a better name!
+FLD_CMES1_059,<NAME_MAR>: <NAME_ROB>...\Yes, <NAME_ROB>...that's perfect!
+FLD_CMES1_060,<NAME_MAR>: Your new name is <NAME_ROB>, okay?
+FLD_CMES1_061,Robot: My name is...<NAME_ROB>.\Data storage complete.
+FLD_CMES1_062,<NAME_LUC>: Hey <NAME_ROB>, there's something I was\hoping you could...
+FLD_CMES1_063,<NAME_ROB>: ...<PAGE>\What...happened here?
+FLD_CMES1_064,<NAME_ROB>: This dome contained many humans and\others like me.
+FLD_CMES1_065,<NAME_LUC>: Oh dear. This is kind of hard to say, but\I think something awful happened while you were out.\I...I don't think anyone else is left.
+FLD_CMES1_066,<NAME_ROB>: ...<PAGE>\I...see.
+FLD_CMES1_067,<NAME_ROB>: What about yourselves?
+FLD_CMES1_068,<NAME_LUC>: We came through a Gate—a, uh, time\warp—from the year 1000.
+FLD_CMES1_069,<NAME_MAR>: We learned there was a Gate here when\we went to Arris Dome.
+FLD_CMES1_070,<NAME_LUC>: And then we found you when we came\looking for the Gate!
+FLD_CMES1_071,<NAME_MAR>: But the door to the inner chamber is\sealed shut, so it looks like we're out of luck.
+FLD_CMES1_072,<NAME_ROB>: The dome's power has been shut off\completely.
+FLD_CMES1_073,<NAME_ROB>: The factory to the north contains an\emergency power generator for this dome.\I can bypass security to activate it.\Shall we go there?
+FLD_CMES1_074,<NAME_MAR>: You'd do that for us?
+FLD_CMES1_075,<NAME_ROB>: You repaired me.\Now it is my turn to be of assistance.<PAGE>\However, the generator will produce power for only\a short time. Someone must remain here to open the\door as soon as power is restored to the dome.
+FLD_CMES1_076,<NAME_LUC>: <NAME_MAR> or I can stay.
+FLD_CMES1_077,Who will stay behind?\<S10><S10><C1><NAME_MAR>.</C1>\<S10><S10><C2><NAME_LUC>.</C2>
+FLD_CMES1_078,<NAME_MAR>: Okay. Be careful, <NAME_CRO>!
+FLD_CMES1_079,<NAME_LUC>: Right. I'll handle things here!
+FLD_CMES1_080,<NAME_MAR>: Finally! You can't imagine how boring\it's been here. Can I take <NAME_LUC>'s place?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_081,<NAME_LUC>: Guess you need my genius after all,\huh?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_082,<NAME_MAR>: Okay... I'll wait here.
+FLD_CMES1_083,<NAME_LUC>: Oh, all right...
+FLD_CMES1_084,<NAME_MAR>: The door won't budge.
+FLD_CMES1_085,<NAME_ROB>: C-can you...fix me?
+FLD_CMES1_086,<NAME_LUC>: Shh, don't try to talk.
+FLD_CMES1_087,<NAME_ROB>: You are trying to...change the world?
+FLD_CMES1_088,<NAME_LUC>: I don't know how far we'll get,\but that's the plan.
+FLD_CMES1_089,Anyway, <NAME_ROB>, what do you want to do after\I finish repairing you?
+FLD_CMES1_090,<NAME_ROB>: What do I...want to do?
+FLD_CMES1_091,<NAME_LUC>: Yeah. I mean, you were stuck here all this\time. There must be a lot of things you want to do,\right?
+FLD_CMES1_092,<NAME_ROB>: No one has ever asked me that before,\<NAME_LUC>.
+FLD_CMES1_093,<NAME_ROB>: Good morning!
+FLD_CMES1_094,<NAME_MAR>: <NAME_ROB>!\Thank goodness, you're all right!
+FLD_CMES1_095,<NAME_MAR>: <NAME_LUC>, you're incredible!
+FLD_CMES1_096,<NAME_LUC>: Well, let's hope I never have to do that\again!
+FLD_CMES1_097,<NAME_ROB>: <NAME_LUC>, I have arrived at an answer\to your question. I want to go with you.
+FLD_CMES1_098,<NAME_MAR>: Really? You mean it?
+FLD_CMES1_099,<NAME_ROB>: There is nothing left for me here.\I want to help you.<PAGE>\Together, we might be able to give the life on this\planet a chance.
+FLD_CMES1_100,<NAME_LUC>: Then let's go!\The Gate's right through there!
+FLD_CMES1_101,<NAME_LUC>: Here we go!
+FLD_CMES1_102,Rest in the Enertron?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_103,<CT>\HP and MP restored!
+FLD_CMES1_104,<CT>\...But you're still as hungry as before.
+FLD_CMES1_105,Rx-xR: Do you want to change the race mode?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES1_106,Rx-xR: Well, shut me down!\You scored over 2300 points!\You're amazing! Incredible! Unbelievable!\This calls for an unbelievably great prize!
+FLD_CMES1_107,<CT>\Obtained 5 Hi-Ethers!
+FLD_CMES1_108,Which do you prefer?\<BTN_L>/<BTN_R> spin camera in Mode 2.\<C1>Mode 1: Turbo Boosts available.</C1>\<C2>Mode 2: No Turbo Boosts.</C2>
+FLD_CMES1_109,<BTN_L>/<BTN_R> spin camera in Mode 2.\<C1>Mode 1: Turbo Boosts available.</C1>\<C2>Mode 2: No Turbo Boosts.</C2>
+FLD_CMES1_110,
+FLD_CMES1_111,
+FLD_CMES1_112,
+FLD_CMES1_113,
+FLD_CMES1_114,
+FLD_CMES1_115,
+FLD_CMES1_116,
+FLD_CMES1_117,
+FLD_CMES1_118,
+FLD_CMES1_119,
+FLD_CMES1_120,
+FLD_CMES1_121,
+FLD_CMES1_122,
+FLD_CMES1_123,
+FLD_CMES1_124,
+FLD_CMES1_125,
+FLD_CMES1_126,
+FLD_CMES1_127,
+FLD_CMES1_128,
+FLD_CMES1_129,
+FLD_CMES1_130,
+FLD_CMES1_131,
+FLD_CMES1_132,
+FLD_CMES1_133,
+FLD_CMES1_134,
+FLD_CMES1_135,
+FLD_CMES1_136,
+FLD_CMES1_137,
+FLD_CMES1_138,
+FLD_CMES1_139,
+FLD_CMES1_140,
+FLD_CMES1_141,
+FLD_CMES1_142,
+FLD_CMES1_143,
+FLD_CMES1_144,
+FLD_CMES1_145,
+FLD_CMES1_146,
+FLD_CMES1_147,
+FLD_CMES1_148,
+FLD_CMES1_149,
+FLD_CMES1_150,
+FLD_CMES1_151,
+FLD_CMES1_152,
+FLD_CMES1_153,
+FLD_CMES1_154,
+FLD_CMES1_155,
+FLD_CMES1_156,
+FLD_CMES1_157,
+FLD_CMES1_158,
+FLD_CMES1_159,
+FLD_CMES1_160,
+FLD_CMES1_161,
+FLD_CMES1_162,
+FLD_CMES1_163,
+FLD_CMES1_164,
+FLD_CMES1_165,
+FLD_CMES1_166,
+FLD_CMES1_167,
+FLD_CMES1_168,
+FLD_CMES1_169,
+FLD_CMES1_170,
+FLD_CMES1_171,
+FLD_CMES1_172,
+FLD_CMES1_173,
+FLD_CMES1_174,
+FLD_CMES1_175,
+FLD_CMES1_176,
+FLD_CMES1_177,
+FLD_CMES1_178,
+FLD_CMES1_179,
+FLD_CMES1_180,
+FLD_CMES1_181,
+FLD_CMES1_182,
+FLD_CMES1_183,
+FLD_CMES1_184,
+FLD_CMES1_185,
+FLD_CMES1_186,
+FLD_CMES1_187,
+FLD_CMES1_188,
+FLD_CMES1_189,
+FLD_CMES1_190,
+FLD_CMES1_191,
+FLD_CMES1_192,
+FLD_CMES1_193,
+FLD_CMES1_194,
+FLD_CMES1_195,
+FLD_CMES1_196,
+FLD_CMES1_197,
+FLD_CMES1_198,
+FLD_CMES1_199,
+FLD_CMES1_200,
+FLD_CMES1_201,
+FLD_CMES1_202,
+FLD_CMES1_203,
+FLD_CMES1_204,
+FLD_CMES1_205,
+FLD_CMES1_206,
+FLD_CMES1_207,
+FLD_CMES1_208,
+FLD_CMES1_209,
+FLD_CMES1_210,
+FLD_CMES1_211,
+FLD_CMES1_212,
+FLD_CMES1_213,
+FLD_CMES1_214,
+FLD_CMES1_215,
+FLD_CMES1_216,
+FLD_CMES1_217,
+FLD_CMES1_218,
+FLD_CMES1_219,
+FLD_CMES1_220,
+FLD_CMES1_221,
+FLD_CMES1_222,
+FLD_CMES1_223,
+FLD_CMES1_224,
+FLD_CMES1_225,
+FLD_CMES1_226,
+FLD_CMES1_227,
+FLD_CMES1_228,
+FLD_CMES1_229,
+FLD_CMES1_230,
+FLD_CMES1_231,
+FLD_CMES1_232,
+FLD_CMES1_233,
+FLD_CMES1_234,
+FLD_CMES1_235,
+FLD_CMES1_236,
+FLD_CMES1_237,
+FLD_CMES1_238,
+FLD_CMES1_239,
+FLD_CMES1_240,
+FLD_CMES1_241,
+FLD_CMES1_242,
+FLD_CMES1_243,
+FLD_CMES1_244,
+FLD_CMES1_245,
+FLD_CMES1_246,
+FLD_CMES1_247,
+FLD_CMES1_248,
+FLD_CMES1_249,
+FLD_CMES1_250,
+FLD_CMES1_251,
+FLD_CMES1_252,
+FLD_CMES1_253,
+FLD_CMES1_254,
+FLD_CMES1_255,

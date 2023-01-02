@@ -1,0 +1,256 @@
+FLD_MESK2_000,<CT>\Obtained <NAME_ITM>!
+FLD_MESK2_001,Old Man: With Lavos dead, the Gates will no\doubt soon be closed. Return to your age now,\or risk being lost to time's flow.
+FLD_MESK2_002,<NAME_MAR>: Let's go back in time and save <NAME_CRO>!
+FLD_MESK2_003,<NAME_MAR>: Aren't you worried about him?
+FLD_MESK2_004,<NAME_MAR>: Don't you—
+FLD_MESK2_005,<NAME_FRO>: I must return to the Middle Ages to\protect Queen Leene.
+FLD_MESK2_006,<NAME_AYL>: Kino wait for <NAME_AYL>.
+FLD_MESK2_007,<NAME_ROB>: It seems this is truly the last we will\see of each other.
+FLD_MESK2_008,<NAME_AYL>: <NAME_AYL> go home.\Bye! Be strong!
+FLD_MESK2_009,<NAME_FRO>: Farewell!
+FLD_MESK2_010,<NAME_ROB>: Goodbye.
+FLD_MESK2_011,<NAME_MAR>: How can you all be so heartless?<PAGE>\<NAME_LUC>: Death is a fate we can't escape,\<NAME_MAR>. Someday we'll all pass away.
+FLD_MESK2_012,Old Man: Wait!
+FLD_MESK2_013,Old Man: There's something—<PAGE>\Have they all left already?
+FLD_MESK2_014,Old Man: I forgot to give them this.\<WAIT>04</WAIT>...Oh well.
+FLD_MESK2_015,Old Man: They dropped this.\<WAIT>04</WAIT>...Oh well.
+FLD_MESK2_016,King: We've been searching high and low for you,\<NAME_CRO>. Where did you take my daughter?
+FLD_MESK2_017,<NAME_MAR>: Father!\Stop this!
+FLD_MESK2_018,<NAME_MAR>: Daddy, no!
+FLD_MESK2_019,<NAME_MAR>: <NAME_CRO> hasn't done a thing!
+FLD_MESK2_020,King: My daughter says <NAME_CRO> has done nothing.
+FLD_MESK2_021,King: What do you think of that, Chancellor?<PAGE>\Chancellor: If I may speak freely, Your Grace, I\think your daughter is quite clearly delusional.\<NAME_CRO>'s deeds have impacted the entire kingdom.
+FLD_MESK2_022,King: Would you agree, Pierre?<PAGE>\Pierre: Hardly, Your Grace. Young <NAME_CRO>'s actions\have impacted the whole kingdom.
+FLD_MESK2_023,<NAME_MAR>: The Chancellor, too?\What's the matter with you?
+FLD_MESK2_024,<NAME_MAR>: Pierre...you, too?\What are you saying?
+FLD_MESK2_025,<NAME_MAR>: Please, just listen to me!\There's a reason I've been gone!\You see, we had to—
+FLD_MESK2_026,King: Save the future?
+FLD_MESK2_027,<NAME_MAR>: What?
+FLD_MESK2_028,Doan: You saved the future, and taught us what it is\to have hope.
+FLD_MESK2_029,King Guardia XXI: You defeated <NAME_MAG>'s troops,\and restored peace to the realm in the year 600.
+FLD_MESK2_030,Kino: <NICK_CRO> beat reptites!
+FLD_MESK2_031,<NAME_MAR>: Wh-what's going on?\Why are you all here?
+FLD_MESK2_032,<NAME_MAR>: <NAME_LUC>!\You brought them here, didn't you?
+FLD_MESK2_033,King Guardia XXXIII: You undertook quite a daunting\mission. These past and future members of our line\told me all about it.
+FLD_MESK2_034,<NAME_MAR>: Members of our...line? You mean these\people are all my ancestors and descendants?
+FLD_MESK2_035,King: Here I was fussing about rules, when you were\off protecting our kingdom and the life of the entire\planet.
+FLD_MESK2_036,King: I believe a victory parade is in order.\Tonight we celebrate you, the hero who saved the\world!
+FLD_MESK2_037,Chancellor: But Your Grace, what victory?\Our kingdom has fought no battle!
+FLD_MESK2_038,King Guardia XXXIII: Do you have children, Chancellor?
+FLD_MESK2_039,Chancellor: Y-yes, Your Grace.<PAGE>\King Guardia XXXIII: Then you've reason to celebrate.\The victory is theirs. Your children, and theirs as\well, now live in a world with a brighter future.
+FLD_MESK2_040,Chancellor: Ow!
+FLD_MESK2_041,King Guardia XXI: Good, he's the real thing.
+FLD_MESK2_042,King Guardia XXXIII: Now Nadia, why don't you go\and enjoy the last night of the fair?
+FLD_MESK2_043,<NAME_MAR>: Father!\The townspeople are acting strangely.<PAGE>\King: Calm down, Nadia. Where have you been?\I see you've been hopping around dressed like\a human again.
+FLD_MESK2_044,<NAME_MAR>: Everybody keeps saying that!\What's that supposed to mean?
+FLD_MESK2_045,King: You know very well what it means. I don't know\what kind of game you're playing, but there's no\need for you to keep dressing that way.\It must be uncomfortable.
+FLD_MESK2_046,King: Come, you're just in time!\I was just about to take a look at this\400-year-old film of our ancestors' wedding.\We found it when we were cleaning up the treasury.
+FLD_MESK2_047,<NAME_MAR>: Huh?\Ribbit ribbit...
+FLD_MESK2_048,<NAME_LUC>: <NAME_MAR>?\Tell me you're not a—
+FLD_MESK2_049,<NAME_MAR>: Nooo!<WAIT>06</WAIT><AUTO_END>
+FLD_MESK2_050,
+FLD_MESK2_051,Come along with <NAME_CRO>, our Hero!
+FLD_MESK2_052,It's the final night of the Millennial Fair!
+FLD_MESK2_053,Come along with Princess Nadia, home safe at last!\May Guardia prosper for another thousand years!
+FLD_MESK2_054,<CT>\Let the Moonlight Parade begin!<WAIT>06</WAIT><AUTO_END>
+FLD_MESK2_055,This is fantastic!
+FLD_MESK2_056,Princess Nadia, you look beautiful!<WAIT>01</WAIT>\No, don't get me wrong, honey!\You look good, too!
+FLD_MESK2_057,Lara: What a gorgeous night...\Thank you, darling.
+FLD_MESK2_058,Lara: Honey, don't just be a sack of potatoes!\Dance with me!
+FLD_MESK2_059,Lara: Oh, <NAME_CRO>!\The King says you saved the future!<PAGE>\To think—my daughter's own best friend!\Wait till I tell my friends!
+FLD_MESK2_060,Taban: Ahh...\Nothing better than a toast under the stars!
+FLD_MESK2_061,Taban: <NAME_CRO>, have a sip!\You're the Hero today.
+FLD_MESK2_062,<NAME_CRO>'s Mother: Have you seen that boy of mine?\He was really looking forward to this fair!\Where do you suppose he is?
+FLD_MESK2_063,Mother: I can't believe it. They say you saved\the world. But still, I do wish you would spend\a little more time around the house.
+FLD_MESK2_064,It's terribly troublesome having no one around\to look after the pets.
+FLD_MESK2_065,Melchior: I don't suspect there will be much need\for weapons anymore. My days as a smith may be\at an end.<PAGE>\But looking up at that beautiful sky, it's hard to\be worried about something like that.
+FLD_MESK2_066,<NAME_LUC>: Well, everyone, this is it.
+FLD_MESK2_067,<NAME_FRO>: The time of parting is upon us at last.
+FLD_MESK2_068,<NAME_ROB>: The Gate is growing weak now that\Lavos is gone.
+FLD_MESK2_069,<NAME_LUC>: We've got to say our goodbyes before\the Gate closes for good.
+FLD_MESK2_070,<NAME_MAR>: You're all leaving?
+FLD_MESK2_071,<NAME_AYL>: <NICK_CRO> strong!\<NAME_MAR> strong, too!\<NAME_AYL> have fun!
+FLD_MESK2_072,<NAME_MAR>: You're my distant ancestor.\So you'd better have strong, healthy kids\or I'll be in trouble!<PAGE>\Kino: Heh heh!\No worry.\<NAME_AYL> MUCH energy!<PAGE>\<NAME_MAR>: Yeah, she does!
+FLD_MESK2_073,<NAME_MAR>: Wait... What did you mean by that?
+FLD_MESK2_074,<NAME_AYL>: Kino dumb!\<NAME_AYL> go now!
+FLD_MESK2_075,<NAME_FRO>: Exuberant folk. And to think,\we may all have descended from them!<PAGE>\Well, Your Majesty, Queen Leene awaits.\We, too, should take our leave.
+FLD_MESK2_076,<NAME_MAR>: <NAME_FRO>...
+FLD_MESK2_077,<NAME_FRO>: ...<PAGE>\I've always felt farewells were best kept brief.
+FLD_MESK2_078,<NAME_MAR>: You're right.\Who needs words?
+FLD_MESK2_079,<NAME_LUC>: Aww. You know it's a happy ending\when the Princess kisses the frog!
+FLD_MESK2_080,<NAME_MAR>: So...you're going to search for Schala?
+FLD_MESK2_081,
+FLD_MESK2_082,<NAME_ROB>: <NAME_LUC>, I will keep working hard\in the future!
+FLD_MESK2_083,<NAME_MAR>: What's wrong, <NAME_LUC>?\Aren't you going to say goodbye to <NAME_ROB>?
+FLD_MESK2_084,<NAME_ROB>: So, you realized.<PAGE>\<NAME_MAR>: Realized what?
+FLD_MESK2_085,<NAME_LUC>: ...<PAGE>\<NAME_ROB> was born in a bleak future.\When we defeated Lavos, we changed history.\The world will never be ruined now.<PAGE>\<NAME_ROB>...may not exist in the new future.
+FLD_MESK2_086,<NAME_ROB>: Ha ha. Do not be ridiculous.\The new future will certainly have a place for me.
+FLD_MESK2_087,<NAME_LUC>: Darn it, <NAME_ROB>!\Don't pretend you don't care when you're really sad!\It just makes things worse!
+FLD_MESK2_088,<NAME_ROB>: ...<PAGE>\You are the one who taught me to consider the\feelings of others in that manner, <NAME_LUC>.\I am grateful for that.
+FLD_MESK2_089,<NAME_MAR>: Don't cry, <NAME_LUC>.\I'm sure <NAME_ROB> will still be built in the new future!
+FLD_MESK2_090,<NAME_ROB>: Goodbye...
+FLD_MESK2_091,<NAME_ROB>: Caution!\Oil has occluded my vision sensors.\Sight diminished.
+FLD_MESK2_092,<NAME_MAR>: I guess this wraps things up.
+FLD_MESK2_093,Soldier: Oh! There you are, Princess.\His Grace is looking for you.
+FLD_MESK2_094,<NAME_MAR>: It's awfully easy to mess things up\traveling through time.
+FLD_MESK2_095,<NAME_LUC>: We should probably dismantle the\<NAME_SIL>, shouldn't we? We'd never be able\to see any of the others again, though.
+FLD_MESK2_096,Mother: You naughty thing, come back here!
+FLD_MESK2_097,Mother: See, <NAME_CRO>?\Pets run away when you don't feed them!
+FLD_MESK2_098,Mother: Hey, come back here!
+FLD_MESK2_099,<NAME_MAR>: Oh, no!\<NAME_CRO>, that Gate will never open again!
+FLD_MESK2_100,<NAME_LUC>: Well, it looks like we have no\choice but to go after them!
+FLD_MESK2_101,<NAME_MAR>: Go after them!?\But the Gate's already...
+FLD_MESK2_102,<NAME_MAR>: <NAME_LUC>, you don't mean—
+FLD_MESK2_103,<NAME_LUC>: We still have a time machine!
+FLD_MESK2_104,<CT>\Nya ha ha!
+FLD_MESK2_105,<NAME_LUC>: Do you remember that talk we had?
+FLD_MESK2_106,<NAME_MAR>: You mean about whether our lives\flash by before we die?
+FLD_MESK2_107,<NAME_LUC>: Yeah. I get the feeling that...entity is\finally at rest, too.<PAGE>\<NAME_MAR>: Yes, I feel it, too.
+FLD_MESK2_108,<NAME_LUC>: I thought Lavos opened the Gates.\But now that I think about it, I might have\been wrong.
+FLD_MESK2_109,<NAME_MAR>: What do you mean?
+FLD_MESK2_110,<NAME_LUC>: I think an even greater force\wanted us to experience all those events.
+FLD_MESK2_111,<NAME_MAR>: How did everyone get here?\I thought the Gate had been shut.
+FLD_MESK2_112,<NAME_LUC>: Heh heh.\I tinkered with the Telepod.
+FLD_MESK2_113,<NAME_MAR>: And made it into a time machine?
+FLD_MESK2_114,<NAME_MAR>: You're the man from the End of Time.<PAGE>\Gaspar: You left behind the Time Egg.\The Time Egg, you see, is...<PAGE>\Blah, blah, blah...\Blah, blah, blah...<AUTO_PAGE>\Blah, blah, blah...\Blah, blah, blah...<AUTO_PAGE>\Blah, blah, blah...\Blah, blah, blah...\<WAIT>06</WAIT>Do you understand?
+FLD_MESK2_115,<NAME_MAR>: So, in other words...we can get\<NAME_CRO> back?<PAGE>\Gaspar: Yes, it is possible.
+FLD_MESK2_116,<NAME_MAR>: So, that's why you're all here?
+FLD_MESK2_117,<NAME_MAR>: Then let's go get <NAME_CRO>!
+FLD_MESK2_118,<NAME_LUC>: Why don't you stay here with your dad?<PAGE>\<NAME_MAR>: But...<PAGE>\<NAME_LUC>: Don't worry!\I'll bring the big dummy back!
+FLD_MESK2_119,<NAME_LUC>: Trust me!
+FLD_MESK2_120,<NAME_MAR>: I wonder how everyone is doing.
+FLD_MESK2_121,<NAME_AYL>: Give Time Egg!<PAGE>\Gaspar: How many times must I ask you to calm down?\You won't be able to bring him back if you're in such a\rush.
+FLD_MESK2_122,<NAME_AYL>: Okay, understand.\Now hurry, give!
+FLD_MESK2_123,<NAME_ROB>: Oh, no! He is escaping!
+FLD_MESK2_124,<NAME_MAR>: Wait! What's going on?
+FLD_MESK2_125,That Time Egg of his can revive him!<PAGE>\<NAME_LUC>: Revive who?\You mean <NAME_CRO>?
+FLD_MESK2_126,Aye.
+FLD_MESK2_127,<NAME_MAR>: And by the way...who are you?
+FLD_MESK2_128,<NAME_MAR>: They're gone.<PAGE>\<NAME_LUC>: Could that have been...<NAME_FRO>?
+FLD_MESK2_129,<NAME_LUC>: He...<WAIT>02</WAIT>he's handsome!
+FLD_MESK2_130,<NAME_LUC>: Let's go after them!
+FLD_MESK2_131,<NAME_LUC>: Oh, <NAME_FRO>...\Why didn't you ever tell us you were a handsome dish?
+FLD_MESK2_132,King: I have a gift for you, Nadia,\to commemorate this day.
+FLD_MESK2_133,<NAME_MAR>: That's—<PAGE>\King: Nadia's Bell. A replacement for Leene's Bell,\which has rung for the last four hundred years. \Henceforth, Nadia's Bell will ring proudly instead.
+FLD_MESK2_134,<NAME_MAR>: It's beautiful!
+FLD_MESK2_135,King: Now, you can do the honors.
+FLD_MESK2_136,<NAME_MAR>: Urgh!
+FLD_MESK2_137,<NAME_MAR>: H-hey!\<NAME_CRO>, help me!
+FLD_MESK2_138,<NAME_MAR>: H-hey!\Help me!
+FLD_MESK2_139,Taban: Phew!\Made it just in time!\Shall I fire a few off?<WAIT>0c</WAIT><AUTO_PAGE>\King: No, Taban, not now.\Actually, I could really use your—<WAIT>08</WAIT><AUTO_END>
+FLD_MESK2_140,King: I'm happy, you know.\Now there's no reason for you to be running off\anymore.
+FLD_MESK2_141,<NAME_MAR>: Thanks for the gift.\But...<WAIT>02</WAIT>I have places to be!
+FLD_MESK2_142,King: This is Nadia's Bell.\It will ring out across the land.\Pretty, isn't it?
+FLD_MESK2_143,King: Nadia, could you and—\Where did everyone go?\Could...could someone please lend me a hand?
+FLD_MESK2_144,
+FLD_MESK2_145,
+FLD_MESK2_146,
+FLD_MESK2_147,
+FLD_MESK2_148,
+FLD_MESK2_149,
+FLD_MESK2_150,
+FLD_MESK2_151,
+FLD_MESK2_152,
+FLD_MESK2_153,
+FLD_MESK2_154,
+FLD_MESK2_155,
+FLD_MESK2_156,
+FLD_MESK2_157,
+FLD_MESK2_158,
+FLD_MESK2_159,
+FLD_MESK2_160,
+FLD_MESK2_161,
+FLD_MESK2_162,
+FLD_MESK2_163,
+FLD_MESK2_164,
+FLD_MESK2_165,
+FLD_MESK2_166,
+FLD_MESK2_167,
+FLD_MESK2_168,
+FLD_MESK2_169,
+FLD_MESK2_170,
+FLD_MESK2_171,
+FLD_MESK2_172,
+FLD_MESK2_173,
+FLD_MESK2_174,
+FLD_MESK2_175,
+FLD_MESK2_176,
+FLD_MESK2_177,
+FLD_MESK2_178,
+FLD_MESK2_179,
+FLD_MESK2_180,
+FLD_MESK2_181,
+FLD_MESK2_182,
+FLD_MESK2_183,
+FLD_MESK2_184,
+FLD_MESK2_185,
+FLD_MESK2_186,
+FLD_MESK2_187,
+FLD_MESK2_188,
+FLD_MESK2_189,
+FLD_MESK2_190,
+FLD_MESK2_191,
+FLD_MESK2_192,
+FLD_MESK2_193,
+FLD_MESK2_194,
+FLD_MESK2_195,
+FLD_MESK2_196,
+FLD_MESK2_197,
+FLD_MESK2_198,
+FLD_MESK2_199,
+FLD_MESK2_200,
+FLD_MESK2_201,
+FLD_MESK2_202,
+FLD_MESK2_203,
+FLD_MESK2_204,
+FLD_MESK2_205,
+FLD_MESK2_206,
+FLD_MESK2_207,
+FLD_MESK2_208,
+FLD_MESK2_209,
+FLD_MESK2_210,
+FLD_MESK2_211,
+FLD_MESK2_212,
+FLD_MESK2_213,
+FLD_MESK2_214,
+FLD_MESK2_215,
+FLD_MESK2_216,
+FLD_MESK2_217,
+FLD_MESK2_218,
+FLD_MESK2_219,
+FLD_MESK2_220,
+FLD_MESK2_221,
+FLD_MESK2_222,
+FLD_MESK2_223,
+FLD_MESK2_224,
+FLD_MESK2_225,
+FLD_MESK2_226,
+FLD_MESK2_227,
+FLD_MESK2_228,
+FLD_MESK2_229,
+FLD_MESK2_230,
+FLD_MESK2_231,
+FLD_MESK2_232,
+FLD_MESK2_233,
+FLD_MESK2_234,
+FLD_MESK2_235,
+FLD_MESK2_236,
+FLD_MESK2_237,
+FLD_MESK2_238,
+FLD_MESK2_239,
+FLD_MESK2_240,
+FLD_MESK2_241,
+FLD_MESK2_242,
+FLD_MESK2_243,
+FLD_MESK2_244,
+FLD_MESK2_245,
+FLD_MESK2_246,
+FLD_MESK2_247,
+FLD_MESK2_248,
+FLD_MESK2_249,
+FLD_MESK2_250,
+FLD_MESK2_251,
+FLD_MESK2_252,
+FLD_MESK2_253,
+FLD_MESK2_254,
+FLD_MESK2_255,

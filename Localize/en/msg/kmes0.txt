@@ -1,0 +1,256 @@
+FLD_KMES0_000,<CT>\Days remaining until execution: <NUMBER>\<WAIT>0a</WAIT><AUTO_END>
+FLD_KMES0_001,<CT>\Finally, the execution day has arrived...<WAIT>0a</WAIT><AUTO_END>
+FLD_KMES0_002,Chancellor: This man is a seditionist who meant\to overthrow our kingdom.
+FLD_KMES0_003,Chancellor: He has been found guilty by trial.\I trust him to your care.
+FLD_KMES0_004,Warden: So this is the monster who abducted\the Princess!
+FLD_KMES0_005,Chancellor: His execution is three days hence.\See that he is still here to attend it.
+FLD_KMES0_006,Warden: Yes, sir!
+FLD_KMES0_007,Warden: Execution?\I don't recall hearing anything about that.
+FLD_KMES0_008,Chancellor: No cause for concern, there's\only been a small delay in the paperwork.\Or do you mean to question me?
+FLD_KMES0_009,Warden: N-never, sir!
+FLD_KMES0_010,Warden: Guards!
+FLD_KMES0_011,Warden: Take the prisoner away!
+FLD_KMES0_012,What do you think you're doing?
+FLD_KMES0_013,A sympathizer from your trial brought that for you.\Enjoy it while you can.
+FLD_KMES0_014,<CT>\Obtained Ether!
+FLD_KMES0_015,Pipe down, you!
+FLD_KMES0_016,Oh, how many times do I have to tell that filthy...<PAGE>\If he won't quiet down, I'll quiet him down!\Open the door!
+FLD_KMES0_017,Heh!\That's what you get for not doing what you're told.
+FLD_KMES0_018,Where do you think you're going?
+FLD_KMES0_019,There he is!
+FLD_KMES0_020,So you're the one's gone and slipped his cell, eh?
+FLD_KMES0_021,<CT>\He is unconscious.
+FLD_KMES0_022,<CT>\Obtained Mid-Potion!
+FLD_KMES0_023,<CT>\...Actually, 5 of them!
+FLD_KMES0_024,<CT>\HP and MP restored!
+FLD_KMES0_025,I've come to escort you to the executioner's block.
+FLD_KMES0_026,Come along.
+FLD_KMES0_027,Your sentence will be dispensed by guillotine.
+FLD_KMES0_028,Do you have any last words?
+FLD_KMES0_029,<NAME_LUC>: <NAME_CRO>!\I came to rescue you!
+FLD_KMES0_030,Guard: What!?
+FLD_KMES0_031,<NAME_LUC>: Sorry, but you're sort of in the way.
+FLD_KMES0_032,<NAME_LUC>: Lights out, boys!
+FLD_KMES0_033,<NAME_LUC>: So, what do you think of my disposable\Zonker-38? Pretty cool, huh?
+FLD_KMES0_034,<NAME_LUC>: Well, we'd better not stick around too long.\Let's go!
+FLD_KMES0_035,Warden: S-somebody help!
+FLD_KMES0_036,They don't pay me enough for this!
+FLD_KMES0_037,<NAME_LUC>: Oh, looks like you didn't need my help\after all. Oh well.
+FLD_KMES0_038,<NAME_LUC>: This is what happens to fools who\stand in the way of the mighty <NAME_LUC>!<PAGE>\<CT>\Ha ha ha ha!
+FLD_KMES0_039,<NAME_LUC>: What was that?
+FLD_KMES0_040,Chancellor: Forward, Dragon Tank!\Crush those conspirators!
+FLD_KMES0_041,Chancellor: M-my Dragon Tank!\Fix it! Quickly!
+FLD_KMES0_042,Chancellor: Don't fool yourselves into thinking\you'll get away with this!
+FLD_KMES0_043,A classified document has been left lying on the floor.<PAGE>\Read it?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_044,<S10><S10><S10><S10>  Dragon Tank Design Specifications\\<S10><S8>Attention: Warden of the Guardia Castle Prisons<PAGE>\The head of the tank is equipped with the capacity\to repair damage done to the body—an ingenious\marvel of engineering.<PAGE>\The head has also been enhanced with a shield to\prevent damage by lightning and fire, leaving it\vulnerable only to attacks with weapons such as\swords and pistols.<PAGE>\In short, your tank should be effectively invincible,\provided no crazed lunatic gets the bright idea to\run up and try to hack away at its head with a sword.\<S10><S10><S10><S10><S10><S10><S10><S10><S10><S10>   Guardia Royal Arms Commission
+FLD_KMES0_045,H-help me, please!<PAGE>\Free him from the guillotine?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_046,Thank you. That was close!<PAGE>\I'm Fritz. My father runs the market in Truce.\Stop by if you're ever in the area!
+FLD_KMES0_047,I'm on my way to Guardia's Millennial Fair!
+FLD_KMES0_048,Thought I ought to see what all this Millennial Fair\fuss is about.
+FLD_KMES0_049,A fair, a fair! We're going to the fair!
+FLD_KMES0_050,I'm opening a stall at the fairgrounds.\Drop by if you get the chance!
+FLD_KMES0_051,Oh, I do love me a good fair!\Time to forget my troubles with a few mugs of mirth!
+FLD_KMES0_052,The Fiendlord's army laid waste to this bridge.\We are working to repair it, but until Sir Cyrus returns,\we must see to the kingdom's defense as well.
+FLD_KMES0_053,That damnable frog swam to the other side.
+FLD_KMES0_054,We've no more foodstuffs.
+FLD_KMES0_055,Now, if we can but put the Fiendlord's army to rout...
+FLD_KMES0_056,Commander: Our provisions are depleted.\Have the supplies still not arrived from the castle?\We'll starve at this rate.
+FLD_KMES0_057,We sent our order's finest knights to march on the\enemy in order to ensure the Hero's safe passage.
+FLD_KMES0_058,It appears our men and the Fiendlord's are locked in\battle upon the bridge. May we emerge victorious!
+FLD_KMES0_059,Could the Hero alone truly have the power to\defeat an army of fiends?
+FLD_KMES0_060,Would that our strength were enough to best the\Fiendlord's army. But alas, our only hope lies with\the Hero.
+FLD_KMES0_061,I'd thought those stories of the Hero who would\come bearing the Badge no more than bedtime tales.\But now he's come, and there's little to do but\trust in him.
+FLD_KMES0_062,Commander: The Fiendlord has sent in reinforcements.\It's far too dangerous to allow you through.
+FLD_KMES0_063,Commander: Lord <NAME_CRO>! What word?<PAGE>\Give him the food?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_064,Commander: Food! He's brought us food!<PAGE>\It was my brother?\I see. He's saved us all.
+FLD_KMES0_065,Commander: Lord <NAME_CRO>, if I should not return\alive...give my brother my thanks.
+FLD_KMES0_066,Commander: What's happened?
+FLD_KMES0_067,<NAME_MAG>'s troops have launched their attack!\Our defenses will not hold!
+FLD_KMES0_068,Commander: You are knights of Guardia!\Defend the honor of our order, and drive\the enemy back whence it came!
+FLD_KMES0_069,But, we are far outnumbered!
+FLD_KMES0_070,Commander: This is our last line of defense.\It must not break!
+FLD_KMES0_071,Very well, my lord!
+FLD_KMES0_072,Ugh...
+FLD_KMES0_073,The Hero reached the far bank, but our men\suffered heavy losses in the crossing.
+FLD_KMES0_074,It seems mere men haven't the strength to stop\these fiends.
+FLD_KMES0_075,Commander: As you can see, Lord <NAME_CRO>, it's all\my men can do to hold this line.<PAGE>\Might you lend your blade to our battle as well?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_076,Commander: You have my most profound gratitude.\The Fiendlord's troops are positioned just beyond\the bridge.<PAGE>\Take this with you.\May it keep you safe!
+FLD_KMES0_077,Commander: <NAME_MAG>'s army is a force to be\reckoned with. Please be on your guard.
+FLD_KMES0_078,Commander: I see...\But we, too, are knights of Guardia.\We shall hold this position to the last man!
+FLD_KMES0_079,Commander: Thanks to your aid, we were able to\defend the bridge. But unless we defeat <NAME_MAG>,\it is an empty victory.
+FLD_KMES0_080,We could not have regained the bridge without you.
+FLD_KMES0_081,Now that <NAME_MAG> no longer leads his troops,\they are not enemies in the eyes of Guardia.
+FLD_KMES0_082,When <NAME_MAG> left, his troops deserted.
+FLD_KMES0_083,<NAME_MAR>: Wait up, already!
+FLD_KMES0_084,<NAME_LUC>: He's pretty quick when it comes\to running away.
+FLD_KMES0_085,<NAME_ROB>: We have closed the distance.
+FLD_KMES0_086,Ozzie: Slay them all!
+FLD_KMES0_087,I'm Ozzie, one of Lord <NAME_MAG>'s three generals!\And to his enemies, I grant death!
+FLD_KMES0_088,Ozzie: Go, my children!\Take 'em to their graves!
+FLD_KMES0_089,Ozzie: Hrm...\Stronger 'n I thought.
+FLD_KMES0_090,Ozzie: Seems I misjudged you the first time.\But I won't do that twice!
+FLD_KMES0_091,Ozzie: Drat!
+FLD_KMES0_092,Ozzie: Th-that's it!\This time you're finished!\I mean it!
+FLD_KMES0_093,<NAME_MAR>: Isn't it about time you gave up?\Mess with <NAME_CRO>, and you'll be sorry!
+FLD_KMES0_094,<NAME_LUC>: Sore loser, aren't you?
+FLD_KMES0_095,<NAME_ROB>: You cannot win.\Surrender at once.
+FLD_KMES0_096,Ozzie: Go, Zombor!\Crush Lord <NAME_MAG>'s enemies!
+FLD_KMES0_097,Cyrus: Glenn...\I've decided to join the knighthood.
+FLD_KMES0_098,Glenn: I thought as much.\You'll be a fine knight, I'm sure of it.
+FLD_KMES0_099,Cyrus: Won't you come with me?
+FLD_KMES0_100,Glenn: I...I cannot.
+FLD_KMES0_101,Cyrus: But, why?\You're a better sword than I, you always have been.
+FLD_KMES0_102,Glenn: I haven't the nerve it takes to be a knight.\In a real battle, the fear would take me.
+FLD_KMES0_103,Melchior: Oh, you've come to see me!\Well, by all means, have a look at my collection.<PAGE>\Could I interest you in a weapon?\I'll give you a special price.\<S10><S10><C1>Yes, I'd like to buy one.</C1>\<S10><S10><C2>No, I'm not interested.</C2>
+FLD_KMES0_104,Melchior: Weapons are not meant for the taking\of lives. They're meant for saving them.
+FLD_KMES0_105,Melchior: Well, you know where to find me\should the need arise.
+FLD_KMES0_106,Melchior: That sword is a masterwork.\Lightweight, and perfectly balanced.\Forged by yours truly, of course.
+FLD_KMES0_107,Melchior: Oh, if you're wanting to return\to Truce, there's a shortcut through the\cave in the mountains to the north.
+FLD_KMES0_108,Sorry, but I've gone to peddle my wares\elsewhere and won't be back for a while. \Please come back some other time.\<S10><S10><S10><S10><S10><S10><S10><S10>  Melchior
+FLD_KMES0_109,<NAME_LUC>: Say, where's Melchior?
+FLD_KMES0_110,<NAME_LUC>: Is that a note?\What does it say?
+FLD_KMES0_111,<NAME_LUC>: What!? The geezer's gone off when we\need him the most!
+FLD_KMES0_112,<NAME_MAR>: Hmm?\It looks like Melchior isn't home!
+FLD_KMES0_113,<NAME_MAR>: I wonder what this is?\Let's see here...
+FLD_KMES0_114,<NAME_MAR>: What!? He's gone when we need him\the most!
+FLD_KMES0_115,Melchior: Oh, you're back again!\Come to see my collec—
+FLD_KMES0_116,Melchior: Th-this sword, it's...the Masamune!\How...how did you get this?
+FLD_KMES0_117,<NAME_MAR>: Why is your name on that sword?
+FLD_KMES0_118,<NAME_LUC>: Why would your name be engraved\on that sword?
+FLD_KMES0_119,Melchior: ...<PAGE>\That...is a very long story.
+FLD_KMES0_120,Melchior: But that is the story you came to hear,\is it not?
+FLD_KMES0_121,<NAME_MAR>: Yes! Tell us about the Masamune!
+FLD_KMES0_122,<NAME_LUC>: Of course! Tell us about the Masamune!
+FLD_KMES0_123,<NAME_MAR>: Is there any way you can fix it?
+FLD_KMES0_124,<NAME_LUC>: Can you reforge it?
+FLD_KMES0_125,Melchior: I could—were it possible for us to get\our hands on some of the dreamstone from which\the sword was made.
+FLD_KMES0_126,<NAME_MAR>: Dreamstone?\Where can we get that?
+FLD_KMES0_127,<NAME_ROB>: Dreamstone...\No record of such a substance exists in my\memory banks.
+FLD_KMES0_128,Melchior: It's nowhere to be found anymore.\It was a glittering red stone, once valued even\more than gold.<PAGE>\Unfortunately, that was long, long ago.\Longer even than you could imagine...
+FLD_KMES0_129,Melchior: Well, let us just say I doubt you'll ever\find any. But if you should, I'll be more than happy\to repair the Masamune. Keep it with you until then.<PAGE>\So, would you like to buy anything?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_130,Melchior: Dear me, you truly found dreamstone!\Yes, that will do quite nicely. With that, I can\make the blade whole again.
+FLD_KMES0_131,Melchior: But first the Masamune, and now this\dreamstone... How in the world did you—?
+FLD_KMES0_132,Melchior: No, I suppose it does not matter.\Make yourselves at home! This will take some time.
+FLD_KMES0_133,<NAME_LUC>: I'll lend you a hand!
+FLD_KMES0_134,<NAME_ROB>: I will assist you.
+FLD_KMES0_135,Melchior: Behold!\The Masamune, in all its glory!
+FLD_KMES0_136,<NAME_MAR>: Wow!\That's the same sword we gave you?
+FLD_KMES0_137,<NAME_ROB>: How peculiar.\My sensors are detecting pulses of mental\energy emanating from the Masamune.
+FLD_KMES0_138,Melchior: A sword can be used as a tool for\ending lives or as one for saving them. It\all depends on the one who wields it. Be sure\you wield yours for the proper reason.<PAGE>\Would you like to buy something?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_139,<NAME_MAR>: <NAME_CRO>, where are you going?\The Masamune isn't fixed yet!
+FLD_KMES0_140,<NAME_LUC>: Hey, <NAME_CRO>! You're not just\gonna leave the Masamune here, are you?
+FLD_KMES0_141,<NAME_ROB>: Sir <NAME_CRO>, the Masamune has not\yet been fully repaired.
+FLD_KMES0_142,Melchior: All right, then...
+FLD_KMES0_143,<NAME_LUC>: How are you going to fix it?
+FLD_KMES0_144,<NAME_ROB>: It looks like it will be quite difficult to\repair.
+FLD_KMES0_145,Melchior: Do not interrupt me while I'm trying to read!
+FLD_KMES0_146,Melchior: You just leave this to me.
+FLD_KMES0_147,Melchior: Of course, the dreamstone must be\refined if we are to repair the Masamune.\But that is not all. The blade itself must\be activated as well.<PAGE>\You work on the dreamstone.\I will take care of the sword.
+FLD_KMES0_148,<NAME_LUC>: Okay!\Fear not, the great <NAME_LUC> knows her way\around a workshop!
+FLD_KMES0_149,<NAME_ROB>: Understood.
+FLD_KMES0_150,<NAME_LUC>: Well, better get busy!
+FLD_KMES0_151,<NAME_ROB>: I will prepare the tools.
+FLD_KMES0_152,<NAME_LUC>: This's pretty complicated.\Think you could go somewhere else for a while?\You're ruining my concentration.
+FLD_KMES0_153,<NAME_ROB>: Refining this dreamstone without the\proper equipment could take a significant amount\of time.
+FLD_KMES0_154,Melchior: To reawaken the sword, I must first\breathe life back into its shattered remains.
+FLD_KMES0_155,Melchior: The spell to restore life to the\blade requires immense concentration.\Could you refrain from interrupting me?
+FLD_KMES0_156,Melchior: All right, it's done!\Could you bring me the dreamstone?
+FLD_KMES0_157,<NAME_LUC>: I'm done here, too.
+FLD_KMES0_158,Melchior: All right, let's get started.
+FLD_KMES0_159,Melchior: Sorry to keep you waiting.
+FLD_KMES0_160,Melchior: If you were expecting lesser work,\you shouldn't have come to me!
+FLD_KMES0_161,<NAME_MAR>: Okay, <NAME_CRO>, let's take the\Masamune to <NAME_FRO>!
+FLD_KMES0_162,<NAME_ROB>: <NAME_CRO>, let us take the Masamune\to <NAME_FRO>.
+FLD_KMES0_163,<NAME_LUC>: Okay, <NAME_CRO>, we should get this\back to <NAME_FRO>!
+FLD_KMES0_164,<NAME_LUC>: So this is the Masamune...\It's producing some kind of strange energy.\If I could only study it for a little while...
+FLD_KMES0_165,You folks came out of my wardrobe, didn't you?\What are you doing in here?
+FLD_KMES0_166,Why is there magic in you?\Magic-using humans were supposed to have died\out long ago.\
+FLD_KMES0_167,Who do you think you are, coming and going from\someone else's wardrobe at all hours of night and\day? Humans... I'll tell you!
+FLD_KMES0_168,Medina is a village of fiends, founded by our\ancestors when they lost their war against\humankind 400 years ago. Most of the townsfolk\still have a grudge against humans, so be careful.
+FLD_KMES0_169,You folks hungry?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_170,Wait a minute.
+FLD_KMES0_171,Hey, hold on a minute.
+FLD_KMES0_172,It's been 400 years since man warred against fiend.\There's no use living in the past. Of course, not\many other fiends seem to agree with that.
+FLD_KMES0_173,There's an odd old human who lives near a cave in the\mountains to the west. He may be able to help you out.
+FLD_KMES0_174,<NAME_MAR>: Thanks!
+FLD_KMES0_175,<NAME_LUC>: Thanks a lot!\But aren't fiends supposed to hate humans?\Why are you being so helpful?
+FLD_KMES0_176,<NAME_ROB>: Thank you for your advice.
+FLD_KMES0_177,<NAME_ROB>: But why are you being so kind?\Do your people not despise humans?
+FLD_KMES0_178,<NAME_MAR>: But why are you being so nice?\I thought fiends weren't supposed to get along\with humans.
+FLD_KMES0_179,10 G per night. Care to stay?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_180,Not enough coin, huh?
+FLD_KMES0_181,No room here for humans. \Scat!\<S10><S10><C1>Give up.</C1>\<S10><S10><C2>Plead.</C2>
+FLD_KMES0_182,You still talking to me?\Don't know what's good for ya, do ya?\Get 'em, boys!
+FLD_KMES0_183,200 G for the night.\Want me to put you up?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_184,Ack, help!
+FLD_KMES0_185,No stinking human's gonna talk to me!
+FLD_KMES0_186,Out! You're spoilin' my drink!
+FLD_KMES0_187,I got nothing to sell to humans.\Get out of here!\<S10><S10><C1>Give up.</C1>\<S10><S10><C2>Plead.</C2>
+FLD_KMES0_188,Humans—think they've got a right to everything!\Teach 'em a lesson, Boss!
+FLD_KMES0_189,They...they beat you, Boss?\Monsters!
+FLD_KMES0_190,All right. I'll sell.
+FLD_KMES0_191,Heh! You think I'm gonna charge a human the going\rate?
+FLD_KMES0_192,<NAME_MAR>: <NAME_CRO>, what's that creepy chanting?
+FLD_KMES0_193,<NAME_LUC>: That chanting's pretty creepy.\What do you make of it?
+FLD_KMES0_194,<NAME_ROB>: What is the meaning of this eerie\chanting?
+FLD_KMES0_195,Oh, great Ozzie, Ozzie the Great ♪\Yours is the hand that guides us to our fate ♪
+FLD_KMES0_196,Oh, great Ozzie, Ozzie the Great ♪\Even those miserable sunny days abate ♪\When we see that lovely balded pate ♪
+FLD_KMES0_197,It was the Fiendlord <NAME_MAG> who gave life to the\almighty Lavos to aid us. And once Lavos awakens\from his long slumber, the human race is doomed.
+FLD_KMES0_198,Four hundred years have passed since <NAME_MAG>\commanded the fiends, and waged war against the\humans. But if Lavos can be reawakened, there\will be no more humans.
+FLD_KMES0_199,The almighty Fiendlord delivered Lavos unto us long ago\with his great magic.
+FLD_KMES0_200,A fearsome beast lives in the cave on the mountain\to the west. Only magic can harm it. I doubt a human\would be able to make it through, not being able to\use magic and all.<PAGE>\Well, I better get back to tidying up before Ozzie\VIII catches me!
+FLD_KMES0_201,This work is brutal.
+FLD_KMES0_202,Oh, great Fiendlord!
+FLD_KMES0_203,Oh, great Ozzie...<PAGE>\Hmph!
+FLD_KMES0_204,Race ya!
+FLD_KMES0_205,Hey, wait for me!
+FLD_KMES0_206,Such a lovely day today, isn't it?
+FLD_KMES0_207,Ah, life is good!
+FLD_KMES0_208,Oh, long time no see!\How have you been?
+FLD_KMES0_209,They're gonna start running a ferry between Truce\and Medina soon.
+FLD_KMES0_210,Hello there!\How can I help you?
+FLD_KMES0_211,It's so peaceful these days.
+FLD_KMES0_212,Filthy humans oughta all go take a hike through\that heckran cave and get what's coming to 'em!\Heh heh heh...
+FLD_KMES0_213,I'm Ozzie VIII, the leader of this village.\My great-great-great-great-great-grandfather\fought against the humans at the side of the\Fiendlord himself.<PAGE>\Oh, great Fiendlord... Why didn't you exterminate\the human race four centuries ago when you had\the chance?
+FLD_KMES0_214,Ozzie VIII: They still honor the statue of Ozzie I\in the village square!
+FLD_KMES0_215,Ozzie VIII: Yes, sir! I'm scrubbing as hard as I can!\I'm not slacking off, I swear!<PAGE>\*sniffle*\Why's he gotta be so mean?
+FLD_KMES0_216,The name's Bandeau.\Here to build the ferry that's to service\Medina and Truce.
+FLD_KMES0_217,I'm the mayor of Medina.\Make yourself at home.
+FLD_KMES0_218,Hmm... Medina's brewers know what they're doing!
+FLD_KMES0_219,Why do I always get stuck doing this?
+FLD_KMES0_220,Blast that Ozzie VIII! Always hiding behind his\ancestral fame to boss us around!
+FLD_KMES0_221,Death to the enemies of fiendkind!
+FLD_KMES0_222,<NAME_MAR>: My pendant...
+FLD_KMES0_223,<NAME_LUC>: Your pendant... It's glowing!
+FLD_KMES0_224,<NAME_ROB>: What is that glow?
+FLD_KMES0_225,<NAME_FRO>: Light, from the pendant!
+FLD_KMES0_226,<NAME_AYL>: Shiny, shiny!
+FLD_KMES0_227,<NAME_MAG>: The pendant...
+FLD_KMES0_228,The seal is broken.\I will give to you a treasure, crafted by the\Guru of Reason himself.
+FLD_KMES0_229,To your right is a weapon which will enhance\your strength.
+FLD_KMES0_230,To your left is protective gear which will\guard your life.
+FLD_KMES0_231,Think well, and choose whichever you need the most.
+FLD_KMES0_232,13,000 years was a very long time.\Belthasar...I go to you now.
+FLD_KMES0_233,<CT>\A mysterious force seals it shut.
+FLD_KMES0_234,Jump in?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_KMES0_235,If only Lord <NAME_MAG> had destroyed the human race\four hundred years ago when he first brought forth\Lavos, the world would belong to us fiends now!
+FLD_KMES0_236,<CT>\GRRRRRRAAAGHH!
+FLD_KMES0_237,<NAME_LUC>: So, <NAME_MAG> created Lavos in the Middle\Ages. And in the future, Lavos destroys the planet.
+FLD_KMES0_238,<NAME_MAR>: In the Middle Ages, <NAME_MAG> created\Lavos, who destroys the world in the future.
+FLD_KMES0_239,<NAME_MAR>: If we go to the Middle Ages and stop\<NAME_MAG>, can we change history?
+FLD_KMES0_240,<NAME_ROB>: If we were to defeat <NAME_MAG> in\the Middle Ages, might it be possible for us to\change history?
+FLD_KMES0_241,<NAME_LUC>: If we used the Gate at the fairgrounds...
+FLD_KMES0_242,<NAME_MAR>: Hey, <NAME_CRO>, what if we used the Gate\at the fairgrounds?
+FLD_KMES0_243,<CT>\Obtained <NAME_ITM>!
+FLD_KMES0_244,Melchior: The Black Omen, looming in the sky...\Made by the hands of neither fiend nor man...\What does it portend?
+FLD_KMES0_245,Oh, the Black Omen, the Black Omen ♪\Let us say a prayer to the Black Omen ♪
+FLD_KMES0_246,<CT>\Hm?<PAGE><CT>\\There is something else in here.<PAGE><CT>\\What in the world?
+FLD_KMES0_247,<CT>\Obtained 2 Ethers!
+FLD_KMES0_248,<CT>\Obtained 3 Ethers!
+FLD_KMES0_249,<CT>\Obtained 6 Ethers!
+FLD_KMES0_250,
+FLD_KMES0_251,
+FLD_KMES0_252,
+FLD_KMES0_253,
+FLD_KMES0_254,
+FLD_KMES0_255,

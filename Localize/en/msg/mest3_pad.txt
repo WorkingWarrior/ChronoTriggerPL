@@ -1,0 +1,256 @@
+FLD_MEST3_000,<CT>\Obtained <NAME_ITM>!
+FLD_MEST3_001,<CT>\Obtained <NAME_ITM>!
+FLD_MEST3_002,<CT>\Recovered money!
+FLD_MEST3_003,<CT>\Recovered party inventory!
+FLD_MEST3_004,<CT>\Recovered <NAME_PT1>'s equipment!
+FLD_MEST3_005,<CT>\Recovered <NAME_PT2>'s equipment!
+FLD_MEST3_006,<CT>\Recovered <NAME_PT3>'s equipment!
+FLD_MEST3_007,Why are you here!?
+FLD_MEST3_008,The Blackbird's a symbol of Zeal's advancement.
+FLD_MEST3_009,Never dreamed a thing so big could fly, eh?
+FLD_MEST3_010,All is well with the Blackbird, I presume?
+FLD_MEST3_011,Soldier: She is fully operational, Lord Dalton!
+FLD_MEST3_012,Dalton: Of course she is, you blundering idiot!\Were she not, we'd all be in trouble.<PAGE>\You!\What are you doing there?
+FLD_MEST3_013,Dalton: Hm? Those clothes...<PAGE>\You must be the ones the prophet said would come to\interfere!
+FLD_MEST3_014,Dalton: I think I shall watch for the time being,\and see how he plays his hand.
+FLD_MEST3_015,Dalton: Not that I suspect he'll tip his cards so easily.\Ha!
+FLD_MEST3_016,<NAME_MAR>: Where are we?
+FLD_MEST3_017,<NAME_LUC>: Where is this?
+FLD_MEST3_018,<NAME_ROB>: Unfamiliar environs.
+FLD_MEST3_019,<NAME_FRO>: Where are we?
+FLD_MEST3_020,<NAME_AYL>: Where this?
+FLD_MEST3_021,<NAME_PT3>: !?
+FLD_MEST3_022,<NAME_MAR>: Our equipment's gone!
+FLD_MEST3_023,<NAME_LUC>: Our equipment's gone!
+FLD_MEST3_024,<NAME_ROB>: Our equipment has been taken!
+FLD_MEST3_025,<NAME_FRO>: Our equipment! It's taken!
+FLD_MEST3_026,<NAME_AYL>: Weapon! Armor!\All gone!
+FLD_MEST3_027,<NAME_MAR>: Our other things, too...
+FLD_MEST3_028,<NAME_LUC>: All of our other things, too!
+FLD_MEST3_029,<NAME_ROB>: All of our possessions are gone!
+FLD_MEST3_030,<NAME_FRO>: Our other possessions as well.
+FLD_MEST3_031,<NAME_AYL>: Other stuff, too!
+FLD_MEST3_032,<NAME_MAR>: Even our money...
+FLD_MEST3_033,<NAME_LUC>: Even our money!
+FLD_MEST3_034,<NAME_ROB>: Our money has also been stolen!
+FLD_MEST3_035,<NAME_FRO>: Confound it!\Our money, too!
+FLD_MEST3_036,<NAME_AYL>: Stuff trade for any stuff...\Call money? That gone, too!
+FLD_MEST3_037,<NAME_MAR>: What do we do?
+FLD_MEST3_038,<NAME_LUC>: What to do...
+FLD_MEST3_039,<NAME_ROB>: We must find a way to escape.
+FLD_MEST3_040,<NAME_FRO>: What now?
+FLD_MEST3_041,<NAME_AYL>: <NAME_AYL> still can fight!\Go find weapon!\Fight bad man!
+FLD_MEST3_042,<NAME_MAR>: Eeeek!
+FLD_MEST3_043,<NAME_LUC>: Whoa!
+FLD_MEST3_044,<NAME_ROB>: Th-those are clouds!
+FLD_MEST3_045,<NAME_FRO>: Ack!
+FLD_MEST3_046,<NAME_AYL>: !
+FLD_MEST3_047,<NAME_MAR>: We're in the sky!\This must be...
+FLD_MEST3_048,<NAME_LUC>: Clouds!?\Then, we must be on...
+FLD_MEST3_049,<NAME_ROB>: So we must be on...
+FLD_MEST3_050,<NAME_FRO>: The sky!\We've been taken onto...
+FLD_MEST3_051,<NAME_AYL>: Sky!\Sky!\This sky!
+FLD_MEST3_052,The Blackbird!?
+FLD_MEST3_053,<NAME_AYL>: !
+FLD_MEST3_054,<NAME_LUC>: !?
+FLD_MEST3_055,<NAME_ROB>: Wait!
+FLD_MEST3_056,<NAME_FRO>: Hm?
+FLD_MEST3_057,<NAME_AYL>: Wind come in here.
+FLD_MEST3_058,<NAME_LUC>: There's an air duct.
+FLD_MEST3_059,<NAME_ROB>: This appears to be a ventilation duct.
+FLD_MEST3_060,<NAME_FRO>: We should be able to get up there.
+FLD_MEST3_061,Guard: Heh. Like watching sheep.\They can't try anything without weapons.
+FLD_MEST3_062,<NAME_MAR>: What should we do, <NAME_PT1>?\<S10><S10><C1>Act sick.</C1>\<S10><S10><C2>Think of a plan.</C2>
+FLD_MEST3_063,<NAME_LUC>: What now, <NAME_PT1>?\<S10><S10><C1>Pretend to be sick.</C1>\<S10><S10><C2>Think of another plan.</C2>
+FLD_MEST3_064,<NAME_ROB>: What shall we do, <NAME_PT1>?\<S10><S10><C1>Pretend to be sick.</C1>\<S10><S10><C2>Think of another plan.</C2>
+FLD_MEST3_065,<NAME_FRO>: What shall we do, <NAME_PT1>?\<S10><S10><C1>Pretend to be sick.</C1>\<S10><S10><C2>Think of another plan.</C2>
+FLD_MEST3_066,<NAME_AYL>: <NAME_PT1>! What do?\<S10><S10><C1>Pretend to be sick.</C1>\<S10><S10><C2>Think of another plan.</C2>
+FLD_MEST3_067,Guard: Yeah, right!\Not falling for that again.
+FLD_MEST3_068,H-how did you escape!?
+FLD_MEST3_069,What are you doing here!?
+FLD_MEST3_070,Don't try anything!
+FLD_MEST3_071,<NAME_PT1> is escaping!\<NAME_PT1> is escaping!
+FLD_MEST3_072,<NAME_LUC>: Ah, right!\We'll trick the guard.
+FLD_MEST3_073,<NAME_ROB>: I see.\We will catch the guard off guard.
+FLD_MEST3_074,<NAME_FRO>: Ah, I see.\Get the guard in here, and catch him unawares!
+FLD_MEST3_075,<NAME_AYL>: <NAME_AYL> healthy!<PAGE>\But <NAME_PT1> want sick, then sick.
+FLD_MEST3_076,<NAME_LUC>: Urrrgghh!\The pain... THE PAIN!
+FLD_MEST3_077,<NAME_ROB>: System error!\Cannot read boot sector!\Abort, retry, fail?\Please, help!
+FLD_MEST3_078,<NAME_FRO>: Owww!\Oh, my belly button...\The pain!
+FLD_MEST3_079,<NAME_AYL>: Uhnnn...!\<NAME_AYL>...hurt bad!
+FLD_MEST3_080,Guard: What's the matter!?
+FLD_MEST3_081,<NAME_LUC>: Mission accomplished!
+FLD_MEST3_082,<NAME_ROB>: It appears our plan succeeded.
+FLD_MEST3_083,<NAME_FRO>: Fool.\Frogs have no belly buttons!
+FLD_MEST3_084,<NAME_AYL>: ...<PAGE>\<NAME_AYL> no like lie.
+FLD_MEST3_085,<NAME_LUC>: We can spy down on them through the\grates!
+FLD_MEST3_086,<NAME_ROB>: We can observe the enemy from the\vantage point of these grates.
+FLD_MEST3_087,<NAME_FRO>: We can spy upon our captors from here.
+FLD_MEST3_088,<NAME_AYL>: There, can see down!
+FLD_MEST3_089,Voice: You worthless cretins!
+FLD_MEST3_090,Dalton: Pay close attention to what you're doing!\This is to be my royal Airthrone!
+FLD_MEST3_091,Dalton: The world will bow before me!
+FLD_MEST3_092,Dalton: Mwa ha ha ha ha!
+FLD_MEST3_093,<NAME_LUC>: Oh, no!\He's messing around with the <NAME_SIL>!
+FLD_MEST3_094,<NAME_ROB>: It appears they are modifying the\<NAME_SIL>.
+FLD_MEST3_095,<NAME_FRO>: How dare he meddle with our things!
+FLD_MEST3_096,<NAME_AYL>: They do something <NAME_SIL>!
+FLD_MEST3_097,<NAME_PT1>: Shhh!
+FLD_MEST3_098,<NAME_LUC>: Wait! We haven't gotten all our stuff\back yet!\<S10><S10><C1>It doesn't matter.</C1>\<S10><S10><C2>Go back.</C2>
+FLD_MEST3_099,<NAME_ROB>: Are we going to leave the rest of\our things behind?\　　<C1>It doesn't matter.</C1>\　　<C2>Go back.</C2>
+FLD_MEST3_100,<NAME_FRO>: We've still not retrieved all of our\possessions. Do you mean to leave them?\<S10><S10><C1>It doesn't matter.</C1>\<S10><S10><C2>Go back.</C2>
+FLD_MEST3_101,<NAME_AYL>: Some stuff still gone!\No need?\<S10><S10><C1>It doesn't matter.</C1>\<S10><S10><C2>Go back.</C2>
+FLD_MEST3_102,<NAME_MAR>: Wh-what's going on?
+FLD_MEST3_103,<NAME_LUC>: That...that's—!
+FLD_MEST3_104,<NAME_ROB>: I detect a massive magical energy reaction!
+FLD_MEST3_105,<NAME_FRO>: Something comes!
+FLD_MEST3_106,<NAME_LUC>: Phew...
+FLD_MEST3_107,<NAME_FRO>: How tiresome.
+FLD_MEST3_108,<NAME_AYL>: <NAME_AYL> never lose!
+FLD_MEST3_109,Mwa ha ha...<PAGE>\At last!\It is ready!
+FLD_MEST3_110,Dalton: See these beautiful wings!\This is a throne truly fit for a king!\I name it...
+FLD_MEST3_111,Dalton: The Aero-Dalton Imperial!<PAGE>\And those meddlesome interlopers shall be her\first victims!
+FLD_MEST3_112,Dalton: Aero-Dalton Imperial, prepare for takeoff!
+FLD_MEST3_113,Dalton: No, no, no, and no!
+FLD_MEST3_114,Dalton: Stop the music!
+FLD_MEST3_115,Dalton: Ha ha ha!\Yes, there we go!
+FLD_MEST3_116,Dalton: Now, then!
+FLD_MEST3_117,Dalton: Aero-Dalton Imperial!<PAGE>\Away!
+FLD_MEST3_118,<NAME_PT2>: Look!
+FLD_MEST3_119,<NAME_ROB>: That was—!
+FLD_MEST3_120,<NAME_FRO>: Th-that was—!
+FLD_MEST3_121,<NAME_PT1>: The <NAME_SIL>...
+FLD_MEST3_122,<NAME_AYL>: <NAME_SIL>, sky...
+FLD_MEST3_123,It can fly!?
+FLD_MEST3_124,Dalton: Her name is not the <NAME_SIL>!\It's the Aero-Dalton Imperial!
+FLD_MEST3_125,Dalton: And you, I'm afraid, are excess baggage!\Ha ha ha ha!
+FLD_MEST3_126,Dalton: Time to make like the wind and blow you all\away!
+FLD_MEST3_127,<NAME_MAR>: Eek!
+FLD_MEST3_128,<NAME_LUC>: Yikes!
+FLD_MEST3_129,<NAME_ROB>: Danger! Danger!
+FLD_MEST3_130,<NAME_FRO>: Oh, no!
+FLD_MEST3_131,Dalton: Mwa ha ha!\Yes, squirm about like the worms you are!
+FLD_MEST3_132,<NAME_LUC>: Grrr!
+FLD_MEST3_133,<NAME_ROB>: We must reclaim the <NAME_SIL>!
+FLD_MEST3_134,<NAME_FRO>: Curse that man!
+FLD_MEST3_135,<NAME_AYL>: Go <NAME_SIL>, now!
+FLD_MEST3_136,<NAME_MAR>: It's all your fault!<PAGE>\<NAME_CRO>...<PAGE>\Give back <NAME_CRO>!
+FLD_MEST3_137,<NAME_LUC>: Dalton!
+FLD_MEST3_138,<NAME_ROB>: Bombs away!
+FLD_MEST3_139,<NAME_FRO>: You learn a lesson this day!
+FLD_MEST3_140,<NAME_AYL>: Grrrrr!
+FLD_MEST3_141,Dalton: Y-you!
+FLD_MEST3_142,<NAME_MAR>: *gasp* *pant*
+FLD_MEST3_143,<NAME_LUC>: Is the <NAME_SIL> all right!?
+FLD_MEST3_144,<NAME_ROB>: Objective complete!
+FLD_MEST3_145,<NAME_FRO>: That filthy thief!
+FLD_MEST3_146,<NAME_AYL>: <NAME_SIL>, okay?
+FLD_MEST3_147,<NAME_LUC>: More importantly, how do we control\this thing?
+FLD_MEST3_148,<NAME_ROB>: More importantly, we need to determine\the flight controls before we crash.
+FLD_MEST3_149,<NAME_AYL>: <NAME_SIL> still fall.
+FLD_MEST3_150,<NAME_MAR>: Do you think you've got it!?
+FLD_MEST3_151,<NAME_LUC>: What about that lever?
+FLD_MEST3_152,<NAME_ROB>: These instruments are all unfamiliar.
+FLD_MEST3_153,<NAME_FRO>: Do not look to me!
+FLD_MEST3_154,<NAME_AYL>: Wake up, <NAME_SIL>!
+FLD_MEST3_155,<NAME_MAR>: <NAME_PT1>!\Try hitting <BTN_WARP>!
+FLD_MEST3_156,<NAME_LUC>: <NAME_PT1>!\Try hitting <BTN_WARP>!
+FLD_MEST3_157,<NAME_ROB>: <NAME_PT1>!\Please press <BTN_WARP>!
+FLD_MEST3_158,<NAME_FRO>: <NAME_PT1>!\Is it not <BTN_WARP>?
+FLD_MEST3_159,<NAME_MAR>: Oh... Try <BTN_CONF>!
+FLD_MEST3_160,<NAME_LUC>: Then, <BTN_CONF>!\Try <BTN_CONF>!
+FLD_MEST3_161,<NAME_ROB>: Try <BTN_CONF>!
+FLD_MEST3_162,<NAME_FRO>: Well, what about <BTN_CONF>!?
+FLD_MEST3_163,<NAME_LUC>: Whew, I think I got a handle on it.
+FLD_MEST3_164,<NAME_ROB>: I should have linked it to my CPU.
+FLD_MEST3_165,<NAME_FRO>: Incredible!\Mayhap we even owe him a touch of gratitude for this!
+FLD_MEST3_166,<NAME_AYL>: <NAME_SIL> happy!\<NAME_SIL>...become bird!
+FLD_MEST3_167,<NAME_ROB>: I believe this is what you refer to\as a "blessing in the midst of disaster."\It may not have been our intent, but we have gained\the means to fly!
+FLD_MEST3_168,<NAME_LUC>: And I'd just been thinking about\upgrading it myself, too. Oh well.
+FLD_MEST3_169,<NAME_LUC>: !<PAGE>\Our things!
+FLD_MEST3_170,<NAME_ROB>: !<PAGE>\Our possessions!
+FLD_MEST3_171,<NAME_AYL>: !<PAGE>\Find <NAME_AYL> stuff!
+FLD_MEST3_172,<NAME_LUC>: He was going to steal it all!
+FLD_MEST3_173,<NAME_ROB>: Dalton was attempting to steal all\of it.
+FLD_MEST3_174,<NAME_FRO>: A dog of a man, if ever there was one!
+FLD_MEST3_175,<NAME_LUC>: Our...our money isn't here!
+FLD_MEST3_176,<NAME_ROB>: Our money is not here!
+FLD_MEST3_177,<NAME_FRO>: But, what of our money?
+FLD_MEST3_178,<NAME_ROB>: Presumably, it is still within the\Blackbird's hold.
+FLD_MEST3_179,<NAME_FRO>: I suppose it's in the same watery\grave as the Blackbird, then.
+FLD_MEST3_180,<NAME_AYL>: Hm? What wrong?
+FLD_MEST3_181,<NAME_MAR>: <NAME_CRO>...
+FLD_MEST3_182,<NAME_LUC>: <NAME_MAR>...
+FLD_MEST3_183,<NAME_ROB>: The <NAME_SIL> returned to us unscathed.\I am certain that <NAME_CRO> will as well.
+FLD_MEST3_184,<NAME_FRO>: The poor fool...
+FLD_MEST3_185,<NAME_AYL>: <NICK_CRO> strong!\<NICK_CRO> no die!
+FLD_MEST3_186,<CT>\It's empty!
+FLD_MEST3_187,
+FLD_MEST3_188,
+FLD_MEST3_189,
+FLD_MEST3_190,
+FLD_MEST3_191,
+FLD_MEST3_192,
+FLD_MEST3_193,
+FLD_MEST3_194,
+FLD_MEST3_195,
+FLD_MEST3_196,
+FLD_MEST3_197,
+FLD_MEST3_198,
+FLD_MEST3_199,
+FLD_MEST3_200,
+FLD_MEST3_201,
+FLD_MEST3_202,
+FLD_MEST3_203,
+FLD_MEST3_204,
+FLD_MEST3_205,
+FLD_MEST3_206,
+FLD_MEST3_207,
+FLD_MEST3_208,
+FLD_MEST3_209,
+FLD_MEST3_210,
+FLD_MEST3_211,
+FLD_MEST3_212,
+FLD_MEST3_213,
+FLD_MEST3_214,
+FLD_MEST3_215,
+FLD_MEST3_216,
+FLD_MEST3_217,
+FLD_MEST3_218,
+FLD_MEST3_219,
+FLD_MEST3_220,
+FLD_MEST3_221,
+FLD_MEST3_222,
+FLD_MEST3_223,
+FLD_MEST3_224,
+FLD_MEST3_225,
+FLD_MEST3_226,
+FLD_MEST3_227,
+FLD_MEST3_228,
+FLD_MEST3_229,
+FLD_MEST3_230,
+FLD_MEST3_231,
+FLD_MEST3_232,
+FLD_MEST3_233,
+FLD_MEST3_234,
+FLD_MEST3_235,
+FLD_MEST3_236,
+FLD_MEST3_237,
+FLD_MEST3_238,
+FLD_MEST3_239,
+FLD_MEST3_240,
+FLD_MEST3_241,
+FLD_MEST3_242,
+FLD_MEST3_243,
+FLD_MEST3_244,
+FLD_MEST3_245,
+FLD_MEST3_246,
+FLD_MEST3_247,
+FLD_MEST3_248,
+FLD_MEST3_249,
+FLD_MEST3_250,
+FLD_MEST3_251,
+FLD_MEST3_252,
+FLD_MEST3_253,
+FLD_MEST3_254,
+FLD_MEST3_255,

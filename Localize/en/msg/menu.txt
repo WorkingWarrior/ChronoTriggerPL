@@ -1,0 +1,222 @@
+﻿Poz.
+PŻ
+PM
+/
+:
+Czas
+G
++
+-
+ →
+Powrót
+
+
+
+
+
+
+
+
+
+
+
+<ICON_DEF>
+★
+Poz.
+PŻ
+PM
+<ICON_L><ICON_V>
+<ICON_H><ICON_P>
+<ICON_M><ICON_P>
+Pauza
+Menu główne
+Ekwipunek
+Plecak
+Techniki
+Dummy
+Ustawienia
+Drużyna
+Zapis
+Zakładka
+Bestiariusz
+???
+Prehistoria
+Starożytność
+Średniowiecze
+Teraźniejszość
+Przyszłość
+Wir Międzywymiarowy
+Ekwipunek
+Atak
+Obrona
+Siła
+Celność
+Szybkość
+Magia
+Unik
+Wytrzymałość
+Mag. obrona
+PD
+Następny poziom:
+Broń
+Hełm
+Zbroja
+Akcesorium
+Zużywalne
+Bronie
+Hełmy
+Zbroje
+Akcesoria
+Przedmioty kluczowe
+Sortuj
+Masz:
+Drużyna nie ma zużywalnych przedmiotów.
+Drużyna nie ma zapasowych broni.
+Drużyna nie ma zapasowych hełmów.
+Drużyna nie ma zapasowych zbroi.
+Drużyna nie ma zapasowych akcesoriów.
+Drużyna nie ma przedmiotów kluczowych.
+W użyciu:
+Mogą użyć:
+Atak:
+Use
+Switch
+Techniki
+Pojedyncze
+Podwójne
+Potrójne
+Koszt PM
+<S10><S10><S10><S4>Wymagane PT:
+Ustawienia
+Tryb walki
+Szybkość walki
+Szybkość komunikatów walki
+Pamięć kursora walki
+Komunikaty pomocy
+Pamięć kursora menu
+Anuluj
+Domyślne
+Zapisz i zastosuj
+Poruszanie się
+WYŁ
+TYP A
+TYP B
+Walka I
+Walka II
+Sterowanie
+Filmy
+Target UI Display
+Sklep
+Kup
+Sprzedaj
+Załóż
+Pieniądze:
+Cena:
+Brak dostępnych przedmiotów.
+Brak dostępnych broni.
+Brak dostępnych hełmów.
+Brak dostępnych zbroi.
+Nie masz przedmiotów na sprzedaż.
+Nie masz broni na sprzedaż.
+Nie masz hełmów na sprzedaż.
+Nie masz zbroi na sprzedaż.
+Z
+Atak:
+Obrona:
+Domyślne
+Wpisz imię.
+Kliknij na polę\i wpisz imię.
+Wprowadź pięć\lub mniej liter.
+Musisz wpisać \przynajmniej literę.
+Drużyna
+Usable Combos
+Zapis
+Zakładka
+Zmień ekwipunek postaci.
+Przeglądaj i używaj przedmiotów.
+Przeglądaj lub użyj znanej techniki.
+Zmień ustawienia gry.
+Zmień członków drużyny.
+Nie można obecnie zmienić drużyny.
+Tymczasowo zawiesza grę.
+Zapisuje postępy w grze.
+Nie możesz obecnie zapisać gry.
+Zmień tryb walki.
+Zmień prędkość, z jaką toczy się walka.
+Dostosuj czas wyświetlania wiadomości.
+Ustaw pamięć kursora.
+Dostosuj wyświetlanie technik i opisów przedmiotów.
+Przełącz pamięć kursora.
+Wybierz członków drużyny.
+Wybierz plik.
+Ekwipunek: zmień ekwipunek postaci.
+Plecak: przeglądaj i używaj przedmiotów.
+Techniki: przeglądaj lub użyj znanej techniki.
+Ustawienia: zmień ustawienia gry.
+Drużyna: zmień członków drużyny.
+Zakładka: zrób sobie krótką przerwę.
+Zapisz: zapisuje postępy w grze.
+Bestiariusz: przeglądaj informacje o przeciwnikach.
+Bestiariusz: przeglądaj informacje o przeciwnikach.
+Wybierz prędkość poruszania się.
+65,000,000 P.N.E.
+12,000 P.N.E.
+600 N.E.
+1000 N.E.
+2300 N.E.
+1999 N.E.
+Prehistoria
+Starożytność
+Średniowiecze
+Teraźniejszość
+Kataklizm
+Przyszłość
+Koniec Czasu
+MENU
+WARP
+Mapa
+Wybierz technikę
+Walka
+Dźwięki
+Grafika
+Sterowanie
+Ustawienia kontrolera
+Ustawienia klawiatury
+Ustawienia myszy
+Lewy klik
+Prawy klik
+Domyślne
+Ustawienia wyświetlania
+Rozmiar ekranu
+Licencje
+Dostosuj ustawienia walki.
+Czas nie zatrzymuje się.
+Czas zatrzymuje się, gdy wybierasz techniki lub przedmioty.
+Dostosuj głośność dźwięku.
+Dostosuj głośność muzyki.
+Dostosuj głośność efektów.
+Dostosuj ustawienia graficzne.
+Grafika podobna do oryginału.
+Grafika wysokiej rozdzielczości.
+*Rozmiar ekranu możesz dostosować w menu głównym.
+Zmień ustawienia sterowania.
+Interfejs można dostosować do systemu.
+Wyświetl lub zmień ustawienia kontrolera.
+Wyświetl lub zmień ustawienia klawiatury.
+Wyświetl lub zmień ustawienia myszy.
+*Zmiany w ustawieniach sterowania będą odzwierciedlone we wszystkich plikach zapisu.
+Wszystkie ustawienia zostaną zresetowane.
+*Wybierz przycisk dla każdej komendy.
+Zmień rozmiar ekranu.
+Wybierz plik.
+Wyjdź z gry.
+Przywrócić wszystkie ustawienia do wartości domyślnych?
+Dalej
+Opis sterowania
+Rozpocznij
+Wróć
+Dodatki
+Czy "<NAME>" jest poprawne?
+Dostosuj ustawienia wyświetlania
+Tryb ekranu
+Ustaw tryb ekranu gry

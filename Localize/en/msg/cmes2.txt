@@ -1,0 +1,256 @@
+FLD_CMES2_000,<NAME_MAR>: Wh-what are those?
+FLD_CMES2_001,<NAME_LUC>: Those things, they're all green and scaly!
+FLD_CMES2_002,<NAME_ROB>: This life form is most perplexingly unusual.\It appears to possess both human and dinosaur traits.
+FLD_CMES2_003,<NAME_MAR>: What should we do, <NAME_CRO>?
+FLD_CMES2_004,<NAME_LUC>: We're outnumbered!
+FLD_CMES2_005,<NAME_MAR>: Goodness! She's tough!
+FLD_CMES2_006,<NAME_LUC>: Who...who is that?
+FLD_CMES2_007,<NAME_ROB>: Her combat capabilities far exceed those\of ordinary humans.
+FLD_CMES2_008,<NAME_MAR>: Uh-oh...they're coming our way!
+FLD_CMES2_009,<NAME_ROB>: This shift in behavior corresponds to an\unfavorable change in targets!
+FLD_CMES2_010,<NAME_MAR>: Wh-what do you want?
+FLD_CMES2_011,<NAME_LUC>: What are you—?
+FLD_CMES2_012,<NAME_ROB>: This female is in a severely agitated state.\Provocation is inadvisable.
+FLD_CMES2_013,<NAME_MAR>: Ack!
+FLD_CMES2_014,<NAME_LUC>: Is she trying to pick a fight?
+FLD_CMES2_015,<NAME_CRO>!
+FLD_CMES2_016,<NAME_ROB>: Her...expressive abilities also appear\far greater than an ordinary human's.
+FLD_CMES2_017,Woman: You strong.\What name?<PAGE>\<NICK_CRO> name? Good name.\Me name? Me...
+FLD_CMES2_018,<NAME_AYL>: Me <NAME_AYL>.\<NAME_AYL> like strong man.\So <NAME_AYL> like <NICK_CRO>!
+FLD_CMES2_019,<NAME_MAR>: Get away from her, <NAME_CRO>!
+FLD_CMES2_020,<NAME_LUC>: Looks like somebody's got a new friend.
+FLD_CMES2_021,<NAME_AYL>: You strong, too.\<NAME_AYL> like strong person.\Man, woman...both like!
+FLD_CMES2_022,<NAME_MAR>: Oh, dear...
+FLD_CMES2_023,<NAME_LUC>: I...I don't... I mean, I'm not—!
+FLD_CMES2_024,<NAME_ROB>: Y-yes?
+FLD_CMES2_025,<NAME_AYL>: You strange person. But strong, too.
+FLD_CMES2_026,<NAME_ROB>: That is because I am a robot.
+FLD_CMES2_027,<NAME_AYL>: Row-bot? What row-bot?\<NAME_AYL> not know row-bot.
+FLD_CMES2_028,<NAME_ROB>: A robot is a humanoid machine constructed\by humans.
+FLD_CMES2_029,<NAME_AYL>: What you say? No say word <NAME_AYL>\not know, <NAME_AYL> head go boom!
+FLD_CMES2_030,<NAME_AYL>: <NICK_CRO>, where from?
+FLD_CMES2_031,<NAME_MAR>: Um, how can we explain?
+FLD_CMES2_032,<NAME_ROB>: An explanation cannot be formulated within\the bounds of her understanding.
+FLD_CMES2_033,<NAME_LUC>: We're from way after the day after\tomorrow.
+FLD_CMES2_034,<NAME_MAR>: We came from many days ahead of\tomorrow.
+FLD_CMES2_035,<NAME_AYL>: Ha ha, you funny!\<NAME_AYL> like funny person.
+FLD_CMES2_036,<NAME_LUC>: It's no use.
+FLD_CMES2_037,<NAME_AYL>: You come village!\Talk and eat. Dance! Drink!\Fun!
+FLD_CMES2_038,<NAME_MAR>: Thank you, but we can't.\We need to find some dreamstone.
+FLD_CMES2_039,<NAME_LUC>: We'd love to go, but we're looking for\some dreamstone right now.
+FLD_CMES2_040,<NAME_AYL>: Stone? Stone everywhere!\Here, there, village...\<NAME_AYL> give you many, many stone!
+FLD_CMES2_041,Ioka village this way.\Follow <NAME_AYL>!
+FLD_CMES2_042,<NAME_AYL>: <NICK_CRO> slow!
+FLD_CMES2_043,Jump down?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_044,Chief hut, north of village.
+FLD_CMES2_045,You wear funny skins.
+FLD_CMES2_046,You reptite friend?\I beat you up!
+FLD_CMES2_047,Reptites scales, cold blood.\Hard to beat.
+FLD_CMES2_048,You want see pretty stone?\Red stone. Chief has.
+FLD_CMES2_049,You come mountain?\Strange mountain. Strange thing happen.\That why Mystic Mountain.
+FLD_CMES2_050,Kino same, like you.\Chief find Kino cry on mountain.\Chief raise Kino.\Now Kino chief's right arm.
+FLD_CMES2_051,We fight reptites.\Laruba clan no fight reptites.
+FLD_CMES2_052,Laruba clan hide in north woods.\Always hide, run from reptites.\They weak!
+FLD_CMES2_053,Drink happy water?\Drink, feel good!\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_054,Rest for a while?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_055,Kino: Where you from?\Why you here?<PAGE>\Kino no like you!
+FLD_CMES2_056,You strange.\Have good stuff?\No...chief no say okay.\No can trade!
+FLD_CMES2_057,Oh, you come see me!\What you have?
+FLD_CMES2_058,<CT>\Transform!
+FLD_CMES2_059,This, trade house.\You bring things, trade for new things!
+FLD_CMES2_060,<NAME_AYL>: Listen <NAME_AYL>!\We make new friend!
+FLD_CMES2_061,Strong man, <NICK_CRO>!
+FLD_CMES2_062,<NICK_CRO> friend, <NAME_PT2>, <NAME_PT3>!
+FLD_CMES2_063,All: Oogaaah!
+FLD_CMES2_064,<NAME_AYL>: Now, dance bobonga!
+FLD_CMES2_065,Ooga, booga ♪\Munga, meeple ♪\Dance with wind people ♪
+FLD_CMES2_066,Ooga, booga ♪\Munga, meeple ♪\Dance with mountain people ♪
+FLD_CMES2_067,Ooga, booga ♪\Munga, might ♪\Sing, sing, dance all night ♪
+FLD_CMES2_068,<NAME_AYL>: <NICK_CRO>, eat, drink, dance, sing!
+FLD_CMES2_069,<NAME_MAR>: Come on, <NAME_CRO>, let's have fun!
+FLD_CMES2_070,<NAME_LUC>: Oh, should I or shouldn't I?
+FLD_CMES2_071,<NAME_ROB>: Is this the most appropriate use of\our time in the current situation?
+FLD_CMES2_072,<NAME_MAR>: This is wonderful, isn't it, <NAME_CRO>?
+FLD_CMES2_073,<NAME_MAR>: I think I'll dance, too!
+FLD_CMES2_074,<NAME_MAR>: This is great!\C'mon <NAME_CRO>. Let's dance!\<S10><S10><C1>Sure.</C1>\<S10><S10><C2>Nah.</C2>
+FLD_CMES2_075,<NAME_LUC>: Hic! Tee hee...\<NAME_CRO>, you've got to try shum of thish!\<S10><S10><C1>Okay.</C1>\<S10><S10><C2>No, thanks.</C2>
+FLD_CMES2_076,<NAME_LUC>: What'sh that? You a man, or a moushe?\Drink it in one gulp!
+FLD_CMES2_077,<NAME_LUC>: *buuurp*
+FLD_CMES2_078,<NAME_LUC>: What, my cup'sh not good enough for you?\C'mon, drink up!\<S10><S10><C1>Okay.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_079,<NAME_ROB>: This fluid contains immeasurable impurities!
+FLD_CMES2_080,Kino: You not Ioka person.\Why <NAME_AYL> give party?\Strange...
+FLD_CMES2_081,<NAME_AYL>: <NICK_CRO> try drink?\This, only special time drink!\Good drink! Name skull-smash!\Next day, skull feel like smash!
+FLD_CMES2_082,<NAME_AYL>: Ioka village fight reptite.\Leader name Azala. Azala very smart.
+FLD_CMES2_083,<NAME_AYL>: All in Ioka village fight.\No fight person go Laruba village.\Always run from reptite, always hide.\Not know where village.
+FLD_CMES2_084,Azala want destroy Ioka, Laruba, both.
+FLD_CMES2_085,But <NAME_AYL> no lose.\Only when <NAME_AYL> dead, stop fight!
+FLD_CMES2_086,<NAME_AYL>: No more talk that.
+FLD_CMES2_087,Today meet <NICK_CRO>.\Good day!\Eat, drink, dance, sing!
+FLD_CMES2_088,<NAME_AYL>: <NICK_CRO>, red rock look for, this rock?
+FLD_CMES2_089,Rare, red rock. Have rock, mean strong person.\<NAME_AYL> most strong Ioka village.\So <NAME_AYL> rock!<PAGE>\<NICK_CRO> want, <NICK_CRO> challenge <NAME_AYL>!\Win, <NAME_AYL> give.
+FLD_CMES2_090,<NAME_AYL>: <NICK_CRO> challenge <NAME_AYL>?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_091,<NAME_AYL>: <NICK_CRO> scared!?\<NICK_CRO> strong. <NAME_AYL> strong!\We battle!
+FLD_CMES2_092,<NAME_AYL>: <NAME_AYL> go, get more skull-smash!
+FLD_CMES2_093,<NAME_AYL>: Party now, so drink!\<NICK_CRO> and <NAME_AYL> have battle,\who drink more!
+FLD_CMES2_094,<NAME_AYL>: We start now.\Tap screen many time!
+FLD_CMES2_095,<NAME_AYL>: Braaap!
+FLD_CMES2_096,<NAME_AYL>: What?\<NICK_CRO> give up?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No way!</C2>
+FLD_CMES2_097,<NAME_AYL>: <NICK_CRO> drink more?\<NAME_AYL> no can...
+FLD_CMES2_098,<NAME_AYL>: Stop already?\You strong, but no can drink.
+FLD_CMES2_099,<NAME_AYL>: No more, <NICK_CRO>...\<NAME_AYL> lose, give rock!
+FLD_CMES2_100,<NAME_AYL>: <NICK_CRO> drink good.\Drink one more! To strong <NICK_CRO>!
+FLD_CMES2_101,<NAME_AYL>: Pour!
+FLD_CMES2_102,<NAME_AYL>: Maybe too much drink...
+FLD_CMES2_103,Good music!\We want pass down many, many generation!
+FLD_CMES2_104,<NAME_LUC>: Hic...
+FLD_CMES2_105,<NAME_LUC>: Gah ha ha!
+FLD_CMES2_106,<NAME_MAR>: Morning, <NAME_CRO>!\Wasn't last night fun?
+FLD_CMES2_107,<NAME_LUC>: Uhnnn... My head...<PAGE>\I did what last night!? Liar!\Oh...but why does my head hurt like this?
+FLD_CMES2_108,<NAME_ROB>: Good...good morning.\It appears that liquid induces peculiar\behavior in humans.
+FLD_CMES2_109,<NAME_MAR>: What made all these footprints?
+FLD_CMES2_110,<NAME_LUC>: Hey... Where did these footprints come\from?
+FLD_CMES2_111,<NAME_MAR>: It's...it's gone!
+FLD_CMES2_112,<NAME_LUC>: It's gone!
+FLD_CMES2_113,<NAME_MAR>: The Gate Key! It's gone!
+FLD_CMES2_114,<NAME_LUC>: The Gate Key's gone!
+FLD_CMES2_115,<NAME_LUC>: The thief must have left these prints.
+FLD_CMES2_116,<NAME_ROB>: It is probable that these tracks\were produced by the perpetrator.
+FLD_CMES2_117,<NAME_LUC>: Without the Key, we're stuck here forever!
+FLD_CMES2_118,<NAME_ROB>: Attempting to enter a Gate without the\Gate Key would involve an unacceptable degree of risk.
+FLD_CMES2_119,<NAME_MAR>: <NAME_CRO>, let's go find <NAME_AYL>!
+FLD_CMES2_120,<NAME_LUC>: This is bad!\We have to go see <NAME_AYL>!
+FLD_CMES2_121,<NAME_AYL>: Zzz...zzz... *snort*
+FLD_CMES2_122,<NAME_AYL>: Uhnn...\Oh, <NICK_CRO> early awake...\Ugh...
+FLD_CMES2_123,<NAME_AYL>: Urgh...\Too much skull-smash...
+FLD_CMES2_124,<NAME_LUC>: Sorry to wake you, but someone stole\something important from us while we were asleep!
+FLD_CMES2_125,<NAME_MAR>: We wish we could let you sleep, but a\valuable thing was stolen from us!
+FLD_CMES2_126,<NAME_AYL>: What? Stole? Must be reptite!\*burp*
+FLD_CMES2_127,<NAME_AYL>: <NICK_CRO> go with <NAME_AYL>!\We find bad reptite!
+FLD_CMES2_128,<NAME_AYL>: Who else come?
+FLD_CMES2_129,<NAME_AYL>: Maybe village person see.\We go ask. <NICK_CRO> come!\Hic!
+FLD_CMES2_130,Where Kino? No see all day.
+FLD_CMES2_131,Me see reptites.\Come from meeting grounds.\Go south, forest maze.
+FLD_CMES2_132,Forest maze, scary place.\Many monsters, many paths.\Chief be careful!
+FLD_CMES2_133,Reptites strong...\Chief, take this.
+FLD_CMES2_134,Reptite leave footprint when run.\Follow print, find lair!
+FLD_CMES2_135,You brave!
+FLD_CMES2_136,Chief strong!\You strong too!
+FLD_CMES2_137,Reptites now no come here for little while.
+FLD_CMES2_138,<NAME_AYL>: Good, <NICK_CRO> come.\Night soon, finish ready for party.\<NICK_CRO> this way!
+FLD_CMES2_139,No finish yet.\More wait.
+FLD_CMES2_140,Where Azala run?
+FLD_CMES2_141,<NICK_CRO> great!\Strong!
+FLD_CMES2_142,What in the world...?\Could those filthy apes have crafted\something this advanced?
+FLD_CMES2_143,<NAME_AYL>: Azala!
+FLD_CMES2_144,Azala: And so the hairless apes arrive!\Ah, and these new ones appear cut from\a finer cloth than <NAME_AYL>.<PAGE>\Perfect! This should make things easier.\Tell me, apes, what is the purpose of this device?
+FLD_CMES2_145,Tell Azala about the Gate Key?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_146,Azala: Lies! Do you take me for a fool?\No one would talk so easily if that were true.\But perhaps this might loosen your tongues!
+FLD_CMES2_147,Azala: I suppose you need some...motivation.\So be it!
+FLD_CMES2_148,Azala: Come, Nizbel!
+FLD_CMES2_149,Azala: The apes...beat Nizbel!
+FLD_CMES2_150,<NAME_AYL>: Give thing back <NICK_CRO> now!
+FLD_CMES2_151,Azala: Very well... You've won today.\But know that we reptites are the rulers of this world!
+FLD_CMES2_152,Azala: We'll not surrender it to you filthy apes!
+FLD_CMES2_153,<NAME_MAR>: Is the Gate Key all right?
+FLD_CMES2_154,<NAME_LUC>: The Gate Key's not broken, is it?
+FLD_CMES2_155,<NAME_LUC>: Phew, I think it's okay.\We should be able to get back now!
+FLD_CMES2_156,<NAME_ROB>: No damage detected.\The Gate Key appears operational.
+FLD_CMES2_157,<NAME_MAR>: Oh, thank goodness!\It looks like it's okay.
+FLD_CMES2_158,<NAME_AYL>: Azala come any time!\<NAME_AYL> no—!\Ugh... Urgh...
+FLD_CMES2_159,<NAME_AYL>: B-bleeeugh!
+FLD_CMES2_160,<NAME_AYL>: <NICK_CRO> leave?\No <NICK_CRO>, <NAME_AYL> no fun!
+FLD_CMES2_161,<NAME_MAR>: Thank you so much for everything,\<NAME_AYL>. We had a great time with you!
+FLD_CMES2_162,<NAME_LUC>: Thanks, <NAME_AYL>.\I learned a lot from you.
+FLD_CMES2_163,Kino: Sorry, <NICK_CRO>.\Kino try be strong now.\Even more strong <NICK_CRO>!
+FLD_CMES2_164,<NAME_AYL>: Come again, <NICK_CRO>!\Have party! Drink! Eat! Dance!\Fight! Fun!
+FLD_CMES2_165,<NAME_AYL>: Come again, <NICK_CRO>!\<NAME_PT2>, <NAME_PT3>, too!
+FLD_CMES2_166,Color button, dance!\Return button, stop.
+FLD_CMES2_167,Fang, petal, horn, feather...\Give me 6! 3 each, 2 kind!\I give you good strong thing!\What you give me?
+FLD_CMES2_168,<S10><S10><C1>Petal: <NUMBER></C1>\<S10><S10><C2>Fang: <NUMBER></C2>\<S10><S10><C3>Horn: <NUMBER></C3>\<S10><S10><C4>Feather: <NUMBER></C4>
+FLD_CMES2_169,What else you give me?
+FLD_CMES2_170,Same thing, no good!\Give 2 different thing!
+FLD_CMES2_171,You have no thing. No thing, no trade!
+FLD_CMES2_172,Fang, Petal, Horn, Feather...\Give me 6! 3 each, 2 kind!\I give you good strong thing!
+FLD_CMES2_173,Still want trade?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_174,Okay trade for Ruby Gun?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_175,<CT>\Obtained Ruby Gun!
+FLD_CMES2_176,Okay trade for Shaman's Bow?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_177,<CT>\Obtained Shaman's Bow!
+FLD_CMES2_178,Okay trade for Stone Arm?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_179,<CT>\Obtained Stone Arm!
+FLD_CMES2_180,Okay trade for Mammoth Tusk?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_181,<CT>\Obtained Mammoth Tusk!
+FLD_CMES2_182,Okay trade for Ruby Vest?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_183,<CT>\Obtained Ruby Vest!
+FLD_CMES2_184,Okay trade for Stone Helm?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_185,<CT>\Obtained Stone Helm!
+FLD_CMES2_186,Okay trade for Primeval Blade?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_187,<CT>\Obtained Primeval Blade!
+FLD_CMES2_188,Okay trade for Magma Hand?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_189,<CT>\Obtained Magma Hand!
+FLD_CMES2_190,Okay trade for Dreamstone Bow?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_191,<CT>\Obtained Dreamstone Bow!
+FLD_CMES2_192,Okay trade for Dreamstone Gun?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_193,<CT>\Obtained Dreamstone Gun!
+FLD_CMES2_194,Trade! Trade your shiny stone!?
+FLD_CMES2_195,<CT>\Obtained 4 Potions!
+FLD_CMES2_196,Make strong armor, use many rubies.\Trade for petal, fang, horn, feather,\10 each.
+FLD_CMES2_197,You want trade?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_198,You still want?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_199,<CT>\Obtained Ruby Armor!
+FLD_CMES2_200,<NAME_AYL>: <NICK_CRO> awake!?
+FLD_CMES2_201,<NAME_MAR>: <NAME_AYL>!
+FLD_CMES2_202,<NAME_LUC>: <NAME_AYL>!?
+FLD_CMES2_203,<NAME_ROB>: Madam <NAME_AYL>!\Which would mean we are currently...
+FLD_CMES2_204,<NAME_AYL>: <NAME_AYL> want see <NAME_CRO>, go\Mystic Mountain. You there, fall down hurt.<PAGE>\<NAME_AYL> carry back hut.
+FLD_CMES2_205,<NAME_FRO>: <NAME_MAG>!
+FLD_CMES2_206,<NAME_AYL>: Big frog present?\For <NAME_AYL> eat?
+FLD_CMES2_207,<NAME_FRO>: P-perish the thought! \But what of the pale-faced man in the cape?\Was he not with us?
+FLD_CMES2_208,<NAME_AYL>: No, only find you.\Cape one more tasty?
+FLD_CMES2_209,<NAME_FRO>: So, he has fled.
+FLD_CMES2_210,<NAME_AYL>: Lavos?\You no worry now.\You rest. Hurt bad.
+FLD_CMES2_211,<NAME_MAR>: But if <NAME_MAG> didn't create\Lavos...then where did it come from?
+FLD_CMES2_212,<NAME_ROB>: The records were incorrect.\But if <NAME_MAG> did not create Lavos,\then in what era did it originate?
+FLD_CMES2_213,<NAME_LUC>: <NAME_MAG> said that Lavos had\existed since ancient times.
+FLD_CMES2_214,Kino: <NICK_CRO> okay now?\<NAME_AYL> busy, try find Laruba village.<PAGE>\Find village, fight reptites together.\Big fight, last fight!\Beat all reptites or reptites beat us all!
+FLD_CMES2_215,Kino!
+FLD_CMES2_216,Kino: What wrong?\<NICK_CRO> rest, you be quiet!\
+FLD_CMES2_217,North wood, fire!\Burn! Big burn!
+FLD_CMES2_218,Chief look Laruba village north wood!\Chief okay?
+FLD_CMES2_219,Red star in sky.\See even daytime!
+FLD_CMES2_220,Red star grow bright!\Bad sign...
+FLD_CMES2_221,Me see reptites!\Chase chief, go north wood!
+FLD_CMES2_222,Go lava field east, hear strange beast sound.\Never hear before.
+FLD_CMES2_223,Weird thing in lava field. Maybe Azala!\But need flying dactyl go there, over mountain.
+FLD_CMES2_224,Trader get new weapon!\Go see.
+FLD_CMES2_225,Laruba clan call dactyl.\Fly in sky!\We no can call, no can fly.
+FLD_CMES2_226,Go hunt hunting range.\Get petal, fang, horn, feather!<PAGE>\When rain, rare monster come out!\Rare one, good hunt!
+FLD_CMES2_227,Strong person become chief.\Man, woman, boy, girl, no matter.\Ioka chief, big muscle!
+FLD_CMES2_228,<CT>\HP and MP restored!
+FLD_CMES2_229,Lightning stun dinosaur!\You know?
+FLD_CMES2_230,Want know item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES2_231,Petal and fang, trade Ruby Gun.\Petal and horn, trade Shaman's Bow.\Petal and feather, trade Stone Arm.\Fang and horn, trade Mammoth Tusk.<PAGE>\Fang and feather, trade Ruby Vest.\Horn and feather, trade Stone Helm.<PAGE>\I tell you good thing!\Ruby Vest strong against fire.\Not too hot when wear.
+FLD_CMES2_232,Petal and fang, trade Dreamstone Gun.\Petal and horn, trade Dreamstone Bow.\Petal and feather, trade Magma Hand.\Fang and horn, trade Primeval Blade.<PAGE>\Fang and feather, trade Ruby Vest.\Horn and feather, trade Stone Helm.<PAGE>\I tell you good thing!\Ruby Vest strong against fire.\Not too hot when wear.
+FLD_CMES2_233,Reptites gone!\Happy, happy!
+FLD_CMES2_234,We peace.\Want long time.\Now, no worry.
+FLD_CMES2_235,Red star fall...bad sign.\But reptites all gone!\Happy!
+FLD_CMES2_236,Red star! Me see!\Lavos fall place, big fire!\Me scared, make little water.
+FLD_CMES2_237,No reptites!\Happy! Good!
+FLD_CMES2_238,Reptites gone!
+FLD_CMES2_239,Strong chief, strong <NICK_CRO>!\Big pride!
+FLD_CMES2_240,Kino: You come see Kino!\Take time, rest!
+FLD_CMES2_241,Kino: <NAME_AYL>!\<NAME_AYL> okay?\Kino okay!
+FLD_CMES2_242,Kino: Lavos fall.\Reptites gone. That good!\But get cold now.\Hunt, but not many beasts.
+FLD_CMES2_243,But Kino no stop!\<NAME_AYL> no worry, leave to Kino!
+FLD_CMES2_244,<NAME_AYL> quit chief.\Now Kino chief.
+FLD_CMES2_245,Big fire, Lavos, fall.\Now get cold.
+FLD_CMES2_246,Brr! Cold!
+FLD_CMES2_247,Less monster, now cold.\Less game, too.
+FLD_CMES2_248,Happy water, all gone.\Before never happen.
+FLD_CMES2_249,Find strange rock!\But feel icky when touch, so throw away.
+FLD_CMES2_250,Ioka people good, nice people.\When village burn, they say okay live here.
+FLD_CMES2_251,Sky, many cloud.\No can see sun.
+FLD_CMES2_252,I look inside trade hut.\New thing there!
+FLD_CMES2_253,White, cold stuff fall from sky.\What that?
+FLD_CMES2_254,
+FLD_CMES2_255,

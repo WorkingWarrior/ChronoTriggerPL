@@ -1,0 +1,256 @@
+FLD_MSG01_000,We pray for the peace of our world.\We are ever so devout.\Tee hee hee...
+FLD_MSG01_001,...that we might reclaim the future for ourselves,\in Your name.<PAGE>\Oh, how delicious—I mean, delightful-looking you are!
+FLD_MSG01_002,Oh great Lord and Master, deliver your judgment\upon the weak and undeserving!
+FLD_MSG01_003,Why not say a prayer for yourselves?\Hee hee hee...
+FLD_MSG01_004,<NAME_LUC>: What did you find?
+FLD_MSG01_005,<NAME_LUC>: A hairpin?
+FLD_MSG01_006,<NAME_LUC>: Hey, this is Guardia's royal crest!
+FLD_MSG01_007,<NAME_LUC>: Phew!\Wasn't expecting that.
+FLD_MSG01_008,<NAME_LUC>: Ack!
+FLD_MSG01_009,Lower your guard, and you allow the enemy in!
+FLD_MSG01_010,You've come to save the Queen?<PAGE>\The fiends' lair lies within, it would seem.\Will you accompany me?
+FLD_MSG01_011,<NAME_LUC>: You... You're a...<PAGE>\<NAME_CRO>, it's a giant talking frog!\You...you know I can't stand frogs!
+FLD_MSG01_012,I suppose I ought not expect you to trust me,\looking as I do.
+FLD_MSG01_013,Very well. Do as you please.\But I must save the Queen.
+FLD_MSG01_014,<NAME_LUC>: W-wait!
+FLD_MSG01_015,<NAME_LUC>: You...you don't seem like a bad frog.\I mean, person. I mean...umm...
+FLD_MSG01_016,<NAME_LUC>: What should we do, <NAME_CRO>?\<S10><S10><C1>Go with the frog.</C1>\<S10><S10><C2>Refuse.</C2>
+FLD_MSG01_017,<NAME_LUC>: It may be risky going alone.
+FLD_MSG01_018,<NAME_LUC>: Right. I guess I'll just have to get over\my...my aversions to slimy—err, moist-skinned—\creatures. 
+FLD_MSG01_019,<NAME_LUC>: So, what's your name?
+FLD_MSG01_020,<NAME_FRO>: <NAME_FRO> will suffice.
+FLD_MSG01_021,<NAME_LUC>: All right...\Nice...nice to meet you, <NAME_FRO>.
+FLD_MSG01_022,<NAME_FRO>: And you as well.\This room must conceal a hidden passage.\Let us search every corner!
+FLD_MSG01_023,In this world, there are no rains that fail to\lift—no nights that are not dispelled by dawn.<PAGE>\What's important is to trust in those you love,\and never to abandon hope.<PAGE>\That person you cherish is no doubt watching over\you from some distant place.
+FLD_MSG01_024,Gack! Intruders!\Ssstop them!
+FLD_MSG01_025,Sign: No entry within.
+FLD_MSG01_026,Sign: If you're that determined to get through,\by all means...
+FLD_MSG01_027,Zzz... Zzz...<PAGE>\No... Stop that, you idiot...\I said a million times, that one's just a decoy...
+FLD_MSG01_028,Hrgh!?
+FLD_MSG01_029,Sneaking past me, huh?\You must really think you're smart!
+FLD_MSG01_030,Prepare yourself, Queen Leene.\It is time you bid farewell to this world.
+FLD_MSG01_031,Chancellor: You!\How did you get in here?
+FLD_MSG01_032,Leene: <NAME_FRO>!
+FLD_MSG01_033,<NAME_FRO>: Flee, Your Majesty!\We shall dispatch this fiend!
+FLD_MSG01_034,Leene: Be careful!
+FLD_MSG01_035,Chancellor: Gah ha ha!\There's no use in fighting!\None of you will leave this place alive!
+FLD_MSG01_036,Chancellor: Intolerable frog!\Let us see you hop your way out of this!
+FLD_MSG01_037,Chancellor: Enough of this Chancellor charade.
+FLD_MSG01_038,<CT>\The Chancellor transformed into Yakra!
+FLD_MSG01_039,Leene: Thank you, <NAME_FRO>.\I knew you'd come to rescue me!
+FLD_MSG01_040,<NAME_FRO>: His Majesty awaits most anxiously.\We should return to the castle.
+FLD_MSG01_041,<NAME_FRO>: I thank you, <NAME_CRO> and <NAME_LUC>,\for all your aid.
+FLD_MSG01_042,Leene: And I as well.\Please, accompany us to the castle.\You will be most welcome guests.
+FLD_MSG01_043,Leene: Yes, let us be on our way.
+FLD_MSG01_044,True Chancellor: W-wait!\What about me!?\I'm still alive, too!\Entirely undamaged!
+FLD_MSG01_045,True Chancellor: Whew! My thanks.\That monster stuffed me in there like a sack of coin.
+FLD_MSG01_046,True Chancellor: Oh! Your Majesty!\I am undamaged, as you can see!
+FLD_MSG01_047,Welcome. What can I do for you?
+FLD_MSG01_048,My thanks.
+FLD_MSG01_049,The Hero has come at last?<PAGE>\Then I suppose it is only a matter of time before\the epic battle begins.
+FLD_MSG01_050,Peace at last, thanks be to the Hero!<PAGE>\Hurrah for the Hero!\Hurrah for Guardia!
+FLD_MSG01_051,Yay!\The Hero beat all the evil monsters!
+FLD_MSG01_052,Is it true that His Majesty suffered injury?<PAGE>\Oh, what will become of us and our kingdom now?
+FLD_MSG01_053,Oh, where could Sir Cyrus be?<PAGE>\Surely he hasn't deserted the kingdom?
+FLD_MSG01_054,<NAME_FRO>: ...
+FLD_MSG01_055,I heard talk that the Hero was Sir Cyrus's friend.<PAGE>\Ah, he must be a truly handsome knight!
+FLD_MSG01_056,<NAME_FRO>: ...<PAGE>\...
+FLD_MSG01_057,<NAME_FRO>: Heh heh...
+FLD_MSG01_058,Mother says I'm not to play outside because it's\dangerous with all the monsters.<PAGE>\I'm so bored!
+FLD_MSG01_059,They say the Fiendlord is a master of the arcane magic\of old. The cantrips of his fiends are nothing compared\to what he wields.
+FLD_MSG01_060,That <NAME_MAG> survived and is in hiding now,\so I hear.<PAGE>\We cannot let that fiend escape!\Think of all the soldiers who fell.
+FLD_MSG01_061,This house belongs to Dorino's village elder.<PAGE>\My, that is unusual garb you wear!\Are you outlanders?\Did you come fleeing <NAME_MAG>'s fiends, too?
+FLD_MSG01_062,This house belongs to Dorino's village elder.\It seems we'll have some peace here again at last.
+FLD_MSG01_063,<NAME_MAG> commands three fearsome generals:\Ozzie, Flea, and Slash.<PAGE>\Best stay far away from the lot of them.\There's not a drop of humanity to be found\amongst them—they're fiends through and\through.
+FLD_MSG01_064,<NAME_MAG>'s three generals fled.\I've heard they're hiding on some island.<PAGE>\Will we never rid this world of evildoers?
+FLD_MSG01_065,<NAME_MAG>'s keep sits on an island to the east.\The sheer cliffs surrounding it make it inaccessible.
+FLD_MSG01_066,It's said only the ancient sword, the Masamune,\can slay the Fiendlord. And only the chosen Hero\of legend can wield the blade.
+FLD_MSG01_067,Behold!<PAGE>\The legendary Hero, sword in hand!<PAGE>\Ah...\Just once, I wish I could be in the Hero's shoes!
+FLD_MSG01_068,The Hero's here to save us!<PAGE>\He's strong and he'll stop all the bad monsters!
+FLD_MSG01_069,Village Elder: The item I seek is the mythical\Rainbow Shell.<PAGE>\Here's some money to cover your expenses.\You'll have the rest when you've retrieved it.\I am counting on you, Toma.
+FLD_MSG01_070,Toma: Worry not. They do not call me a legendary\explorer without reason. I will not disappoint.
+FLD_MSG01_071,Village Elder: Hmph...\I'll be awaiting good news.
+FLD_MSG01_072,Toma: Well then! Now that the business is settled,\I think I'll go down a drink for the road.
+FLD_MSG01_073,Toma: I'm a bit busy right now.\Let's talk later.
+FLD_MSG01_074,Village Elder: With the Rainbow Shell, we could\make prismatic armor to guard against magic.<PAGE>\Yet I worry I may have misplaced my trust in that\young man. He claims to be a great explorer, but\was I right to believe him?
+FLD_MSG01_075,Village Elder: Legendary explorer, he says.\The lying, no-good thief!<PAGE>\He used all the money, but still can't find\what I asked for. He may as well have robbed\me at knifepoint!
+FLD_MSG01_076,Greetings! This is the Dorino Inn.\It'll cost you 50 G for the night, if you please.
+FLD_MSG01_077,Will you stay?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG01_078,Oh, wonderful!\Well then, rest and relax!
+FLD_MSG01_079,Huh?\You don't have enough!
+FLD_MSG01_080,What a shame!\I'll be awaiting your return, then.
+FLD_MSG01_081,Are the rumors true?\Is the Fiendlord's army truly closing in?<PAGE>\Well, the mythical Hero has appeared, so I'm sure\we'll be all right!
+FLD_MSG01_082,Tales say the legendary Masamune sleeps deep within\the Denadoro Mountains. But they say a terrible beast\rests there as well, guarding the blade.
+FLD_MSG01_083,Want to hear something interesting?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG01_084,The Denadoro Mountains to the east are filled\with monsters called ogans that wield huge hammers.\But burn their weapons, and they're pussycats.
+FLD_MSG01_085,So be it. I'll tell someone else.
+FLD_MSG01_086,The winds off the Denadoros have grown mild as of late.
+FLD_MSG01_087,Have you met the Hero already?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG01_088,Truly? Oh, I wish I could catch a glimpse of him!\I've butterflies in my stomach just to think of it!
+FLD_MSG01_089,Oh... I haven't met him, either.<PAGE>\I wonder what the champion of the world looks like.\I'm so thrilled to see!
+FLD_MSG01_090,Pray. The end of the world is at hand.
+FLD_MSG01_091,We're saved!\Well, at least for the time being.
+FLD_MSG01_092,A great swordsmith of long ago once forged a\masterwork blade called the something-or-other-\mooney. No one alive today has the skill to make\a sword to rival it.
+FLD_MSG01_093,Proprietor: You're looking for the Hero?<PAGE>\You might have better luck down south, in the village\of Porre. That's where they say he's from.
+FLD_MSG01_094,Proprietor: Last I heard, the Hero went to the\Denadoro Mountains in search of a sword. I've\no idea where he might have headed after that.
+FLD_MSG01_095,Proprietor: Ha!\<NAME_MAG> is gone!<PAGE>\Now there's nothing to fear!\It's time to celebrate!
+FLD_MSG01_096,Many people visit inns. If you're searching for someone,\inns are a fine place to ask.<PAGE>\By the way, did you know whirlwind energy\will dissipate if it's hit with a wind slash?\Nature has a way of balancing things out.
+FLD_MSG01_097,<NAME_MAG> is trying to summon a terrible evil.\If he succeeds, there will be no quarter for us.\We'll all perish.<PAGE>\That's why I mean to keep hiding in the bottom of this\mug. Hic!
+FLD_MSG01_098,<NAME_MAG>'s plan was thwarted. Now we should all be\safe no matter what we do!<PAGE>\That's why I mean to keep looking for paradise in the\bottom of this mug. Hic!
+FLD_MSG01_099,Toma: Ah, hello! How have the days treated you?\I've got some information for you, if you'd care\to buy me a drink.
+FLD_MSG01_100,What say you? Can you spare 30 G?\<S10><S10><C1>All right.</C1>\<S10><S10><C2>Sorry.</C2>
+FLD_MSG01_101,Toma: My thanks.
+FLD_MSG01_102,Toma: Tsk!\You don't have the money!
+FLD_MSG01_103,Toma: Barkeep! Another round!
+FLD_MSG01_104,Toma: Word has it an odd beast has taken up residence\deep in the southern wood. Strange as it may sound,\they say it's a monstrous frog. How about that, eh?
+FLD_MSG01_105,Toma: Would you mind finding somewhere else to go,\then? I don't have time for you.
+FLD_MSG01_106,Toma: The Rainbow Shell, eh?\I suppose Porre would be the first place to look.
+FLD_MSG01_107,Toma: Oh! How have you been, <NAME_PT1>?\I kept my word and found it!
+FLD_MSG01_108,Toma: I'll be waiting to see you when all is through.\Treat me to another round when next we meet!<PAGE>\I promise I'll make it worth your while.\Heh heh...
+FLD_MSG01_109,Oh, stop that, you bad boy!
+FLD_MSG01_110,Sign: Private property.\No trespassing, ribbit.
+FLD_MSG01_111,Who's there!?
+FLD_MSG01_112,<NAME_FRO>: Ah, <NAME_CRO>!\What brings you here?\Come to practice your swordplay?
+FLD_MSG01_113,<NAME_FRO>: What!?\His Majesty, wounded?
+FLD_MSG01_114,<NAME_FRO>: ...<PAGE>\I see.
+FLD_MSG01_115,<NAME_FRO>: There's naught I can do.\Pray forgive me, but...I'd like to be alone.
+FLD_MSG01_116,<NAME_FRO>: I am no Hero.\There's naught I can do to help.
+FLD_MSG01_117,<NAME_FRO>: You've returned?\That...that badge!
+FLD_MSG01_118,<NAME_FRO>: I'm surprised you found this place.\That badge...is that—!?
+FLD_MSG01_119,<NAME_FRO>: I see. So you met the lad.\But there's not a thing I can do against the Fiendlord.
+FLD_MSG01_120,<NAME_FRO>: To fight him would require the legendary\Masamune, which is—no, it matters little.<PAGE>\Even had I the blade, I've no right to wield it.
+FLD_MSG01_121,<NAME_FRO>: Please, leave me be.
+FLD_MSG01_122,<NAME_FRO>: There are none alive who could mend\the Masamune.
+FLD_MSG01_123,<NAME_LUC>: A broken sword hilt...\This is part of the Masamune!
+FLD_MSG01_124,<NAME_ROB>: A broken sword hilt.\This must be part of the Masamune!
+FLD_MSG01_125,<NAME_LUC>: It's engraved with archaic letters.\I think I can make it out.\Umm... Let's see...
+FLD_MSG01_126,<NAME_LUC>: M...E...L...C...H...I...O...R!
+FLD_MSG01_127,<NAME_LUC>: Melchior!?\That guy from Medina?\No, it couldn't be.
+FLD_MSG01_128,<NAME_ROB>: Something is written in archaic script.\I will attempt to decipher it.
+FLD_MSG01_129,<NAME_ROB>: ...\R...O...I...H...C...L...E...M?
+FLD_MSG01_130,<NAME_ROB>: Roihclem?
+FLD_MSG01_131,<NAME_ROB>: Error!\I reversed the order!\It says "Melchior."
+FLD_MSG01_132,<NAME_MAR>: Melchior?\That guy from Medina Village?<PAGE>\What does this mean, <NAME_CRO>?
+FLD_MSG01_133,<NAME_FRO>: You've come again.
+FLD_MSG01_134,<NAME_FRO>: This sword... No, it could not be!\The Masamune?
+FLD_MSG01_135,<NAME_FRO>: I must ponder this turn of events.\You may remain here for the night.
+FLD_MSG01_136,Glenn: Gah!
+FLD_MSG01_137,Cyrus: Glenn, watch out!
+FLD_MSG01_138,Glenn: Cyrus!\Your sword...!<PAGE>\The Masamune!
+FLD_MSG01_139,Ozzie: Gah ha ha...\Is that the best you can do?<PAGE>\Without your sword, you're nothing!
+FLD_MSG01_140,Cyrus: Grr!\You've not bested me yet!
+FLD_MSG01_141,Glenn: Cyrus...\I...I'm done for.
+FLD_MSG01_142,Cyrus: Listen to me, Glenn!\I will hold them here.\Use that chance to escape!
+FLD_MSG01_143,Glenn: B-but—!
+FLD_MSG01_144,Cyrus: Stay, and they'll only kill us both.\Go, Glenn!
+FLD_MSG01_145,<NAME_MAG>: Hadn't you better worry about yourself,\Cyrus? I do not think you've the time to be concerned\with the well-being of others.
+FLD_MSG01_146,Cyrus: This is it, Glenn!\Go!
+FLD_MSG01_147,Cyrus: Gaaahhh!
+FLD_MSG01_148,Glenn: Cyrus!
+FLD_MSG01_149,Cyrus: Run...run, Glenn.<PAGE>\The Queen...\Take care of...Queen Leene.\I...beg...<PAGE>\...
+FLD_MSG01_150,Glenn: Cyrus!\Cyrus!?<PAGE>\Nooooo!
+FLD_MSG01_151,<NAME_MAG>: Hmph!\What's the matter?\Are you not going to try your luck?
+FLD_MSG01_152,Glenn: Grr!
+FLD_MSG01_153,Ozzie: Gah ha ha!\Like a scared little frog with no pond to jump into!
+FLD_MSG01_154,Ozzie: How about it, Lord <NAME_MAG>?\Can't you give him a more fitting form?
+FLD_MSG01_155,<NAME_MAG>: Very well.\No act of defiance goes unpunished.
+FLD_MSG01_156,Glenn: No!
+FLD_MSG01_157,Glenn: Urgh... Gah!
+FLD_MSG01_158,Glenn: Aaaaaaagh!
+FLD_MSG01_159,Ozzie: Gah ha ha ha ha!\That's more like it!\You spineless wimp!
+FLD_MSG01_160,<NAME_FRO>: Ten long years have passed.<PAGE>\Have I the strength?\Oh, Cyrus...
+FLD_MSG01_161,<NAME_FRO>: Wake, <NAME_CRO>.
+FLD_MSG01_162,<NAME_FRO>: I do not know how far my skills will\carry me, but I will put them to the test.\Let us go to <NAME_MAG>'s keep.
+FLD_MSG01_163,<NAME_FRO>: His strength is no small thing.\Do you understand the odds we face?
+FLD_MSG01_164,<NAME_LUC>: Nothing can beat science!
+FLD_MSG01_165,<NAME_MAR>: The good guys always win!
+FLD_MSG01_166,<NAME_ROB>: We must do it for the future!
+FLD_MSG01_167,A strange monster came here drinking not long past,\mumbling about "Queen Leene" this and "Masamune"\that.
+FLD_MSG01_168,Sure was an ugly frog-man!\Heh heh!
+FLD_MSG01_169,That sure was an ugly fr—ahem.<PAGE>\I meant, such a magnificent frog!\Sure to be a great hero or chancellor someday!
+FLD_MSG01_170,Proprietress: I've not seen little Tata lately.\I wonder where he's gone off to.<PAGE>\I suppose I should count my blessings.\Things are a lot quieter without that\brat around causing trouble.
+FLD_MSG01_171,Proprietress: Tata came home, it seems.\And here it was so peaceful in the village without him!<PAGE>\But I'm glad he's all right.\I'd almost started to miss him, and he'd caused a lot\of worry.
+FLD_MSG01_172,Proprietress: I have a little dream of my own, you know.\Hee hee...<PAGE>\I wonder if I could be a good mother to that boy?
+FLD_MSG01_173,I can't believe that naughty little urchin, Tata,\is the legendary Hero!
+FLD_MSG01_174,So, Tata was only a fraud after all.\Always causing trouble, that one.<PAGE>\But if he's not the Hero, then where's the real one?
+FLD_MSG01_175,Tata's been working hard lately.\He just may have learned his lesson.
+FLD_MSG01_176,I cannot believe the legendary Hero is a boy from this\very village!
+FLD_MSG01_177,Have you heard the latest?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG01_178,Yes, I suppose everyone must be talking about it.\His old man must be so proud!
+FLD_MSG01_179,Well, then let me be the one to tell you.\The legendary Hero is from our own village!
+FLD_MSG01_180,And I'd thought the Hero one of our own.\How disappointing.
+FLD_MSG01_181,Have you heard about the Magic Cave?\The one east of the Denadoro Mountains?<PAGE>\I saw a sheer rock wall there part like a castle gate,\and then a host of fiends strolled right in!<PAGE>\Best leave <NAME_MAG> and his cronies to their own\devices though, less'n you want trouble.
+FLD_MSG01_182,A slimy frog-man bested <NAME_MAG>?<PAGE>\I'd have gone and slew the fiend myself if'n\I'd known it would be that easy! 
+FLD_MSG01_183,Toma: Oh, we meet again.\What say you buy me a drink?\<S10><S10><C1>Sure.</C1>\<S10><S10><C2>No way.</C2>
+FLD_MSG01_184,Toma: Cheers!\To your safety and success!
+FLD_MSG01_185,Toma: I tracked down the Rainbow Shell that the\Dorino elder hired me to find. It's on a small island,\it seems.<PAGE>\But there's the rub.\I don't know which one!<PAGE>\The money he fronted me is all gone, too.\Oh, what should I do?
+FLD_MSG01_186,Toma: Miser!<PAGE>\Hmph, let's see if I've enough of that money the elder\fronted me to cover another mug.
+FLD_MSG01_187,<CT>\It is locked.
+FLD_MSG01_188,Oh, dear me!\Is that Naga bromide you're hiding there?
+FLD_MSG01_189,Won't you do an old man a favor and trade it to me?\I'll give you something good in exchange.\<S10><S10><C1>All right.</C1>\<S10><S10><C2>I don't need your rubbish.</C2>
+FLD_MSG01_190,Hmph!\Very well, suit yourself.
+FLD_MSG01_191,Truly, you mean it?<PAGE>\Yahoo! Oh, what a glorious day!\Now then, just wait right there.\No need to get impatient.
+FLD_MSG01_192,It's unlocked. Feel free to take what's inside.<PAGE>\And I'll be taking this bromide!\Hee hee...
+FLD_MSG01_193,Don't tell Granny.\Hee hee... My very own sweet naga pet!
+FLD_MSG01_194,<CT>\Obtained <NAME_ITM>!
+FLD_MSG01_195,<CT>\Obtained <NAME_ITM>!
+FLD_MSG01_196,<CT>\It's empty!
+FLD_MSG01_197,
+FLD_MSG01_198,
+FLD_MSG01_199,
+FLD_MSG01_200,
+FLD_MSG01_201,
+FLD_MSG01_202,
+FLD_MSG01_203,
+FLD_MSG01_204,
+FLD_MSG01_205,
+FLD_MSG01_206,
+FLD_MSG01_207,
+FLD_MSG01_208,
+FLD_MSG01_209,
+FLD_MSG01_210,
+FLD_MSG01_211,
+FLD_MSG01_212,
+FLD_MSG01_213,
+FLD_MSG01_214,
+FLD_MSG01_215,
+FLD_MSG01_216,
+FLD_MSG01_217,
+FLD_MSG01_218,
+FLD_MSG01_219,
+FLD_MSG01_220,
+FLD_MSG01_221,
+FLD_MSG01_222,
+FLD_MSG01_223,
+FLD_MSG01_224,
+FLD_MSG01_225,
+FLD_MSG01_226,
+FLD_MSG01_227,
+FLD_MSG01_228,
+FLD_MSG01_229,
+FLD_MSG01_230,
+FLD_MSG01_231,
+FLD_MSG01_232,
+FLD_MSG01_233,
+FLD_MSG01_234,
+FLD_MSG01_235,
+FLD_MSG01_236,
+FLD_MSG01_237,
+FLD_MSG01_238,
+FLD_MSG01_239,
+FLD_MSG01_240,
+FLD_MSG01_241,
+FLD_MSG01_242,
+FLD_MSG01_243,
+FLD_MSG01_244,
+FLD_MSG01_245,
+FLD_MSG01_246,
+FLD_MSG01_247,
+FLD_MSG01_248,
+FLD_MSG01_249,
+FLD_MSG01_250,
+FLD_MSG01_251,
+FLD_MSG01_252,
+FLD_MSG01_253,
+FLD_MSG01_254,
+FLD_MSG01_255,

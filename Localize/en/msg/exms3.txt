@@ -1,0 +1,256 @@
+FLD_EXMS3_000,<CT>\Obtained <NAME_ITM>!
+FLD_EXMS3_001,<NAME_AYL>: Where this?\No like this place.
+FLD_EXMS3_002,<NAME_MAR>: Where are we?\I don't like this place.
+FLD_EXMS3_003,<NAME_FRO>: To what profane place have we come?
+FLD_EXMS3_004,<NAME_LUC>: It looks like we've come to the world of\some other age.
+FLD_EXMS3_005,<NAME_ROB>: I am unfamiliar with this location.
+FLD_EXMS3_006,<NAME_MAG>: This is a great rift in time's fabric.\There is no stability whatsoever here.
+FLD_EXMS3_007,<NAME_ROB>: My time gyro cannot acquire a stable\reading for time or locale.
+FLD_EXMS3_008,<NAME_LUC>: It looks like we've come to the world of\some other age.
+FLD_EXMS3_009,<NAME_FRO>: It seems almost a confluence of sorts, as\if time's streams were crossed.
+FLD_EXMS3_010,<NAME_MAR>: Is space all twisted here?\I don't understand.
+FLD_EXMS3_011,<NAME_FRO>: In any case, shall we explore?
+FLD_EXMS3_012,<NAME_LUC>: I don't really like this, but should we take\a look at what's here?\
+FLD_EXMS3_013,<NAME_ROB>: Shall we explore?\I find this place intriguing already.
+FLD_EXMS3_014,<NAME_MAG>: We've no guarantee we'll be able to return.\Do we go onward?
+FLD_EXMS3_015,<NAME_AYL>: Go ahead?
+FLD_EXMS3_016,This Gate connects to the era from which you came.\Do you wish to return there?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS3_017,There is a switch here.\Press the switch?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS3_018,"Crater surveillance ladder."\Press the switch?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS3_019,There is a note.<PAGE>\"The Director of Research ought to have the security\lock release code written down somewhere in this room.<PAGE>\"He's a strange one, though, always writing in riddles\and what have you. Knowing him, he probably came up\with some crazy color code."
+FLD_EXMS3_020,There is a note written by the Director of Research.<PAGE>\"Security lock release code: Tomato."<PAGE>\"I picked it because, well...veggies are good for you.\A tomato a day keeps the doctor away!"
+FLD_EXMS3_021,<CT>\SECURITY LOCK ENGAGED.
+FLD_EXMS3_022,<NAME_LUC>: Is anybody out there!?
+FLD_EXMS3_023,<NAME_MAR>: Help!
+FLD_EXMS3_024,<NAME_ROB>: Can anyone hear us?
+FLD_EXMS3_025,<NAME_AYL>: Open door!\Open door NOW!
+FLD_EXMS3_026,<NAME_FRO>: Is no one out there?
+FLD_EXMS3_027,<NAME_MAG>: Hmph.
+FLD_EXMS3_028,<NAME_FRO>: It seems it falls on us to save the day.
+FLD_EXMS3_029,<NAME_ROB>: It appears everyone is all right.
+FLD_EXMS3_030,<NAME_AYL>: You okay?\<NAME_AYL> help!
+FLD_EXMS3_031,<NAME_MAR>: Leave it to us!
+FLD_EXMS3_032,<NAME_LUC>: You came!
+FLD_EXMS3_033,<NAME_LUC>: We're trapped in here!\There should be a room to the east with a mechanism\to release the lock. Think you can look for it?
+FLD_EXMS3_034,<NAME_MAR>: Oh, thank goodness!\I thought we were trapped for good!<PAGE>\You should be able to open the door from inside a\room to the east. Please, you have to get us out!
+FLD_EXMS3_035,<NAME_ROB>: Oh, you have come!\Thank you.<PAGE>\There is a room to your east from which you can\release this lock. Would you be so kind as to look\for it?
+FLD_EXMS3_036,<NAME_AYL>: Oh, you come help <NAME_AYL>!<PAGE>\Go find place open door!\<NAME_AYL> no like door not open.\<NAME_AYL> want leave!
+FLD_EXMS3_037,<NAME_FRO>: You've come to help us!\My pardons.<PAGE>\To your east is a room from which this door can be\opened. Might you do us the favor of searching it out?
+FLD_EXMS3_038,<NAME_MAG>: Hmph.\Do not think I'll make a habit of this.
+FLD_EXMS3_039,<NAME_FRO>: Of course.\We'll go at once.
+FLD_EXMS3_040,<NAME_ROB>: Understood.\We shall commence the search immediately.
+FLD_EXMS3_041,<NAME_AYL>: Okay.\<NAME_AYL> find!
+FLD_EXMS3_042,<NAME_MAR>: All right.\Just hold on a little bit longer.\We'll get you out!
+FLD_EXMS3_043,<CT>\INTRUSION DETECTED!
+FLD_EXMS3_044,<CT>\INITIALIZING SECURITY LOCK\OBSERVATION PROGRAM.
+FLD_EXMS3_045,<CT>\LOCK RELEASE COMMAND EXECUTED BY\UNREGISTERED ADMINISTRATOR.<PAGE><CT>\\INITIATING CONTAINMENT LOCKDOWN.
+FLD_EXMS3_046,<CT>\ADMINISTRATOR REGISTRATION AT EAST WING\REQUIRED TO DISENGAGE LOCKDOWN.
+FLD_EXMS3_047,<NAME_LUC>: It won't open.\Are we trapped in here?
+FLD_EXMS3_048,<NAME_MAR>: It's no use, it won't open.\It looks like we're trapped.
+FLD_EXMS3_049,<NAME_ROB>: The door lock has been activated.\It appears we are trapped.
+FLD_EXMS3_050,<NAME_AYL>: Door no open.\<NAME_AYL> no can leave?
+FLD_EXMS3_051,<NAME_FRO>: It's no use.\It would seem we're trapped.
+FLD_EXMS3_052,<NAME_MAG>: What now?\We'd best do something, unless it is your\plan to wait out our deaths here.
+FLD_EXMS3_053,<NAME_FRO>: What shall we do now?\We must think of a way to escape.
+FLD_EXMS3_054,<NAME_AYL>: How get out?
+FLD_EXMS3_055,<NAME_ROB>: This could pose a problem.\I do not think our strength will be\sufficient to force our way out.
+FLD_EXMS3_056,<NAME_MAR>: There's no way out?\I don't want to die in here!
+FLD_EXMS3_057,<NAME_ROB>: The locks have been released!
+FLD_EXMS3_058,<NAME_AYL>: Door open!\Can go out!
+FLD_EXMS3_059,<NAME_FRO>: Ah, they've released the locks!\We'll have to thank them properly when\we've the chance.
+FLD_EXMS3_060,<NAME_LUC>: All right!\The doors are unlocked!\We'll have to thank them later.
+FLD_EXMS3_061,<NAME_MAR>: Whew, the doors are unlocked!\Thank goodness. I was really starting\to get tired of this place!
+FLD_EXMS3_062,<NAME_MAG>: Hmm?\It seems another route has opened.\Shall we see what lies that way?
+FLD_EXMS3_063,<NAME_MAR>: Huh?\Another way opened up, too.\Why don't we check it out?
+FLD_EXMS3_064,<NAME_LUC>: Hmm?\The lasers seem to have been shut off, too.\Why don't we see what's this way?
+FLD_EXMS3_065,<NAME_FRO>: Hm?\It looks as though another route is open.\Shall we take a look?
+FLD_EXMS3_066,<NAME_AYL>: Huh?\Here open, too.\Go look?
+FLD_EXMS3_067,<CT>\ELIMINATE THE INTRUDERS!
+FLD_EXMS3_068,<CT>\BOOTING SECURITY SYSTEM...
+FLD_EXMS3_069,RELEASE SECURITY LOCKS?\<S10><S10><C1>YES</C1>\<S10><S10><C2>NO</C2>
+FLD_EXMS3_070,<CT>\PLEASE ENTER RELEASE CODE.
+FLD_EXMS3_071,<CT>\CODE CONFIRMED.\SECURITY SYSTEM DISENGAGED.
+FLD_EXMS3_072,<CT>\ERROR.\RELEASE CODE INCORRECT.
+FLD_EXMS3_073,<CT>\CONFIRMING ENTRANT IDENTITIES.
+FLD_EXMS3_074,<CT>\UNREGISTERED ENTRANTS.\COMMENCING EXTERMINATION.
+FLD_EXMS3_075,<CT>\LEVEL 1 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_076,<CT>\LEVEL 2 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_077,<CT>\LEVEL 3 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_078,<CT>\LEVEL 4 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_079,<CT>\LEVEL 5 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_080,<CT>\LEVEL 6 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_081,<CT>\LEVEL 7 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_082,<CT>\LEVEL 8 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_083,<CT>\LEVEL 9 ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_084,<CT>\MAXIMUM ALERT.\ELIMINATE INTRUDERS!
+FLD_EXMS3_085,<CT>\FATAL ERROR.\INTRUDER ELIMINATION FAILED.
+FLD_EXMS3_086,<CT>\INITIATING SYSTEM SHUTDOWN.
+FLD_EXMS3_087,<NAME_LUC>: Just...this like so, and—done!
+FLD_EXMS3_088,<CT>\ADMINISTRATOR REGISTRATION COMPLETE.\SECUIRTY LOCKDOWN DISENGAGED.
+FLD_EXMS3_089,<NAME_LUC>: All right, that ought to do it.\The rest is out of our hands!
+FLD_EXMS3_090,<NAME_ROB>: Analysis complete.\It is a simple program.\This should suffice.
+FLD_EXMS3_091,<CT>\ADMINISTRATOR REGISTRATION COMPLETE.\SECUIRTY LOCKDOWN DISENGAGED.
+FLD_EXMS3_092,<NAME_ROB>: It seems to have worked.\The others should be able to manage the rest.
+FLD_EXMS3_093,<NAME_MAR>: I have to do something with this, right?\Um, let's see... Maybe I'm supposed to—here?\Is this it?
+FLD_EXMS3_094,<CT>\ADMINISTRATOR REGISTRATION COMPLETE.\SECUIRTY LOCKDOWN DISENGAGED.
+FLD_EXMS3_095,<NAME_MAR>: Huh? It worked!? All right!\I guess the rest is up to them!
+FLD_EXMS3_096,<NAME_FRO>: I must manipulate this somehow, correct?\I fear it may be beyond my grasp.\Hmm... Mayhap if I do this...?
+FLD_EXMS3_097,<CT>\ADMINISTRATOR REGISTRATION COMPLETE.\SECUIRTY LOCKDOWN DISENGAGED.
+FLD_EXMS3_098,<NAME_FRO>: Ah, success!\And it seems our work is now done.\The rest is on their shoulders.
+FLD_EXMS3_099,<NAME_AYL>: No understand.\But <NAME_AYL> no lose!\Grr...!
+FLD_EXMS3_100,<CT>\ADMINISTRATOR REGISTRATION COMPLETE.\SECUIRTY LOCKDOWN DISENGAGED.
+FLD_EXMS3_101,<NAME_AYL>: Oh! Good thing!\No fight <NAME_AYL>!
+FLD_EXMS3_102,<CT>\Mwa ha ha ha ha!\Stay right where you are!
+FLD_EXMS3_103,<NAME_FRO>: You're...
+FLD_EXMS3_104,<NAME_ROB>: You are...
+FLD_EXMS3_105,<NAME_AYL>: You...
+FLD_EXMS3_106,<NAME_MAG>: You...
+FLD_EXMS3_107,<NAME_MAR>: You're...
+FLD_EXMS3_108,<NAME_LUC>: Dalton!\You survived!
+FLD_EXMS3_109,<NAME_MAR>: Dalton!\You're still alive!
+FLD_EXMS3_110,<NAME_MAG>: Dalton!\So, you still live.
+FLD_EXMS3_111,<NAME_AYL>: Dalton!\Dalton not die?
+FLD_EXMS3_112,<NAME_ROB>: Dalton!\You are still alive.
+FLD_EXMS3_113,Dalton: It's been quite some time, hasn't it?\Did I startle you with my brilliant reappearance?
+FLD_EXMS3_114,Dalton: Not even a little!?\Well, who asked you?
+FLD_EXMS3_115,Dalton: If it weren't for you, I'd have been the ruler\of an age all my own!<PAGE>\You robbed me of everything I'd worked so hard for!\My wealth, my home, my loyal underlings...\You took it all away!\It's unforgivable!<PAGE>\So come on! Have a taste of the suffering I've\endured because of you!
+FLD_EXMS3_116,Dalton: Hmph, I think that's enough for today.\But don't you dare think this is settled!\Just you wait, <NAME_CRO>!<PAGE>\I'll raise the greatest army the world has ever seen in\Porre, and use it to wipe your pitiful little kingdom off\the map!
+FLD_EXMS3_117,Dalton: Hmph, I think that's enough for today.\But don't you dare think this is settled!\Just you wait!<PAGE>\I'll raise the greatest army the world has ever seen in\Porre, and use it to wipe your pitiful little kingdom off\the map!
+FLD_EXMS3_118,<CT>\Heh heh heh...
+FLD_EXMS3_119,<CT>\Ah hah hah hah hah!
+FLD_EXMS3_120,<NAME_AYL>: <NAME_AYL> no lose!
+FLD_EXMS3_121,<NAME_MAG>: The dog yelps.
+FLD_EXMS3_122,<NAME_MAR>: You won't touch Guardia.\Not if I have anything to say about it!
+FLD_EXMS3_123,<NAME_LUC>: You'll never be tough enough to take on\Guardia. Not in a million years!
+FLD_EXMS3_124,<NAME_FRO>: Should such a day come, we shall be there\to stop you!
+FLD_EXMS3_125,<NAME_MAR>: I feel someone calling me.\I...I have to go.
+FLD_EXMS3_126,<NAME_AYL>: What wrong, <NAME_CRO>?
+FLD_EXMS3_127,<NAME_ROB>: Sir <NAME_CRO>, is something troubling you?
+FLD_EXMS3_128,<NAME_FRO>: What is it, <NAME_CRO>?
+FLD_EXMS3_129,<NAME_LUC>: Is something wrong, <NAME_CRO>?
+FLD_EXMS3_130,<NAME_MAR>: What's the matter, <NAME_CRO>?
+FLD_EXMS3_131,<NAME_MAR>: You feel like someone's...calling you?
+FLD_EXMS3_132,<NAME_LUC>: Someone's...calling to you?
+FLD_EXMS3_133,<NAME_FRO>: Something beckons you?
+FLD_EXMS3_134,<NAME_ROB>: Something is calling you?
+FLD_EXMS3_135,<NAME_AYL>: Someone call <NAME_CRO>?
+FLD_EXMS3_136,<NAME_MAR>: No... All I can see are memories\of the times I spent with <NAME_CRO>.\I can't...I can't go on like this!\It's too much to take.
+FLD_EXMS3_137,<NAME_LUC>: All my memories of <NAME_CRO> just\keep flashing by for some reason. Oh, <NAME_CRO>!\I can't take this. Can we leave?
+FLD_EXMS3_138,<NAME_AYL>: <NICK_CRO>...\<NAME_AYL> head just think <NAME_CRO>.\No can stop!\Oh, no...
+FLD_EXMS3_139,<NAME_FRO>: I...cannot be here.\All my memories of <NAME_CRO> keep rushing back.\It's too much to bear.\Let us go back.
+FLD_EXMS3_140,<NAME_ROB>: We must go back. My memory banks are\becoming overloaded with memories of <NAME_CRO>.\I am afraid I may go haywire at this rate.
+FLD_EXMS3_141,<NAME_LUC>: Strange...\I feel like something's tugging me forward.\I...I have to go.
+FLD_EXMS3_142,<NAME_MAG>: This is—but, no!
+FLD_EXMS3_143,<NAME_FRO>: What trickery is this?
+FLD_EXMS3_144,<NAME_ROB>: This is not possible!
+FLD_EXMS3_145,<NAME_AYL>: <NAME_AYL> no understand!
+FLD_EXMS3_146,<NAME_LUC>: What's going on?
+FLD_EXMS3_147,<NAME_MAR>: What's happening?
+FLD_EXMS3_148,<NAME_LUC>: <NAME_MAR>?\Why are there two of you!?
+FLD_EXMS3_149,<NAME_AYL>: Two <NAME_MAR>!?
+FLD_EXMS3_150,<NAME_ROB>: I am seeing <NAME_MAR> twice!
+FLD_EXMS3_151,<NAME_FRO>: There is another <NAME_MAR>!
+FLD_EXMS3_152,<NAME_MAG>: Two of the same <NAME_MAR>?
+FLD_EXMS3_153,<NAME_MAR>: Who are you?\Are you...me?
+FLD_EXMS3_154,<CT>\One of me is all this world needs.\Begone, for all eternity!
+FLD_EXMS3_155,<NAME_MAR>: I guess...I guess I have to fight you.\I don't want to be gone for all eternity!
+FLD_EXMS3_156,<CT>\<NAME_MAR>'s latent powers awakened.\Speed, Accuracy, and Stamina improved!
+FLD_EXMS3_157,<NAME_MAR>: Another <NAME_CRO>!?
+FLD_EXMS3_158,<NAME_LUC>: <NAME_CRO>?\Two of him!?
+FLD_EXMS3_159,<NAME_AYL>: Two <NAME_CRO>!?
+FLD_EXMS3_160,<NAME_ROB>: There is another <NAME_CRO>!
+FLD_EXMS3_161,<NAME_FRO>: A second <NAME_CRO>?
+FLD_EXMS3_162,<NAME_AYL>: You not <NAME_CRO>!\<NAME_CRO> no do like that!\Never do!
+FLD_EXMS3_163,<NAME_MAR>: Who are you!?\Why do you want to fight us?
+FLD_EXMS3_164,<NAME_LUC>: Don't think we'll go easy on you in a fight\just because you're <NAME_CRO>!
+FLD_EXMS3_165,<NAME_ROB>: Identity analysis complete.\This is a different <NAME_CRO> from the one we know.\Hostility detected.
+FLD_EXMS3_166,<NAME_FRO>: Whether you are a true <NAME_CRO> or no,\we'll not let you harm ours!
+FLD_EXMS3_167,<NAME_MAG>: It is of no consequence to me whether you\are <NAME_CRO> or a fake. Raise your weapon against\me, and you sign away your life.
+FLD_EXMS3_168,<CT>\<NAME_CRO>'s latent powers awakened.\Speed, Strength, and Accuracy improved!
+FLD_EXMS3_169,<NAME_MAR>: <NAME_LUC>?\Two of them!?
+FLD_EXMS3_170,<NAME_AYL>: Two <NAME_LUC>!?
+FLD_EXMS3_171,<NAME_ROB>: <NAME_LUC> and...<NAME_LUC>?\My visual sensors must be producing duplicate images!
+FLD_EXMS3_172,<NAME_FRO>: Another <NAME_LUC>!
+FLD_EXMS3_173,<NAME_MAG>: Two of the same person?
+FLD_EXMS3_174,<NAME_LUC>: Who...who are you?\Are you really me?
+FLD_EXMS3_175,<CT>\You are all that stands in the way...\You must die!
+FLD_EXMS3_176,<NAME_LUC>: So much for getting along...\Looks like we have some irreconcilable differences\to take care of, doesn't it?
+FLD_EXMS3_177,<CT>\<NAME_LUC>'s latent powers awakened.\Speed, Magic, and Stamina improved!
+FLD_EXMS3_178,Dalton: Farewell!
+FLD_EXMS3_179,<NAME_PT1>: ...
+FLD_EXMS3_180,<NAME_PT2>: ...
+FLD_EXMS3_181,<NAME_LUC>: Oh, I can't believe you!\You can't do anything without me, can you?
+FLD_EXMS3_182,
+FLD_EXMS3_183,
+FLD_EXMS3_184,
+FLD_EXMS3_185,
+FLD_EXMS3_186,
+FLD_EXMS3_187,
+FLD_EXMS3_188,
+FLD_EXMS3_189,
+FLD_EXMS3_190,
+FLD_EXMS3_191,
+FLD_EXMS3_192,
+FLD_EXMS3_193,
+FLD_EXMS3_194,
+FLD_EXMS3_195,
+FLD_EXMS3_196,
+FLD_EXMS3_197,
+FLD_EXMS3_198,
+FLD_EXMS3_199,
+FLD_EXMS3_200,
+FLD_EXMS3_201,
+FLD_EXMS3_202,
+FLD_EXMS3_203,
+FLD_EXMS3_204,
+FLD_EXMS3_205,
+FLD_EXMS3_206,
+FLD_EXMS3_207,
+FLD_EXMS3_208,
+FLD_EXMS3_209,
+FLD_EXMS3_210,
+FLD_EXMS3_211,
+FLD_EXMS3_212,
+FLD_EXMS3_213,
+FLD_EXMS3_214,
+FLD_EXMS3_215,
+FLD_EXMS3_216,
+FLD_EXMS3_217,
+FLD_EXMS3_218,
+FLD_EXMS3_219,
+FLD_EXMS3_220,
+FLD_EXMS3_221,
+FLD_EXMS3_222,
+FLD_EXMS3_223,
+FLD_EXMS3_224,
+FLD_EXMS3_225,
+FLD_EXMS3_226,
+FLD_EXMS3_227,
+FLD_EXMS3_228,
+FLD_EXMS3_229,
+FLD_EXMS3_230,
+FLD_EXMS3_231,
+FLD_EXMS3_232,
+FLD_EXMS3_233,
+FLD_EXMS3_234,
+FLD_EXMS3_235,
+FLD_EXMS3_236,
+FLD_EXMS3_237,
+FLD_EXMS3_238,
+FLD_EXMS3_239,
+FLD_EXMS3_240,
+FLD_EXMS3_241,
+FLD_EXMS3_242,
+FLD_EXMS3_243,
+FLD_EXMS3_244,
+FLD_EXMS3_245,
+FLD_EXMS3_246,
+FLD_EXMS3_247,
+FLD_EXMS3_248,
+FLD_EXMS3_249,
+FLD_EXMS3_250,
+FLD_EXMS3_251,
+FLD_EXMS3_252,
+FLD_EXMS3_253,
+FLD_EXMS3_254,
+FLD_EXMS3_255,

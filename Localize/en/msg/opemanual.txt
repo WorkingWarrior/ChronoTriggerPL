@@ -1,0 +1,19 @@
+Gamepad Controls
+Keyboard Controls
+Confirm / Talk
+Cancel / Walk
+Open menu / Auto Battle
+Warp / Toggle window position
+Toggle page / Toggle tab
+Open map
+Flee from battle
+Up
+Left
+Right
+Down
+OK
+:
+,
++
+Controls
+Pause battles temporarily

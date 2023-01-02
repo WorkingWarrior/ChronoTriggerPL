@@ -1,0 +1,26 @@
+MSG_EV_TITLE_01,The Millennial Fair
+MSG_EV_TITLE_02,The Queen Returns
+MSG_EV_TITLE_03,A Vanished Princess
+MSG_EV_TITLE_04,Homecoming
+MSG_EV_TITLE_05,The Trial
+MSG_EV_TITLE_06,Beyond the Ruins
+MSG_EV_TITLE_07,The Derelict Factory
+MSG_EV_TITLE_08,The End of Time
+MSG_EV_TITLE_09,Fiendish Folk
+MSG_EV_TITLE_10,The Hero Appears
+MSG_EV_TITLE_11,Tata and the Frog
+MSG_EV_TITLE_12,The Rare Red Rock
+MSG_EV_TITLE_13,Footprints! Follow!
+MSG_EV_TITLE_14,The Masamune
+MSG_EV_TITLE_15,The Fiendlord's Keep
+MSG_EV_TITLE_16,Forward to the Past
+MSG_EV_TITLE_17,Unnatural Selection
+MSG_EV_TITLE_18,The Magic Kingdom
+MSG_EV_TITLE_19,To Break the Seal
+MSG_EV_TITLE_20,The Guru of Woe
+MSG_EV_TITLE_21,What Lies Beyond
+MSG_EV_TITLE_22,Lavos Beckons
+MSG_EV_TITLE_23,The New King
+MSG_EV_TITLE_24,The Time Egg
+MSG_EV_TITLE_25,The Fated Hour
+MSG_EV_TITLE_26,Dream's End

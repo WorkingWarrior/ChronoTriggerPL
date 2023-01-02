@@ -1,0 +1,256 @@
+FLD_QUES0_000,<CT>\Obtained <NAME_ITM>!
+FLD_QUES0_001,If you want to get through here, you'll have to answer\a question for me.
+FLD_QUES0_002,You're absolutely right!\Okay, you can go on ahead.
+FLD_QUES0_003,You're absolutely...wrong! Too bad.\To the Hall of Punishment with you!
+FLD_QUES0_004,Which of the following is not one of the racers in\Leene Square?
+FLD_QUES0_005,To which of the following elements is the Dragon\Tank's head immune?
+FLD_QUES0_006,What do Masa and Mune claim makes them unstoppable?
+FLD_QUES0_007,There is a statue behind <NAME_MAG> when you fight him\in his keep. How many arms does this statue have?
+FLD_QUES0_008,What is the name of the red stone needed to repair\the Masamune?
+FLD_QUES0_009,What is the name of the device <NAME_LUC> invented to\stabilize Gates?
+FLD_QUES0_010,What item can you obtain by trading fangs and petals\at the trading hut in Ioka Village?
+FLD_QUES0_011,Who is the leader of Medina in 1000 A.D.?
+FLD_QUES0_012,What is <NAME_FRO>'s true name?
+FLD_QUES0_013,Which other tech has the same effect as <NAME_FRO>'s \Frog Squash?
+FLD_QUES0_014,What is the name of Cyrus's attack?
+FLD_QUES0_015,What winged creatures must you ride in order to reach\the Tyranno Lair?
+FLD_QUES0_016,When did Lavos first arrive on the planet?
+FLD_QUES0_017,What is <NAME_MAG>'s true name?
+FLD_QUES0_018,What is the name of <NAME_MAG>'s sister?
+FLD_QUES0_019,What is the name of the cat <NAME_MAG> had as a child?
+FLD_QUES0_020,What was the final invention of Belthasar, the Guru of\Reason?
+FLD_QUES0_021,Who is the Guru of Time?
+FLD_QUES0_022,With whom can you practice your fighting skills at the\End of Time?
+FLD_QUES0_023,What is the name of the Ioka villager <NAME_AYL> likes\best?
+FLD_QUES0_024,Who serves as <NAME_CRO>'s lawyer when he is placed\on trial at Guardia Castle?
+FLD_QUES0_025,Who is your opponent at the Site 32 bike race?
+FLD_QUES0_026,What is the name of the giant skeletal monster that\attacks Zenan Bridge in the Middle Ages?
+FLD_QUES0_027,For whom does Flea harbor affections?
+FLD_QUES0_028,Which of <NAME_MAG>'s three generals is skilled at\swordplay?
+FLD_QUES0_029,What type of magic does <NAME_MAG> use?
+FLD_QUES0_030,What is the name of the pink robot who wears a ribbon?
+FLD_QUES0_031,What does Dalton dub the upgraded <NAME_SIL>?
+FLD_QUES0_032,What is the name of the singing humanoid robot in\Leene Square?
+FLD_QUES0_033,What icon is displayed to indicate Confuse status?
+FLD_QUES0_034,Who is the leader of the reptites?
+FLD_QUES0_035,What surrounds the reptite lair?
+FLD_QUES0_036,Princess Nadia is also known by what alias?
+FLD_QUES0_037,What is the name of <NAME_LUC>'s mother?
+FLD_QUES0_038,The <NAME_SIL> is also known as what?
+FLD_QUES0_039,
+FLD_QUES0_040,
+FLD_QUES0_041,
+FLD_QUES0_042,
+FLD_QUES0_043,
+FLD_QUES0_044,<S10><S10><C1>Steel Runner</C1>\<S10><S10><C2>Green Ambler</C2>\<S10><S10><C3>Catapult</C3>\<S10><S10><C4>G.I. Jogger</C4>
+FLD_QUES0_045,<S10><S10><C1>Fire and light.</C1>\<S10><S10><C2>Fire and water.</C2>\<S10><S10><C3>Light and water.</C3>\<S10><S10><C4>Fire and shadow.</C4>
+FLD_QUES0_046,<S10><S10><C1>Their brains and beauty.</C1>\<S10><S10><C2>Their strength and style.</C2>\<S10><S10><C3>Their brains and bravery.</C3>\<S10><S10><C4>Their strength and balance.</C4>
+FLD_QUES0_047,<S10><S10><C1>Two.</C1>\<S10><S10><C2>Four.</C2>\<S10><S10><C3>Six.</C3>\<S10><S10><C4>Eight.</C4>
+FLD_QUES0_048,<S10><S10><C1>Powerstone.</C1>\<S10><S10><C2>Dreamstone.</C2>\<S10><S10><C3>Grandstone.</C3>\<S10><S10><C4>Firestone.</C4>
+FLD_QUES0_049,<S10><S10><C1>The Gate Key.</C1>\<S10><S10><C2>The Telepod.</C2>\<S10><S10><C3>The Zonker-38.</C3>\<S10><S10><C4>The Mammon Machine.</C4>
+FLD_QUES0_050,<S10><S10><C1>Mammoth Tusk.</C1>\<S10><S10><C2>Ruby Gun.</C2>\<S10><S10><C3>Red Plate.</C3>\<S10><S10><C4>Primeval Blade.</C4>
+FLD_QUES0_051,<S10><S10><C1>Ozzie IV.</C1>\<S10><S10><C2>Ozzie XIII.</C2>\<S10><S10><C3>Ozzie XXII.</C3>\<S10><S10><C4>Ozzie the Great.</C4>
+FLD_QUES0_052,<S10><S10><C1>Cyrus.</C1>\<S10><S10><C2>Tata.</C2>\<S10><S10><C3>Glenn.</C3>\<S10><S10><C4>Polliwog.</C4>
+FLD_QUES0_053,<S10><S10><C1>Electrocute.</C1>\<S10><S10><C2>Flare.</C2>\<S10><S10><C3>Dark Matter.</C3>\<S10><S10><C4>Dino Tail.</C4>
+FLD_QUES0_054,<S10><S10><C1>Nirvana Strike.</C1>\<S10><S10><C2>Meteor Strike.</C2>\<S10><S10><C3>Armageddon Strike.</C3>\<S10><S10><C4>Solar Strike.</C4>
+FLD_QUES0_055,<S10><S10><C1>Kilwalas.</C1>\<S10><S10><C2>Avians.</C2>\<S10><S10><C3>Dactyls.</C3>\<S10><S10><C4>Aecytosaurs.</C4>
+FLD_QUES0_056,<S10><S10><C1>Prehistory.</C1>\<S10><S10><C2>Antiquity.</C2>\<S10><S10><C3>The Middle Ages.</C3>\<S10><S10><C4>1999 A.D.</C4>
+FLD_QUES0_057,<S10><S10><C1>Fritz.</C1>\<S10><S10><C2>Alfador.</C2>\<S10><S10><C3>Marco.</C3>\<S10><S10><C4>Janus.</C4>
+FLD_QUES0_058,<S10><S10><C1>Leene.</C1>\<S10><S10><C2>Schala.</C2>\<S10><S10><C3>Aliza.</C3>\<S10><S10><C4>Fiona.</C4>
+FLD_QUES0_059,<S10><S10><C1>Piette.</C1>\<S10><S10><C2>Alfador.</C2>\<S10><S10><C3>Taban.</C3>\<S10><S10><C4>Flea.</C4>
+FLD_QUES0_060,<S10><S10><C1>Gates.</C1>\<S10><S10><C2>The Chrono Trigger.</C2>\<S10><S10><C3>The <NAME_SIL>.</C3>\<S10><S10><C4>The Nu.</C4>
+FLD_QUES0_061,<S10><S10><C1>Melchior.</C1>\<S10><S10><C2>Belthasar.</C2>\<S10><S10><C3>Gaspar.</C3>\<S10><S10><C4>Doan.</C4>
+FLD_QUES0_062,<S10><S10><C1>Kilwala.</C1>\<S10><S10><C2>Spekkio.</C2>\<S10><S10><C3>Johnny.</C3>\<S10><S10><C4>Gato.</C4>
+FLD_QUES0_063,<S10><S10><C1>Doan.</C1>\<S10><S10><C2>Fritz.</C2>\<S10><S10><C3>Taban.</C3>\<S10><S10><C4>Kino.</C4>
+FLD_QUES0_064,<S10><S10><C1>The King.</C1>\<S10><S10><C2>The Chancellor.</C2>\<S10><S10><C3>Melchior.</C3>\<S10><S10><C4>Pierre.</C4>
+FLD_QUES0_065,<S10><S10><C1>Xr-rX.</C1>\<S10><S10><C2>Doan.</C2>\<S10><S10><C3>Johnny.</C3>\<S10><S10><C4>Marco.</C4>
+FLD_QUES0_066,<S10><S10><C1>Heckran.</C1>\<S10><S10><C2>Zombor.</C2>\<S10><S10><C3>Ozzie.</C3>\<S10><S10><C4>Melphyx.</C4>
+FLD_QUES0_067,<S10><S10><C1><NAME_MAG>.</C1>\<S10><S10><C2>Slash.</C2>\<S10><S10><C3>Ozzie.</C3>\<S10><S10><C4><NAME_CRO>.</C4>
+FLD_QUES0_068,<S10><S10><C1>Masa.</C1>\<S10><S10><C2>Ozzie.</C2>\<S10><S10><C3>Slash.</C3>\<S10><S10><C4>Flea.</C4>
+FLD_QUES0_069,<S10><S10><C1>Light.</C1>\<S10><S10><C2>Shadow.</C2>\<S10><S10><C3>Fire.</C3>\<S10><S10><C4>Non-elemental.</C4>
+FLD_QUES0_070,<S10><S10><C1>Prometheus.</C1>\<S10><S10><C2>Perseus.</C2>\<S10><S10><C3>Atropos.</C3>\<S10><S10><C4>Artemis.</C4>
+FLD_QUES0_071,<S10><S10><C1>The Dalton Aero-Cruiser.</C1>\<S10><S10><C2>The Dalton Air Chariot.</C2>\<S10><S10><C3>The Aero-Dalton Imperial.</C3>\<S10><S10><C4>The Daltonian Airthrone.</C4>
+FLD_QUES0_072,<S10><S10><C1>Gato.</C1>\<S10><S10><C2>Prometheus.</C2>\<S10><S10><C3>Geno.</C3>\<S10><S10><C4>Johnny.</C4>
+FLD_QUES0_073,<S10><S10><C1>An eye.</C1>\<S10><S10><C2>A star.</C2>\<S10><S10><C3>A clock.</C3>\<S10><S10><C4>A question mark.</C4>
+FLD_QUES0_074,<S10><S10><C1>Alaza.</C1>\<S10><S10><C2>Azul.</C2>\<S10><S10><C3>Azzara.</C3>\<S10><S10><C4>Azala.</C4>
+FLD_QUES0_075,<S10><S10><C1>The Forest Maze.</C1>\<S10><S10><C2>The Hunting Range.</C2>\<S10><S10><C3>Guardia Forest.</C3>\<S10><S10><C4>The Cursed Woods.</C4>
+FLD_QUES0_076,<S10><S10><C1><NAME_LUC>.</C1>\<S10><S10><C2><NAME_AYL>.</C2>\<S10><S10><C3>Flea.</C3>\<S10><S10><C4><NAME_MAR>.</C4>
+FLD_QUES0_077,<S10><S10><C1>Gina.</C1>\<S10><S10><C2>Lara.</C2>\<S10><S10><C3>Schala.</C3>\<S10><S10><C4>Leene.</C4>
+FLD_QUES0_078,<S10><S10><C1>The Wings of Time.</C1>\<S10><S10><C2>The Time Egg.</C2>\<S10><S10><C3>The End of Time.</C3>\<S10><S10><C4>The Black Omen.</C4>
+FLD_QUES0_079,
+FLD_QUES0_080,
+FLD_QUES0_081,
+FLD_QUES0_082,
+FLD_QUES0_083,
+FLD_QUES0_084,
+FLD_QUES0_085,
+FLD_QUES0_086,
+FLD_QUES0_087,
+FLD_QUES0_088,
+FLD_QUES0_089,
+FLD_QUES0_090,
+FLD_QUES0_091,
+FLD_QUES0_092,
+FLD_QUES0_093,
+FLD_QUES0_094,
+FLD_QUES0_095,
+FLD_QUES0_096,
+FLD_QUES0_097,
+FLD_QUES0_098,
+FLD_QUES0_099,
+FLD_QUES0_100,
+FLD_QUES0_101,
+FLD_QUES0_102,
+FLD_QUES0_103,
+FLD_QUES0_104,
+FLD_QUES0_105,
+FLD_QUES0_106,
+FLD_QUES0_107,
+FLD_QUES0_108,
+FLD_QUES0_109,
+FLD_QUES0_110,
+FLD_QUES0_111,
+FLD_QUES0_112,
+FLD_QUES0_113,
+FLD_QUES0_114,
+FLD_QUES0_115,
+FLD_QUES0_116,
+FLD_QUES0_117,
+FLD_QUES0_118,
+FLD_QUES0_119,
+FLD_QUES0_120,
+FLD_QUES0_121,
+FLD_QUES0_122,
+FLD_QUES0_123,
+FLD_QUES0_124,
+FLD_QUES0_125,
+FLD_QUES0_126,
+FLD_QUES0_127,
+FLD_QUES0_128,
+FLD_QUES0_129,
+FLD_QUES0_130,
+FLD_QUES0_131,
+FLD_QUES0_132,
+FLD_QUES0_133,
+FLD_QUES0_134,
+FLD_QUES0_135,
+FLD_QUES0_136,
+FLD_QUES0_137,
+FLD_QUES0_138,
+FLD_QUES0_139,
+FLD_QUES0_140,
+FLD_QUES0_141,
+FLD_QUES0_142,
+FLD_QUES0_143,
+FLD_QUES0_144,
+FLD_QUES0_145,
+FLD_QUES0_146,
+FLD_QUES0_147,
+FLD_QUES0_148,
+FLD_QUES0_149,
+FLD_QUES0_150,
+FLD_QUES0_151,
+FLD_QUES0_152,
+FLD_QUES0_153,
+FLD_QUES0_154,
+FLD_QUES0_155,
+FLD_QUES0_156,
+FLD_QUES0_157,
+FLD_QUES0_158,
+FLD_QUES0_159,
+FLD_QUES0_160,
+FLD_QUES0_161,
+FLD_QUES0_162,
+FLD_QUES0_163,
+FLD_QUES0_164,
+FLD_QUES0_165,
+FLD_QUES0_166,
+FLD_QUES0_167,
+FLD_QUES0_168,
+FLD_QUES0_169,
+FLD_QUES0_170,
+FLD_QUES0_171,
+FLD_QUES0_172,
+FLD_QUES0_173,
+FLD_QUES0_174,
+FLD_QUES0_175,
+FLD_QUES0_176,
+FLD_QUES0_177,
+FLD_QUES0_178,
+FLD_QUES0_179,
+FLD_QUES0_180,
+FLD_QUES0_181,
+FLD_QUES0_182,
+FLD_QUES0_183,
+FLD_QUES0_184,
+FLD_QUES0_185,
+FLD_QUES0_186,
+FLD_QUES0_187,
+FLD_QUES0_188,
+FLD_QUES0_189,
+FLD_QUES0_190,
+FLD_QUES0_191,
+FLD_QUES0_192,
+FLD_QUES0_193,
+FLD_QUES0_194,
+FLD_QUES0_195,
+FLD_QUES0_196,
+FLD_QUES0_197,
+FLD_QUES0_198,
+FLD_QUES0_199,
+FLD_QUES0_200,
+FLD_QUES0_201,
+FLD_QUES0_202,
+FLD_QUES0_203,
+FLD_QUES0_204,
+FLD_QUES0_205,
+FLD_QUES0_206,
+FLD_QUES0_207,
+FLD_QUES0_208,
+FLD_QUES0_209,
+FLD_QUES0_210,
+FLD_QUES0_211,
+FLD_QUES0_212,
+FLD_QUES0_213,
+FLD_QUES0_214,
+FLD_QUES0_215,
+FLD_QUES0_216,
+FLD_QUES0_217,
+FLD_QUES0_218,
+FLD_QUES0_219,
+FLD_QUES0_220,
+FLD_QUES0_221,
+FLD_QUES0_222,
+FLD_QUES0_223,
+FLD_QUES0_224,
+FLD_QUES0_225,
+FLD_QUES0_226,
+FLD_QUES0_227,
+FLD_QUES0_228,
+FLD_QUES0_229,
+FLD_QUES0_230,
+FLD_QUES0_231,
+FLD_QUES0_232,
+FLD_QUES0_233,
+FLD_QUES0_234,
+FLD_QUES0_235,
+FLD_QUES0_236,
+FLD_QUES0_237,
+FLD_QUES0_238,
+FLD_QUES0_239,
+FLD_QUES0_240,
+FLD_QUES0_241,
+FLD_QUES0_242,
+FLD_QUES0_243,
+FLD_QUES0_244,
+FLD_QUES0_245,
+FLD_QUES0_246,
+FLD_QUES0_247,
+FLD_QUES0_248,
+FLD_QUES0_249,
+FLD_QUES0_250,
+FLD_QUES0_251,
+FLD_QUES0_252,
+FLD_QUES0_253,
+FLD_QUES0_254,
+FLD_QUES0_255,

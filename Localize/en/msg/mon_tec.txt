@@ -1,0 +1,300 @@
+
+Head repairs damage.
+Wheels storing energy for a charge.
+Too far to counterattack.
+Too close to counterattack.
+Crushing Blow
+Needle Spin: Yakra's needle-launching attack
+Nagamour: Slow
+Ding-a-ling: Confuse
+Grraaagh!
+Attacking detected motion source.
+I'll mash you to goo!
+Breakdown
+Amplifier
+Ozzie's spell is broken.
+Ozzie's in a pickle!
+Sand Breath: Blind
+Triple Counter - Delta Attack
+Blood, blood, blood...
+Death, death, death...
+Graaah!
+Go ahead, try and attack! See what it gets you!
+Water II!
+Pods revived.
+Counterattack stance disengaged.
+Chemical Reaction
+Storing whirlwind energy.
+Whirlwind energy dissipated.
+Counter - Amplifier
+Vacuum Wave!
+What are you aiming at, you imbecile?
+Yah!
+Ha ha ha ha ha!
+Shocked!
+Recovered from shock.
+Dark Matter: Fiendlord's strongest dark magic
+Electric Discharge
+Wind Waltz ♥: Confuse
+Rainbow Beam ♥: Blind
+Pods disappear with Lavos Core.
+MP Buster: Steals MP
+Magic Guard: Weak against physical attacks
+Physical Guard: Weak against magical attacks
+The Look ♥: Flea's ♥ Magic
+Crimson Rain: Sap
+Hell Geyser: Sap
+<NAME_MAG>'s Magic Defense reduced by Masamune!
+<NAME_MAG> lowers his guard to begin casting a spell.
+3
+2
+1
+0
+Jab, lunge, thrust!
+Barrier Change: Absorbs all but light
+Barrier Change: Absorbs all but shadow
+Barrier Change: Absorbs all but fire
+Barrier Change: Absorbs all but water
+Defense lowered by electric shock!
+Telepathy: Sleep
+Teleport: Summons forth boulder
+Annihilation Zone
+Rainbow Storm: Poison cloud
+Defense boosted when attacked!
+Electric Discharge
+Electric Maelstrom
+4
+5
+Azala's Wrath: Sap
+Lowers Defense and begins storing power.
+Attack increased!
+Psychokinesis
+Lavos Core lowers its defenses.
+Escaped!
+Rising Sun
+Imitate: Copies physical attack
+Imitate: Copies tech
+Masa and Mune are each powerless alone.
+
+Doublehand Attack - Doublehand Blaster <ICON_FIRE>
+Combo Attack: Reduces HP to 1
+Omnilock: Disables Tech and Item commands
+Commencing arm restoration.
+Arm Attack: Halves HP
+Ghul's Shield dispelled!
+Defense arm restores head!
+10,000 Hz: Sleep
+Lock: Disables Tech command
+Delta Force: Enemy triple tech
+Iron Sphere: Halves HP
+Roundillo Kick
+Hypnowave
+Possess: Fuses with Fallen
+HP recovery magic
+Combo Counter
+Grudge
+Evil Impulse: Enemy triple tech
+Protected by Ghul's Shield.
+Muscular Fusion
+Cannot damage sandlike body!
+Water hardens sand. Defense reduced!
+Heartfire Sword
+FOOLISH CRETINS...
+Mother Brain Attack Mode
+Mother Brain running wild without displays!
+Memory Reset: Lock
+3, 2, 1...
+Nereid Cyclone <ICON_WATER>
+Sand Cyclone
+Golem Overlord: Um...
+Flame strengthened!
+Power increased!
+Miasma: Confuse
+Water Surge <ICON_WATER>
+Doublehand Attack - Dark Plasma <ICON_SHADOW>
+Gaia Magnade <ICON_FIRE>
+Darn it! Burrrp!
+Fraternal Fusion
+Bluuurp!: Mimic Dalton
+Running wild without core.
+Absorbing energy from core.
+Go! ...Golem Overlord?
+Napalm
+Polarity Inversion: Strikes with opposing magic
+Wing Blow: Confuse
+Dalton: Take this!
+Self-destruct
+Shell Counter - Lavos Spawn Needles
+Electric Mini-burst
+
+Needle Spin Version XIII
+Reprogram: Confuse
+I heard about you from my ancestors!
+Your weakness is...
+This!
+N-no... Not again...
+Roulette Spin
+Roulette Stop
+Counter - Flare
+Miss - Flame Counterattack
+Cricket Chirp: Sleep
+Flare
+Son of the Sun is losing his light.
+Time Stop: Stop
+Mutant Gas: Sleep
+Mutant Gas: Poison
+Scalding Steam: Sap
+Chaos Zone: Confuse
+Blacken
+Point Flare
+Closed Shield Counter - Lock
+Lunate Barrage
+Hurricane
+Devil's Drop: Halves HP
+♪La La La♪: Confuse
+Osmose: Steals MP
+Magic sacrificed to increase Attack.
+Releases stored energy!
+The Mammon Machine alters all energy.
+The Mammon Machine remains still.
+Attack sacrificed to increase Defense.
+Life Shaver: Reduces HP to 1
+
+Dark Bomb
+Lavos Spawn Needle Barrage
+Halation: Reduces HP to 1
+Masamune absorbs the energy.
+Gears of Darkness <ICON_SHADOW>
+Heavenly Gate <ICON_LIGHT>
+Starburst <ICON_WATER>
+Counter - MP Buster
+Destruction rains from the heavens!
+Counter - Life Shaver
+
+Right-hand part is storing energy.
+Left-hand part restores body!
+Lavos's Magic Defense reduced by Masamune!
+Lavos begins casting a spell.
+Combined Attack - Twin Blaster
+Combined Attack - Dark Plasma
+Commencing repair of parts.
+Defense parts restore head!
+Barrier Change
+Body activated!
+Curse: Disables status ailment immunity
+Evil Emanation: Raises Lavos's Attack
+Laser Beams: Arms open the doors to oblivion
+Dark Will
+Umbral Embrace
+Flames of War
+Dark Flame's Embrace
+Life Grip: Arm revives body
+Lavos Core is defending!
+Defense lowered by use of Resurrect.
+Temporal Shift
+Counters physical attack.
+Resurrect: Revives Lavos Pods
+Counters magic.
+Lavos Core's Defense restored!
+Demon Star: Halves HP
+Grandstone: Ultimate physical attack
+Diabolic Whisper: Random status ailment
+Dreamreaver: Ultimate magical attack
+Unholy Light: Slow
+Immobilize: Stop
+Heavenly Tears
+Lavos Core preparing Resurrect. Defense down!
+I...
+Proximity Bomb
+Scouter counters non-light magic.
+Red Scouter counters non-fire magic.
+Blue Scouter counters non-water magic.
+Lavos Breath: Sleep
+Salt
+Shining Sphere <ICON_LIGHT>
+Attack: Counter employed when Center Pod not present
+Imitate: Copies light tech
+Imitate: Copies shadow tech
+Imitate: Copies water tech
+Imitate: Copies fire tech
+Golem Overlord: N-no! I...I'm scared!
+Golem Overlord: I hate heights!
+Golem Overlord: Take this!
+Golem Overlord: 5
+Golem Overlord: 4
+Golem Overlord: 3
+Golem Overlord: 2
+Golem Overlord: 1
+
+Boulder
+Rush: Reduces HP to 1
+Thrash
+
+Snowstorm <ICON_WATER>
+Volcano
+Earthshaker
+Soul Link: One revives the other
+
+Counter - Flash of Steel
+Whirlwind
+Defensive Stance: Boosts Defense
+Offensive Stance: Boosts Attack
+Counter - Tsubame Gaeshi
+
+First Aid: Heals Master-at-Arms
+Blade Dance
+Focus: Boosts Attack
+Desperate Strike: Dazes opponent
+
+Energy Blast: Line attack
+Rend
+Thunderfall <ICON_LIGHT>
+Scintillation <ICON_LIGHT>
+Icefall <ICON_WATER>
+Beguile: Confuse
+Icefall <ICON_WATER>
+
+Obliterate: Instant KO
+Recuperate: Restore HP
+Poison Mist: Poison
+Flashbomb: Blind
+Blaring Din: Lock
+Shadow Fire <ICON_FIRE>
+Explosion <ICON_FIRE>
+Permeate: Dispels status immunity
+
+Ha ha ha!
+Fool!
+I'll flatten you out!
+Scorch <ICON_FIRE>
+Deep Freeze <ICON_WATER>
+Plasma <ICON_LIGHT>
+Nether Blast <ICON_SHADOW>
+Violent Belch: Dalton's sour grapes
+
+Devours dreams from a distant dimension.
+Pandemonium
+Heavenly Peal
+Starfall: Devastating physical attack
+Phantasm: Devastating magical attack
+Dreambind: Random status ailment
+Mana Reaver: Steals MP
+Life Reaver: Steals HP
+Ice Lance <ICON_WATER>
+Incinerate <ICON_FIRE>
+Supernova <ICON_LIGHT>
+Gravity Sphere <ICON_SHADOW>
+The End of All and Nothing
+Holy Light <ICON_LIGHT>
+Thunder <ICON_LIGHT>
+Telekinesis
+Thunderburst <ICON_LIGHT>
+Overdrive
+Death's Rainbow
+It's not over yet!
+Yah!
+Second Wind
+Dreambind: Stop
+
+
+

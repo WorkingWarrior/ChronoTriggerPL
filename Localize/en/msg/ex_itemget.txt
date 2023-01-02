@@ -1,0 +1,337 @@
+MSG_EX_ITEMGET_WEAPON_000,
+MSG_EX_ITEMGET_WEAPON_001,Starting equipment:\   <NAME_CRO>
+MSG_EX_ITEMGET_WEAPON_002,Shops:\   Leene Square, etc.
+MSG_EX_ITEMGET_WEAPON_003,Shops:\   Truce, etc.\Chest:\   Manolia Cathedral
+MSG_EX_ITEMGET_WEAPON_004,Shop:\   Leene Square\Chests:\   Prison Towers\   Site 16
+MSG_EX_ITEMGET_WEAPON_005,Shops:\   Truce, etc.
+MSG_EX_ITEMGET_WEAPON_006,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_WEAPON_007,
+MSG_EX_ITEMGET_WEAPON_008,Trade:\   Ioka Village Hut\Charm:\   Megasaur
+MSG_EX_ITEMGET_WEAPON_009,Shops:\   Algetty, etc.
+MSG_EX_ITEMGET_WEAPON_010,Shop:\   Kajar\Charm:\   Bomber Bird
+MSG_EX_ITEMGET_WEAPON_011,Shop:\   Surviving Village\Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_012,Chest:\   Death Peak
+MSG_EX_ITEMGET_WEAPON_013,Sealed chest:\   Northern Ruins
+MSG_EX_ITEMGET_WEAPON_014,Sealed chest:\   Northern Ruins\   (Post-upgrade)
+MSG_EX_ITEMGET_WEAPON_015,Chests:\   Abandoned Sewers\   Derelict Factory
+MSG_EX_ITEMGET_WEAPON_016,Event:\   Slash Defeated
+MSG_EX_ITEMGET_WEAPON_017,Starting equipment:\   <NAME_MAR>
+MSG_EX_ITEMGET_WEAPON_018,Shops:\   Truce, etc.
+MSG_EX_ITEMGET_WEAPON_019,Chest:\   Site 16
+MSG_EX_ITEMGET_WEAPON_020,Shops:\   Truce, etc.\Chest:\   Derelict Factory
+MSG_EX_ITEMGET_WEAPON_021,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_WEAPON_022,Trade:\   Ioka Village Hut\Charm:\   Rafflesia
+MSG_EX_ITEMGET_WEAPON_023,Shop:\   Algetty
+MSG_EX_ITEMGET_WEAPON_024,Shop:\   Surviving Village\Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_025,Sealed chest:\   Northern Ruins\   (Post-upgrade)
+MSG_EX_ITEMGET_WEAPON_026,Sealed chest:\   Northern Ruins
+MSG_EX_ITEMGET_WEAPON_027,
+MSG_EX_ITEMGET_WEAPON_028,
+MSG_EX_ITEMGET_WEAPON_029,
+MSG_EX_ITEMGET_WEAPON_030,
+MSG_EX_ITEMGET_WEAPON_031,Starting equipment:\   <NAME_LUC>
+MSG_EX_ITEMGET_WEAPON_032,Shops:\   Truce, etc.
+MSG_EX_ITEMGET_WEAPON_033,Shops:\   Trann Dome, etc.
+MSG_EX_ITEMGET_WEAPON_034,
+MSG_EX_ITEMGET_WEAPON_035,Shops:\   Truce, etc.\Chest:\   Derelict Factory
+MSG_EX_ITEMGET_WEAPON_036,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_WEAPON_037,Trade:\   Ioka Village Hut\Charm:\   Aecyto Weevil
+MSG_EX_ITEMGET_WEAPON_038,Shop:\   Algetty
+MSG_EX_ITEMGET_WEAPON_039,Shop:\   Surviving Village\Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_040,Event:\   <NAME_LUC>'s House
+MSG_EX_ITEMGET_WEAPON_041,
+MSG_EX_ITEMGET_WEAPON_042,
+MSG_EX_ITEMGET_WEAPON_043,
+MSG_EX_ITEMGET_WEAPON_044,
+MSG_EX_ITEMGET_WEAPON_045,
+MSG_EX_ITEMGET_WEAPON_046,Starting equipment:\   <NAME_ROB>
+MSG_EX_ITEMGET_WEAPON_047,Shops:\   Melchior's Cabin, etc.\Chest:\   Derelict Factory
+MSG_EX_ITEMGET_WEAPON_048,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_WEAPON_049,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_WEAPON_050,Chest:\   Fiendlord's Keep
+MSG_EX_ITEMGET_WEAPON_051,Trade:\   Ioka Village Hut\Charm:\   Reptite
+MSG_EX_ITEMGET_WEAPON_052,Shop:\   Algetty
+MSG_EX_ITEMGET_WEAPON_053,Shop:\   Kajar\Charm:\   Gargoyle
+MSG_EX_ITEMGET_WEAPON_054,Shop:\   Surviving Village\Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_055,Chest:\   Death Peak
+MSG_EX_ITEMGET_WEAPON_056,Event:\   Geno Dome
+MSG_EX_ITEMGET_WEAPON_057,Event:\   Geno Dome
+MSG_EX_ITEMGET_WEAPON_058,
+MSG_EX_ITEMGET_WEAPON_059,Starting equipment:\   <NAME_FRO>
+MSG_EX_ITEMGET_WEAPON_060,Chest:\   Manolia Cathedral
+MSG_EX_ITEMGET_WEAPON_061,Event:\   Magic Cave
+MSG_EX_ITEMGET_WEAPON_062,Shop:\   Algetty
+MSG_EX_ITEMGET_WEAPON_063,Chest:\   Ocean Palace\Shop:\   Kajar
+MSG_EX_ITEMGET_WEAPON_064,Shop:\   Surviving Village\Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_065,Chest:\   Death Peak
+MSG_EX_ITEMGET_WEAPON_066,Event:\   Northern Ruins
+MSG_EX_ITEMGET_WEAPON_067,Chest:\   Ocean Palace
+MSG_EX_ITEMGET_WEAPON_068,<NAME_AYL>:\   LV 1-23
+MSG_EX_ITEMGET_WEAPON_069,<NAME_AYL>:\   LV 24-47
+MSG_EX_ITEMGET_WEAPON_070,<NAME_AYL>:\   LV 48-71
+MSG_EX_ITEMGET_WEAPON_071,<NAME_AYL>:\   LV 72-95
+MSG_EX_ITEMGET_WEAPON_072,<NAME_AYL>:\   LV 96+
+MSG_EX_ITEMGET_WEAPON_073,
+MSG_EX_ITEMGET_WEAPON_074,
+MSG_EX_ITEMGET_WEAPON_075,Starting equipment:\   <NAME_MAG>
+MSG_EX_ITEMGET_WEAPON_076,Shop:\   Surviving Village
+MSG_EX_ITEMGET_WEAPON_077,Chest:\   Death Peak
+MSG_EX_ITEMGET_WEAPON_078,Chest:\   Ozzie's Fort
+MSG_EX_ITEMGET_WEAPON_079,Charm:\   Nu
+MSG_EX_ITEMGET_WEAPON_080,Event:\   Denadoro Mts.
+MSG_EX_ITEMGET_WEAPON_081,Event:\   Cursed Woods
+MSG_EX_ITEMGET_WEAPON_082,Event:\   Melchior's Cabin
+MSG_EX_ITEMGET_WEAPON_083,Event:\   Forest Ruins
+MSG_EX_ITEMGET_WEAPON_084,Charm:\   Super Slash
+MSG_EX_ITEMGET_WEAPON_085,Event:\   Guardia Castle\   (Present)
+MSG_EX_ITEMGET_WEAPON_086,Dummy
+MSG_EX_ITEMGET_WEAPON_087,Dummy
+MSG_EX_ITEMGET_WEAPON_088,Dummy
+MSG_EX_ITEMGET_WEAPON_089,Dummy
+MSG_EX_ITEMGET_WEAPON_090,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_091,Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_092,Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_093,Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_094,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_095,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_WEAPON_096,Completion bonus:\   Time's Eclipse
+MSG_EX_ITEMGET_WEAPON_097,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_WEAPON_098,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_WEAPON_099,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_WEAPON_100,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_WEAPON_101,Dummy
+MSG_EX_ITEMGET_WEAPON_102,Dummy
+MSG_EX_ITEMGET_WEAPON_103,Dummy
+MSG_EX_ITEMGET_WEAPON_104,Dummy
+MSG_EX_ITEMGET_WEAPON_105,Dummy
+MSG_EX_ITEMGET_WEAPON_106,Dummy
+MSG_EX_ITEMGET_WEAPON_107,Dummy
+MSG_EX_ITEMGET_WEAPON_108,Dummy
+MSG_EX_ITEMGET_WEAPON_109,Dummy
+MSG_EX_ITEMGET_WEAPON_110,Dummy
+MSG_EX_ITEMGET_ARMOR_000,
+MSG_EX_ITEMGET_ARMOR_001,Starting equipment:\   <NAME_CRO>\   <NAME_MAR>
+MSG_EX_ITEMGET_ARMOR_002,Starting equipment:\   <NAME_LUC>\Shops:\   Truce, etc.
+MSG_EX_ITEMGET_ARMOR_003,Starting equipment:\   <NAME_FRO>\Shops:\   Porre, etc.\Chests:\   Prison Towers, etc.
+MSG_EX_ITEMGET_ARMOR_004,Shop:\   Truce\Chest:\   Manolia Cathedral
+MSG_EX_ITEMGET_ARMOR_005,Shops:\   Trann Dome, etc.
+MSG_EX_ITEMGET_ARMOR_006,Starting equipment:\   <NAME_ROB>\Shops:\   Truce, etc.\Chest:\   Derelict Factory
+MSG_EX_ITEMGET_ARMOR_007,Shops:\   Porre, etc.\Chest:\   Denadoro Mts.
+MSG_EX_ITEMGET_ARMOR_008,Starting equipment:\   <NAME_AYL>\Trade:\   Ioka Village Hut\Chest:\   Reptite Lair
+MSG_EX_ITEMGET_ARMOR_009,Chest:\   Fiendlord's Keep
+MSG_EX_ITEMGET_ARMOR_010,Chest:\   Fiendlord's Keep
+MSG_EX_ITEMGET_ARMOR_011,Chests:\   Dactyl Nest, etc.
+MSG_EX_ITEMGET_ARMOR_012,Shops:\   Medina, etc.\Sealed chest:\   Arris Dome
+MSG_EX_ITEMGET_ARMOR_013,Shops:\   Algetty, etc.
+MSG_EX_ITEMGET_ARMOR_014,Shop:\   Kajar\Chest:\   Mountain of Woe
+MSG_EX_ITEMGET_ARMOR_015,Shop:\   Surviving Village\Chests:\   Ocean Palace, etc.
+MSG_EX_ITEMGET_ARMOR_016,Chests:\   Black Omen, etc.
+MSG_EX_ITEMGET_ARMOR_017,Chest:\   Black Omen, etc.\Sealed chest:\   Northern Ruins\Event:\   Lost Sanctum\Charm:\   Fangbeast
+MSG_EX_ITEMGET_ARMOR_018,Event:\   Guardia Castle\   (Present)\Charm:\   Queen Zeal (Right Arm)
+MSG_EX_ITEMGET_ARMOR_019,Sealed chest:\   Northern Ruins\   (Post-upgrade)
+MSG_EX_ITEMGET_ARMOR_020,Trade:\   Ioka Village Hut
+MSG_EX_ITEMGET_ARMOR_021,Starting equipment:\   <NAME_MAG>
+MSG_EX_ITEMGET_ARMOR_022,Chest:\   Ozzie's Fort
+MSG_EX_ITEMGET_ARMOR_023,Sealed chest:\   Mayor's Manor\   (Post-upgrade)\Charm:\   Yakra XIII
+MSG_EX_ITEMGET_ARMOR_024,Sealed chest:\   Mayor's Manor\   (Post-upgrade)\Charm:\   Son of the Sun
+MSG_EX_ITEMGET_ARMOR_025,Sealed chest:\   Truce Inn\   (Post-upgrade)\Charm:\   Mother Brain
+MSG_EX_ITEMGET_ARMOR_026,Sealed chest:\   Guardia Castle\   (Present,\   Post-upgrade)\Charm:\   Rust Tyranno
+MSG_EX_ITEMGET_ARMOR_027,Sealed chests:\   Porre Elder's House\   Mayor's Manor
+MSG_EX_ITEMGET_ARMOR_028,Sealed chests:\   Porre Elder's House\   Mayor's Manor
+MSG_EX_ITEMGET_ARMOR_029,Sealed chest:\   Truce Inn
+MSG_EX_ITEMGET_ARMOR_030,Sealed chest:\   Guardia Castle
+MSG_EX_ITEMGET_ARMOR_031,Event:\   <NAME_LUC>'s House
+MSG_EX_ITEMGET_ARMOR_032,Event:\   <NAME_LUC>'s House
+MSG_EX_ITEMGET_ARMOR_033,Shop:\   Lost Sanctum\Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_ARMOR_034,Shop:\   Lost Sanctum\Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_ARMOR_035,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_ARMOR_036,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_ARMOR_037,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_ARMOR_038,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_ARMOR_039,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_ARMOR_040,Dummy
+MSG_EX_ITEMGET_ARMOR_041,Dummy
+MSG_EX_ITEMGET_ARMOR_042,Dummy
+MSG_EX_ITEMGET_ARMOR_043,Dummy
+MSG_EX_ITEMGET_ARMOR_044,Dummy
+MSG_EX_ITEMGET_ARMOR_045,Dummy
+MSG_EX_ITEMGET_ARMOR_046,Dummy
+MSG_EX_ITEMGET_ARMOR_047,Dummy
+MSG_EX_ITEMGET_ARMOR_048,Dummy
+MSG_EX_ITEMGET_ARMOR_049,Dummy
+MSG_EX_ITEMGET_HELMET_000,
+MSG_EX_ITEMGET_HELMET_001,Starting equipment:\   <NAME_CRO>\   <NAME_MAR>\   <NAME_LUC>
+MSG_EX_ITEMGET_HELMET_002,Starting equipment:\   <NAME_FRO>\Shops:\   Leene Square, etc.
+MSG_EX_ITEMGET_HELMET_003,Shops:\   Trann Dome, etc.
+MSG_EX_ITEMGET_HELMET_004,Shop:\   Porre
+MSG_EX_ITEMGET_HELMET_005,Event:\   Zenan Bridge\   (Middle Ages)\Chest:\   Denadoro Mts.
+MSG_EX_ITEMGET_HELMET_006,Starting equipment:\   <NAME_AYL>\Trade:\   Ioka Village Hut\Chest:\   Reptite Lair
+MSG_EX_ITEMGET_HELMET_007,Chest:\   Tyranno Lair
+MSG_EX_ITEMGET_HELMET_008,Shops:\   Algetty, etc.
+MSG_EX_ITEMGET_HELMET_009,Shop:\   Kajar\Chest:\   Mountain of Woe
+MSG_EX_ITEMGET_HELMET_010,Shop:\   Surviving Village\Chest:\   Ocean Palace, etc.
+MSG_EX_ITEMGET_HELMET_011,Event:\   Guardia Castle\   (Present)\Charm:\   Queen Zeal (Left Arm)
+MSG_EX_ITEMGET_HELMET_012,Starting equipment:\   <NAME_MAG>
+MSG_EX_ITEMGET_HELMET_013,Chest:\   Death Peak
+MSG_EX_ITEMGET_HELMET_014,Chest:\   Ozzie's Fort
+MSG_EX_ITEMGET_HELMET_015,Event:\   Forest Ruins\Charm:\   Elder Lavos Spawn\   (Shell)
+MSG_EX_ITEMGET_HELMET_016,Event:\   <NAME_LUC>'s House
+MSG_EX_ITEMGET_HELMET_017,Shop:\   Fiona's Shrine\Chest:\   Ozzie's Fort, etc.
+MSG_EX_ITEMGET_HELMET_018,Shop:\   Fiona's Shrine\Chest:\   Sunken Desert, etc.
+MSG_EX_ITEMGET_HELMET_019,Shop:\   Fiona's Shrine\Chest:\   Mountain of Woe
+MSG_EX_ITEMGET_HELMET_020,Shop:\   Fiona's Shrine\Chests:\   Black Omen, etc.\Charm:\   Mega Mutant\   (Lower Body)
+MSG_EX_ITEMGET_HELMET_021,Charm:\   Ozzie the Great
+MSG_EX_ITEMGET_HELMET_022,Chest:\   Black Omen\Charm:\   Elder Lavos Spawn\   (Mouth)
+MSG_EX_ITEMGET_HELMET_023,Chest:\   Lost Sanctum\Charm:\   Mudbeast
+MSG_EX_ITEMGET_HELMET_024,Chest:\   Lost Sanctum\Charm:\   Blue Mudbeast
+MSG_EX_ITEMGET_HELMET_025,Shop:\   Lost Sanctum\Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_HELMET_026,Shop:\   Lost Sanctum\Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_HELMET_027,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_HELMET_028,Chest:\   Dimensional Vortex
+MSG_EX_ITEMGET_HELMET_029,Dummy
+MSG_EX_ITEMGET_HELMET_030,Dummy
+MSG_EX_ITEMGET_HELMET_031,Dummy
+MSG_EX_ITEMGET_HELMET_032,Dummy
+MSG_EX_ITEMGET_HELMET_033,Dummy
+MSG_EX_ITEMGET_HELMET_034,Dummy
+MSG_EX_ITEMGET_HELMET_035,Dummy
+MSG_EX_ITEMGET_HELMET_036,Dummy
+MSG_EX_ITEMGET_HELMET_037,Dummy
+MSG_EX_ITEMGET_HELMET_038,Dummy
+MSG_EX_ITEMGET_ACCSESARY_000,
+MSG_EX_ITEMGET_ACCSESARY_001,Starting equipment:\   <NAME_CRO>
+MSG_EX_ITEMGET_ACCSESARY_002,Starting equipment:\   <NAME_MAR>
+MSG_EX_ITEMGET_ACCSESARY_003,Starting equipment:\   <NAME_FRO>\Chest:\   Truce Canyon
+MSG_EX_ITEMGET_ACCSESARY_004,Starting equipment:\   <NAME_ROB>\Chest:\   Manolia Cathedral
+MSG_EX_ITEMGET_ACCSESARY_005,Chest:\   Heckran Cave, etc.
+MSG_EX_ITEMGET_ACCSESARY_006,Starting equipment:\   <NAME_MAG>\Event:\   North Cape
+MSG_EX_ITEMGET_ACCSESARY_007,Chests:\   Heckran Cave, etc.
+MSG_EX_ITEMGET_ACCSESARY_008,Chest:\   Arris Dome
+MSG_EX_ITEMGET_ACCSESARY_009,Sealed chest:\   Guardia Forest\   (Present)
+MSG_EX_ITEMGET_ACCSESARY_010,Chests:\   Magic Cave, etc.
+MSG_EX_ITEMGET_ACCSESARY_011,Chests:\   Heckran Cave, etc.\Charm:\   Giga Mutant\   (Upper Body)
+MSG_EX_ITEMGET_ACCSESARY_012,Chest:\   Denadoro Mts.
+MSG_EX_ITEMGET_ACCSESARY_013,Chest:\   Arris Dome\Charm:\   Synchrite
+MSG_EX_ITEMGET_ACCSESARY_014,Chest:\   Denadoro Mts.
+MSG_EX_ITEMGET_ACCSESARY_015,Sealed chest:\   Trann Dome\Charm:\   Flyclops
+MSG_EX_ITEMGET_ACCSESARY_016,Starting equipment:\   <NAME_LUC>
+MSG_EX_ITEMGET_ACCSESARY_017,Sealed chest:\   Trann Dome
+MSG_EX_ITEMGET_ACCSESARY_018,Chest:\   Abandoned Sewers
+MSG_EX_ITEMGET_ACCSESARY_019,Chest:\   Giant's Claw
+MSG_EX_ITEMGET_ACCSESARY_020,Event:\   Hunting Range\Charm:\   Nizbel\   Nizbel II
+MSG_EX_ITEMGET_ACCSESARY_021,Sealed chest:\   Bangor Dome
+MSG_EX_ITEMGET_ACCSESARY_022,Event:\   Fiona's Shrine
+MSG_EX_ITEMGET_ACCSESARY_023,Chests:\   Site 16, etc.
+MSG_EX_ITEMGET_ACCSESARY_024,Starting equipment:\   <NAME_AYL>
+MSG_EX_ITEMGET_ACCSESARY_025,Chests:\   Manolia Cathedral, etc.
+MSG_EX_ITEMGET_ACCSESARY_026,Event:\   Kajar
+MSG_EX_ITEMGET_ACCSESARY_027,Chest:\   Giant's Claw
+MSG_EX_ITEMGET_ACCSESARY_028,Event:\   Laruba Ruins
+MSG_EX_ITEMGET_ACCSESARY_029,Chest:\   Black Omen
+MSG_EX_ITEMGET_ACCSESARY_030,Event:\   Denadoro Mts.
+MSG_EX_ITEMGET_ACCSESARY_031,Event:\   Tata's House
+MSG_EX_ITEMGET_ACCSESARY_032,Chest:\   Sunken Desert\Charm:\   Tera Mutant\   (Upper Body)
+MSG_EX_ITEMGET_ACCSESARY_033,Charm:\   Diva Flea
+MSG_EX_ITEMGET_ACCSESARY_034,Chest:\   Black Omen
+MSG_EX_ITEMGET_ACCSESARY_035,Chest:\   Black Omen\Charm:\   Tera Mutant\   (Lower Body)
+MSG_EX_ITEMGET_ACCSESARY_036,
+MSG_EX_ITEMGET_ACCSESARY_037,
+MSG_EX_ITEMGET_ACCSESARY_038,Event:\   <NAME_LUC>'s House
+MSG_EX_ITEMGET_ACCSESARY_039,Event:\   Guardia Castle\   (Present)
+MSG_EX_ITEMGET_ACCSESARY_040,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_ACCSESARY_041,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_ACCSESARY_042,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_ACCSESARY_043,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_044,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_045,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_046,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_047,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_048,Event:\   Arena of the Ages
+MSG_EX_ITEMGET_ACCSESARY_049,Dummy
+MSG_EX_ITEMGET_ACCSESARY_050,Dummy
+MSG_EX_ITEMGET_ACCSESARY_051,Dummy
+MSG_EX_ITEMGET_ACCSESARY_052,Dummy
+MSG_EX_ITEMGET_ACCSESARY_053,Dummy
+MSG_EX_ITEMGET_ACCSESARY_054,Dummy
+MSG_EX_ITEMGET_ACCSESARY_055,Dummy
+MSG_EX_ITEMGET_ACCSESARY_056,Dummy
+MSG_EX_ITEMGET_ACCSESARY_057,Dummy
+MSG_EX_ITEMGET_ACCSESARY_058,Dummy
+MSG_EX_ITEMGET_USEITEM_000,
+MSG_EX_ITEMGET_USEITEM_001,Shops:\   Leene Square, etc.\Chests:\   Manolia Cathedral, etc.\Won:\   Amanita, etc.
+MSG_EX_ITEMGET_USEITEM_002,Shops:\   Trann Dome, etc.\Chests:\   Prison Towers, etc.\Won:\   Boundillo, etc.\Charm:\   Edible Frog
+MSG_EX_ITEMGET_USEITEM_003,Shops:\   Kajar, etc.\Chests:\   Reptite Lair, etc.\Charm:\   Mutant, etc.
+MSG_EX_ITEMGET_USEITEM_004,Shops:\   Kajar, etc.\Chests:\   Prison Towers, etc.\Won:\   Gaoler, etc.\Charm:\   Dondrago, etc.
+MSG_EX_ITEMGET_USEITEM_005,Shops:\   Surviving Village, etc.\Chests:\   Manolia Cathedral, etc.\Won:\   Sorcerer, etc.\Charm:\   Ruin Stalker, etc.
+MSG_EX_ITEMGET_USEITEM_006,Shop:\   Black Omen\Chests:\   Sunken Desert, etc.\Won:\   Ghost Knight, etc.\Charm:\   Macabre
+MSG_EX_ITEMGET_USEITEM_007,Shop:\   Lost Sanctum\Chests:\   Guardia Castle\   (Present), etc.\Won:\   Fangbeast, etc.
+MSG_EX_ITEMGET_USEITEM_008,Shop:\   Black Omen\Chest:\   Northern Ruins\Won:\   Cybot, etc.\Charm:\   Ghost Knight, etc.
+MSG_EX_ITEMGET_USEITEM_009,Shop:\   Lost Sanctum\Chests:\   Guardia Castle\   (Present), etc.\Won:\   Yakra XIII, etc.
+MSG_EX_ITEMGET_USEITEM_010,Shops:\   Leene Square, etc.\Chests:\   Manolia Cathedral, etc.\Won:\   Bellbird, etc.
+MSG_EX_ITEMGET_USEITEM_011,Shops:\   Leene Square, etc.\Chests:\   Manolia Cathedral, etc.\Won:\   Viper, etc.\Charm:\   Cave Bat, etc.
+MSG_EX_ITEMGET_USEITEM_012,Shops:\   Leene Square, etc.\Chests:\   Manolia Cathedral, etc.\Event:\   Guardia Forest\   (Middle Ages)
+MSG_EX_ITEMGET_USEITEM_013,Event:\   Dorino Inn\Charm:\   Gato, etc.
+MSG_EX_ITEMGET_USEITEM_014,Chests:\   Fiendlord's Keep, etc.\Won:\   Vilepillar, etc.\Charm:\   Volcanite, etc.
+MSG_EX_ITEMGET_USEITEM_015,Shop:\   Lost Sanctum\Chests:\   Fiendlord's Keep, etc.\Won:\   Version 4.0, etc.\Charm:\   Freelancer, etc.
+MSG_EX_ITEMGET_USEITEM_016,Shop:\   Lost Sanctum\Chests:\   Mountain of Woe, etc.\Won:\   Deverminator EX, etc.\Charm:\   Hammer Ogan, etc.
+MSG_EX_ITEMGET_USEITEM_017,Found:\   Guardia Forest, etc.\Charm:\   Blubber Hulk, etc.
+MSG_EX_ITEMGET_USEITEM_018,Found:\   Dorino Residence, etc.\Charm:\   Azala, etc.
+MSG_EX_ITEMGET_USEITEM_019,Found:\   Denadoro Mts., etc.\Charm:\   Mud Imp, etc.
+MSG_EX_ITEMGET_USEITEM_020,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_021,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_022,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_023,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_024,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_025,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_026,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_027,Shop:\   Arena of the Ages
+MSG_EX_ITEMGET_USEITEM_028,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_USEITEM_029,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_USEITEM_030,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_USEITEM_031,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_USEITEM_032,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_000,
+MSG_EX_ITEMGET_IMPORTANT_001,Won:\   Reptite, etc.
+MSG_EX_ITEMGET_IMPORTANT_002,Won:\   Bao Bao, etc.
+MSG_EX_ITEMGET_IMPORTANT_003,Won:\   Crested Sprinter, etc.
+MSG_EX_ITEMGET_IMPORTANT_004,Won:\   Golden Eaglet, etc.
+MSG_EX_ITEMGET_IMPORTANT_005,Event:\   Arris Dome
+MSG_EX_ITEMGET_IMPORTANT_006,Event:\   Arris Dome
+MSG_EX_ITEMGET_IMPORTANT_007,Event:\   Leene Square
+MSG_EX_ITEMGET_IMPORTANT_008,Event:\   Leene Square
+MSG_EX_ITEMGET_IMPORTANT_009,Event:\   Guardia Castle\   (Present)
+MSG_EX_ITEMGET_IMPORTANT_010,Event:\   The End of Time
+MSG_EX_ITEMGET_IMPORTANT_011,Event:\   Choras Residence
+MSG_EX_ITEMGET_IMPORTANT_012,Event:\   Guardia Castle\   (Middle Ages)\   Snail Stop
+MSG_EX_ITEMGET_IMPORTANT_013,Event:\   Ioka Village
+MSG_EX_ITEMGET_IMPORTANT_014,Chest:\   Site 32
+MSG_EX_ITEMGET_IMPORTANT_015,Event:\   Sun Temple
+MSG_EX_ITEMGET_IMPORTANT_016,Event:\   Sun Shrine
+MSG_EX_ITEMGET_IMPORTANT_017,Event:\   Algetty
+MSG_EX_ITEMGET_IMPORTANT_018,Event:\   Guardia Castle\   (Present)
+MSG_EX_ITEMGET_IMPORTANT_019,Event:\   Leene Square
+MSG_EX_ITEMGET_IMPORTANT_020,Event:\   Choras Tavern
+MSG_EX_ITEMGET_IMPORTANT_021,Won:\   Ion Cloud
+MSG_EX_ITEMGET_IMPORTANT_022,Won:\   Prehistoric Frog
+MSG_EX_ITEMGET_IMPORTANT_023,Won:\   Prehistoric Frog
+MSG_EX_ITEMGET_IMPORTANT_024,Won:\   Ion Cloud, etc.
+MSG_EX_ITEMGET_IMPORTANT_025,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_026,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_027,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_028,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_029,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_030,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_031,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_032,Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_033,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_034,Event:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_035,Chest:\   Lost Sanctum
+MSG_EX_ITEMGET_IMPORTANT_036,Won:\   Wonder Rock
+MSG_EX_ITEMGET_IMPORTANT_037,Dummy
+MSG_EX_ITEMGET_IMPORTANT_038,Dummy
+MSG_EX_ITEMGET_IMPORTANT_039,Dummy
+MSG_EX_ITEMGET_IMPORTANT_040,Dummy
+MSG_EX_ITEMGET_IMPORTANT_041,Dummy
+MSG_EX_ITEMGET_IMPORTANT_042,Dummy
+MSG_EX_ITEMGET_IMPORTANT_043,Dummy
+MSG_EX_ITEMGET_IMPORTANT_044,Dummy

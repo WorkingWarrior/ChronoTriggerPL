@@ -1,0 +1,260 @@
+MSG_EX_MONTEC_01, - Punching Glove\ - Gato's Song of Love\Counters:\ - Multi-punch
+MSG_EX_MONTEC_02, - Charge
+MSG_EX_MONTEC_03, - Charge\ - Wing Flap
+MSG_EX_MONTEC_04, - Ding-a-ling / Confuse
+MSG_EX_MONTEC_05, - Strike\ - Smash
+MSG_EX_MONTEC_06, - Smoke Bomb\Counters:\ - Smoke Bomb
+MSG_EX_MONTEC_07, - Hammer\ - Crushing Blow
+MSG_EX_MONTEC_08, - Stab\ - Flying Stab\ - Jump
+MSG_EX_MONTEC_09, - Flame <ICON_FIRE>\ - Clamp\ - Ink / Blind
+MSG_EX_MONTEC_10, - Osmose / Absorbs MP\ - Drain / Absorbs HP
+MSG_EX_MONTEC_11, - Gore
+MSG_EX_MONTEC_12, - Spin Jump
+MSG_EX_MONTEC_13, - Sonic Wave / Sleep\ - Bloodfeast / Absorbs HP
+MSG_EX_MONTEC_14, - Grudge
+MSG_EX_MONTEC_15, - Kick\ - Jump Kick\Counters:\ - Pebble Punt
+MSG_EX_MONTEC_16, - Jump Kick\ - Pebble Punt\Counters:\ - Jump Kick
+MSG_EX_MONTEC_17, - Spin Attack
+MSG_EX_MONTEC_18, - Spin Attack\Counters:\ - Fiendillo Dance
+MSG_EX_MONTEC_19, - Screech / Slow
+MSG_EX_MONTEC_20, - Charge\ - Roundillo Shot
+MSG_EX_MONTEC_21, - Peck\ - Wing Flap\ - Dive\ - Screech / Slow
+MSG_EX_MONTEC_22, - Scratch\ - Nagamour / Slow
+MSG_EX_MONTEC_23, - Bite\ - Bite / Poison
+MSG_EX_MONTEC_24, - Sobat\ - Whirling Kick
+MSG_EX_MONTEC_25, - Punch\ - Hammer Punch /\<S10><S1>Knockback\ - Rolling Attack
+MSG_EX_MONTEC_26, - Blood Drain / Absorbs HP
+MSG_EX_MONTEC_27, - Flying Lunge
+MSG_EX_MONTEC_28, - Punch
+MSG_EX_MONTEC_29, - Hammer\ - Great Hammer\ - Quake Hammer
+MSG_EX_MONTEC_30,Counters:\ - Ding-a-ling / Confuse
+MSG_EX_MONTEC_31, - Whirling Blade\ - Shuriken\Counters:\ - Focused Strike
+MSG_EX_MONTEC_32, - Crush\Counters:\ - Rain <ICON_WATER>
+MSG_EX_MONTEC_33, - Bite\Counters:\ - Devour Frog
+MSG_EX_MONTEC_34, - Bite\Counters:\ - Bite
+MSG_EX_MONTEC_35, - Bloodfeast / Absorbs HP\ - Osmose / Absorbs MP\Counters:\ - Osmose / Absorbs MP
+MSG_EX_MONTEC_36, - Rolling Attack\ - Crimson Rain\ - Hammer Punch /\<S10><S1>Knockback
+MSG_EX_MONTEC_37, - Strike\ - Wind Slash <ICON_LIGHT>\ - Cyclone
+MSG_EX_MONTEC_38, - Poison Arrows / Poison
+MSG_EX_MONTEC_39, - Sobat\ - Flying Spin Kick
+MSG_EX_MONTEC_40, None
+MSG_EX_MONTEC_41, - Heal\ - Annihilation Zone <ICON_SHADOW>
+MSG_EX_MONTEC_42, - Shuriken\Combo Counters:\ - Fire Whirl <ICON_FIRE>
+MSG_EX_MONTEC_43,Counters:\ - Self-destruct / Ally\ - Self-destruct / Enemy
+MSG_EX_MONTEC_44, - Flame <ICON_FIRE>\Combo Counters:\ - Fire Whirl <ICON_FIRE>
+MSG_EX_MONTEC_45, - Strike\ - Drain / Absorbs HP\Counters:\ - Grudge\ - MP Buster / Sets MP to 0
+MSG_EX_MONTEC_46, - Slice\ - Triple Slice\ - Drain / Absorbs HP
+MSG_EX_MONTEC_47, - Stab\ - Rush
+MSG_EX_MONTEC_48, - Wind Slash <ICON_LIGHT>\ - Grudge\ - Possess
+MSG_EX_MONTEC_49, - Jump\Counters:\ - Jump
+MSG_EX_MONTEC_50, - Hit\ - Sand Cyclone\ - Sand Breath / Blind\Counters:\ - Lock
+MSG_EX_MONTEC_51, - Slap\ - Needle\ - Mash
+MSG_EX_MONTEC_52, - Blaze <ICON_FIRE>\Counters:\ - Electric Maelstrom <ICON_LIGHT>
+MSG_EX_MONTEC_53, - Stomp\ - Electric Burst <ICON_LIGHT>\Counters:\ - Electric Maelstrom <ICON_LIGHT>
+MSG_EX_MONTEC_54, - Grab and Drop\ - Dive\Counters:\ - Wing Blow / Confuse
+MSG_EX_MONTEC_55, - Hit\ - Throw\Counters:\ - Throw
+MSG_EX_MONTEC_56, - Clamp\ - Leech / Absorbs HP
+MSG_EX_MONTEC_57, - Heal\ - Pollen / Poison\ - Charge
+MSG_EX_MONTEC_58, - Pyroclast <ICON_FIRE>
+MSG_EX_MONTEC_59, - Stretch\Counters:\ - Terrifying Voice / Slow
+MSG_EX_MONTEC_60, - Head-butt\ - Tentacle / Absorbs HP
+MSG_EX_MONTEC_61, - Gnaw
+MSG_EX_MONTEC_62, - Electric Shock\ - Attack Moving Object <ICON_SHADOW>
+MSG_EX_MONTEC_63, - Wing Flap\ - Sonic Wave / Sleep\ - Missiles
+MSG_EX_MONTEC_64, - Tackle\ - Machine Gun
+MSG_EX_MONTEC_65, - Water <ICON_WATER>\ - Lightning <ICON_LIGHT>
+MSG_EX_MONTEC_66, - Slap
+MSG_EX_MONTEC_67, - Electric Shock\ - Laser <ICON_SHADOW>
+MSG_EX_MONTEC_68, - Tackle\ - Machine Gun\ - Flamethrower <ICON_FIRE>
+MSG_EX_MONTEC_69, - Flamethrower <ICON_FIRE>\Combo Counters:\ - Chemical Reaction
+MSG_EX_MONTEC_70, - Bubbles\Combo Counters:\ - Chemical Reaction
+MSG_EX_MONTEC_71, - Chomp / Absorbs HP
+MSG_EX_MONTEC_72, - Slice\ - Scythe / Sets HP to 1\ - Crimson Rain
+MSG_EX_MONTEC_73, - Stomp\ - Electric Shock\ - Laser <ICON_SHADOW>\ - Laser Spin <ICON_SHADOW>
+MSG_EX_MONTEC_74, - Cure Beam\ - Tackle\ - Dark Beam <ICON_SHADOW>
+MSG_EX_MONTEC_75, - Laser <ICON_SHADOW>\Counters:\ - Self-destruct
+MSG_EX_MONTEC_76, - Sleep Bubble / Sleep\ - Kick Combo
+MSG_EX_MONTEC_77, - Charge
+MSG_EX_MONTEC_78, - Head-butt
+MSG_EX_MONTEC_79, - Tongue
+MSG_EX_MONTEC_80, - Stretch
+MSG_EX_MONTEC_81, - Claw\ - Dive\Counters:\ - Become Red Eaglet
+MSG_EX_MONTEC_82, - Dive\Counters:\ - Firebreath <ICON_FIRE>\ - Become Golden Eaglet
+MSG_EX_MONTEC_83, - Fling
+MSG_EX_MONTEC_84, - Gore\Counters:\ - Slurp
+MSG_EX_MONTEC_85, - Gore\ - Firebreath <ICON_FIRE>
+MSG_EX_MONTEC_86, - Osmose / Absorbs MP\ - Escape
+MSG_EX_MONTEC_87,Counters:\ - Pollen / Poison
+MSG_EX_MONTEC_88, - Scratch\Counters:\ - Fling\ - Grab and Drop
+MSG_EX_MONTEC_89, - Grab and Drop
+MSG_EX_MONTEC_90, - Pyroclast <ICON_FIRE>
+MSG_EX_MONTEC_91, - Firebreath <ICON_FIRE>\ - Charge / Sets HP to 1\Counters:\ - Firebreath <ICON_FIRE>
+MSG_EX_MONTEC_92, - Pyroclast <ICON_FIRE>\Counters:\ - Pyroclast <ICON_FIRE>
+MSG_EX_MONTEC_93, - Punch Volcanite\ - Sumo Slap
+MSG_EX_MONTEC_94, - Gore\ - Charge
+MSG_EX_MONTEC_95, - Omnilock\ - Escape
+MSG_EX_MONTEC_96, - Kick\ - Crimson Rain
+MSG_EX_MONTEC_97, - Jump Kick\ - Pebble Punt
+MSG_EX_MONTEC_98, - Sobat\ - Chakram\ - Combo Attack / Sets\<S10><S1>HP to 1
+MSG_EX_MONTEC_99, - Heal\ - Miasma / Confuse
+MSG_EX_MONTEC_100, - Fraternal Fusion\Combos:\ - Beast Toss\Combo Counters:\ - Muscular Fusion
+MSG_EX_MONTEC_101, - Annihilation Zone <ICON_SHADOW>\Combos:\ - Beast Toss\Combo Counters:\ - Muscular Fusion\
+MSG_EX_MONTEC_102, - Hit\ - Energy Spheres\ - Lock
+MSG_EX_MONTEC_103, - Lightning <ICON_LIGHT>\ - 10,000 Hz / Sleep\Counters:\ - Electric Maelstrom <ICON_LIGHT>\Combo Counters:\ - Delta Force <ICON_SHADOW>
+MSG_EX_MONTEC_104, - Crimson Rain\Counters:\ - Firebomb <ICON_FIRE>\Combo Counters:\ - Delta Force <ICON_SHADOW>
+MSG_EX_MONTEC_105, - Rain <ICON_WATER>\Counters:\ - Water II <ICON_WATER>\Combo Counters:\ - Delta Force <ICON_SHADOW>
+MSG_EX_MONTEC_106, - Staff\Combo Counters:\ - Twister
+MSG_EX_MONTEC_107, - Strike\Combo Counters:\ - X-Strike
+MSG_EX_MONTEC_108, - Staff
+MSG_EX_MONTEC_109, - Missiles
+MSG_EX_MONTEC_110, - Omnilock\ - Laser <ICON_SHADOW>\ - Self-destruct
+MSG_EX_MONTEC_111, - Sleep Bubble / Sleep\Counters:\ - Lock
+MSG_EX_MONTEC_112, - Laser <ICON_SHADOW>
+MSG_EX_MONTEC_113, - Devil's Drop / Halves HP\ - Lunate Barrage\ - Hurricane\ - Wing Blow / Confuse
+MSG_EX_MONTEC_114, - Missiles\ - Dark Beam <ICON_SHADOW>\ - Time Stop / Stop\ - MP Buster / Sets MP to 0
+MSG_EX_MONTEC_115, - Missiles\ - Laser <ICON_SHADOW>\Combos:\ - Dark Plasma <ICON_SHADOW>
+MSG_EX_MONTEC_116, - Omnilock\ - Firebomb <ICON_FIRE>
+MSG_EX_MONTEC_117, - Escape
+MSG_EX_MONTEC_118, - Tentacle / Absorbs HP\ - Crimson Rain\ - Shining Sphere <ICON_LIGHT>
+MSG_EX_MONTEC_119, - Osmose / Absorbs MP
+MSG_EX_MONTEC_120, - ♪La La La♪ / Confuse\ - Iron Sphere / Halves HP
+MSG_EX_MONTEC_121, - Bite / Instant KO
+MSG_EX_MONTEC_122,Counters:\ - Slap
+MSG_EX_MONTEC_123,Counters:\ - MP Buster / Sets MP to 0
+MSG_EX_MONTEC_124,Counters:\ - Death / Instant KO
+MSG_EX_MONTEC_125, - Head-butt / Sets HP to 1\ - Head-butt / 1 HP damage
+MSG_EX_MONTEC_126, - Lightning <ICON_LIGHT>\ - Fire <ICON_FIRE>\ - Ice <ICON_WATER>
+MSG_EX_MONTEC_127, - Lightning <ICON_LIGHT>\ - Fire <ICON_FIRE>\ - Ice <ICON_WATER>\ - Water <ICON_WATER>
+MSG_EX_MONTEC_128, - Lightning <ICON_LIGHT>\ - Fire <ICON_FIRE>\ - Ice <ICON_WATER>\ - Water <ICON_WATER>
+MSG_EX_MONTEC_129, - Lightning <ICON_LIGHT>\ - Fire <ICON_FIRE>\ - Ice <ICON_WATER>\ - Lightning II <ICON_LIGHT>\ - Fire II <ICON_FIRE>\ - Ice II <ICON_WATER>
+MSG_EX_MONTEC_130, - Lightning II <ICON_LIGHT>\ - Fire II <ICON_FIRE>\ - Ice II <ICON_WATER>\ - Dark Bomb <ICON_SHADOW>\ - Chaos Zone / Confuse\ - Instant KO
+MSG_EX_MONTEC_131, - Luminaire <ICON_LIGHT>\ - Flare <ICON_FIRE>\ - Dark Matter <ICON_SHADOW>\ - Halation / Sets HP to 1\ - Salt / Restores HP
+MSG_EX_MONTEC_132, - Beat\ - Crimson Rain
+MSG_EX_MONTEC_133, - Kick\ - Jump Kick\ - Lambaste
+MSG_EX_MONTEC_134, - Kick\ - Temblor\ - Heart Shot / Slow\Counters:\ - Jump Kick
+MSG_EX_MONTEC_135, - Lock\ - Drain / Absorbs HP\ - Pyroclast <ICON_FIRE>\ - Escape\Counters:\ - Pyroclast <ICON_FIRE>
+MSG_EX_MONTEC_136, - Head-butt\ - Dark Flare <ICON_SHADOW>\ - Ink / Blind\ - Grudge\Counters:\ - Entice
+MSG_EX_MONTEC_137, - Ingest / Absorbs HP\ - Crimson Rain
+MSG_EX_MONTEC_138, - Hammer\ - Quake Hammer\Counters:\ - Spinning Hammer
+MSG_EX_MONTEC_139, - Punch\ - Flying Punch\Counters:\ - Flying Punch
+MSG_EX_MONTEC_140, - Hammer\ - Hurricane Spin
+MSG_EX_MONTEC_141, - Punch\ - Thunder II <ICON_LIGHT>\ - Somniwave / Sleep\ - Water II <ICON_WATER>
+MSG_EX_MONTEC_142, - Bite\ - Stench / Poison\ - Osmose / Absorbs MP
+MSG_EX_MONTEC_143, - Bite\ - Ultrasonic Wave / Sleep\Counters:\ - Ultrasonic Wave / Sleep
+MSG_EX_MONTEC_144, - Munch / Halves HP\ - Firebreath <ICON_FIRE>\ - Electric Maelstrom <ICON_LIGHT>\Counters:\ - Lock
+MSG_EX_MONTEC_145, - Scratch\Counters:\ - Rainbow Dust / Poison
+MSG_EX_MONTEC_146, - Bite\ - Firebreath <ICON_FIRE>\ - Wild Blaze <ICON_FIRE>
+MSG_EX_MONTEC_147, - Charge\ - Dark Bomb <ICON_SHADOW>\ - Sonic Wave / Sleep
+MSG_EX_MONTEC_148, - Bell Strike\ - Ding-a-ling / Confuse
+MSG_EX_MONTEC_149, - Hammer\ - Crushing Blow\ - Blast Wave
+MSG_EX_MONTEC_150, - Impale\ - Torrential Blast <ICON_WATER>\ - Flying Lunge\ - Grudge
+MSG_EX_MONTEC_151, - Flame <ICON_FIRE>\ - Grudge\ - Siphon / Absorbs HP\Counters:\ - Siphon / Absorbs HP
+MSG_EX_MONTEC_152, - Energy Spheres\ - Psychokinesis\ - Dark Flare <ICON_SHADOW>\ - Lock
+MSG_EX_MONTEC_153, - Savage Swipe\ - Ice II <ICON_WATER>\ - Water II <ICON_WATER>
+MSG_EX_MONTEC_154, - Flame <ICON_FIRE>\Counters:\ - Flare <ICON_FIRE>
+MSG_EX_MONTEC_155, - Flame <ICON_FIRE>\ - Fire II <ICON_FIRE>\Counters:\ - Self-destruct
+MSG_EX_MONTEC_156, - Dark Beam <ICON_SHADOW>\ - Sonic Wave / Sleep\ - Electric Maelstrom <ICON_LIGHT>
+MSG_EX_MONTEC_157, - Hidden Needles\ - Absorb Energy /\<S10><S1>Absorbs HP\ - Supersonic Wave / Sleep
+MSG_EX_MONTEC_158, - Missiles\ - Dark Beam <ICON_SHADOW>\ - Time Stop / Stop\ - Attrition / Halves HP\ - Self-destruct\Counters:\ - Osmose / Absorbs MP
+MSG_EX_MONTEC_159,
+MSG_EX_MONTEC_160,
+MSG_EX_BOSSTEC_01, - Scratch\ - Iron Sphere Blast\ - Needle Spin\ - Yakra Rumble\Counters:\ - Yakra Rage
+MSG_EX_BOSSTEC_02, - Dragonfire <ICON_FIRE>\ - Repair Body
+MSG_EX_BOSSTEC_03, - Dragon Charge
+MSG_EX_BOSSTEC_04, - Missiles\Counters:\ - Laser <ICON_SHADOW>
+MSG_EX_BOSSTEC_05, - Revive Pods\Combos:\ - Amplifier <ICON_SHADOW>\Combo Counters:\ - Amplifier <ICON_SHADOW>\ - Delta Attack <ICON_SHADOW>
+MSG_EX_BOSSTEC_06, - Missiles\ - Laser <ICON_SHADOW>\Combos:\ - Amplifier <ICON_SHADOW>\Combo Counters:\ - Amplifier <ICON_SHADOW>\ - Delta Attack <ICON_SHADOW>
+MSG_EX_BOSSTEC_07, - Doublehand Slap\ - Mash / Sets HP to 1
+MSG_EX_BOSSTEC_08, - Robo Punch\ - Robo Cable Punch\Counters:\ - Robo Laser <ICON_SHADOW>\ - Robo Pitch\ - Robo Explosion
+MSG_EX_BOSSTEC_09, - Water <ICON_WATER>\ - Yah!\ - Nereid Cyclone <ICON_WATER>\Counters:\ - Water II! <ICON_WATER>
+MSG_EX_BOSSTEC_10, - Lightning <ICON_LIGHT>
+MSG_EX_BOSSTEC_11, - Flame Strike <ICON_FIRE>\ - Annihilation Ray\ - Drain / Absorbs HP\ - Fangs\Counters:\ - Annihilation Ray\ - MP Buster / Sets MP to 0
+MSG_EX_BOSSTEC_12, - Skull Drop\ - Earthquake
+MSG_EX_BOSSTEC_13, - Punch\Combos:\ - Typhoon / Confuse\Combo Counters:\ - X-Strike
+MSG_EX_BOSSTEC_14, - Multi-punch\Combos:\ - Typhoon / Confuse\Combo Counters:\ - X-Strike
+MSG_EX_BOSSTEC_15, - Doublehand Chop\ - Hurricane\ - Vacuum Wave\Counters:\ - Wind Slash <ICON_LIGHT>
+MSG_EX_BOSSTEC_16, - Charge\ - Earthquake\ - Electric Discharge <ICON_LIGHT>
+MSG_EX_BOSSTEC_17, - Flame Strike <ICON_FIRE>\Counters:\ - MP Buster / Sets MP to 0
+MSG_EX_BOSSTEC_18, - Blow Kiss ♥ / Sleep\ - Wind Waltz ♥ / Confuse\ - Rainbow Storm / Poison\ - Rainbow Beam ♥ / Blind\Counters:\ - The Look ♥
+MSG_EX_BOSSTEC_19, - Rapid-fire Punch\ - Skyward Flame\Counters:\ - Firebomb <ICON_FIRE>
+MSG_EX_BOSSTEC_20, - Strike\ - Wind Slash <ICON_LIGHT>\ - Cleave\ - Frenzy\Counters:\ - Frenzy
+MSG_EX_BOSSTEC_21,Counters:\ - Barrier Bomb
+MSG_EX_BOSSTEC_22, - Scythe\ - Hell Geyser\ - Dark Matter <ICON_SHADOW>\Counters:\ - Lightning II <ICON_LIGHT>\ - Ice II <ICON_WATER>\ - Fire II <ICON_FIRE>\ - Dark Bomb <ICON_SHADOW>
+MSG_EX_BOSSTEC_23, - Charge\ - Nizbel Charge\ - Electric Discharge <ICON_LIGHT>\ - Earthquake\Counters:\ - Hit\ - Nasal Gas / Poison
+MSG_EX_BOSSTEC_24, - Psychokinesis\ - Teleport / Brings boulder\ - Telepathy / Sleep\Counters:\ - Azala's Wrath
+MSG_EX_BOSSTEC_25, - Firebreath <ICON_FIRE>\ - Chomp / Absorbs HP\ - Roar\ - Tyranno Flame <ICON_FIRE>
+MSG_EX_BOSSTEC_26, - Iron Sphere / Halves HP\ - Electrify <ICON_LIGHT>\ - Dark Ray <ICON_SHADOW>\ - Ice <ICON_WATER>\ - Water II <ICON_WATER>\ - Flame <ICON_FIRE>\ - Fire II <ICON_FIRE>\ - Energy Spheres\Counters:\ - Bluuurp!
+MSG_EX_BOSSTEC_27, - Pebble Punt\ - Sleep Bubble / Sleep\ - Heal\Combos:\ - Left Charge\ - Right Charge\Combo Counters:\ - Cross Charge\ - Earthquake
+MSG_EX_BOSSTEC_28, - Charge\Combos:\ - Left Charge\Combo Counters:\ - Cross Charge\ - Earthquake
+MSG_EX_BOSSTEC_29, - Charge\Combos:\ - Right Charge\Combo Counters:\ - Cross Charge\ - Earthquake
+MSG_EX_BOSSTEC_30, - Arm Restoration
+MSG_EX_BOSSTEC_31, - Water Surge <ICON_WATER>\ - Restore Head\Combos:\ - Doublehand Blaster <ICON_FIRE>\ - Dark Plasma <ICON_SHADOW>
+MSG_EX_BOSSTEC_32, - Arm Attack / Halves HP\ - Gaia Magnade <ICON_FIRE>\Combos:\ - Doublehand Blaster <ICON_FIRE>\ - Dark Plasma <ICON_SHADOW>\
+MSG_EX_BOSSTEC_33, - Iron Sphere / Halves HP\Counters:\ - Burrrp!
+MSG_EX_BOSSTEC_34, - Rain Destruction\ - Lavos Needle\ - Chaos Zone / Confuse\ - Earthquake
+MSG_EX_BOSSTEC_35, - Grand Destruction\ - Escape
+MSG_EX_BOSSTEC_36, - Gale Slash\ - Energy Spheres\ - Burst Sphere\Counters:\ - Iron Sphere / Halves HP\ - Lightning II <ICON_LIGHT>\ - Ice II <ICON_WATER>\ - Fire II <ICON_FIRE>
+MSG_EX_BOSSTEC_37, - Scythe\ - Fire II <ICON_FIRE>\ - Ice II <ICON_WATER>\ - Lightning II <ICON_LIGHT>\Counters:\ - Fire II <ICON_FIRE>\ - Ice II <ICON_WATER>\ - Lightning II <ICON_LIGHT>
+MSG_EX_BOSSTEC_38, - Miasma / Confuse\ - Lavos Breath / Sleep\ - Blanket Bomb <ICON_FIRE>\ - Lavos Spawn Needles
+MSG_EX_BOSSTEC_39,Counters:\ - Lavos Spawn Needles
+MSG_EX_BOSSTEC_40, - Absorb Core Energy\ - Sand Breath / Blind\ - Blanket Bomb <ICON_FIRE>\ - Tentacle / Absorbs HP\ - Laser Spin <ICON_SHADOW>\ - Dark Flare <ICON_SHADOW>
+MSG_EX_BOSSTEC_41, - Absorb Core Energy\ - Sand Cyclone\ - Temblor\ - Chomp / Absorbs HP
+MSG_EX_BOSSTEC_42, - Escape
+MSG_EX_BOSSTEC_43, - Heartfire
+MSG_EX_BOSSTEC_44, - Wind Slash <ICON_LIGHT>
+MSG_EX_BOSSTEC_45, - Heartfire\ - Rainbow Beam ♥ / Blind\ - Rainbow Storm / Poison\Combos:\ - Delta Force <ICON_SHADOW>\Combo Counters:\ - Evil Impulse <ICON_FIRE>\ - Delta Force <ICON_SHADOW>\ - Heartfire Sword <ICON_FIRE>
+MSG_EX_BOSSTEC_46, - Wind Slash <ICON_LIGHT>\ - Frenzy\Combos:\ - Delta Force <ICON_SHADOW>\Combo Counters:\ - Evil Impulse <ICON_FIRE>\ - Delta Force <ICON_SHADOW>\ - Heartfire Sword <ICON_FIRE>
+MSG_EX_BOSSTEC_47,Combos:\ - Delta Force <ICON_SHADOW>\Combo Counters:\ - Evil Impulse <ICON_FIRE>\ - Delta Force <ICON_SHADOW>
+MSG_EX_BOSSTEC_48, - Rocket Punch\ - Cure Beam\ - Robo Tackle / Halves HP\ - Laser Spin <ICON_SHADOW>\ - Rapid-fire Fist\ - Proximity Bomb <ICON_FIRE>\Counters:\ - Self-destruct\ - Cricket Chirp / Sleep
+MSG_EX_BOSSTEC_49, - Dark Beam <ICON_SHADOW>\ - Reprogram / Confuse\ - Laser Spin <ICON_SHADOW>\ - Memory Reset / Omnilock\ - Upgrade
+MSG_EX_BOSSTEC_50, - Cure Beam
+MSG_EX_BOSSTEC_51, - Dark Beam <ICON_SHADOW>\ - Flare <ICON_FIRE>\Counters:\ - Flare <ICON_FIRE>\ - Roulette Spin
+MSG_EX_BOSSTEC_52, - Flame Counterattack <ICON_FIRE>
+MSG_EX_BOSSTEC_53, - Chomp / Absorbs HP\ - Roar\ - Tyranno Flame <ICON_FIRE>
+MSG_EX_BOSSTEC_54, - Miasma / Confuse\ - Yakra Rumble\ - Needle Spin Ver. XIII\ - Needle Spin Ver. XIII\<S10><S1>Barrage\Counters:\ - Needle Spin Ver. XIII\<S10><S1>Barrage
+MSG_EX_BOSSTEC_55, - Tentacle / Absorbs HP\ - Mutant Gas / Poison\ - Mutant Gas / Sleep\ - Blacken / Blind
+MSG_EX_BOSSTEC_56, - Tentacle Strike\ - Chaos Zone / Confuse\ - Scalding Steam
+MSG_EX_BOSSTEC_57, - Shining Sphere <ICON_LIGHT>\ - Blanket Bomb <ICON_FIRE>\ - Mutant Gas / Poison\ - Mutant Gas / Sleep\Counters:\ - Tentacle / Absorbs MP
+MSG_EX_BOSSTEC_58, - Shuriken\ - Life Shaver / Sets HP to 1\ - Scalding Steam
+MSG_EX_BOSSTEC_59, - Energy Spheres\ - Burst Sphere\ - Drain / Absorbs HP\ - Chaos Zone / Confuse\ - Great Pyroclast <ICON_FIRE>\ - Halation / Sets HP to 1
+MSG_EX_BOSSTEC_60,Counters:\ - Life Shaver / Sets HP to 1
+MSG_EX_BOSSTEC_61, - Water Surge <ICON_WATER>\ - Dark Bomb <ICON_SHADOW>\ - Annihilation Zone <ICON_SHADOW>\ - Lavos Spawn Needle\<S10><S1>Barrage
+MSG_EX_BOSSTEC_62,Counters:\ - Lavos Spawn Needles
+MSG_EX_BOSSTEC_63, - Death Kiss / Absorbs MP\ - Energy Spheres\ - Halation / Sets HP to 1
+MSG_EX_BOSSTEC_64, - Stand Still\ - Turn Attack into Defense\ - Turn Magic into Attack\ - Point Flare <ICON_FIRE>\ - Energy Discharge
+MSG_EX_BOSSTEC_65, - Halation / Sets HP to 1\ - Heavenly Gate <ICON_LIGHT>\ - Gears of Darkness <ICON_SHADOW>\ - Starburst <ICON_WATER>\ - MP Buster / Sets MP to 0
+MSG_EX_BOSSTEC_66, - Laser <ICON_SHADOW>\Counters:\ - Life Shaver / Sets HP to 1
+MSG_EX_BOSSTEC_67, - Dark Beam <ICON_SHADOW>\Counters:\ - MP Buster / Sets MP to 0
+MSG_EX_BOSSTEC_68,???
+MSG_EX_BOSSTEC_69, - Rain Destruction\ - Lavos Needle\ - Chaos Zone / Confuse\ - Earthquake
+MSG_EX_BOSSTEC_70, - Fire Dance\ - Dark Will / Chaos\ - Umbral Embrace / Poison\ - Flames of War <ICON_FIRE>\ - Evil Emanation / Raises\<S10><S1>Attack\ - Dark Flame's Embrace\Combos:\ - Laser Beams
+MSG_EX_BOSSTEC_71, - Lunate Barrage\ - Life Grip / Arm revives\<S10><S1>body\ - Curse / Voids immunities\ - Immobilize / Stop\Combos:\ - Laser Beams
+MSG_EX_BOSSTEC_72, - Lunate Barrage\ - Life Grip / Arm revives\<S10><S1>body\ - Curse / Voids immunities\ - Immobilize / Stop\Combos:\ - Laser Beams
+MSG_EX_BOSSTEC_73, - Obliterate\ - Negate\ - Curse / Voids immunities\ - Heal\ - Evil Touch / Absorbs MP\Combos:\ - Unholy Light / Slow\Combo Counters:\ - Attack
+MSG_EX_BOSSTEC_74, - Suppress\ - Heavenly Tears <ICON_LIGHT>\ - Diabolic Whisper / Inflicts\<S10><S1>random status\ - Demon Star / Halves HP\ - Grandstone / Ult. attack\ - Dreamreaver / Ult. magic\Combos:\ - Unholy Light / Slow
+MSG_EX_BOSSTEC_75, - Temporal Shift\ - Obliterate\ - Negate\ - Resurrect / Revives Pods\Combos:\ - Unholy Light / Slow\Combo Counters:\ - Attack
+MSG_EX_BOSSTEC_76, - Golden Hammer\ - Boulder\ - Thrash\Counters:\ - Rush / Sets HP to 1
+MSG_EX_BOSSTEC_77, - Charge\ - Head-butt / Sets HP to 1\Counters:\ - Luminaire <ICON_LIGHT>\ - Dark Matter <ICON_SHADOW>\ - Flare <ICON_FIRE>\ - Ice II <ICON_WATER>\ - Hypnotize / Sleep\ - Time Freeze / Stop\\
+MSG_EX_BOSSTEC_78, - Devil's Drop / Halves HP\ - Thunderbolt <ICON_LIGHT>\ - Head-butt / Sets HP to 1\ - Death's Rainbow /\<S10><S1>Instant KO\ - Telekinesis\ - Overdrive\Counters:\ - Drain Health / Absorbs HP
+MSG_EX_BOSSTEC_79, - Twin Attack <ICON_SHADOW>\ - Earthshaker\ - Flare <ICON_FIRE>\ - Volcano\ - Dark Matter <ICON_SHADOW>\ - Soul Link / Revives\Counters:\ - Osmose / Absorbs MP
+MSG_EX_BOSSTEC_80, - Twin Attack <ICON_SHADOW>\ - Earthshaker\ - Water Surge <ICON_WATER>\ - Water II <ICON_WATER>\ - Snowstorm <ICON_WATER>\ - Dark Matter <ICON_SHADOW>\ - Soul Link / Revives\Counters:\ - Osmose / Absorbs MP
+MSG_EX_BOSSTEC_81, - Holy Light <ICON_LIGHT>\ - Thunder <ICON_LIGHT>\ - Whirlwind\Counters:\ - Tsubame Gaeshi\ - Flash of Steel
+MSG_EX_BOSSTEC_82, - Sword Strike\ - Blade Dance\ - Desperate Strike\ - First Aid / Restores HP
+MSG_EX_BOSSTEC_83, - Iron Sphere / Halves HP\ - Gale Slash\ - Energy Spheres\ - Scorch <ICON_FIRE>\ - Deep Freeze <ICON_WATER>\ - Plasma <ICON_LIGHT>\ - Nether Blast <ICON_SHADOW>\Counters:\ - MP Buster / Sets MP to 0\ - Violent Belch
+MSG_EX_BOSSTEC_84, - Gash\ - Energy Blast <ICON_LIGHT>\ - Rend\ - Thunderfall <ICON_LIGHT>\ - Scintillation <ICON_LIGHT>\Counters:\ - Gash\ - Energy Blast <ICON_LIGHT>\ - Rend
+MSG_EX_BOSSTEC_85, - Barrage\ - Icefall <ICON_WATER>\ - Recuperate / Restores HP\Counters:\ - Barrage\ - Icefall <ICON_WATER>
+MSG_EX_BOSSTEC_86, - Barrage\ - Shadow Fire <ICON_FIRE>\ - Explosion <ICON_FIRE>
+MSG_EX_BOSSTEC_87, - Poison Mist / Poison\ - Flashbomb / Blind\ - Blaring Din / Lock\ - Permeate / Cancels\<S10><S1>status immunity\ - Recover / Restores HP\Counters:\ - Osmose / Absorbs MP
+MSG_EX_BOSSTEC_88,???
+MSG_EX_BOSSTEC_89,
+MSG_EX_BOSSTEC_90,
+MSG_EX_BOSSTEC_91,
+MSG_EX_BOSSTEC_92,
+MSG_EX_BOSSTEC_93,
+MSG_EX_BOSSTEC_94,
+MSG_EX_BOSSTEC_95,
+MSG_EX_BOSSTEC_96,
+MSG_EX_BOSSTEC_97,
+MSG_EX_BOSSTEC_98,
+MSG_EX_BOSSTEC_99,
+MSG_EX_BOSSTEC_100,

@@ -1,0 +1,256 @@
+FLD_EXMS2_000,<CT>\Obtained <NAME_ITM>!
+FLD_EXMS2_001,<NAME_MAG>: Their numbers are too great.\We must withdraw for now.
+FLD_EXMS2_002,<NAME_AYL>: Many, many monster!\<NAME_AYL> fight here, lose!\No good.
+FLD_EXMS2_003,<NAME_ROB>: Our odds against these numbers are\unfavorable. It would be inadvisable to fight here.\We should return.
+FLD_EXMS2_004,<NAME_FRO>: This place is overrun with monsters.\We must go back, at least for now.
+FLD_EXMS2_005,<NAME_LUC>: Eek, look at all those monsters!\We'd better head back!
+FLD_EXMS2_006,<NAME_FRO>: What's the matter?\Has something startled you?
+FLD_EXMS2_007,<NAME_ROB>: Have we startled you?
+FLD_EXMS2_008,<NAME_AYL>: Why you scared?
+FLD_EXMS2_009,<NAME_MAG>: Have you something to say?
+FLD_EXMS2_010,<NAME_MAR>: What's wrong?\Why are you so scared?
+FLD_EXMS2_011,T-talking apes!\Hairless, talking apes!
+FLD_EXMS2_012,RUN FOR YOUR LIVES!
+FLD_EXMS2_013,Voice: Wait!
+FLD_EXMS2_014,Are you truly talking apes?
+FLD_EXMS2_015,<NAME_LUC>: We're not apes!\We're humans! HU-MANS!\Got it?
+FLD_EXMS2_016,<NAME_MAR>: You're a rude one, aren't you?\No, we're not apes! We're humans.
+FLD_EXMS2_017,<NAME_MAG>: And if we are?
+FLD_EXMS2_018,<NAME_AYL>: Why say ape?\<NAME_AYL> person.\No ape!
+FLD_EXMS2_019,<NAME_ROB>: While technically the case, human is a\more precise and far preferable descriptor.\I am a robot made by humans.
+FLD_EXMS2_020,I see...\So, the legend was true after all.
+FLD_EXMS2_021,What do you mean, Elder?
+FLD_EXMS2_022,It is a most ancient legend.<PAGE>\Long ago, hordes of vicious monsters preyed upon our\village, threatening to destroy our people entirely.\But just when hope was lost, the most unusual of\heroes appeared.
+FLD_EXMS2_023,Talking apes!?
+FLD_EXMS2_024,None other.\And in no time at all, they drove the\monsters away and saved the village.
+FLD_EXMS2_025,So...these apes are the heroes from the legend?
+FLD_EXMS2_026,I believe they may well be.
+FLD_EXMS2_027,Pardon me for being so forward, but might we contract\your assistance?
+FLD_EXMS2_028,<NAME_PT1>: Contract?
+FLD_EXMS2_029,<NAME_PT2>: Contract?
+FLD_EXMS2_030,I would propose a contract by which we would reward\you for your aid on certain tasks and errands which we\cannot do ourselves.<PAGE>\If you've the strength you seem to have, I think you'd\find it a profitable proposition. What do you say?
+FLD_EXMS2_031,Agree to help the reptites?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_032,Are you certain?\We've rich rewards to offer you.
+FLD_EXMS2_033,Then we are agreed!\And if it's not too sudden, I've a task for you already.<PAGE>\The monsters in the wood beyond have been growing\in number as of late. Would you vanquish them for us,\brave heroes?
+FLD_EXMS2_034,<NAME_AYL>: What mean vanquish?\Mean eat?
+FLD_EXMS2_035,<NAME_MAG>: The Fiendlord, a hero...\A droll thought.
+FLD_EXMS2_036,<NAME_MAR>: I'm a hero? All right!\I always wanted to be one!
+FLD_EXMS2_037,<NAME_LUC>: Brave hero...\I could get used to that!
+FLD_EXMS2_038,<NAME_FRO>: Hero, you say? I wonder...\Do my deeds measure up to yours, Cyrus?
+FLD_EXMS2_039,<NAME_ROB>: We have vanquished the monsters as\promised, Elder, sir.
+FLD_EXMS2_040,<NAME_FRO>: Those monsters will trouble you no more.
+FLD_EXMS2_041,<NAME_LUC>: Problem solved!\We took care of them all.
+FLD_EXMS2_042,<NAME_MAR>: We got rid of all the monsters!
+FLD_EXMS2_043,<NAME_MAG>: It is done.
+FLD_EXMS2_044,You slew all of them?\Heroes, indeed!<PAGE>\Please, take this as your reward.
+FLD_EXMS2_045,<CT>\Obtained 5 Megalixirs!
+FLD_EXMS2_046,I'm sure we'll have other tasks to request of you in\the days to come. I hope we can count on your aid!
+FLD_EXMS2_047,*pant* *wheeze* *gasp*\H-heroes!\Thank goodness you're here!<PAGE>\I've just come from across the new bridge.\Thought I'd see what lay beyond the mountains.\Well, I saw it—a huge, eerie tower!<PAGE>\There wasn't a soul around the place, but I got\the feeling there was something frightening inside.\Gave me the creeps. I ran all the way back here!
+FLD_EXMS2_048,Elder: A tower, you say?
+FLD_EXMS2_049,Elder?\Do you know something of it?
+FLD_EXMS2_050,The old legends speak of a high tower on whose\summit the Heavenly Idols perch, watching over\our village.<PAGE>\The Heavenly Idols are our guardians, you see.\They are harbingers of hope, and protectors of\peace.<PAGE>\If there is a tower so near to the village, then it\is almost certainly the one. And if you felt an\impure presence there, something may be amiss.
+FLD_EXMS2_051,Oh brave heroes, would it be too much trouble for you\to go and investigate?
+FLD_EXMS2_052,<NAME_MAR>: Of course not!\We'll let you know what we find.
+FLD_EXMS2_053,<NAME_LUC>: A creepy old tower, huh?\All right, I suppose brave heroes can't\be afraid of a little something like that.
+FLD_EXMS2_054,<NAME_FRO>: Not at all.\Let us go and have a look.
+FLD_EXMS2_055,<NAME_ROB>: You wish for us to investigate the tower,\correct? Understood.
+FLD_EXMS2_056,<NAME_AYL>: Go tower.\<NAME_AYL> understand.
+FLD_EXMS2_057,My thanks.\I'll be waiting to hear what you find.
+FLD_EXMS2_058,Everyone!\Our heroes have returned!
+FLD_EXMS2_059,And?\What news of the tower?
+FLD_EXMS2_060,<NAME_MAG>: It was infested with spirits of the dead,\but they have been sent to the great beyond.
+FLD_EXMS2_061,<NAME_AYL>: Strong enemy. Many strong enemy.\But <NAME_AYL> beat! Now okay!
+FLD_EXMS2_062,<NAME_ROB>: The tower was full of ghosts, but we have\eliminated them.
+FLD_EXMS2_063,<NAME_FRO>: A great many ghosts haunted its halls.\But they dwell there no more.
+FLD_EXMS2_064,<NAME_LUC>: It really was a creepy place.\There were ghosts everywhere!\But we chased them all away.
+FLD_EXMS2_065,Then you have our thanks.\Did you happen to spy our Heavenly Idols?
+FLD_EXMS2_066,<NAME_FRO>: Yes, they stood upon the highest floor.\They were too heavy to move, but they were\quite striking.
+FLD_EXMS2_067,<NAME_ROB>: We found objects on the uppermost floor\which we believe to be your idols. Their weight made\them impossible to move, but you will be surprised\by their appearance.
+FLD_EXMS2_068,<NAME_MAG>: They rest upon the tower's highest floor.\I do not know by whose hand they were crafted,\but the workmanship is impeccable.
+FLD_EXMS2_069,<NAME_MAR>: Yes, they were at the top of the tower,\just like you said. They were too heavy to carry back,\but I think you'll be surprised when you see them!
+FLD_EXMS2_070,<NAME_LUC>: Oh, those stone statues?\Yeah, they were at the top of the tower.\They were too heavy to budge, but you're\in for a surprise when you see them!
+FLD_EXMS2_071,So, they truly were there after all.\You've earned our gratitude once again, brave heroes.<PAGE>\This is a thank-you of sorts, from the village to our\champions. I hope it serves you well.
+FLD_EXMS2_072,<CT>\Obtained Champion's Badge!
+FLD_EXMS2_073,Oh, what brings you up here?\This is our village sanctuary, but entry is forbidden.
+FLD_EXMS2_074,You want to enter the sanctuary?\Well, you are our heroes...\But there are customs to be obeyed.<PAGE>\Entrance is forbidden without the blessed Reptmark.\Would you be kind enough to fetch it from the northern\wood first?<PAGE>\If you retrieve the crest, I will allow you inside.
+FLD_EXMS2_075,Yes, yes, this is it!\Very well, then, into the sanctuary!
+FLD_EXMS2_076,I'll be waiting to hear what you find in the tower.
+FLD_EXMS2_077,I'd love to go and see the Idols with my own eyes,\but I fear the years have begun to catch up with me.
+FLD_EXMS2_078,I've been thinking of taking a walk in the mountains.\You should go, too!
+FLD_EXMS2_079,I have a favor to ask.<PAGE>\There is a strange character at the base of the\mountain to the southeast. When I spoke to him, he\told me he'd been waiting there for a "strong person"\all alone for a long, long time.<PAGE>\He looks so lonely, and I think you might be able to\help him. Please, won't you try and do something?
+FLD_EXMS2_080,Please, won't you go to the mountain in the southeast\and try to do something for that poor, lonely thing?
+FLD_EXMS2_081,You befriended him?\Oh, I knew I was right to ask you!<PAGE>\Let me give you this for going out of your way to help\him.
+FLD_EXMS2_082,Oh, I...I have one more request.\Would you, um, take this to him for me?<PAGE>\Let him eat it if he gets hungry.\It will give him his energy back.
+FLD_EXMS2_083,<CT>\Obtained Hearty Lunch!
+FLD_EXMS2_084,Thank you very much.\I hope I can be his friend someday, too.
+FLD_EXMS2_085,To think we would end up living together!\This is a dream come true!
+FLD_EXMS2_086,He's opened up a shop, you know.\Me? I'm gathering goods for him to sell.
+FLD_EXMS2_087,Were I as strong as you, I'd become an explorer.\But I'm not, so I have to make do with exploring\close to home.
+FLD_EXMS2_088,I noticed the golden tree in the Millennia Wood was\gone when I went exploring not long ago. Cut down\by ogans, no doubt. They're always felling trees to\craft those hammers of theirs.
+FLD_EXMS2_089,Looking for some metal, you say?<PAGE>\I once hid a lump of steel in a box within the cave\to the west. It was too heavy for me to carry all\the way back here. I can't promise it's still there,\but it's worth a look.
+FLD_EXMS2_090,I had a wonderful time exploring around the bridge.\Next time I've a mind to climb that tower!
+FLD_EXMS2_091,If you ever happen to find some lumicite, would you\bring it to me? I'll craft you some fine armor from it.\I've been a smith for a great many years.
+FLD_EXMS2_092,Oh, you found some lumicite!\Well then, allow me to get to work!
+FLD_EXMS2_093,It's finished!\And fine work, if I may say.
+FLD_EXMS2_094,<CT>\Obtained Elemental Aegis!
+FLD_EXMS2_095,That neighbor of mine loves to build things—almost as\much as he loves to tell me about it. Hasn't he anyone\else to bother all day?
+FLD_EXMS2_096,My neighbor has been working on building that bridge,\but lately he hasn't even been coming home.<PAGE>\I don't suppose you could go and make sure he's all\right, could you? It's not like him at all to be gone\this long. He always used to return at night.
+FLD_EXMS2_097,He may have always prattled on a bit much, but still...\It's lonely without him around.<PAGE>\He's building his bridge on Mount Emerald, east\through the southern glade. Please, go and make\sure he's all right.
+FLD_EXMS2_098,Oh, thank goodness! You're all right!\You had me worried.
+FLD_EXMS2_099,Forgive me.\But thanks to these fine folks, I'm alive and well.\And what's more, I've completed the bridge!
+FLD_EXMS2_100,Oh, that's wonderful!
+FLD_EXMS2_101,That it is.\Thank you for everything, brave heroes!
+FLD_EXMS2_102,Oh, you've come, too!\Is something the matter?
+FLD_EXMS2_103,I was alone on mountain.\But there are people here.\So I come here.
+FLD_EXMS2_104,Oh? Well, ours is a humble village, but you're more than\welcome here. We're in your debt!
+FLD_EXMS2_105,Um, excuse me.\I...
+FLD_EXMS2_106,I liked your food.
+FLD_EXMS2_107,Oh...thank you!\And you finally came to see me.
+FLD_EXMS2_108,Yep.
+FLD_EXMS2_109,Do you...do you want to live with me?
+FLD_EXMS2_110,All right.
+FLD_EXMS2_111,Truly? Oh, we'll be the best of friends!\Follow me!
+FLD_EXMS2_112,Seems he's made himself a new friend.
+FLD_EXMS2_113,What a wonderful day for the village!
+FLD_EXMS2_114,I don't know how to thank you properly, but I hope\this will be a start. It isn't much, but I'd like you to\have it.
+FLD_EXMS2_115,<CT>\Obtained Saurian Leathers!
+FLD_EXMS2_116,It's good to have things back to normal again.\But when I think of the endless stories I'll have\to endure, I sometimes wonder if it's truly for\the best.
+FLD_EXMS2_117,I want to build something that will last for future\generations to use. Like a ladder! Incredible, aren't\they—ladders? I always wonder who built them, and\when.
+FLD_EXMS2_118,Is that the Prismastone?<PAGE>\Now there's something that's stood the test of time!\If you could somehow hold that up next to the same\stone from millions of years ago, I doubt you could\even tell which was which!
+FLD_EXMS2_119,You'll need sturdy vines to make a sturdy ladder.\You ought to be able to find some growing in a\thicket down in the southern glade.
+FLD_EXMS2_120,I've decided to make it my goal to protect that\wondrous new bridge. I'll see that it outlives us all!
+FLD_EXMS2_121,It's been my lifelong dream to build a great bridge to\span the mountains.<PAGE>\Unfortunately, I've had no luck acquiring the tools\I'd need for such a task.
+FLD_EXMS2_122,If you happen to come across anything you\think I could use, would you bring it to me?\It would be enormously helpful.
+FLD_EXMS2_123,Ah, that godwood should do quite nicely for the lumber!
+FLD_EXMS2_124,Oh, I ought to be able to use that steel ingot for the\metal I need!
+FLD_EXMS2_125,Dear me! That Golden Hammer is glorious!\That should serve splendidly.
+FLD_EXMS2_126,My thanks! With all this, I should be able to make the\bridge of my dreams a reality.<PAGE>\Here, take this as a token of my gratitude.
+FLD_EXMS2_127,<CT>\Obtained Haste Helm!
+FLD_EXMS2_128,Well, then, off to the mountains I go!
+FLD_EXMS2_129,The bridge is complete!\My dream has come true.\Thank you so much!
+FLD_EXMS2_130,How have you been? If you have the chance, go\and take a stroll along the bridge sometime!
+FLD_EXMS2_131,Will you stay for the night?\You'll feel much better.
+FLD_EXMS2_132,I help everyone.
+FLD_EXMS2_133,I have store now.\Look at my stuff.
+FLD_EXMS2_134,I have good stuff.\Look at my stuff.
+FLD_EXMS2_135,Set the Prismastone here?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_136,Take the Prismastone?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_137,<NAME_AYL>: No shiny tree!\<NAME_AYL> grow! Why no here?
+FLD_EXMS2_138,<NAME_ROB>: How peculiar.\The golden tree we were growing is no longer here.
+FLD_EXMS2_139,<NAME_FRO>: Odd...\What's become of our golden tree?\Should it not be here?
+FLD_EXMS2_140,<NAME_LUC>: Oh no!\The golden tree's gone!\What do you suppose happened to it?
+FLD_EXMS2_141,<NAME_MAR>: What happened to our golden tree?\You don't suppose it died, do you?
+FLD_EXMS2_142,<NAME_FRO>: Look!\The Golden Hammer!
+FLD_EXMS2_143,<NAME_ROB>: Over there!\That is the Golden Hammer!
+FLD_EXMS2_144,<NAME_AYL>: Look!\Gold Hammer!
+FLD_EXMS2_145,<NAME_MAR>: Look, look!\It's the Golden Hammer!
+FLD_EXMS2_146,<NAME_LUC>: Hey, is that the Golden Hammer!?
+FLD_EXMS2_147,<NAME_LUC>: H-hey, where are you going!?
+FLD_EXMS2_148,<NAME_MAR>: Wait!
+FLD_EXMS2_149,<NAME_AYL>: Stop! No run!
+FLD_EXMS2_150,<NAME_ROB>: It is fleeing!
+FLD_EXMS2_151,<NAME_FRO>: Hold!
+FLD_EXMS2_152,<NAME_MAG>: He is fled.\But he cannot have gone far.
+FLD_EXMS2_153,<NAME_MAR>: He should still be around here.\Let's go find him!
+FLD_EXMS2_154,<NAME_LUC>: He's gotta be around here somewhere.\Let's go after him!
+FLD_EXMS2_155,<NAME_FRO>: He cannot have fled far.\We can still give chase!
+FLD_EXMS2_156,<NAME_ROB>: He should still be within the vicinity.\We should search the area!
+FLD_EXMS2_157,<NAME_ROB>: We have subdued him.\Now we can take the Golden Hammer.
+FLD_EXMS2_158,<NAME_FRO>: You are defeated.\We'll have that hammer from you now!
+FLD_EXMS2_159,<NAME_LUC>: Gotcha!\Put up a good fight, didn't you?\But now it's time you handed over that hammer!
+FLD_EXMS2_160,<NAME_MAR>: Finally got you!\Sorry, but we need that hammer!
+FLD_EXMS2_161,<NAME_AYL>: Catch!\Take hammer now!
+FLD_EXMS2_162,<CT>\Obtained Golden Hammer!
+FLD_EXMS2_163,<CT>\Obtained Sturdy Vines!
+FLD_EXMS2_164,<CT>\Obtained Steel Ingot!
+FLD_EXMS2_165,I guard here.\You no pass.
+FLD_EXMS2_166,You remember?\I lose. Then I train.\Then I no lose no more.\Next time I beat you.<PAGE>\I wait on top of mountain.\Lots of monsters on mountain.\You come up!
+FLD_EXMS2_167,<NAME_AYL>: Ladder break.\No can go up.\Make new strong ladder?
+FLD_EXMS2_168,<NAME_MAG>: The ladder has collapsed.\We'll need a new one if we are to reach the summit.
+FLD_EXMS2_169,<NAME_MAR>: The ladder's broken!\How are we supposed to get up there?\I guess we'll have to build our own.
+FLD_EXMS2_170,<NAME_LUC>: The ladder's broken.\Looks like we won't be able to get up there\unless we can put together a new one.
+FLD_EXMS2_171,<NAME_FRO>: It appears the ladder is broken.\Shall we make a new one to replace it?
+FLD_EXMS2_172,<NAME_ROB>: We lack the means to hang a new ladder.\We would need some way to reach the top. I do not\think we will be successful in this era.
+FLD_EXMS2_173,<NAME_FRO>: We've no way to reach the top.\We need to hang the ladder from above, but\I do not think we will be doing so in this age.
+FLD_EXMS2_174,<NAME_LUC>: Hmm...\There's no way for us to tie the vines to the top.\We need a way to climb up there, and I don't think\there is one in this era.
+FLD_EXMS2_175,<NAME_MAR>: How are we supposed to hang a new ladder\down? We'd need to get up to the top to do it.\Maybe if we went to a different age...
+FLD_EXMS2_176,<NAME_MAG>: We've no way to hang a new ladder.\We'd need to be able to reach the top to do so.\Let us try in another era.
+FLD_EXMS2_177,Oh, you finally get here.<PAGE>\I wait long time for you.\I train lots and lots.\Now I beat you.
+FLD_EXMS2_178,Why I lose?\I very strong now.\But I can't win.
+FLD_EXMS2_179,<NAME_FRO>: Have you no companions?\No people you wish to protect?\Those are what drive a man to victory,\not strength of arm.
+FLD_EXMS2_180,<NAME_MAR>: Well, it's not all about strength,\you know. It helps having friends to help you\or someone important you want to protect.
+FLD_EXMS2_181,<NAME_LUC>: Don't you have any friends to fight\with you, or anyone important to protect?\You can't expect to be strong inside if\you're always alone!
+FLD_EXMS2_182,<NAME_ROB>: I have friends assisting me in battle,\and people I wish to protect. You do not. I believe\the outcome is a result of that discrepancy.
+FLD_EXMS2_183,<NAME_AYL>: <NAME_AYL> have strong friend.\So fight hard.\You, no friend.\So lose.
+FLD_EXMS2_184,Oh.\I need friends?
+FLD_EXMS2_185,I never think like that.\Maybe you right.
+FLD_EXMS2_186,Will you be my friends?
+FLD_EXMS2_187,<NAME_AYL>: Not ask, be friend!\Be nice, help, be friend.\Take time.<PAGE>\But, maybe <NAME_AYL> be friend.
+FLD_EXMS2_188,<NAME_ROB>: Issuing a request is not the\standard protocol for initiating friendship.\People become friends after spending time\together through joy and hardship.<PAGE>\But we are acquainted now, so I believe we\are well on the road to becoming friends.
+FLD_EXMS2_189,<NAME_LUC>: Well, that's a little...direct, but\I think we can be friends. Someday, anyway.\It takes time, you know.
+FLD_EXMS2_190,<NAME_MAR>: Well, it's not that easy.\It takes time to become friends.\But I think we're on the way!
+FLD_EXMS2_191,Okay.\You need something, I help you.\I be your friend.
+FLD_EXMS2_192,You need something, I help you.\I be your friend.
+FLD_EXMS2_193,<NAME_ROB>: We have a request for you.\Would you be willing to assist in the\construction of a bridge?
+FLD_EXMS2_194,<NAME_FRO>: We've a favor to ask. Would you be\willing to aid in the building of a bridge?
+FLD_EXMS2_195,<NAME_LUC>: Do you think you could help build a bridge?
+FLD_EXMS2_196,<NAME_MAR>: We were wondering if you might be willing\to help build a bridge.
+FLD_EXMS2_197,<NAME_MAG>: Think you can handle some manual labor?\Your strength is needed to build a bridge.
+FLD_EXMS2_198,Yes, I try.\I want help you.
+FLD_EXMS2_199,<CT>\The stone shines with an inner light.
+FLD_EXMS2_200,<CT>\Obtained Waystone!
+FLD_EXMS2_201,It's been my lifelong dream to build a great bridge to\span the mountains. I'll do it, just you watch!
+FLD_EXMS2_202,<CT>\Obtained Nova Armor!
+FLD_EXMS2_203,<NAME_AYL>: Con...track?
+FLD_EXMS2_204,<NAME_FRO>: Mayhap someday we will.\Friendships are forged over time, you know.\
+FLD_EXMS2_205,<NAME_ROB>: Have you encountered a man attempting to\construct a bridge upon this mountain?
+FLD_EXMS2_206,<NAME_LUC>: We're trying to find a man who came up\this mountain to build a bridge. You haven't\happened to have seen him, have you?
+FLD_EXMS2_207,<NAME_MAR>: We're looking for a man who said he\was going to build a bridge on this mountain.\Have you seen anyone like that around here?
+FLD_EXMS2_208,<NAME_FRO>: We seek a man keen on constructing a\bridge upon the mountain. Have you seen him?
+FLD_EXMS2_209,<NAME_AYL>: Man say build bridge.\You know?\
+FLD_EXMS2_210,I see him.\He build bridge alone, just past here.
+FLD_EXMS2_211,<NAME_AYL>: <NAME_AYL> want talk him.\Let <NAME_AYL> cross.
+FLD_EXMS2_212,<NAME_ROB>: There is a high probability that the man\you saw is who we seek. Will you allow us to pass?
+FLD_EXMS2_213,<NAME_MAG>: Then might you stand aside?\We've business with him.
+FLD_EXMS2_214,<NAME_MAR>: That must be him!\Will you let us through? Please?
+FLD_EXMS2_215,<NAME_FRO>: That must be him.\Will you let us pass?
+FLD_EXMS2_216,Okay.
+FLD_EXMS2_217,Zzz...
+FLD_EXMS2_218,Agree to look for building materials?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_219,Oh, thank you! I'll be waiting here.\If you could bring me each of those three things,\it would mean the world to me.
+FLD_EXMS2_220,All right... I understand.\If you have a change of heart,\please come back and let me know.
+FLD_EXMS2_221,Agree to check on the lonely figure?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_222,Oh, you're so kind!\I appreciate it, truly.
+FLD_EXMS2_223,Well, I won't force you to go.\But please, give it some more thought.
+FLD_EXMS2_224,If there's anything I can ever do to help you or\that fellow out, please don't hesitate to ask.
+FLD_EXMS2_225,Oh dear, he's hungry?<PAGE>\Well then, will you give him this for me?
+FLD_EXMS2_226,That fellow's been around for a very long time.\I don't know if my cooking will be anything like\what he's used to, but I hope he enjoys it.
+FLD_EXMS2_227,Agree to check on the bridge builder?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_228,I appreciate it. He should be somewhere on Mount\Emerald, east of the southern glade.
+FLD_EXMS2_229,I only want you to go and make sure he's all right.\You really can't do that for me?
+FLD_EXMS2_230,He's well, then. That's a relief. If you see him again,\be sure to give him my best wishes.
+FLD_EXMS2_231,Oh, you're finally back!\I must say, I'd grown a bit worried.
+FLD_EXMS2_232,I spared no effort on that piece.\I hope it serves you well!
+FLD_EXMS2_233,Why don't you stay for the night?\You'll feel much better.\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_EXMS2_234,Did you sleep well?
+FLD_EXMS2_235,I train hard for long time.\I tired now.\I rest a little.
+FLD_EXMS2_236,To build the frame, I need sturdy lumber.
+FLD_EXMS2_237,To reinforce the structure, I'll need strong metal.
+FLD_EXMS2_238,To nail it all together, I'll need a durable hammer.
+FLD_EXMS2_239,You've done a lot for this village.\We owe you a great deal of thanks.
+FLD_EXMS2_240,We're counting on you to clear the wood of monsters.
+FLD_EXMS2_241,We know our village has a long history, but I wonder\just how long ago it was truly founded.
+FLD_EXMS2_242,I love to build things. I want to make something that\will last for centuries to come.
+FLD_EXMS2_243,
+FLD_EXMS2_244,
+FLD_EXMS2_245,
+FLD_EXMS2_246,
+FLD_EXMS2_247,
+FLD_EXMS2_248,
+FLD_EXMS2_249,
+FLD_EXMS2_250,
+FLD_EXMS2_251,
+FLD_EXMS2_252,
+FLD_EXMS2_253,
+FLD_EXMS2_254,
+FLD_EXMS2_255,

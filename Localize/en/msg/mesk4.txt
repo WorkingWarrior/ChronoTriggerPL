@@ -1,0 +1,256 @@
+FLD_MESK4_000,<CT>\Obtained <NAME_ITM>!
+FLD_MESK4_001,Congratulations on finishing the game!\You're now a member of the Dream Team!<PAGE>\And since you blew through the game so fast,\we've adjusted the credits to suit your style!
+FLD_MESK4_002,Akira Toriyama: Hey! Sasuke! Kikka!\Pop's working on games, too!\Are you seeing this?\Isn't this great?
+FLD_MESK4_003,Yuji Horii: Wow, the years sure do fly by.\This game was first released in 1995!
+FLD_MESK4_004,Hironobu Sakaguchi: Boy, it used to be\that I'd get thinner after each game.\Now I'm gaining weight instead.\Ack! I must be getting old.
+FLD_MESK4_005,Kazuhiko Aoki: Guess what?\I hit the 100,000 yen jackpot!
+FLD_MESK4_006,Ken Narita: Love was in the air...but then\the engines cut out.\*sigh*
+FLD_MESK4_007,Hiroyuki Ito: Heh heh... The Tyranno Lair?\Yup, it was my bright idea to put the switch\in the mouth! Sorry 'bout that.
+FLD_MESK4_008,Kazuo Suzuki: I'm the consummate professional.
+FLD_MESK4_009,Shun Moriya: I've been working 24 hours a day!
+FLD_MESK4_010,Masanori Hoshino: Hey, they promised\to name this game Hoshino Trigger!
+FLD_MESK4_011,Mami Kawai: Oops!\Did I forget to insert a few parts again?\I'm so sorry, it won't happen again!
+FLD_MESK4_012,Taizo Mamo: What are you lookin' at, buddy?\Tryin' to start something'?\C'mon, bring it on!
+FLD_MESK4_013,Don't look for me.\<S10><S10><S10><S10> Hiroko Yamamoto
+FLD_MESK4_014,Minoru Akao: Ah, I love a good quest!\Don't you?
+FLD_MESK4_015,Eiji Nakamura: Congrats on finishing the game!\Why don't you spend some time outside tomorrow?
+FLD_MESK4_016,Katsuhisa Higuchi: Legendary programmer, 29,\seeks that special someone. Not quite Hero\material, but still the stuff of legend.\Waiting for those cards and letters.
+FLD_MESK4_017,Kenichi Nishi: Man, that was a long haul.\I got my first gray hair working on this game.\Lost weight, too.
+FLD_MESK4_018,Hey out there in TV land! How're we doing today?\It's me, Manabu Daishima! Let's all buy games, okay?\None of this renting and borrowing stuff!
+FLD_MESK4_019,Shinichiro Okaniwa: I can't even remember the\last time I cut my hair. Look how long it is!\Better get myself to a barber.
+FLD_MESK4_020,Good job! You reached the hardest ending!\This is the Chrono Trigger development room.\Take a walk around and hear what the team\has to say!<PAGE>\Keizo Kokubo: I hope you and all of the staff\who worked on the game took something from it\and will continue to grow and prosper, no matter\what the future holds in store.<PAGE>\Come back to see me again once you complete\your rounds.
+FLD_MESK4_021,Well then, open the gates to the Dream Team!
+FLD_MESK4_022,You may proceed.\The project team's upper echelon awaits!
+FLD_MESK4_023,Hiroshi Uchiyama: That's a pretty good\costume you got on there, kid!\Wait—it's really you, isn't it!?\Sorry, thought you were just a cosplayer!
+FLD_MESK4_024,Fumi Nakashima: Did you see the little character\animations on the world map, ribbit? There's\Lucca reading a book, Chrono all in a rush...\Know what I'm talking about, ribbit?
+FLD_MESK4_025,Yasuhiko Kamata: Having 32 megs means we can\use a lot of graphics. Using a lot of graphics\means we have to create a lot of graphics.\Well, it was hard work, but it sure was fun!
+FLD_MESK4_026,Keita Eto: You want a buggy map repaired?\10,000,000 G ought to cover the cost.
+FLD_MESK4_027,Haruyuki Nishida: Hey, do you think there\will be a sequel?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK4_028,That'd be nice, huh?
+FLD_MESK4_029,Kato: No storm lasts forever.<PAGE>\Even eternity must come to an end.<PAGE>\I think.
+FLD_MESK4_030,Nobuo Uematsu: siht daer naht od ot retteb\gnihton evah I\Now run along and play, boys and girls!
+FLD_MESK4_031,Keisuke Matsuhara: Thank you, thank you,\no applause necessary, just send money.\I hope you enjoyed all of my events.<PAGE>\Another of my masterpieces will be available\soon, so stay tuned!
+FLD_MESK4_032,Matsuzo Itakura: Did you figure out\my Poyozo Dance attack?\See you again in another game soon!
+FLD_MESK4_033,Hasui: Shh, I'm in the middle of something\good here!
+FLD_MESK4_034,Akane Haruki: Please, feed me!\I'm starving!
+FLD_MESK4_035,Hiroki Chiba: 1-4! 1-4! Come on, 1-4!\Noooooo! I lost again!
+FLD_MESK4_036,Kazuhiro Ohkawa: Congratulations!\Did you have a good time?
+FLD_MESK4_037,Akiyoshi Masuda: Kokubo and I've been practicing\our anti-stress massages on each other instead\of working.<PAGE>\Shoulder massages—shoulder!
+FLD_MESK4_038,Tetsuya Takahashi: If you thought this was tough,\you should get a load of Final Fantasy IV!
+FLD_MESK4_039,Yoshinori Ogura: I'm just happy to have been able\to work on this game!
+FLD_MESK4_040,Koji Sugimoto: The jetbike race programmer's\high score was 2110. Bet you can't beat that!
+FLD_MESK4_041,Koichi Ebe: Thanks for playing Chrono Trigger\all the way to the end. Here, have a kiss to\remember it by!
+FLD_MESK4_042,Toshiaki Suzuki: Uhnnn... So tired...\But so hungry...\One thing at a time...\Zzz...
+FLD_MESK4_043,Kiyoshi Yoshii: Ah, yes, such a moving story\in that 128th entry to the Chrono series!<PAGE>\What? Oh no, this must be the wrong era!
+FLD_MESK4_044,Tsutomu Terada: I've caught every cold that's gone\around this year—achoo! Hey, I know you've\gotten strong, but don't—achoo!—go picking\on my monsters now, you hear?
+FLD_MESK4_045,Tadahiro Usuda: Look closely and you'll appreciate\the little details on the monsters. Like—here,\check out the shadow on this guy's sword! See it?
+FLD_MESK4_046,Makoto Shimamoto: Boom!\9999 damage!\You do!
+FLD_MESK4_047,Yasunori Mitsuda: Well, now it's my turn to set\off on a journey to see what the world holds in store.\I wonder if I shall ever return.
+FLD_MESK4_048,Kazumi Kobayashi: I've lost 22 pounds working\on this game.
+FLD_MESK4_049,Kaname: I'm just a map design n00b.\But my dad's a pro gamer.\He pwns n00bs at the arcade.
+FLD_MESK4_050,Hirokatsu Sasaki: Ever since I started growing\out my hair, I've been getting a lot of\attention...from guys! I can't believe it!
+FLD_MESK4_051,Sorry, it's a bad makeup day for Takashi Tokita.
+FLD_MESK4_052,Yukio Nakatani: Thanks for playing!\Are you a girl?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESK4_053,Akihiko Matsui: What did you think?\I hope you had a good time!\See you in another game!
+FLD_MESK4_054,Tetsuya Nomura: 3...<WAIT>08</WAIT>\2... <WAIT>08</WAIT>1...<WAIT>08</WAIT>\RESET!
+FLD_MESK4_055,Just joking!
+FLD_MESK4_056,Yasuyuki Honne: This was my first project.\Whew, was I ever nervous!\What a relief it's over!
+FLD_MESK4_057,Shinichiro Hamasaka: I just helped the Chrono\Trigger team a tiny bit. Good job, guys!
+FLD_MESK4_058,Yoshinori Kitase: There are more than ten\different endings. Have you seen them all?\The ending you get depends on when you\challenge Lavos.
+FLD_MESK4_059,Yusuke Naora: How was the art?\I had a blast working on it!
+FLD_MESK4_060,Takayuki Ohtachi: Well done!
+FLD_MESK4_061,Kezuka: Better find the switch soon or\it'll all go up in flames!
+FLD_MESK4_062,<NAME_ROB>: I realized something during these\past four hundred years.<PAGE>\I believe we may have been incorrect in our\assumption that Lavos was responsible for the\creation of the Gates.
+FLD_MESK4_063,<NAME_MAR>: What do you mean?
+FLD_MESK4_064,<NAME_ROB>: It is not a certainty, but I have\come to believe it possible that some entity\wished for us to witness these events.<PAGE>\Perhaps it wanted us to see all of these\various ages. Alternately, it may have wished\to see them for itself.<PAGE>\It seems almost as though it was reflecting\on the days of its past.
+FLD_MESK4_065,<NAME_AYL>: <NAME_AYL> know.\Person die, see life pass by.\Elder say!
+FLD_MESK4_066,<NAME_FRO>: Before death claims a man, he is\made to bear witness a second time to those\memories engraved most deeply upon his heart.<PAGE>\There may be fond memories among them, yes.\But often as not, the ones which grieve us\are the most profound.
+FLD_MESK4_067,<NAME_ROB>: Knowing the end is approaching\likely reactivates dormant feelings of regret,\and desire to return to moments in the past.
+FLD_MESK4_068,<NAME_MAR>: Do you suppose that will happen when\our time comes?<PAGE>\<NAME_LUC>: Probably... Who knows?<PAGE>\<NAME_MAR>: Is there a point in time you'd want\to return to, <NAME_LUC>?
+FLD_MESK4_069,<NAME_LUC>: I—no, not...not really.<PAGE>\<NAME_MAR>: I'm sorry, I probably shouldn't have asked.
+FLD_MESK4_070,<NAME_LUC>: No, it's okay. It's just something I\don't like to think about too much.
+FLD_MESK4_071,<NAME_FRO>: But even if Lavos did not open the\Gates, his fate is clearly bound to that of the\one who did.<PAGE>\Lavos has played a role in every age we've seen.
+FLD_MESK4_072,<NAME_MAG>: Who do you think it is?
+FLD_MESK4_073,<NAME_ROB>: It is unknown to me whose memories\these are. It is likely an entity greater than\any of us.<PAGE>\Perhaps we will not know until our journey has\come to an end.\<WAIT>08</WAIT>Shall we turn in for the night?
+FLD_MESK4_074,<NAME_ROB>: You can give her my legs!\They are lightweight, with a highly compact\form factor and exceptional balance.<PAGE>\You could mount some treads on me instead.\Anything would be fine.
+FLD_MESK4_075,<NAME_ROB>: Please do not be sad, <NAME_LUC>.
+FLD_MESK4_076,<NAME_LUC>: Thank you.\You're such a good friend.
+FLD_MESK4_077,<NAME_ROB>: A good...friend?\You called me your friend?\But...I am only a robot.
+FLD_MESK4_078,<NAME_ROB>: That was always weighing on\your mind, was it not, <NAME_LUC>?\You are always thinking of others.
+FLD_MESK4_079,<NAME_ROB>: I have a present for you.\It is a piece of amber I created using\sap from the trees in this forest.<PAGE>\It required four hundred years and a\great deal of pressurization to make.\I hope you will find it useful.
+FLD_MESK4_080,<NAME_LUC>: <NAME_ROB>...\You're so sweet. Thank you.
+FLD_MESK4_081,
+FLD_MESK4_082,
+FLD_MESK4_083,
+FLD_MESK4_084,
+FLD_MESK4_085,
+FLD_MESK4_086,
+FLD_MESK4_087,
+FLD_MESK4_088,
+FLD_MESK4_089,
+FLD_MESK4_090,
+FLD_MESK4_091,
+FLD_MESK4_092,
+FLD_MESK4_093,
+FLD_MESK4_094,
+FLD_MESK4_095,
+FLD_MESK4_096,
+FLD_MESK4_097,
+FLD_MESK4_098,
+FLD_MESK4_099,
+FLD_MESK4_100,
+FLD_MESK4_101,
+FLD_MESK4_102,
+FLD_MESK4_103,
+FLD_MESK4_104,
+FLD_MESK4_105,
+FLD_MESK4_106,
+FLD_MESK4_107,
+FLD_MESK4_108,
+FLD_MESK4_109,
+FLD_MESK4_110,
+FLD_MESK4_111,
+FLD_MESK4_112,
+FLD_MESK4_113,
+FLD_MESK4_114,
+FLD_MESK4_115,
+FLD_MESK4_116,
+FLD_MESK4_117,
+FLD_MESK4_118,
+FLD_MESK4_119,
+FLD_MESK4_120,
+FLD_MESK4_121,
+FLD_MESK4_122,
+FLD_MESK4_123,
+FLD_MESK4_124,
+FLD_MESK4_125,
+FLD_MESK4_126,
+FLD_MESK4_127,
+FLD_MESK4_128,
+FLD_MESK4_129,
+FLD_MESK4_130,
+FLD_MESK4_131,
+FLD_MESK4_132,
+FLD_MESK4_133,
+FLD_MESK4_134,
+FLD_MESK4_135,
+FLD_MESK4_136,
+FLD_MESK4_137,
+FLD_MESK4_138,
+FLD_MESK4_139,
+FLD_MESK4_140,
+FLD_MESK4_141,
+FLD_MESK4_142,
+FLD_MESK4_143,
+FLD_MESK4_144,
+FLD_MESK4_145,
+FLD_MESK4_146,
+FLD_MESK4_147,
+FLD_MESK4_148,
+FLD_MESK4_149,
+FLD_MESK4_150,
+FLD_MESK4_151,
+FLD_MESK4_152,
+FLD_MESK4_153,
+FLD_MESK4_154,
+FLD_MESK4_155,
+FLD_MESK4_156,
+FLD_MESK4_157,
+FLD_MESK4_158,
+FLD_MESK4_159,
+FLD_MESK4_160,
+FLD_MESK4_161,
+FLD_MESK4_162,
+FLD_MESK4_163,
+FLD_MESK4_164,
+FLD_MESK4_165,
+FLD_MESK4_166,
+FLD_MESK4_167,
+FLD_MESK4_168,
+FLD_MESK4_169,
+FLD_MESK4_170,
+FLD_MESK4_171,
+FLD_MESK4_172,
+FLD_MESK4_173,
+FLD_MESK4_174,
+FLD_MESK4_175,
+FLD_MESK4_176,
+FLD_MESK4_177,
+FLD_MESK4_178,
+FLD_MESK4_179,
+FLD_MESK4_180,
+FLD_MESK4_181,
+FLD_MESK4_182,
+FLD_MESK4_183,
+FLD_MESK4_184,
+FLD_MESK4_185,
+FLD_MESK4_186,
+FLD_MESK4_187,
+FLD_MESK4_188,
+FLD_MESK4_189,
+FLD_MESK4_190,
+FLD_MESK4_191,
+FLD_MESK4_192,
+FLD_MESK4_193,
+FLD_MESK4_194,
+FLD_MESK4_195,
+FLD_MESK4_196,
+FLD_MESK4_197,
+FLD_MESK4_198,
+FLD_MESK4_199,
+FLD_MESK4_200,
+FLD_MESK4_201,
+FLD_MESK4_202,
+FLD_MESK4_203,
+FLD_MESK4_204,
+FLD_MESK4_205,
+FLD_MESK4_206,
+FLD_MESK4_207,
+FLD_MESK4_208,
+FLD_MESK4_209,
+FLD_MESK4_210,
+FLD_MESK4_211,
+FLD_MESK4_212,
+FLD_MESK4_213,
+FLD_MESK4_214,
+FLD_MESK4_215,
+FLD_MESK4_216,
+FLD_MESK4_217,
+FLD_MESK4_218,
+FLD_MESK4_219,
+FLD_MESK4_220,
+FLD_MESK4_221,
+FLD_MESK4_222,
+FLD_MESK4_223,
+FLD_MESK4_224,
+FLD_MESK4_225,
+FLD_MESK4_226,
+FLD_MESK4_227,
+FLD_MESK4_228,
+FLD_MESK4_229,
+FLD_MESK4_230,
+FLD_MESK4_231,
+FLD_MESK4_232,
+FLD_MESK4_233,
+FLD_MESK4_234,
+FLD_MESK4_235,
+FLD_MESK4_236,
+FLD_MESK4_237,
+FLD_MESK4_238,
+FLD_MESK4_239,
+FLD_MESK4_240,
+FLD_MESK4_241,
+FLD_MESK4_242,
+FLD_MESK4_243,
+FLD_MESK4_244,
+FLD_MESK4_245,
+FLD_MESK4_246,
+FLD_MESK4_247,
+FLD_MESK4_248,
+FLD_MESK4_249,
+FLD_MESK4_250,
+FLD_MESK4_251,
+FLD_MESK4_252,
+FLD_MESK4_253,
+FLD_MESK4_254,
+FLD_MESK4_255,

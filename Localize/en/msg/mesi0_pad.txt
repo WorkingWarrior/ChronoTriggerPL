@@ -1,0 +1,256 @@
+FLD_MESI0_000,Info %dw\X　<NUMBER>　<NUMBER>\Y　<NUMBER>　<NUMBER>
+FLD_MESI0_001,It appears to be a decorative statue.<PAGE>\A note is attached to it.<PAGE><CT>\WARNING:\ANYONE APPROACHING THE FOOD STOCKS\IS SUBJECT TO ATTACK.
+FLD_MESI0_002,<NAME_MAR>: There!\That must be it!
+FLD_MESI0_003,<NAME_LUC>: Shhh!\It might run away.<PAGE>\Run after it, and press <BTN_CONF> to catch it!
+FLD_MESI0_004,I got it!<PAGE>\Squeak, I give up!\I'll tell you everything, squeak!<PAGE>\Press <BTN_CONF>, <BTN_MENU>, then <BTN_DASH> to activate the switch\once you hear the sound, squeak!
+FLD_MESI0_005,<NAME_MAR>: Yuck!\Something reeks!
+FLD_MESI0_006,<NAME_LUC>: Everything's completely rotten.\The refrigeration must have failed.
+FLD_MESI0_007,<NAME_MAR>: <NAME_CRO>, look!<PAGE>\...<PAGE>\...<PAGE>\He's not breathing.\Must have died down here...
+FLD_MESI0_008,<NAME_MAR>: There's something in his hand.\What do you suppose this is?
+FLD_MESI0_009,<NAME_LUC>: It looks like some kind of seed.
+FLD_MESI0_010,<NAME_MAR>: A seed?\Could it even grow in a place like this?
+FLD_MESI0_011,A note is written on a soiled scrap of paper.<PAGE>\   That rat is more than just a statue!\   It knows the secret of this dome.\   Catch it!
+FLD_MESI0_012,INITIATING COMMAND SEQUENCE...
+FLD_MESI0_013,<NAME_MAR>: <NAME_CRO>!\What's that?
+FLD_MESI0_014,<NAME_LUC>: <NAME_MAR>!<PAGE>\Let's smash this thing!
+FLD_MESI0_015,Old Man: ...
+FLD_MESI0_016,Old Man: No!<PAGE>\You mustn't go to Death Peak!<PAGE>\Wouldn't make it very far, anyway...\It has to be the right time, and...and it\has to be them, or...or the way is shut!\Yes, yes...
+FLD_MESI0_017,Old Man: Schala... Oh, I've missed you so!
+FLD_MESI0_018,Old Man: Say!<PAGE>\Have you seen my masterpieces?\The Ocean Palace and the Blackbird?\I designed and built them both, you know.\Fine works, wouldn't you say?
+FLD_MESI0_019,Strange Construct: O Wise One, I cannot wait to\see what program code you will install in me next!<PAGE>\Old Man: Oh, now that's the sort of appreciation\that makes all my work worthwhile!<PAGE>\How's the current one?\Seems a little better than before, anyhow...
+FLD_MESI0_020,Hmm?
+FLD_MESI0_021,You who have opened the door...<PAGE>\I am Belthasar, the Guru of Reason,\and formerly of the kingdom of Zeal.\I was cast into this era by a great\disaster which befell our land.<PAGE>\Much to my surprise, I have learned that\the creature Lavos was not a product of\our age—far from it.<PAGE>\It seems that the being fell from the\sky in a bygone age, burrowing deep into\the planet's core. There he began to feed\upon its energy, growing ever stronger.
+FLD_MESI0_022,Lavos's form was revealed briefly when he\was summoned forth by a mighty wizard by\the name of <NAME_MAG> in the year 600.<PAGE>\In the year 1999, Lavos emerged to claim\the surface.<PAGE>\Now he has taken the place I've named Death\Peak as his throne—or nest, as it may well be.\His miniature spawn now flow from the mountaintop,\an avalanche of death.<PAGE>\Lavos is a parasite—a parasite of gargantuan\proportions whose host is the planet itself.
+FLD_MESI0_023,Trapped here, I endeavor to continue my study and\observation of Lavos. But I believe the end draws\near.<PAGE>\Maintaining one's sanity is an endeavor in and of\itself in an age such as this—an endeavor I fear\may be futile.<PAGE>\So before my mind is lost forever, I have decided to\leave these records of my knowledge behind, along\with my greatest invention.
+FLD_MESI0_024,Ever did I long to return home, and toil endlessly\in search of a way. But as I neared the completion\of my research, so did I near the end of my days.<PAGE>\I have grown old, and frail. And so I leave it in\your hands—you, who have opened the way.<PAGE>\Take hold the reins of time, and let all the people\of this planet's past and future join as one!\Then—only then—you just may be able\to stop Lavos.
+FLD_MESI0_025,You have little chance of success.\But even a little chance is still a chance! \You who have opened the door...the fate\of the world is in your hands.<PAGE>\Open now the final door, and claim what awaits you.\My last and greatest work...<PAGE>\The Wings of Time.
+FLD_MESI0_026,<NAME_MAR>: Wow... This is amazing!<PAGE>\Which...which end do you suppose is the front?
+FLD_MESI0_027,<NAME_LUC>: This must be Belthasar's invention.
+FLD_MESI0_028,<NAME_ROB>: This must be the invention mentioned\in his recordings, the Wings of Time.
+FLD_MESI0_029,<NAME_FRO>: This must be it—the Wings of Time!
+FLD_MESI0_030,<NAME_AYL>: Oh!<PAGE>\What this thing?
+FLD_MESI0_031,<CT>\A curious crest is engraved here,\and a mysterious force seals it shut.
+FLD_MESI0_032,<CT>\The pendant begins to glow.
+FLD_MESI0_033,Strange Construct: The final instruction\sequence the Wise One programmed into me\was for his burial.<PAGE>\Now I can join him in his eternal rest.<PAGE>\But first...<PAGE>\Hmm... I am certain there was one more\task I was ordered to complete.<PAGE>\Something about the seats...<PAGE>\...<PAGE>\...<PAGE>\...<PAGE>\Memory error. I forget.
+FLD_MESI0_034,Strange Construct: Please do not disturb my slumber.
+FLD_MESI0_035,Strange Construct: Warning.\Temporal turbulence detected ahead.
+FLD_MESI0_036,Strange Construct: Scared you, didn't I?<PAGE>\It's me...Belthasar!\I copied my memory into this thing.<PAGE>\What do you think? Precious, isn't he?<PAGE>\Anyway, there is something I need to explain.\Namely, how to transcend time!<PAGE>\Press <BTN_WARP> to display the Time Gauge,\then select the era you wish to visit.
+FLD_MESI0_037,Belthasar: Ah, yes!
+FLD_MESI0_038,Belthasar: Before you go, why don't you give\a name to my time machine?
+FLD_MESI0_039,Belthasar: Well then, hop aboard!
+FLD_MESI0_040,No dozing off, now!<AUTO_END>
+FLD_MESI0_041,Strange Construct: Instructions for the\time machine are as follows.<PAGE>\<BTN_WARP>:\Display time gauge.<PAGE>\Era Buttons:\Use the up and down directional buttons to \select a destination in time.<PAGE>\<BTN_CONF>:\Board, disembark, or activate time warp.<PAGE>\End of message.
+FLD_MESI0_042,Strange Construct: Enter name of time machine.
+FLD_MESI0_043,Lookout: Eek! Outsiders!\Better report to Krawlie!
+FLD_MESI0_044,Underling: There was a bridge here!\I saw it! I swear, ribbit!
+FLD_MESI0_045,Boss: What, it got up and walked away, ribbit?\Don't you lie to me!\There's nothing here at all, ribbit!
+FLD_MESI0_046,Underling: But it's true, ribbit...
+FLD_MESI0_047,Boss: Someone's coming!\Let's scram, ribbit!
+FLD_MESI0_048,<NAME_MAR>: This place is a tad on the spooky side.
+FLD_MESI0_049,<NAME_LUC>: I've got a bad feeling about this.
+FLD_MESI0_050,<NAME_AYL>: This bad place...\Be careful!
+FLD_MESI0_051,<CT>\NOTICE\Circle around to press the switch!
+FLD_MESI0_052,Lookout: There's three of 'em, and they're almost here!
+FLD_MESI0_053,Krawlie: Waltzing through the sewers like they\own the place, eh? Must have a death wish.\We'll teach 'em a little respect!
+FLD_MESI0_054,Lookout: Yes!\Yes we will!\Hee hee hee...
+FLD_MESI0_055,Krawlie: Just let 'em come through here!\They'll be chopped liver! Pulverized!\Won't even know what to call 'em when we're done!
+FLD_MESI0_056,Krawlie: Gah ha ha ha ha!<PAGE>\Lookout: Hee hee hee hee hee!<PAGE>\Krawlie: Har har har har!<PAGE>\Lookout: HA HA HA HA HA!<PAGE>\Krawlie: HEEEEE HEE HEE HEE!
+FLD_MESI0_057,Lookout: !
+FLD_MESI0_058,Krawlie: Hm?
+FLD_MESI0_059,Quiet! You'll ruin our ambush!
+FLD_MESI0_060,Mountains're so nice.
+FLD_MESI0_061,This's such a nice view.
+FLD_MESI0_062,Mountains're so nice.
+FLD_MESI0_063,You really aren't gonna leave me alone, huh?\Here, take this.
+FLD_MESI0_064,Azala: Hear that lovely voice?<PAGE>\You'll soon be hearing more of it than you'd ever wish!
+FLD_MESI0_065,Azala: Damnable red star...<PAGE>\Fall, why don't you?<PAGE>\Stain the earth red!
+FLD_MESI0_066,Azala: This black tyranno will have the honor of\wiping you filthy apes from existence forever!\Mwa ha ha!
+FLD_MESI0_067,Azala: At last, the final confrontation.\It was but a matter of time.<PAGE>\Will it be we reptites who inherit the earth—or you\soft-skinned apes?
+FLD_MESI0_068,<NAME_AYL>: Strong live, weak die.\<NAME_AYL> just fight!
+FLD_MESI0_069,Azala: Even should it prove our fate to die, we\will not relinquish this world to the likes of you!
+FLD_MESI0_070,Azala: No... It can't be!\Could the heavens truly have sided with the apes?<PAGE>\Listen, primates, and let it be known for all time.\We reptites fought proudly to the bitter end!
+FLD_MESI0_071,<NAME_AYL>: <NAME_AYL> know.
+FLD_MESI0_072,<NAME_AYL>: !?
+FLD_MESI0_073,Azala: First, a great fiery stone will crash to the earth.\Its flames will soon spread to scorch every corner of\the land.<PAGE>\Then the chill will begin to creep across the blackened\plains, ushering in a long, cruel age of ice and snow.<PAGE>\Ha ha ha...\A fitting end to our age indeed!<PAGE>\Mwa ha ha ha ha!
+FLD_MESI0_074,<NAME_AYL>: Lavos...
+FLD_MESI0_075,<NAME_MAR>: What?
+FLD_MESI0_076,<NAME_LUC>: L-Lavos!?
+FLD_MESI0_077,<NAME_ROB>: Lavos... But, that is impossible!
+FLD_MESI0_078,<NAME_AYL>: <NAME_AYL> people word.\"La" mean fire.\"Vos" mean big.
+FLD_MESI0_079,Voice: <NAME_AYL>!
+FLD_MESI0_080,<NAME_AYL>: Kino!
+FLD_MESI0_081,<NAME_AYL>: Hurry!\Lavos fall soon!
+FLD_MESI0_082,<NAME_AYL>: All ride dactyl!
+FLD_MESI0_083,<NAME_AYL>: Kino!\Hurry!
+FLD_MESI0_084,Kino: <NAME_AYL>!\What you do?
+FLD_MESI0_085,<NAME_AYL>: Come!\Azala!\Come!
+FLD_MESI0_086,Azala: No!\This is the will of the earth!
+FLD_MESI0_087,<NAME_AYL>: ...
+FLD_MESI0_088,Kino: <NAME_AYL>!\Hurry!
+FLD_MESI0_089,<NAME_AYL>: Azala...<PAGE>\<NAME_AYL> not forget.
+FLD_MESI0_090,Azala: Take...
+FLD_MESI0_091,<NAME_AYL>: Take?<PAGE>\What take?
+FLD_MESI0_092,Azala: Take care...of this world.
+FLD_MESI0_093,Nizbel: Lookin' for Azala?\She's just through here.
+FLD_MESI0_094,Nizbel: Hold it!<PAGE>\When I said she's through here, I meant you gotta\get through me first! Whaddaya think I was flexin'\my muscles and lookin' all intimidatin' for?
+FLD_MESI0_095,Nizbel: Hey!<PAGE>\You've got some nerve just walkin' past me,\the great Nizbel! I'll show you!
+FLD_MESI0_096,Underling: Looks like you just hafta press this\switch, and the bridge'll extend across, ribbit!
+FLD_MESI0_097,Boss: So, switch it on already, ribbit!
+FLD_MESI0_098,Underling: Riiiiiibbit!<PAGE>\Can't reach it, ribbit!
+FLD_MESI0_099,Boss: And you call yourself a frog, ribbit!
+FLD_MESI0_100,There is a diary here.\The final entry reads as follows:<PAGE>\"I'm through. I can't take any more of this.\The fishmen attack if I make even the slightest noise.<PAGE>\"If I knew things would be like this, I'd have\taken the guillotine any day of the week.<PAGE>\"Think I'll go out with a good, loud scream—see how\the soggy freaks like that!"
+FLD_MESI0_101,Strange Construct: *mumble mumble*?\<S10><S10><C1>Take off.</C1>\<S10><S10><C2>Get off.</C2>
+FLD_MESI0_102,<NAME_MAR>: Let's go!
+FLD_MESI0_103,<NAME_LUC>: Come on, <NAME_SIL>!
+FLD_MESI0_104,<NAME_ROB>: <NAME_SIL> engines engaged!
+FLD_MESI0_105,<NAME_FRO>: Away, <NAME_SIL>!
+FLD_MESI0_106,<NAME_AYL>: <NAME_SIL>, go!
+FLD_MESI0_107,<NAME_MAG>: We go.
+FLD_MESI0_108,<CT>\Obtained <NAME_ITM>!
+FLD_MESI0_109,<CT>\Obtained <NAME_ITM>!
+FLD_MESI0_110,Strange Construct: I will now deliver a message\from the Wise One.
+FLD_MESI0_111,Belthasar: Death Peak harbors a power capable\of restoring the slain to life.<PAGE>\But the power to reverse death is not one easily\invoked. The need must be great, and the person's\existence of the utmost importance.<PAGE>\And what's more, you'll need a double—a doll identical\to that person in every detail.<PAGE>\Then, and only then, will the power deign to hatch\the Egg.
+FLD_MESI0_112,Belthasar: Yes... That will do quite well.<PAGE>\It seems the time has come for you to attempt\Death Peak. It is the only chance you have of\reviving your friend.<PAGE>\I've implanted one final program—truly, I mean\it this time—in this construct's memory banks.\It will help to guide you up the mountain.<PAGE>\Please stand back.
+FLD_MESI0_113,Belthasar: Without the doppel doll, there is\no meaning in going to Death Peak. Go to the\place you have left it, and retrieve it with\all haste!
+FLD_MESI0_114,Belthasar: A doppel doll! That would do nicely.\The magician Norstein Bekkler could whip one\up in the wink of an eye, if only he were here.<PAGE>\You've not heard of him, you say? Well, he loves\festivals. Find a fair, and there, too, you shall\almost certainly find Bekkler!
+FLD_MESI0_115,Executing program!
+FLD_MESI0_116,Belthasar: The three entities you just saw will\aid you on Death Peak.<PAGE>\This ends my message.\Now, I must ask you for a favor.<PAGE>\This construct has reached the end of his final\program. Please, let him rest. The switch is on\his stomach.
+FLD_MESI0_117,Switch the construct off?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MESI0_118,Time no longer appears to flow for this construct.
+FLD_MESI0_119,Oh, three of you! And in a place like this!\You've a long journey ahead of you yet,\so please rest here a while.<PAGE>\Of course, if you wish to escape from the Omen,\I'll see what I can do.
+FLD_MESI0_120,What will you do?\<S10><S10><C1>Escape.</C1>\<S10><S10><C2>Remain here.</C2>
+FLD_MESI0_121,Hey! A real, live customer!
+FLD_MESI0_122,Underling: Get on, ribbit!
+FLD_MESI0_123,What will you do?\<S10><S10><C1>Shop.</C1>\<S10><S10><C2>Just chat.</C2>
+FLD_MESI0_124,I've all kinds of great stuff!
+FLD_MESI0_125,Come again!
+FLD_MESI0_126,*sigh*\Hard to make a living here...
+FLD_MESI0_127,Come back here!<AUTO_END>
+FLD_MESI0_128,Underling: Hrmph. How long are we gonna\keep taking orders from that loser, ribbit?
+FLD_MESI0_129,Boss: Just shut up and push it, will ya, ribbit?
+FLD_MESI0_130,Underling: Don't you have any bigger dream\in life, ribbit?
+FLD_MESI0_131,Boss: My dream, huh, ribbit?<PAGE>\To be King of the Sewers! Yeah, ribbit!
+FLD_MESI0_132,Boss: All right, then... What's your little\dream, ribbit?
+FLD_MESI0_133,Underling: All I want is to keep working for\you, ribbit.
+FLD_MESI0_134,Boss: Sheesh... Go and make me get all\teary-eyed, why don't you, ribbit?<PAGE>\Oh, if only Krawlie and that lookout of his\could've heard that, ribbit!
+FLD_MESI0_135,Underling: Ribbit...ribbit, ribbit!
+FLD_MESI0_136,Boss: Ribbit! Ribbit, ribbit!
+FLD_MESI0_137,<NAME_MAR>: What?\It's over already?
+FLD_MESI0_138,<NAME_LUC>: That is what "The End" usually means.
+FLD_MESI0_139,<NAME_MAR>: But things were just starting to\get interesting!
+FLD_MESI0_140,<NAME_LUC>: Well, let's see if we can get these\words out of the way, then.
+FLD_MESI0_141,<NAME_MAR>: Yeah, take 'em away!\Then we can take a little trip down memory lane\and reflect on all the good times we had!
+FLD_MESI0_142,<NAME_LUC>: Art director! Would you mind?
+FLD_MESI0_143,<NAME_MAR>: First, let's take a closer look at\Leene Square!
+FLD_MESI0_144,<NAME_LUC>: There's the Steel Runner.
+FLD_MESI0_145,<NAME_MAR>: I just don't think I could go for\one like that. The armor would poke you all\the time.
+FLD_MESI0_146,<NAME_LUC>: Forget that!\Can you imagine what the inside of\that armor must smell like?
+FLD_MESI0_147,<NAME_MAR>: What a lovely thought, <NAME_LUC>.\Let's get on with the show, okay?
+FLD_MESI0_148,<NAME_LUC>: Next up is your home, Guardia Castle. 
+FLD_MESI0_149,<NAME_MAR>: Heh heh...\This one's a VERY nice memory!
+FLD_MESI0_150,<NAME_LUC>: Is it ever! Whew!
+FLD_MESI0_151,<NAME_MAR>: He was the only one you couldn't bring\yourself to shoot with your Zonker, wasn't he?\His name's Peter. He's not really a man, though.
+FLD_MESI0_152,<NAME_LUC>: I...I knew that!
+FLD_MESI0_153,<NAME_MAR>: Oh, it's Pierre!
+FLD_MESI0_154,<NAME_LUC>: Wouldn't want anything to do\with someone like that. Obviously corrupt.\Someone ought to put him on trial!
+FLD_MESI0_155,<NAME_MAR>: This next one just doesn't have\any spark. Where's the energy? That drive to\make the best of your situation? Cheer up!
+FLD_MESI0_156,<NAME_LUC>: We might not be any better than\him if we were in his shoes.
+FLD_MESI0_157,<NAME_MAR>: Well, good luck sowing that seed of yours!
+FLD_MESI0_158,<NAME_LUC>: Theeeeere's Johnny!\Mr. Speed himself!
+FLD_MESI0_159,<NAME_MAR>: I don't know about a guy whose\greatest talent is being fast...\\
+FLD_MESI0_160,<NAME_LUC>: Hey, look close!\He's really a tricycle!\No, thanks!
+FLD_MESI0_161,<NAME_MAR>: Try again when you learn to ride, buddy!
+FLD_MESI0_162,<NAME_LUC>: There's that stuffed-shirt, Cyrus!
+FLD_MESI0_163,<NAME_MAR>: He is awfully handsome...
+FLD_MESI0_164,<NAME_LUC>: But those clothes have got to go.
+FLD_MESI0_165,<NAME_MAR>: Oh, and did you know he plucks his\eyebrows?
+FLD_MESI0_166,<NAME_LUC>: Ugh, you've got to be joking!\Hmm... Still a hunk, though!
+FLD_MESI0_167,<NAME_MAR>: Toma!\Now he's definitely my type!
+FLD_MESI0_168,<NAME_LUC>: Aw, he's just a sot.
+FLD_MESI0_169,<NAME_MAR>: Probably has dozens of girlfriends, too.
+FLD_MESI0_170,<NAME_LUC>: Or boyfriends. Come to think of it, he\never really talked about his love life...
+FLD_MESI0_171,<NAME_MAR>: What about him?\That Kino guy?
+FLD_MESI0_172,<NAME_LUC>: Forget it.\Total Neanderthal!
+FLD_MESI0_173,<NAME_MAR>: But the single-mindedness is kind of\cute, don't you think?
+FLD_MESI0_174,<NAME_LUC>: He walks like a DUCK!
+FLD_MESI0_175,<NAME_MAR>: He was a nice enough guy, though.
+FLD_MESI0_176,<NAME_LUC>: Yeah, he meant well.
+FLD_MESI0_177,<NAME_LUC>: <NAME_CRO>!
+FLD_MESI0_178,<NAME_CRO>: This is your idea of a nice\little trip down memory lane?
+FLD_MESI0_179,<NAME_MAR>: Heh heh!\I...I guess we got a little carried away!
+FLD_MESI0_180,<NAME_LUC>: Say, what era should we go to now?
+FLD_MESI0_181,<NAME_MAR>: One with lots of fun things to do!
+FLD_MESI0_182,<NAME_CRO>: Now!
+FLD_MESI0_183,<NAME_LUC>: Now, as in...the present?
+FLD_MESI0_184,<NAME_MAR>: Okay!\The present it is!
+FLD_MESI0_185,<NAME_LUC>: So, I guess we won't be needing\this Gate Key anymore, will we?
+FLD_MESI0_186,<NAME_LUC>: Hey!\Wait for me!
+FLD_MESI0_187,
+FLD_MESI0_188,
+FLD_MESI0_189,
+FLD_MESI0_190,
+FLD_MESI0_191,
+FLD_MESI0_192,
+FLD_MESI0_193,
+FLD_MESI0_194,
+FLD_MESI0_195,
+FLD_MESI0_196,
+FLD_MESI0_197,
+FLD_MESI0_198,
+FLD_MESI0_199,
+FLD_MESI0_200,
+FLD_MESI0_201,
+FLD_MESI0_202,
+FLD_MESI0_203,
+FLD_MESI0_204,
+FLD_MESI0_205,
+FLD_MESI0_206,
+FLD_MESI0_207,
+FLD_MESI0_208,
+FLD_MESI0_209,
+FLD_MESI0_210,
+FLD_MESI0_211,
+FLD_MESI0_212,
+FLD_MESI0_213,
+FLD_MESI0_214,
+FLD_MESI0_215,
+FLD_MESI0_216,
+FLD_MESI0_217,
+FLD_MESI0_218,
+FLD_MESI0_219,
+FLD_MESI0_220,
+FLD_MESI0_221,
+FLD_MESI0_222,
+FLD_MESI0_223,
+FLD_MESI0_224,
+FLD_MESI0_225,
+FLD_MESI0_226,
+FLD_MESI0_227,
+FLD_MESI0_228,
+FLD_MESI0_229,
+FLD_MESI0_230,
+FLD_MESI0_231,
+FLD_MESI0_232,
+FLD_MESI0_233,
+FLD_MESI0_234,
+FLD_MESI0_235,
+FLD_MESI0_236,
+FLD_MESI0_237,
+FLD_MESI0_238,
+FLD_MESI0_239,
+FLD_MESI0_240,
+FLD_MESI0_241,
+FLD_MESI0_242,
+FLD_MESI0_243,
+FLD_MESI0_244,
+FLD_MESI0_245,
+FLD_MESI0_246,
+FLD_MESI0_247,
+FLD_MESI0_248,
+FLD_MESI0_249,
+FLD_MESI0_250,
+FLD_MESI0_251,
+FLD_MESI0_252,
+FLD_MESI0_253,
+FLD_MESI0_254,
+FLD_MESI0_255,

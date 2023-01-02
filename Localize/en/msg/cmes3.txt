@@ -1,0 +1,256 @@
+FLD_CMES3_000,<NAME_AYL>: <NICK_CRO>!
+FLD_CMES3_001,<NAME_LUC>: You aren't trying to sneak off without us,\are you?
+FLD_CMES3_002,<NAME_MAR>: You better not even think about going\without us!
+FLD_CMES3_003,<NAME_FRO>: You would go alone?<PAGE>\I do not know what has driven you to this quest,\but a friend of <NAME_CRO>'s is a friend of mine.<PAGE>\I will not stand by while you go to your grave.
+FLD_CMES3_004,<NAME_AYL>: No! Tyranno Lair danger!\You no come! Maybe, all die!
+FLD_CMES3_005,<NAME_LUC>: Nope, we can't turn our backs on you\like that. We owe you one!
+FLD_CMES3_006,<NAME_LUC>: Right, <NAME_CRO>?
+FLD_CMES3_007,<NAME_MAR>: If it's that dangerous, we definitely can't\let you go alone! You've done a lot for us, <NAME_AYL>.\Now it's payback time!
+FLD_CMES3_008,<NAME_MAR>: Right, <NAME_CRO>?
+FLD_CMES3_009,<NAME_FRO>: You wish to die alone, then?\I fear I cannot allow that—not after having\accepted your aid and hospitality.<PAGE>\There has been death enough on my watch.\I'll abide no more.
+FLD_CMES3_010,<NAME_FRO>: Let us be on our way, <NAME_CRO>.
+FLD_CMES3_011,<NAME_AYL>: <NAME_AYL> have good friend.
+FLD_CMES3_012,<NAME_LUC>: All right, it's set!\To the Tyranno Lair!
+FLD_CMES3_013,<NAME_MAR>: Come on, <NAME_AYL>!\Let's go to the Tyranno Lair!
+FLD_CMES3_014,<NAME_ROB>: Let us proceed to the Tyranno Lair!
+FLD_CMES3_015,Masa: Dreamstone has been used throughout the ages.\The Mammon Machine and that pendant were made from\it, and so was that knife.<PAGE>\We are the embodiment of Melchior's hope,\sealed within the knife.
+FLD_CMES3_016,Masa: Hurry, if you mean to confront the Queen.\Hope rests in your hands.
+FLD_CMES3_017,Elder: Ahh...\You've woken.
+FLD_CMES3_018,<NAME_MAR>: <NAME_CRO>!
+FLD_CMES3_019,<NAME_LUC>: <NAME_CRO>!
+FLD_CMES3_020,<NAME_ROB>: <NAME_CRO>!
+FLD_CMES3_021,<NAME_FRO>: <NAME_CRO>!
+FLD_CMES3_022,<NAME_AYL>: <NAME_CRO>!
+FLD_CMES3_023,Elder: You were most fitful in your sleep.
+FLD_CMES3_024,<NAME_MAR>: <NAME_CRO>!\Where's <NAME_CRO>?
+FLD_CMES3_025,<NAME_LUC>: <NAME_CRO>!\Where's <NAME_CRO>?
+FLD_CMES3_026,<NAME_ROB>: <NAME_CRO>!\Where is <NAME_CRO>?
+FLD_CMES3_027,<NAME_FRO>: <NAME_CRO>!\What of <NAME_CRO>?
+FLD_CMES3_028,<NAME_AYL>: <NICK_CRO>!\Where <NICK_CRO>!?
+FLD_CMES3_029,Elder: We found no other.
+FLD_CMES3_030,<NAME_MAR>: So it wasn't a dream.
+FLD_CMES3_031,<NAME_LUC>: It wasn't a dream, then.
+FLD_CMES3_032,<NAME_ROB>: Then it was not a memory error.
+FLD_CMES3_033,<NAME_FRO>: First Cyrus, and now <NAME_CRO>...
+FLD_CMES3_034,<NAME_AYL>: No!\That not true!\<NICK_CRO> strong!\<NICK_CRO> not die!
+FLD_CMES3_035,<NAME_LUC>: Where are we?\Is this the village of the Earthbound Ones?
+FLD_CMES3_036,<NAME_ROB>: Is this the village inhabited by the\Earthbound?
+FLD_CMES3_037,<NAME_FRO>: Is this the village of the Earthbound Ones?
+FLD_CMES3_038,<NAME_AYL>: Where this place?\Earthbound village?
+FLD_CMES3_039,Elder: This island was the only refuge left\after the Ocean Palace unleashed its ruin.\No others remain.
+FLD_CMES3_040,<NAME_LUC>: No... Not this era, too!
+FLD_CMES3_041,<NAME_ROB>: We were unable to save this era, either.
+FLD_CMES3_042,<NAME_FRO>: What tragedy...
+FLD_CMES3_043,<NAME_AYL>: Metal bird!\Island float in sky!\All gone?
+FLD_CMES3_044,<NAME_LUC>: Melchior!\Where's Melchior?
+FLD_CMES3_045,<NAME_ROB>: Is Sir Melchior here?
+FLD_CMES3_046,<NAME_FRO>: And what of Old Man Melchior?\Did he escape?
+FLD_CMES3_047,<NAME_AYL>: Melchior!\Where he?
+FLD_CMES3_048,Elder: When the disaster struck, an eerie black portal\materialized before young Lord Janus. Melchior tried\to save the boy prince, but succeeded only in getting\himself dragged in as well.
+FLD_CMES3_049,<NAME_LUC>: A black portal?<PAGE>\A Gate!
+FLD_CMES3_050,<NAME_ROB>: A black portal?<PAGE>\It must have been a Gate made by Lavos.
+FLD_CMES3_051,<NAME_FRO>: A black portal?<PAGE>\A Gate...
+FLD_CMES3_052,<NAME_AYL>: Black hole?\Like one we come here?
+FLD_CMES3_053,<NAME_LUC>: What about Schala?
+FLD_CMES3_054,<NAME_ROB>: And Ms. Schala?
+FLD_CMES3_055,<NAME_FRO>: And the girl, Schala?
+FLD_CMES3_056,<NAME_AYL>: What happen Schala?\Where she?
+FLD_CMES3_057,Elder: That I cannot say.\No one has seen her since.
+FLD_CMES3_058,<NAME_LUC>: The <NAME_SIL>!\What happened to it?
+FLD_CMES3_059,<NAME_ROB>: The <NAME_SIL>!\Is the <NAME_SIL> intact?
+FLD_CMES3_060,<NAME_FRO>: The <NAME_SIL>!\What fate has befallen it?
+FLD_CMES3_061,<NAME_AYL>: Where <NAME_SIL>?\<NAME_SIL> alive?
+FLD_CMES3_062,Elder: Your ship is a sturdier vessel than one might\venture. She washed up safe and sound, right in your\wake. It was almost as though she were drawn to you.
+FLD_CMES3_063,<NAME_LUC>: <NAME_MAR>...
+FLD_CMES3_064,<NAME_ROB>: <NAME_MAR>...
+FLD_CMES3_065,<NAME_FRO>: <NAME_MAR>...
+FLD_CMES3_066,<NAME_AYL>: <NAME_MAR>...
+FLD_CMES3_067,<NAME_MAR>: <NAME_CRO>...
+FLD_CMES3_068,<NAME_LUC>: If the <NAME_SIL> is okay, my gut tells\me that <NAME_CRO> is, too.
+FLD_CMES3_069,<NAME_ROB>: Please cheer up.\This behavior is abnormal for you.
+FLD_CMES3_070,<NAME_FRO>: You've lost a dear friend before\your very eyes. No words of comfort I could\offer could possibly suffice.
+FLD_CMES3_071,<NAME_AYL>: <NAME_MAR> cry, make <NICK_CRO> sad.\<NAME_AYL> no cry!
+FLD_CMES3_072,<NAME_MAR>: ...
+FLD_CMES3_073,Elder: Ah, yes... I believe this is yours.
+FLD_CMES3_074,<NAME_MAR>: My pendant...\I'd given it to <NAME_CRO> to hold for me.
+FLD_CMES3_075,<NAME_LUC>: <NAME_MAR>'s pendant...\The one that <NAME_CRO> kept for her.
+FLD_CMES3_076,<NAME_ROB>: That is the pendant <NAME_CRO> carried.\It belongs to <NAME_MAR>, correct?
+FLD_CMES3_077,<NAME_FRO>: The pendant <NAME_CRO> carried.
+FLD_CMES3_078,<NAME_AYL>: Pendant, <NAME_CRO> have before!
+FLD_CMES3_079,Elder: I found it resting upon on your shoulder,\my lady—almost as though it were guarding you.
+FLD_CMES3_080,Elder: It was sitting beside you, almost as though\it were watching over you—guarding you.
+FLD_CMES3_081,<NAME_LUC>: <NAME_CRO>...
+FLD_CMES3_082,<NAME_ROB>: <NAME_CRO>...
+FLD_CMES3_083,<NAME_FRO>: <NAME_CRO>...
+FLD_CMES3_084,<NAME_AYL>: <NICK_CRO>...!
+FLD_CMES3_085,Elder: Take all the time you need to rest.\I will be in the village commons, just beyond.
+FLD_CMES3_086,Buy?
+FLD_CMES3_087,A few of the Enlightened Ones did survive.\But no distinctions remain between the\Enlightened and the Earthbound now.
+FLD_CMES3_088,How can I survive in such a land without my magic?
+FLD_CMES3_089,You've no need of magic to survive.\Besides, you're not here alone!
+FLD_CMES3_090,The sun ever rises on the morrow.\There's little we can do but live for today,\and trust that other days will follow.
+FLD_CMES3_091,I suppose you're right. We are alive, after all.\And so long as we are, we must hold on to hope.
+FLD_CMES3_092,Another stranger washed ashore not long after the\tide carried you here. He seemed to be searching for\someone.
+FLD_CMES3_093,The Ocean Palace?\No, it cannot be!
+FLD_CMES3_094,Everyone and everything was swallowed by the sea.
+FLD_CMES3_095,Ah, it's good to see some smiles of hope!\This despair is quite contagious, I fear.
+FLD_CMES3_096,What in the world is that thing?
+FLD_CMES3_097,The sea of clouds has parted and the blizzard at last\abated. Could this long and terrible winter be at an end?
+FLD_CMES3_098,I glimpsed the figure of a man on the north cape.\I hope he was up to no ill.
+FLD_CMES3_099,What else will happen, I wonder.
+FLD_CMES3_100,We'd grown too dependent on that fearsome force.
+FLD_CMES3_101,No one had ever seen the person who came after you,\not even in the world above. Could he have been a\friend of yours?
+FLD_CMES3_102,The Sun Temple of Zeal enshrined a Sun Stone.\Such stones are made by bathing darkened Moon\Stones in the sun's rays.\<PAGE>\Harvesting enough power to create a Sun Stone of\any worth requires ages, though, or so I've heard.
+FLD_CMES3_103,I sense strong magic emanating from that ship,\much like Lavos's.
+FLD_CMES3_104,Zzz...
+FLD_CMES3_105,Hurray!\Hurray!
+FLD_CMES3_106,Such a massive ship...
+FLD_CMES3_107,Mister, is this your cat?
+FLD_CMES3_108,Must have cried himself to sleep.\Let him be.
+FLD_CMES3_109,It warms my heart to see him so full of energy.
+FLD_CMES3_110,I've never seen a thing so ominous before.
+FLD_CMES3_111,Elder: Feeling better, are we?
+FLD_CMES3_112,Elder: The villagers are slowly coming around as well.\They simply need time to accept their fate. We will\all have to start again from scratch, and that is not\something people are wont to concede.
+FLD_CMES3_113,Elder: What's happened?
+FLD_CMES3_114,Hurrah!<PAGE>\Justice!<PAGE>\Dalton's been paid his due!
+FLD_CMES3_115,Elder: Mercy, that ship can fly!
+FLD_CMES3_116,Soldier: Bow, churls, and pay homage to your new liege,\King Dalton!
+FLD_CMES3_117,Dalton: Whyever the looks of disappointment?\You should be thankful you survived!
+FLD_CMES3_118,Dalton: The crazed old crone is gone, and that\insufferable prophet with her. Henceforth,\Zeal shall be known as the kingdom of Dalton!
+FLD_CMES3_119,Dalton: You!? You survived?\Ah! That ship outside must be yours, then, mustn't it?<PAGE>\It matches Belthasar's designs perfectly.
+FLD_CMES3_120,Dalton: You're undeserving of such a splendid toy.\I shall make it my personal chariot!
+FLD_CMES3_121,<NAME_MAR>: You can't do that!
+FLD_CMES3_122,<NAME_LUC>: You've got to be joking!
+FLD_CMES3_123,<NAME_ROB>: That would be a g-grave inconvenience.
+FLD_CMES3_124,<NAME_FRO>: Surely you jape!
+FLD_CMES3_125,<NAME_AYL>: <NAME_SIL> <NAME_AYL> friend!
+FLD_CMES3_126,Dalton: You will have to come with me.\It would not do to have you whispering\strange secrets in the ears of this mob.\You might start a rebellion!
+FLD_CMES3_127,Dalton: But first...
+FLD_CMES3_128,...take this!
+FLD_CMES3_129,Dalton: What!?
+FLD_CMES3_130,Dalton: Grrrr!
+FLD_CMES3_131,Dalton: Hmph!
+FLD_CMES3_132,Dalton: Hey! What's that behind you?
+FLD_CMES3_133,Dalton: Gah ha ha ha!\A little taste of my true power!
+FLD_CMES3_134,<NAME_MAG>: So, it's you.
+FLD_CMES3_135,<NAME_MAR>: <NAME_MAG>...
+FLD_CMES3_136,<NAME_LUC>: <NAME_MAG>...
+FLD_CMES3_137,<NAME_FRO>: <NAME_MAG>!
+FLD_CMES3_138,<NAME_MAR>: You're...<PAGE>\...Janus, aren't you?
+FLD_CMES3_139,<NAME_LUC>: You...<PAGE>\You were...that boy.
+FLD_CMES3_140,<NAME_FRO>: You...<PAGE>\You were that boy!
+FLD_CMES3_141,<NAME_MAG>: ...
+FLD_CMES3_142,<NAME_MAG>: I've lived only for the thought\of slaying Lavos.<PAGE>\Ever since his rift in time's fabric stranded\me in the Middle Ages...<PAGE>\And just as I had summoned him to my castle,\you arrived to interfere.<PAGE>\To think I would be drawn through yet another\portal, only to find myself returned to this age...<PAGE>\Ironic, is it not?<PAGE>\Being from the future, my knowledge of the\past enabled me to convince the Queen that\I was an oracle of no small power. And so\again I worked to draw the beast out.<PAGE>\But no history book could have prepared me\for what ensued...<PAGE>\Unimaginable is the power of Lavos!\Before him, all are as leaves cast to the\bitter winds that howl about Death's black\wings.<PAGE>\Stay this course, and your fate will be\the same as that fool <NAME_CRO>'s!
+FLD_CMES3_143,<NAME_MAR>: If it weren't for you,\<NAME_CRO>...he—!
+FLD_CMES3_144,<NAME_LUC>: <NAME_CRO>—!
+FLD_CMES3_145,<NAME_FRO>: You dare dishonor him?
+FLD_CMES3_146,<NAME_MAG>: Play with fire and you get burned!\A lesson better learned sooner than later.\The weak go quickly to their graves.
+FLD_CMES3_147,<NAME_MAR>: How dare you?
+FLD_CMES3_148,<NAME_LUC>: Pig!
+FLD_CMES3_149,<NAME_FRO>: Stay your tongue, <NAME_MAG>!
+FLD_CMES3_150,<NAME_MAG>: You wish to fight me?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES3_151,<NAME_MAR>: Fighting you won't gain us anything.<PAGE>\And...<NAME_CRO> wouldn't want us to.
+FLD_CMES3_152,<NAME_LUC>: Defeating you won't bring <NAME_CRO>\back.
+FLD_CMES3_153,<NAME_FRO>: Taking your life will not restore\<NAME_CRO> or Cyrus theirs.
+FLD_CMES3_154,<NAME_MAG>: Wait.
+FLD_CMES3_155,<NAME_MAG>: I'll accompany you.
+FLD_CMES3_156,<NAME_MAR>: What?
+FLD_CMES3_157,<NAME_LUC>: Pardon?
+FLD_CMES3_158,<NAME_FRO>: Are you mad!?
+FLD_CMES3_159,<NAME_MAG>: I said the fool was dead.\I did not say his death could not be undone.
+FLD_CMES3_160,<NAME_MAR>: You...you're serious?
+FLD_CMES3_161,<NAME_LUC>: What?
+FLD_CMES3_162,<NAME_FRO>: Of what do you speak?
+FLD_CMES3_163,<NAME_MAG>: Gaspar, the Guru of Time, knows the\way to restore those streams of time that have\been diverted from their proper courses.
+FLD_CMES3_164,<NAME_MAG>: Very well, then...<PAGE>\But you shall not defeat me easily!
+FLD_CMES3_165,<NAME_MAG>: If I die...<NAME_FRO>'s curse\will be undone.
+FLD_CMES3_166,Should you wish to...to revive <NAME_CRO>, seek...<PAGE>\Seek Gaspar, the...the Guru of... of Time.
+FLD_CMES3_167,<CT>\Obtained Schala's Amulet.
+FLD_CMES3_168,<NAME_FRO>: Stand back.
+FLD_CMES3_169,<NAME_MAG>: ...<PAGE>\Never did I imagine that we would settle\our score in this era.\Come, let us finish this charade!
+FLD_CMES3_170,<NAME_FRO>: Cyrus...\You are avenged.
+FLD_CMES3_171,Check back from time to time. He sells whatever\washes up here, so if you wait a while he'll\most likely have some new things up for sale.\
+FLD_CMES3_172,He's got more goods.
+FLD_CMES3_173,<CT>\Obtained Magic Capsule!
+FLD_CMES3_174,<NAME_MAG>: Behold.\All of it rests at the bottom of the sea.<PAGE>\Gone is the magical kingdom of Zeal, and all\the dreams and ambitions of its people.
+FLD_CMES3_175,<NAME_MAG>: I lived there once.\But I was another person then.
+FLD_CMES3_176,<NAME_MAG>: A kingdom of unrealized dreams...<PAGE>\To have regained it at last, only to have it\slip through my fingers like so much sand...
+FLD_CMES3_177,Come again.
+FLD_CMES3_178,Rest for the night?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES3_179,...
+FLD_CMES3_180,Dalton never had what it took to be a king.
+FLD_CMES3_181,Dalton was a horrible master.\Stingy with the coin, too.
+FLD_CMES3_182,The Guru of Life gave me this sapling, but I fear\there's no place for it in this desolate world.<PAGE>\What should I do?\<S10><S10><C1>Burn it,<CE> </CE>it's a mercy.</C1>\<S10><S10><C2>Plant it, with hope.</C2>
+FLD_CMES3_183,You're right. It hasn't any chance here, has it?
+FLD_CMES3_184,All right, I'll find a place to let it grow.\Who knows? Maybe someday it will be the key\to reviving this dead world of ours.
+FLD_CMES3_185,Such a mysterious little tree...\Perhaps someday it will help us paint the land green\again.
+FLD_CMES3_186,
+FLD_CMES3_187,
+FLD_CMES3_188,
+FLD_CMES3_189,
+FLD_CMES3_190,
+FLD_CMES3_191,
+FLD_CMES3_192,
+FLD_CMES3_193,
+FLD_CMES3_194,
+FLD_CMES3_195,
+FLD_CMES3_196,
+FLD_CMES3_197,
+FLD_CMES3_198,
+FLD_CMES3_199,
+FLD_CMES3_200,
+FLD_CMES3_201,
+FLD_CMES3_202,
+FLD_CMES3_203,
+FLD_CMES3_204,
+FLD_CMES3_205,
+FLD_CMES3_206,
+FLD_CMES3_207,
+FLD_CMES3_208,
+FLD_CMES3_209,
+FLD_CMES3_210,
+FLD_CMES3_211,
+FLD_CMES3_212,
+FLD_CMES3_213,
+FLD_CMES3_214,
+FLD_CMES3_215,
+FLD_CMES3_216,
+FLD_CMES3_217,
+FLD_CMES3_218,
+FLD_CMES3_219,
+FLD_CMES3_220,
+FLD_CMES3_221,
+FLD_CMES3_222,
+FLD_CMES3_223,
+FLD_CMES3_224,
+FLD_CMES3_225,
+FLD_CMES3_226,
+FLD_CMES3_227,
+FLD_CMES3_228,
+FLD_CMES3_229,
+FLD_CMES3_230,
+FLD_CMES3_231,
+FLD_CMES3_232,
+FLD_CMES3_233,
+FLD_CMES3_234,
+FLD_CMES3_235,
+FLD_CMES3_236,
+FLD_CMES3_237,
+FLD_CMES3_238,
+FLD_CMES3_239,
+FLD_CMES3_240,
+FLD_CMES3_241,
+FLD_CMES3_242,
+FLD_CMES3_243,
+FLD_CMES3_244,
+FLD_CMES3_245,
+FLD_CMES3_246,
+FLD_CMES3_247,
+FLD_CMES3_248,
+FLD_CMES3_249,
+FLD_CMES3_250,
+FLD_CMES3_251,
+FLD_CMES3_252,
+FLD_CMES3_253,
+FLD_CMES3_254,
+FLD_CMES3_255,

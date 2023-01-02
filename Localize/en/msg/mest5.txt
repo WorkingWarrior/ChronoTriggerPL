@@ -1,0 +1,256 @@
+FLD_MEST5_000,<CT>\Obtained <NAME_ITM>!
+FLD_MEST5_001,Soldier: Stop right there!
+FLD_MEST5_002,Soldier: Civilians aren't allowed in here.\Why don't you go enjoy the festival like the other kids?
+FLD_MEST5_003,Voice: Princess Nadia!
+FLD_MEST5_004,Chancellor: Are you all right?\Where on earth have you been?<PAGE>\We'd heard you were abducted!\We had soldiers combing the entire kingdom for you!
+FLD_MEST5_005,Chancellor: Hmph. You, back there!\You're the one, are you?\Thought you'd kidnap the Princess?
+FLD_MEST5_006,<NAME_MAR>: No!\<NAME_CRO> only—
+FLD_MEST5_007,Chancellor: Seize him! Seize the filthy terrorist!\He deceived our Princess and plotted to overthrow\the Crown!
+FLD_MEST5_008,<NAME_MAR>: No...no, you mustn't!
+FLD_MEST5_009,<NAME_MAR>: Stop this right now!
+FLD_MEST5_010,Chancellor: What are you fools doing!?
+FLD_MEST5_011,Soldier: But Her Highness the Princess said—
+FLD_MEST5_012,Chancellor: It doesn't matter what she said!\Seize him!
+FLD_MEST5_013,<NAME_MAR>: <NAME_CRO>!
+FLD_MEST5_014,They're escaping!
+FLD_MEST5_015,<NAME_LUC>: This doesn't look good!
+FLD_MEST5_016,<NAME_LUC>: We've got no choice!\We'll just have to try to plow through!
+FLD_MEST5_017,Stop that right now!
+FLD_MEST5_018,Soldier: Princess Nadia!
+FLD_MEST5_019,<NAME_MAR>: That man is my friend, and you will treat\him as such.
+FLD_MEST5_020,Soldier: But, Your Highness—
+FLD_MEST5_021,<NAME_MAR>: You refuse to obey my orders?
+FLD_MEST5_022,Soldier: No, I—forgive me, my lady!
+FLD_MEST5_023,Hold it right there!
+FLD_MEST5_024,Chancellor: On your knees!\His Grace King Guardia XXXIII comes before you!
+FLD_MEST5_025,<NAME_MAR>: Father...
+FLD_MEST5_026,King: Silence, Nadia.\Your duties come before your whims.<PAGE>\You are a Princess before all else.
+FLD_MEST5_027,<NAME_MAR>: No I'm not!\I'm a person first, and Princess second!
+FLD_MEST5_028,King: All of these little excursions of yours\outside the castle seem to be having a bad\influence on you.
+FLD_MEST5_029,<NAME_MAR>: It's not influence!\It's common sense!
+FLD_MEST5_030,King: Nadia!
+FLD_MEST5_031,<NAME_MAR>: I can't live in this stupid castle anymore!\I'm leaving!
+FLD_MEST5_032,Chancellor: Princess Nadia!
+FLD_MEST5_033,<NAME_MAR>: Come on, <NAME_CRO>!
+FLD_MEST5_034,Chancellor: Don't just stand there!\After them!
+FLD_MEST5_035,King: Oh, Nadia...
+FLD_MEST5_036,You're not going anywhere!
+FLD_MEST5_037,<CT>\It is firmly sealed.
+FLD_MEST5_038,<NAME_MAR>: Come on, <NAME_CRO>!\I don't want to see my father!
+FLD_MEST5_039,Soldier: !<PAGE>\It's the terrorists!
+FLD_MEST5_040,<NAME_LUC>: This is not good.
+FLD_MEST5_041,<NAME_ROB>: What is going on?
+FLD_MEST5_042,<NAME_FRO>: What...what's a terrorist?
+FLD_MEST5_043,Chancellor: You had me worried, Princess!<PAGE>\I understand your feelings, of course.\The King places his realm above all else.<PAGE>\It was the same even when your mother Queen\Aliza passed away.
+FLD_MEST5_044,<NAME_MAR>: What?
+FLD_MEST5_045,Chancellor: Oh, child...\Please, forget I spoke.
+FLD_MEST5_046,<NAME_MAR>: Tell me!
+FLD_MEST5_047,Chancellor: It's difficult to speak of even now.<PAGE>\You see, Queen Aliza's condition had been frail\for some time, but it took a sudden turn for the\worse near the end.<PAGE>\She desperately wanted to see your father, just\one last time.
+FLD_MEST5_048,Chancellor: But your father refused.\Said he could not leave his work unattended.<PAGE>\He left you, young, innocent, and knowing\nothing of death, to watch over her alone.
+FLD_MEST5_049,Chancellor: Naturally, the end was not long\in the coming. She died soon after.<PAGE>\One might well say the King killed her.\Such a shame...
+FLD_MEST5_050,<NAME_MAR>: ...!<PAGE>\Father...killed her?
+FLD_MEST5_051,Chancellor: Please, I speak too much.\Do not let it trouble you, Your Highness!
+FLD_MEST5_052,Chancellor: Now that you've finally returned,\won't you go and see the King?
+FLD_MEST5_053,King: Oh!\Nadia.
+FLD_MEST5_054,King: What have you come here for?\I thought you had no more use for this place!
+FLD_MEST5_055,<NAME_MAR>: ...
+FLD_MEST5_056,King: Don't you look at me like that!\You're the one who stormed out of here!<PAGE>\And letting these...hoodlums in here!\Are you planning to cause some sort of trouble?
+FLD_MEST5_057,<NAME_MAR>: How can you say things like that?\These are my friends!
+FLD_MEST5_058,King: Friends?\You're a daughter of the line of Guardia!\Consorting with their like is a disgrace to\this family's name!
+FLD_MEST5_059,<NAME_MAR>: It's true, then.
+FLD_MEST5_060,<NAME_MAR>: You really do care more about the kingdom\than you ever cared about me, or Mother!
+FLD_MEST5_061,King: What?
+FLD_MEST5_062,<NAME_MAR>: You...you killed my mother!
+FLD_MEST5_063,King: !
+FLD_MEST5_064,King: Get out!\Do not show your face here again!
+FLD_MEST5_065,<NAME_MAR>: Don't worry, I won't!
+FLD_MEST5_066,King: Do as you please!\You are not my daughter!
+FLD_MEST5_067,Chancellor: ...
+FLD_MEST5_068,<NAME_MAR>: Where are you going?\C'mon, let's check out the fair!
+FLD_MEST5_069,Who gave you permission to come in here?\Out with you!
+FLD_MEST5_070,Sorry 'bout my wife.\The old lady runs the kitchens.\Gotta tread softly around here!<PAGE>\She knows how to cook a goose better than anyone,\but she's also got a temper that'll cook your goose.\Seems to run in the family.
+FLD_MEST5_071,Preparations for the Millennial Fair's evening\celebration are underway.
+FLD_MEST5_072,The chief cook's ancestor served in the war against\the Fiendlord—served food, I mean. As a wise man once\said, "Can't wage war on an empty stomach!"
+FLD_MEST5_073,Hey!
+FLD_MEST5_074,Hands off!
+FLD_MEST5_075,Oh, forgive me!\I didn't recognize you, Princess Nadia!
+FLD_MEST5_076,I'm the personal tutor in charge of Her Highness's\education.
+FLD_MEST5_077,Hello!\I'm in charge of the Princess's physical fitness.
+FLD_MEST5_078,I'm in charge of discipline.\This latest incident is all my fault.\I should have been more strict.
+FLD_MEST5_079,King: It's you!<PAGE>\Where is Nadia?<PAGE>\Won't you please tell her to return to the castle?
+FLD_MEST5_080,Since it is our millennial anniversary, the King has,\for the time being, ordered probation for <NAME_CRO>.
+FLD_MEST5_081,His Grace awaits his daughter's return, even if he\appears upset.
+FLD_MEST5_082,Only the Chancellor refused to believe that <NAME_CRO>\was innocent.
+FLD_MEST5_083,Without our Princess, it's almost as though the light\is gone from these halls.
+FLD_MEST5_084,We need our Princess here.
+FLD_MEST5_085,Princess Nadia's the very image of her late mother.\I suspect that's why the King's so strict with her.
+FLD_MEST5_086,The Millennial Fair celebration is set to begin,\but with the King in his current state...
+FLD_MEST5_087,The doors to the court have been sealed at the\orders of His Grace the King.
+FLD_MEST5_088,Entry to the prison towers has been forbidden by\the orders of His Grace.
+FLD_MEST5_089,Pierre awaits you downstairs.
+FLD_MEST5_090,I'm Pierre, royal legal counsel.<PAGE>\The King has been terribly distraught since the\Princess ran off. It took some time, but I was able\to convince him that no kidnapping took place.<PAGE>\The Chancellor, on the other hand...\He has been acting quite strangely.\We were just discussing that now.
+FLD_MEST5_091,It was right around the time he ordered that\Dragon Tank to be built. That was when the\Chancellor started to act differently.
+FLD_MEST5_092,The Chancellor hired all of the guards who manned\the prison towers.
+FLD_MEST5_093,Those prison guards were an odd bunch.<PAGE>\Even we would get cold stares from time to time.\And those eyes... It's like they weren't even human!
+FLD_MEST5_094,The Chancellor may have been purposefully trying\to influence His Grace's judgment in the courtroom.
+FLD_MEST5_095,Chancellor: Princess Nadia...
+FLD_MEST5_096,Chancellor: Oh, dear...
+FLD_MEST5_097,King: I have nothing to say to you, either!\Get out!
+FLD_MEST5_098,King: ...<PAGE>\What have you come here for?\You have no business in this place!
+FLD_MEST5_099,King: Wh-what's that?
+FLD_MEST5_100,<NAME_MAR>: Your...your favorite.
+FLD_MEST5_101,King: ...<PAGE>\You brought this for me?
+FLD_MEST5_102,King: Let's see...
+FLD_MEST5_103,Servant: What is it, Your Grace!?
+FLD_MEST5_104,King: What!?
+FLD_MEST5_105,King: How could you?<PAGE>\Giving me something this spicy when you know\quite well I have high blood pressure!
+FLD_MEST5_106,<NAME_MAR>: What? But...it's your favorite!
+FLD_MEST5_107,King: This is the last straw!\Now I truly know how much you hate me!
+FLD_MEST5_108,<NAME_MAR>: Father, no, I—
+FLD_MEST5_109,King: Leave! Now!\And never show your face here again!
+FLD_MEST5_110,<NAME_MAR>: Father!
+FLD_MEST5_111,His Grace does not wish to see anybody right now.
+FLD_MEST5_112,His Grace hasn't left his bed.\I don't think he's ill, he just has a heavy heart\right now.
+FLD_MEST5_113,Chancellor: Why not give His Grace a gift to soothe\his mood?<PAGE>\He seems to have a taste for spiced jerky lately.
+FLD_MEST5_114,Spiced jerky?<PAGE>\Yes, it's an old family recipe, but one I'm\afraid I don't have. I hear it's quite popular\in Porre these days.
+FLD_MEST5_115,Chancellor: Urgh!<PAGE>\You'll see!\I'll have you put to death yet!
+FLD_MEST5_116,Chancellor: Grr...<PAGE>\I'll see that <NAME_CRO> strung up!
+FLD_MEST5_117,His Grace is deeply troubled by Princess Nadia.
+FLD_MEST5_118,It's hard for a king to seek advice about family\matters.
+FLD_MEST5_119,After the death of Queen Aliza, Princess Nadia\became His Grace's entire world.
+FLD_MEST5_120,Just stop complaining and hurry it up!
+FLD_MEST5_121,You don't need to stand over my shoulder!\I ain't gonna poison the Chancellor's food.
+FLD_MEST5_122,How am I supposed to concentrate on my cooking\with him staring at me?
+FLD_MEST5_123,The trial of the century is about to begin.\Whose, you ask?<PAGE>\Why, King Guardia's, of course!
+FLD_MEST5_124,They say the King secretly sold off a royal heirloom.
+FLD_MEST5_125,The Chancellor has ordered that the interior of the\castle be sealed off until the trial is over.
+FLD_MEST5_126,Same thing on the left.<PAGE>\Wait, were there stairs over there before?
+FLD_MEST5_127,The verdict is about to be handed down.\The Chancellor has ordered that no one be\allowed to enter or leave.
+FLD_MEST5_128,<CT>\It is locked.
+FLD_MEST5_129,Chancellor: Oh, thank goodness!\That beast locked me up in there,\and I've been trapped ever since!
+FLD_MEST5_130,Chancellor: Princess Nadia!\Your friends, I presume?
+FLD_MEST5_131,Chancellor: Wait, I don't have time for this!\I must prepare for the Moonlight Parade!
+FLD_MEST5_132,King: I owe you an apology.\I'm terribly ashamed of myself.<PAGE>\You'll all take good care of Nadia, won't you?
+FLD_MEST5_133,It seems the real Chancellor was all right.\He sped off to the soldiers' quarters saying\he needed to make preparations for the parade.
+FLD_MEST5_134,Chancellor: Princess Nadia!\We've prepared a lovely present to give to you\at the Moonlight Parade tonight.
+FLD_MEST5_135,Chancellor: Look forward to the Moonlight Parade\tonight!
+FLD_MEST5_136,I'm Pierre, the lawyer.<PAGE>\So, where's the real Chancellor?
+FLD_MEST5_137,I'm Pierre, the lawyer.<PAGE>\I've been planning the parade with the Chancellor.
+FLD_MEST5_138,Now the Moonlight Parade can go on as planned.
+FLD_MEST5_139,Tonight will be a fabulous night.
+FLD_MEST5_140,The parade is the fair's grand finale.
+FLD_MEST5_141,This will be the kind of parade to make\anyone feel like a kid again.
+FLD_MEST5_142,We'd best start with our Princess's fitness training!
+FLD_MEST5_143,No, no, we must begin with the books!
+FLD_MEST5_144,No, the first thing we need to do is start all\over with discipline!
+FLD_MEST5_145,The guards hired by the fake Chancellor were\all monsters.
+FLD_MEST5_146,There's finally a celebratory air in the castle, too.
+FLD_MEST5_147,How could I not have seen that the Chancellor\was a beast?
+FLD_MEST5_148,His Grace is finally feeling better.
+FLD_MEST5_149,What a relief.
+FLD_MEST5_150,Come on, now!\Time wastes!
+FLD_MEST5_151,We owe everything to you!\Eat all you want.
+FLD_MEST5_152,If you'd like to eat, please have a seat right here.
+FLD_MEST5_153,What will you have?\<S10><S10><C1>Refreshing bread.</C1>\<S10><S10><C2>Power roast.</C2>\<S10><S10><C3><NICK_CRO> special.</C3>
+FLD_MEST5_154,Coming right up.
+FLD_MEST5_155,A fine choice!\That dish is named after a hero from our history.
+FLD_MEST5_156,Here you are.
+FLD_MEST5_157,<CT>\MP restored!
+FLD_MEST5_158,<CT>\HP restored!
+FLD_MEST5_159,<CT>\HP and MP restored!
+FLD_MEST5_160,King: I'll give you permission to leave the castle.\But I expect the utmost caution from you.<PAGE>\Keep my daughter safe.
+FLD_MEST5_161,<NAME_LUC>: Yes, Your Grace!
+FLD_MEST5_162,<NAME_ROB>: Understood!
+FLD_MEST5_163,<NAME_FRO>: You have my word, Your Grace.
+FLD_MEST5_164,<NAME_AYL>: No worry!\<NAME_AYL> protect <NAME_MAR>!
+FLD_MEST5_165,Voice: It seems it's my turn to step forward.
+FLD_MEST5_166,<NAME_MAR>: Melchior!
+FLD_MEST5_167,<NAME_LUC>: Melchior!
+FLD_MEST5_168,<NAME_ROB>: Sir Melchior!
+FLD_MEST5_169,<NAME_FRO>: Old Man Melchior!
+FLD_MEST5_170,<NAME_AYL>: Melchy!
+FLD_MEST5_171,Melchior: Can't be letting you have all the fun!\Let me make some armor from that Rainbow Shell!<PAGE>\Finally time for me to do something again.\Watch and learn!
+FLD_MEST5_172,<CT>\A mysterious force seals it shut.
+FLD_MEST5_173,The item inside is reacting to the pendant.\Remove the item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MEST5_174,<CT>\Red Vest upgraded!\Obtained Red Plate!
+FLD_MEST5_175,
+FLD_MEST5_176,
+FLD_MEST5_177,
+FLD_MEST5_178,
+FLD_MEST5_179,
+FLD_MEST5_180,
+FLD_MEST5_181,
+FLD_MEST5_182,
+FLD_MEST5_183,
+FLD_MEST5_184,
+FLD_MEST5_185,
+FLD_MEST5_186,
+FLD_MEST5_187,
+FLD_MEST5_188,
+FLD_MEST5_189,
+FLD_MEST5_190,
+FLD_MEST5_191,
+FLD_MEST5_192,
+FLD_MEST5_193,
+FLD_MEST5_194,
+FLD_MEST5_195,
+FLD_MEST5_196,
+FLD_MEST5_197,
+FLD_MEST5_198,
+FLD_MEST5_199,
+FLD_MEST5_200,
+FLD_MEST5_201,
+FLD_MEST5_202,
+FLD_MEST5_203,
+FLD_MEST5_204,
+FLD_MEST5_205,
+FLD_MEST5_206,
+FLD_MEST5_207,
+FLD_MEST5_208,
+FLD_MEST5_209,
+FLD_MEST5_210,
+FLD_MEST5_211,
+FLD_MEST5_212,
+FLD_MEST5_213,
+FLD_MEST5_214,
+FLD_MEST5_215,
+FLD_MEST5_216,
+FLD_MEST5_217,
+FLD_MEST5_218,
+FLD_MEST5_219,
+FLD_MEST5_220,
+FLD_MEST5_221,
+FLD_MEST5_222,
+FLD_MEST5_223,
+FLD_MEST5_224,
+FLD_MEST5_225,
+FLD_MEST5_226,
+FLD_MEST5_227,
+FLD_MEST5_228,
+FLD_MEST5_229,
+FLD_MEST5_230,
+FLD_MEST5_231,
+FLD_MEST5_232,
+FLD_MEST5_233,
+FLD_MEST5_234,
+FLD_MEST5_235,
+FLD_MEST5_236,
+FLD_MEST5_237,
+FLD_MEST5_238,
+FLD_MEST5_239,
+FLD_MEST5_240,
+FLD_MEST5_241,
+FLD_MEST5_242,
+FLD_MEST5_243,
+FLD_MEST5_244,
+FLD_MEST5_245,
+FLD_MEST5_246,
+FLD_MEST5_247,
+FLD_MEST5_248,
+FLD_MEST5_249,
+FLD_MEST5_250,
+FLD_MEST5_251,
+FLD_MEST5_252,
+FLD_MEST5_253,
+FLD_MEST5_254,
+FLD_MEST5_255,

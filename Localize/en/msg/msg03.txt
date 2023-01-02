@@ -1,0 +1,256 @@
+FLD_MSG03_000,This is the Queen's palace, and the center of the\Magic Kingdom of Zeal.<PAGE>\Which is to say, this is the center of the universe.
+FLD_MSG03_001,Her Majesty said she had business at the Ocean Palace.\None may pass until her return.
+FLD_MSG03_002,That door cannot be opened from the outside,\save with a powerful magic key like Lady Schala's\pendant.
+FLD_MSG03_003,Your pendant—it looks identical to Lady Schala's!<PAGE>\I heard that when Lady Schala communes with the\Mammon Machine, her pendant glows with a strange\light.
+FLD_MSG03_004,My, what strange clothes!\You must be travelers from afar.<PAGE>\Use the Font of Recovery if you'd like to\recuperate from your long journey.
+FLD_MSG03_005,Do you like plants, traveler?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG03_006,I see.\Then you're of a mind with Her Majesty.
+FLD_MSG03_007,Oh, I love them, too!<PAGE>\But the Queen ordered me to burn this tiny\sapling I received from the Guru of Life.<PAGE>\He said it was a special tree, with powers\to restore the earth.
+FLD_MSG03_008,Oh, what shall I do?\<S10><S10><C1>Burn it.</C1>\<S10><S10><C2>Grow it in secret.</C2>
+FLD_MSG03_009,You're right.\I must obey Her Majesty's orders, mustn't I?
+FLD_MSG03_010,You're right!\Queen's orders though they may be, it wouldn't\do to burn a gift from the Guru of Life.<PAGE>\Very well, then. I'll care for it somewhere\safe and secret. Someday it just may help\someone else who loves the earth and trees.
+FLD_MSG03_011,If I'm reborn, I hope it will be in a land\full of verdant forests.
+FLD_MSG03_012,The Queen's two children, Lady Schala and Lord Janus,\get along so well.<PAGE>\If only young Lord Janus would open up to others...
+FLD_MSG03_013,Were you aware that Belthasar, the Guru of Reason,\maintains secret chambers in Enhasa and Kajar?
+FLD_MSG03_014,The Queen's counsel, Lord Dalton, was in charge of\the Ocean Palace's construction until a wandering\prophet arrived and took over.<PAGE>\Lord Dalton's in a foul mood these days.\Best avoid him if you can.
+FLD_MSG03_015,That man appeared only recently, but he earned the\Queen's trust quickly with his startlingly accurate\predictions.<PAGE>\His origins are a mystery. He's not one of us\Enlightened Ones, but nor is he an Earthbound\One. From where could such a man have come?
+FLD_MSG03_016,The completion of the Ocean Palace will secure\everlasting glory for the kingdom of Zeal.<PAGE>\There will be no more fear or sadness, only\eternal peace.
+FLD_MSG03_017,The source of our energy rests deep below the sea.\Once its exact location was determined, we began\constructing the Ocean Palace there.
+FLD_MSG03_018,The portal to the Ocean Palace is in Her Majesty's\audience chamber. Mind you, it hasn't been completed\yet.
+FLD_MSG03_019,The Queen must have borne a great deal of pain\and sorrow in silence.<PAGE>\Progress requires equal sacrifice.\Much must have been given to allow\Zeal to attain the glory it now knows.
+FLD_MSG03_020,That wandering prophet is amazing.\Every prophecy to escape his lips has come to pass.<PAGE>\It's as though he already knows the events to come.\Unnerving, is it not?
+FLD_MSG03_021,They say that Gaspar, the Guru of Time,\continues his work on some deserted island.<PAGE>\He strives to make a "Time Egg," or some such\nonsense. But no one has seen him for years.
+FLD_MSG03_022,Even Belthasar, who designed the Blackbird and\the Ocean Palace, has vanished.<PAGE>\How strange that the three Gurus who guided Zeal\to its present glory have all disappeared at once.
+FLD_MSG03_023,Beings that are born of dreams must always return\to them in the end.<PAGE>\But at times, people's dreams and prayers call\upon the power of Lavos and are made reality.
+FLD_MSG03_024,You'd do best to speak to the Queen or the Gurus\if you wish to learn of the Mammon Machine and the\Ocean Palace.<PAGE>\But just between you and I, I'd not place much faith\in any answers Her Majesty gave you right now.\She's been...different as of late.
+FLD_MSG03_025,Listen to me. The earth is alive, and always has\been. She changes slowly, so you never see it.\From flat lands into mountains, from mountains\into seas...<PAGE>\A way may someday open even to the forbidden shrine\in the north, or to the Sun Temple—but it could take\untold years.
+FLD_MSG03_026,I want to be the wind, Masa!
+FLD_MSG03_027,Oh, you will someday—if you try hard enough.
+FLD_MSG03_028,Our big sister Doreen went to Enhasa again.
+FLD_MSG03_029,Yeah...\She likes to dream.
+FLD_MSG03_030,I like the wind better than dreams!\Whoosh!
+FLD_MSG03_031,I wonder how the Guru of Life is doing.\What are we supposed to do without him?\Humans—I'll tell ya!
+FLD_MSG03_032,Oh, itchy...\Could you...scratch my back?\<S10><S10><C1>Sure!</C1>\<S10><S10><C2>No way!</C2>
+FLD_MSG03_033,...<PAGE>\How mean...
+FLD_MSG03_034,Oh, wonderful!
+FLD_MSG03_035,Uhnnn... Oh, right there!\You got it.<PAGE>\Ahhh...
+FLD_MSG03_036,Whew...\Thank you!
+FLD_MSG03_037,<CT>\Discovered the Nu's scratching spot!
+FLD_MSG03_038,That pendant of yours...<PAGE>\It looks like Lady Schala's, but it doesn't glow like hers.
+FLD_MSG03_039,Lady Schala's pendant was made from the\same red stone as the Mammon Machine.<PAGE>\When she prays to the device, the pendant glows\with an unearthly light.
+FLD_MSG03_040,Beyond lies the Mammon Machine chamber.\You can feel the glorious energy of Lavos\surging from it.
+FLD_MSG03_041,Beyond lies the Mammon Machine chamber.\But the machine's awesome power can be felt\no longer, I'm afraid.
+FLD_MSG03_042,The Mammon Machine?\You came to see it?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_MSG03_043,I thought as much!\Can you feel the flow of the mighty Lavos's power?\Oh, it brings tears to my eyes!
+FLD_MSG03_044,I thought as much!\Unfortunately, the Mammon Machine has been moved.
+FLD_MSG03_045,Oh, but you simply must experience it!\To feel the great Lavos's emanations is\a spiritual awakening!
+FLD_MSG03_046,Oh...I see.\I cannot feel the rapture of its energy\anymore either, now that it's gone.
+FLD_MSG03_047,The prophet's aura is clouded with hatred and sorrow.<PAGE>\If he does not free himself of those emotions, he'll\destroy himself and those he loves along with him.
+FLD_MSG03_048,This way leads to the Mammon Machine chamber.
+FLD_MSG03_049,This way leads to the Queen's audience chamber.
+FLD_MSG03_050,This way will take you to the bedchambers.
+FLD_MSG03_051,This is the font of Zeal's power—the Mammon Machine.\It draws and magnifies the limitless power of Lavos.
+FLD_MSG03_052,Oh, that pendant...\It looks just like Lady Schala's.<PAGE>\When she clutches her pendant and prays to the\Mammon Machine, the pendant radiates a strange\light.<PAGE>\It's almost as if it was speaking to the device in\a language only the two of them could understand.
+FLD_MSG03_053,The three Gurus constructed the Mammon Machine\from a reddish stone that had been kept in the\royal treasury for generations.<PAGE>\The Guru of Life, Melchior, was in charge of the\plans and conducted a great deal of research on\the nature of Lavos. But now—well, I'm sure you\know the rest.
+FLD_MSG03_054,Operating the Mammon Machine requires magic\powerful enough to regulate the energy the\machine extracts.<PAGE>\Excepting the Gurus, Lady Schala is the only one\with such power.
+FLD_MSG03_055,When the Mammon Machine was finished, the Queen\became a different person almost overnight—a much\colder one.<PAGE>\Just between us, I heard that any who oppose\Her Majesty—and not just the Earthbound\Ones—vanish and are never heard from again.
+FLD_MSG03_056,Melchior, the Guru of Life, opposed the Queen's\plans and disappeared shortly thereafter.\It pains me to consider some conspiracy may be\at work, but it is terribly suspicious.
+FLD_MSG03_057,If the Mammon Machine is moved to the Ocean Palace,\we can extract even more energy from Lavos.\The dream of eternal life will be made possible!<PAGE>\Oh, almighty Queen!\Our kingdom will reign for all eternity!
+FLD_MSG03_058,That glow!<PAGE>\That's the pendant the Gurus made for Lady Schala!\How did you come to have that?
+FLD_MSG03_059,That light...\Is that Lady Schala's pendant?
+FLD_MSG03_060,<NAME_MAR>: Hmm...\It won't budge.
+FLD_MSG03_061,<NAME_AYL>: Strange.\Why no move?
+FLD_MSG03_062,<NAME_ROB>: This door appears to be a highly\effective security system.\
+FLD_MSG03_063,<NAME_LUC>: Hmm...\There must be something different about that\pendant.
+FLD_MSG03_064,<NAME_FRO>: A mere door binds us hand, foot,\and tongue.
+FLD_MSG03_065,<NAME_MAR>: We did it!
+FLD_MSG03_066,<NAME_LUC>: Heh heh...\No door can bar the way of scientific progress!
+FLD_MSG03_067,<NAME_ROB>: <NAME_MAR>'s pendant is most\certainly made of the Gurus' stone.
+FLD_MSG03_068,<NAME_FRO>: What trial awaits us next?
+FLD_MSG03_069,<NAME_AYL>: <NAME_AYL> go!\No be scared, <NICK_CRO>!
+FLD_MSG03_070,Schala!
+FLD_MSG03_071,Oh, Janus, you've returned!\Is something wrong?
+FLD_MSG03_072,Janus: The black winds...
+FLD_MSG03_073,Schala: You feel the foreboding, too?\Don't worry, it will be all right.
+FLD_MSG03_074,Schala: Here, keep this close.
+FLD_MSG03_075,Janus: What is it?
+FLD_MSG03_076,Schala: It's an amulet containing my prayers.\If something should happen, it will keep you safe.<PAGE>\I wish that I could remain with you always.\But Mother has other plans.
+FLD_MSG03_077,Janus: That's not our mother!\She looks like her, but she's not the same inside.
+FLD_MSG03_078,Schala: ...<PAGE>\Even still...\Forgive me, Janus.
+FLD_MSG03_079,Pardons, Your Highness.
+FLD_MSG03_080,The Queen requests your immediate presence at the\Ocean Palace.
+FLD_MSG03_081,Schala: Very well.
+FLD_MSG03_082,Schala: Well, then, Janus...\I must be on my way.
+FLD_MSG03_083,Schala: Oh!\Who might you be?
+FLD_MSG03_084,Forgive me, my lady, but we must hurry.\If we're late, I fear I'll be—well, you know the Queen.
+FLD_MSG03_085,Schala: Of course. My apologies.
+FLD_MSG03_086,Janus: ....\Go away.
+FLD_MSG03_087,Janus: Don't waste your time.\Alfador only likes me.
+FLD_MSG03_088,Prophet: !?
+FLD_MSG03_089,Dalton: Oh, it's you.
+FLD_MSG03_090,Queen: Who are you!?\How did you get in here?
+FLD_MSG03_091,Prophet: Your Majesty...\These are the bringers of disaster of whom I spoke.
+FLD_MSG03_092,Queen: Indeed! They and the Gurus alike.\How dare you outlanders attempt to oppose me?
+FLD_MSG03_093,Queen: Fools, one and all.\Dalton, seize them!
+FLD_MSG03_094,Dalton: Yes, Your Majesty!\With pleasure...
+FLD_MSG03_095,Dalton: Golem!
+FLD_MSG03_096,Dalton: Oh, my poor Golem!\You'll pay for that!
+FLD_MSG03_097,Queen: Mwa ha ha...\Fear not! I won't kill you—not immediately, that is.<PAGE>\I'll allow you to sample every type of pain and fear\imaginable first. By the time we're through, you'll be\begging us to end your suffering.<PAGE>\Ah, what a delicious diversion!
+FLD_MSG03_098,Janus: Hmph! Idiots.\What will you do, Schala?
+FLD_MSG03_099,Schala: Let us help them.
+FLD_MSG03_100,Janus: I don't think it'll be of any use.\And you'll be in trouble if you let them escape.
+FLD_MSG03_101,Schala: Don't worry about me.\I'll be fine.<PAGE>\And they just might be able to rescue Melchior.
+FLD_MSG03_102,Janus: Schala...
+FLD_MSG03_103,Schala: Are you all right?\Quickly, you must flee the palace!<PAGE>\And if you can, please—free the Guru of Life!
+FLD_MSG03_104,Schala: He was sent to the Mountain of Woe\for opposing my mother's plan.<PAGE>\Please! You must help him!
+FLD_MSG03_105,I'm afraid I cannot allow that.
+FLD_MSG03_106,Prophet: Your meddling tires me.\It seems I'll need to put an end to you here.
+FLD_MSG03_107,Schala: No, you mustn't!
+FLD_MSG03_108,Prophet: ...!
+FLD_MSG03_109,Janus: Don't!
+FLD_MSG03_110,Prophet: Hmph.\Very well...I'll spare their lives.<PAGE>\But in return, you will cooperate with me, Schala.
+FLD_MSG03_111,Prophet: Now, show me how it is you came here.
+FLD_MSG03_112,The Mammon Machine was transported to the\Ocean Palace to begin harvesting the raw\energy of Lavos.
+FLD_MSG03_113,The Ocean Palace is complete.\Zeal will reign forever!
+FLD_MSG03_114,Our kingdom will be shrouded in the glorious\light of eternity.<PAGE>\There will be no more sadness or fear, only\peace everlasting.
+FLD_MSG03_115,The Queen and Lady Schala both have descended\to the Ocean Palace.<PAGE>\In a short time, we Enlightened Ones will finally\attain immortality.
+FLD_MSG03_116,The portal to the Ocean Palace is in Her Majesty's\audience chamber.<PAGE>\It will not be long before the day when any may\gaze upon the resplendent new Mammon Machine.
+FLD_MSG03_117,Dalton: Hmph. Why is that prophet allowed inside\while I'm stuck guarding a place like this?
+FLD_MSG03_118,Dalton: Ah!\You came.
+FLD_MSG03_119,Dalton: I decided to leave you alone before, hoping\you might make that prophet show his true colors.\But I've no use for you anymore.
+FLD_MSG03_120,Dalton: You're history!
+FLD_MSG03_121,Dalton: Nooooo!\I can't be beaten now!\Not with eternal life just within my grasp!
+FLD_MSG03_122,Mune: I feel dark energy filling this place.\Something frightening stirs.
+FLD_MSG03_123,Queen: Schala, raise the output of the\Mammon Machine to its limit!
+FLD_MSG03_124,Schala: ...
+FLD_MSG03_125,Queen: Schala!\You dare disobey me?
+FLD_MSG03_126,Schala: Very well, Mother.
+FLD_MSG03_127,Prophet: ...
+FLD_MSG03_128,Queen: Oh...what splendor!\Behold the incredible power of Lavos!
+FLD_MSG03_129,Schala: Ugh...
+FLD_MSG03_130,Prophet: ...
+FLD_MSG03_131,Queen: Ahhh, I can feel it!\The pulse of life eternal!\Mwa ha ha ha ha!
+FLD_MSG03_132,Schala: What...what is this dark energy?\Urgh!
+FLD_MSG03_133,Prophet: ...!
+FLD_MSG03_134,The Mammon Machine!\Your Majesty, it's too dangerous to continue!
+FLD_MSG03_135,Schala: Mother!
+FLD_MSG03_136,Queen: Don't stop, Schala!\We've only a little longer to go!<PAGE>\Immortality will be ours!\Zeal will have the eternal glory it deserves!
+FLD_MSG03_137,Queen: Mwa ha ha...\So long have I waited!
+FLD_MSG03_138,This is the Mammon Machine altar.<PAGE>\Now is the time if you want to turn back, nu.
+FLD_MSG03_139,<NAME_MAR>: Schala!\We're here to save you!\Come on!
+FLD_MSG03_140,<NAME_LUC>: We just made it in time!<PAGE>\It's a pity, but I'm afraid we have to shut\down that machine for good!
+FLD_MSG03_141,<NAME_ROB>: What is this gravitational field!?\I detect incredible dimensional fluctuations!
+FLD_MSG03_142,<NAME_FRO>: Your flirtations with Lavos are at an end,\Your Majesty!
+FLD_MSG03_143,<NAME_AYL>: <NAME_AYL> here!\Where strong one!?
+FLD_MSG03_144,Schala: You, you're—
+FLD_MSG03_145,Schala: Help!
+FLD_MSG03_146,Prophet: Schala!
+FLD_MSG03_147,Queen: What are you doing, Schala!?\Control the machine!
+FLD_MSG03_148,<NAME_MAR>: <NAME_CRO>!\The knife!
+FLD_MSG03_149,<NAME_LUC>: Quickly, <NAME_CRO>!\There's no time!
+FLD_MSG03_150,<NAME_ROB>: We must stop the machine with\Sir Melchior's knife!
+FLD_MSG03_151,<NAME_FRO>: Use the old man's knife, <NAME_CRO>!\Stop that accursed thing!
+FLD_MSG03_152,<NAME_AYL>: <NICK_CRO>!\Red knife!
+FLD_MSG03_153,Masa: Here we go, Mune!
+FLD_MSG03_154,Mune: Ready when you are, Masa!
+FLD_MSG03_155,<NAME_FRO>: Is that...the Masamune!?
+FLD_MSG03_156,<NAME_LUC>: The machine's energy transformed\the knife into a sword?
+FLD_MSG03_157,<NAME_MAR>: Whoa!\It turned into the Masamune!?
+FLD_MSG03_158,<NAME_ROB>: The knife appears to have absorbed\the machine's power to transform into a sword!
+FLD_MSG03_159,Queen: The Mammon Machine!
+FLD_MSG03_160,Prophet: It's too late. He comes!
+FLD_MSG03_161,Schala: It's no use!\That sword alone cannot stop it!
+FLD_MSG03_162,How long I've waited for this!
+FLD_MSG03_163,<NAME_MAG>: It's been quite some time, Lavos.
+FLD_MSG03_164,<NAME_MAG>: I swore on that day long ago that\I'd destroy you, no matter the price!<PAGE>\It is time to fulfill that vow.\Feel my wrath, Lavos!
+FLD_MSG03_165,Voice: You truly think you possess the power?
+FLD_MSG03_166,Queen: What are you but a false prophet?\You'll be no more than grazings for the great Lavos!
+FLD_MSG03_167,Schala: Mother, please stop this madness!<PAGE>\This power can only end in ruin!
+FLD_MSG03_168,Queen: Step aside, Schala!<PAGE>\The almighty life force of Lavos flows through us all.\You are a part of it. You cannot change that fate now!<PAGE>\Oppose me, and I will destroy you!
+FLD_MSG03_169,Aaaah!
+FLD_MSG03_170,Nooo!
+FLD_MSG03_171,Schala: Aaaah!
+FLD_MSG03_172,<NAME_MAG>: No!
+FLD_MSG03_173,Queen: Come, Prophet of Lies!\Feel the power of Lavos!
+FLD_MSG03_174,<NAME_MAG>: Ugh!
+FLD_MSG03_175,<NAME_MAG>: Urgh!\My...my magic!\He's draining it!
+FLD_MSG03_176,<NAME_MAG>: Ungh...\I won't... I won't be beaten!<PAGE>\I endured the darkness alone...for the sole purpose\of defeating you!
+FLD_MSG03_177,<NAME_MAG>: Take this, Lavos!<PAGE>\Graaah!
+FLD_MSG03_178,<NAME_MAG>: What!?\No effect at all?<PAGE>\Aaaaugh!
+FLD_MSG03_179,Queen: Fool!\Your pitiful powers are no match for his!
+FLD_MSG03_180,Queen: I shall give you a gift.\Eternal life, as part of Lavos!<PAGE>\Uwa ha ha ha!
+FLD_MSG03_181,<NAME_MAR>: Can you move, <NAME_CRO>?\Please, help Schala!
+FLD_MSG03_182,<NAME_LUC>: Are...are you all right?\At this rate, we're all doomed.
+FLD_MSG03_183,<NAME_FRO>: <NAME_MAG>!\You cannot die at the hands of some other foe!\You're mine to defeat!
+FLD_MSG03_184,<NAME_AYL>: <NICK_CRO>, stand!\<NAME_AYL> no like lose!
+FLD_MSG03_185,<NAME_ROB>: The field of dimensional instability\is expanding! We cannot stay here!
+FLD_MSG03_186,<NAME_MAR>: <NAME_CRO>...\We can't leave Schala here.
+FLD_MSG03_187,<NAME_FRO>: Grr...!\Just you wait, <NAME_MAG>!
+FLD_MSG03_188,<NAME_LUC>: I...I can't let science lose out here.\Not like this.
+FLD_MSG03_189,<NAME_ROB>: If we are caught in that energy field,\our molecular structures will be decomposed!
+FLD_MSG03_190,<NAME_AYL>: Urgh...\<NAME_AYL> no lose!\Fight more!
+FLD_MSG03_191,Schala: Please...please escape, <NAME_CRO>.\Mere humans haven't the means to stop such power.
+FLD_MSG03_192,Queen: <NAME_CRO>, is it?\Why not do as Schala says, and run away,\tail betwixt your legs?<PAGE>\Is your life not precious to you?\Hee hee hee! Mwa ha ha ha ha!
+FLD_MSG03_193,<NAME_MAG>: Schala...\Is Schala all right?
+FLD_MSG03_194,Queen: You've still not given up?\What do you hope to do?<PAGE>\You would challenge Lavos alone,\with that battered body of yours?
+FLD_MSG03_195,Queen: Mwa ha ha...\Gaze upon the power of Lavos and your doom!
+FLD_MSG03_196,<NAME_MAR>: <NAME_CRO>!
+FLD_MSG03_197,<NAME_LUC>: No! <NAME_CRO>!
+FLD_MSG03_198,<NAME_ROB>: Sir <NAME_CRO>!
+FLD_MSG03_199,<NAME_FRO>: Oh, no!\<NAME_CRO>!
+FLD_MSG03_200,<NAME_AYL>: <NICK_CRO>!
+FLD_MSG03_201,<NAME_MAG>: Lavos!
+FLD_MSG03_202,<NAME_CRO>...!?<WAIT>08</WAIT><AUTO_END>
+FLD_MSG03_203,<NAME_CRO>...!<WAIT>07</WAIT><AUTO_END>
+FLD_MSG03_204,<NAME_MAR>: <NAME_CRO>?\Where's <NAME_CRO>!?<PAGE>\Nooooooo!
+FLD_MSG03_205,<NAME_LUC>: <NAME_CRO>...!\There was nothing I could do!
+FLD_MSG03_206,<NAME_ROB>: The structure is collapsing!<PAGE>\We must prioritize our escape!
+FLD_MSG03_207,<NAME_FRO>: Urgh...!<PAGE>\We must think only of our escape for now!\The palace threatens to collapse!
+FLD_MSG03_208,<NAME_AYL>: Here, bottom sea!\Where go!?
+FLD_MSG03_209,<NAME_MAG>: I haven't the power to defeat him, then?
+FLD_MSG03_210,Schala: The last of my pendant's power will\send you to safety.
+FLD_MSG03_211,Schala: I know you will not be able to forgive her, but...<PAGE>\Please, do not hate my mother, or our kingdom.
+FLD_MSG03_212,Schala: I'm so sorry!<PAGE>\Now, quickly—to the surface!
+FLD_MSG03_213,<NAME_MAG>: ...!
+FLD_MSG03_214,Schala: ...<WAIT>04</WAIT>\<NAME_CRO>...<WAIT>08</WAIT><AUTO_END>
+FLD_MSG03_215,<NAME_MAR>: <NAME_CRO>...!
+FLD_MSG03_216,<NAME_LUC>: The Chrono Trigger...\The Guru's Time Egg!<PAGE>\Those...those are our past selves!\We're really back—right at that instant!
+FLD_MSG03_217,<NAME_ROB>: It appears that time has been suspended!
+FLD_MSG03_218,<NAME_MAG>: A time freeze...\I never dreamt it possible.
+FLD_MSG03_219,<NAME_FRO>: Like stone statues.\An unsettling sight...
+FLD_MSG03_220,<NAME_AYL>: Just <NAME_AYL> move?
+FLD_MSG03_221,We just need to exchange the doppel doll for\<NAME_CRO>.
+FLD_MSG03_222,<NAME_MAR>: <NAME_CRO>?<PAGE>\It's <NAME_CRO>!\<NAME_CRO>, you're alive!
+FLD_MSG03_223,<NAME_LUC>: We've got to hurry!
+FLD_MSG03_224,<NAME_ROB>: What a relief!\Sir <NAME_CRO>, thank goodness you are all right!
+FLD_MSG03_225,<NAME_FRO>: I'd remain here no longer than we must.\Let us be gone.
+FLD_MSG03_226,<NAME_AYL>: Hurry!\Take <NICK_CRO>!
+FLD_MSG03_227,<NAME_MAG>: Save the tearful reunions for later!\If we've done all we must, let us be on our way.
+FLD_MSG03_228,<NAME_MAG>: ...
+FLD_MSG03_229,<NAME_MAG>: It was all for naught...<PAGE>\We changed nothing.
+FLD_MSG03_230,<CT>\Obtained <NAME_ITM>!
+FLD_MSG03_231,<CT>\Obtained <NAME_ITM>!
+FLD_MSG03_232,Queen: So, Melchior?\You see, the Mammon Machine functions flawlessly.<PAGE>\Your worries were for naught.
+FLD_MSG03_233,Queen: Belthasar, Guru of Reason.
+FLD_MSG03_234,Queen: And Gaspar, Guru of Time.
+FLD_MSG03_235,Queen: Behold, foolish ones!<PAGE>\The great Lavos awakens!\The sun shall never set on the glory of Zeal!
+FLD_MSG03_236,Gaspar: What's this?\A dimensional vortex!?<PAGE>\Belthasar: We were right, then!\This power is beyond human control!
+FLD_MSG03_237,Melchior: Oh, no!\We'll be dragged into the rift!
+FLD_MSG03_238,Schala!
+FLD_MSG03_239,Schala: No, Janus!\Stay away!
+FLD_MSG03_240,Janus: B-but...
+FLD_MSG03_241,Melchior: It...it's a—!
+FLD_MSG03_242,Gaspar: A Timegate!?
+FLD_MSG03_243,Belthasar: No!
+FLD_MSG03_244,Schala: Gurus!
+FLD_MSG03_245,Janus: Schala—!
+FLD_MSG03_246,Schala: Janus!
+FLD_MSG03_247,
+FLD_MSG03_248,
+FLD_MSG03_249,
+FLD_MSG03_250,
+FLD_MSG03_251,
+FLD_MSG03_252,
+FLD_MSG03_253,
+FLD_MSG03_254,
+FLD_MSG03_255,

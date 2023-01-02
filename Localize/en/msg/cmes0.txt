@@ -1,0 +1,256 @@
+FLD_CMES0_000,<NAME_CRO>...\\\<WAIT>09</WAIT><AUTO_PAGE>\<NAME_CRO>!\\<WAIT>0a</WAIT><AUTO_PAGE>\<NAME_CRO>, are you still sleeping?<WAIT>09</WAIT><AUTO_END>
+FLD_CMES0_001,Mother: Come on, sleepyhead!\It's time to get up!<WAIT>0b</WAIT><AUTO_END>
+FLD_CMES0_002,Mother: Dear me! I'd forgotten how beautiful\Leene's Bell sounds!\<WAIT>0a</WAIT><AUTO_END>
+FLD_CMES0_003,Mother: You must have been so excited about the\Millennial Fair that you couldn't sleep last night,\could you?<WAIT>11</WAIT><AUTO_PAGE>\Well, you'd better not let that giddiness get you into\any trouble. I want you to behave yourself today!\<WAIT>0e</WAIT><AUTO_END>
+FLD_CMES0_004,Mother: Come on, now! Out of bed with you!<WAIT>09</WAIT><AUTO_END>
+FLD_CMES0_005,<NAME_CRO>...<PAGE>\<NAME_CRO>!<PAGE>\<NAME_CRO>, are you still sleeping?
+FLD_CMES0_006,Mother: Come on, sleepyhead!\It's time to get up!
+FLD_CMES0_007,Mother: Dear me! I'd forgotten how beautiful\Leene's Bell sounds!<WAIT>0a</WAIT>
+FLD_CMES0_008,Mother: You must have been so excited about the\Millennial Fair that you couldn't sleep last night,\could you?<PAGE>\Well, you'd better not let that giddiness get you into\any trouble. I want you to behave yourself today!
+FLD_CMES0_009,Mother: Come on, now! Out of bed with you!
+FLD_CMES0_010,Mother: It's about time!\By the way, you're going to go see—<PAGE>\Oh dear, what was her name?\That young inventress friend of yours...
+FLD_CMES0_011,Mother: That's right! <NAME_LUC>!\You're going to stop by and see her new invention\at the fair, aren't you?
+FLD_CMES0_012,Mother: Well, run along, then.\And be back before dinner!
+FLD_CMES0_013,Mother: Oh, I almost forgot!\Here's your allowance, dear.\Have fun at the fair!<PAGE><CT>\\Obtained 200 G!
+FLD_CMES0_014,Rest for a while?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_015,<CT>\Obtained Doppel Doll.
+FLD_CMES0_016,Mother: Hello, <NAME_CRO>!
+FLD_CMES0_017,<NAME_CRO>'s Mother: Oh, hello!\Is <NAME_CRO> all right?
+FLD_CMES0_018,<NAME_MAR>: He...he's great.<PAGE>\B-better than great.
+FLD_CMES0_019,<NAME_LUC>: Yeah...<PAGE>\...<PAGE>\He's just...<PAGE>\He's just fine.
+FLD_CMES0_020,<NAME_FRO>: Aye...<PAGE>\The lad is the very...very picture of health.
+FLD_CMES0_021,<NAME_ROB>: <NAME_CRO>'s status is...exceptional.
+FLD_CMES0_022,<NAME_AYL>: ...<PAGE>\<NICK_CRO>...okay.
+FLD_CMES0_023,<NAME_CRO>'s Mother: Well, I hope he's not causing\you too much trouble.<PAGE>\You tell him I said to behave himself, all right?
+FLD_CMES0_024,<NAME_MAR>: ...<PAGE>\Listen, um...
+FLD_CMES0_025,<NAME_LUC>: ...<PAGE>\Um, listen, I...uh, I mean...
+FLD_CMES0_026,<NAME_FRO>: ...<PAGE>\Milady...
+FLD_CMES0_027,<NAME_AYL>: ...
+FLD_CMES0_028,<NAME_MAR>: We're just going to borrow this doll,\all right?
+FLD_CMES0_029,<NAME_LUC>: We'd like to borrow this doll for a bit.
+FLD_CMES0_030,<NAME_FRO>: We've need of this doll, but only for\a time.
+FLD_CMES0_031,<NAME_AYL>: <NICK_CRO> doll, <NAME_AYL> borrow!
+FLD_CMES0_032,<NAME_CRO>'s Mother: Go right ahead, dear.
+FLD_CMES0_033,<NAME_CRO>'s Mother: You stay out of trouble, now!
+FLD_CMES0_034,Mother: <NAME_CRO>!
+FLD_CMES0_035,Mother: Oh, <NAME_CRO>!\You had me so worried!\They said you were to be executed!
+FLD_CMES0_036,Mother: Don't worry your mother like that.
+FLD_CMES0_037,Mother: Well, this is a pleasant surprise!\I've never seen you bring any girls around except\for <NAME_LUC>. Who's this pretty new friend?
+FLD_CMES0_038,<NAME_MAR>: I'm <NAME_MAR>. Nice to meet you!
+FLD_CMES0_039,Mother: <NAME_MAR>, you say?\Have we met somewhere before?\I could swear I recognize you.\Perhaps it's just my imagination.
+FLD_CMES0_040,<NAME_LUC>: Hi!
+FLD_CMES0_041,Mother: <NAME_LUC>!\You haven't been coming by much lately.
+FLD_CMES0_042,<NAME_LUC>: I've been busy with my research.
+FLD_CMES0_043,Mother: Well, don't push yourself too hard!\And say hello to your parents for me, won't you?
+FLD_CMES0_044,Mother: Goodness...\Is this one of <NAME_LUC>'s inventions?
+FLD_CMES0_045,<NAME_ROB>: Greetings, madam. I am <NAME_ROB>.\<NAME_CRO> is my friend.
+FLD_CMES0_046,Mother: My, how polite you are!\A bit strange-looking, but well enough behaved.\<NAME_CRO>, you could learn a thing or two from him.
+FLD_CMES0_047,Mother: Dear me!<PAGE>\<NAME_CRO>! How many times have I told you to\keep your pets outside?
+FLD_CMES0_048,<NAME_FRO>: M-milady...<PAGE>\I am no pet. I am an accomplished swordsman,\green as I may appear.
+FLD_CMES0_049,Mother: Oh, forgive me, sir.\I just thought... I mean...\I meant no offense, Sir Knight—truly!
+FLD_CMES0_050,<NAME_FRO>: My name is...
+FLD_CMES0_051,Mother: Yes?
+FLD_CMES0_052,<NAME_FRO>: ...<PAGE>\On second thought, Sir Knight will suffice.
+FLD_CMES0_053,Mother: Gracious! Who're you?
+FLD_CMES0_054,<NAME_AYL>: Me <NAME_AYL>.
+FLD_CMES0_055,Mother: <NAME_AYL>, dear...\A young lady shouldn't dress like that!
+FLD_CMES0_056,<NAME_AYL>: But, <NAME_AYL> like.
+FLD_CMES0_057,Mother: No buts! The proper response is, "Yes, ma'am!"
+FLD_CMES0_058,<NAME_AYL>: <NICK_CRO> strong...<PAGE>\<NICK_CRO> mom strong, too!
+FLD_CMES0_059,Mother: Oh, are you another one of <NAME_CRO>'s\friends?
+FLD_CMES0_060,<NAME_MAG>: ...
+FLD_CMES0_061,Mother: Cat got your tongue?\No need to be shy, dear!
+FLD_CMES0_062,Mother: Ah, such beautiful weather!\The Black Omen is sparkling in the sun!<PAGE>\What a great day for doing laundry!
+FLD_CMES0_063,<NAME_MAR>: Honey...you'll be late for work!<WAIT>0b</WAIT><AUTO_END>
+FLD_CMES0_064,<NAME_MAR>: Dear me! I'd forgotten how beautiful\Leene's Bell sounds!<WAIT>0a</WAIT><AUTO_END>
+FLD_CMES0_065,<NAME_MAR>: <NAME_CRO>!\We can't keep asking my father for help.\You need to hold down a job!<WAIT>11</WAIT><AUTO_END>
+FLD_CMES0_066,Mwa ha ha...<PAGE>\I've done it! It's complete!
+FLD_CMES0_067,Grams of cat food: <NUMBER>.
+FLD_CMES0_068,It's hard to believe our kingdom has stood for a\thousand years now. Our King is the thirty-third\descendant to the throne of Guardia.<PAGE>\It's a miracle he can manage to rule the kingdom when\he can't even keep his own daughter in hand.<PAGE>\She's probably throwing a fit at the castle this very\moment, demanding he let her go to the fair.
+FLD_CMES0_069,There was once a great cathedral in the western\woods, or so I hear.<PAGE>\I wonder what became of it.
+FLD_CMES0_070,Elaine: If only my dear Fritz would return...\I'd ask for nothing more. He left on a journey,\and he's not yet returned.
+FLD_CMES0_071,Elaine: I hope he's not forgotten me.
+FLD_CMES0_072,A mysterious whirlpool sometimes appears near here.\What do you suppose could cause such a thing?
+FLD_CMES0_073,The fare to Porre is 10 G.\Will you be going?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_074,Lodging is 10 G. Would you like to stay for the night?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_075,You been to the fair yet?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_076,What!? What are you doing here, then?\You'll have to wait a thousand years for\another Millennial Fair!<PAGE>\The festivities are in Leene Square, just up north.\More tents and stalls than you can shake a stick at!
+FLD_CMES0_077,Incredible, isn't it? The shops, the events—I've\never seen a festival like it!
+FLD_CMES0_078,Say, can you spare 10 G to buy me a drink?\<S10><S10><C1>Sure.</C1>\<S10><S10><C2>Sorry.</C2>
+FLD_CMES0_079,Remember that earthquake we had the other day?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_080,You're an oblivious one, aren't you?\Well, never mind, then.
+FLD_CMES0_081,We've been having far too many lately.\Hope it's not a sign of something bad about to happen.
+FLD_CMES0_082,The soldiers at the castle say the Chancellor's been\acting strangely these days.
+FLD_CMES0_083,Thanks! Let me play you a song in return.
+FLD_CMES0_084,Let me know if you change your mind.
+FLD_CMES0_085,Welcome, welcome! Make yourself at home.\I suppose you won't be staying long, though.<PAGE>\Oh, I hope my shift ends soon!\I want to go to the fair, too!
+FLD_CMES0_086,There have been an awful lot of soldiers coming and\going at the castle lately. I suppose that's normal,\seeing as it is a castle and all, but still...
+FLD_CMES0_087,Hello! Is this your first visit?\Would you like me to tell you about this house?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_088,Our mayor has a soft spot for adventurers.\He has established this manor as a library of\adventuring know-how.<PAGE>\The contents of the chests in this house\were placed by him for adventurers to use.\Feel free to take anything you'd like!
+FLD_CMES0_089,Scattered throughout the world are points where time's\memory is deeply rooted. You can record the progress\of your adventures at such places, fraught with danger\as they may be.
+FLD_CMES0_090,That's just a replica. But I recommend you save your\progress whenever you find a real one. They tend to\show up in dangerous places.<PAGE>\Oh, and one other thing! You can save at any time\when you're on the world map. Don't let that slip\your mind!
+FLD_CMES0_091,I can teach you about weapons and armor.\Need a refresher course?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_092,Weapons come in a variety of flavors—swords,\bows, and guns, to name a few.<PAGE>\However, that doesn't mean you can just pick and\choose. You must be proficient with a weapon to use\it, and everyone's proficiencies are different.<PAGE>\Armor is divided into three categories: helms, body\armor, and accessories. You can only equip armor\that fits your own body properly.<PAGE>\The effects of accessories vary greatly, so you'll\need to weigh their benefits carefully when deciding\which to equip.<PAGE>\Oh, and keep in mind that swords inflict greater\damage as your Strength increases. Missile weapons,\on the other hand, benefit from better Accuracy.<PAGE>\The higher your Accuracy, the more damage you\will deal when attacking with a bow or gun.
+FLD_CMES0_093,You can walk around while reading messages.\But go too far away, and you won't be able to\hear the person talking anymore!
+FLD_CMES0_094,You can toggle the position of the message window\between the top and bottom of the screen by \flicking it up and down.
+FLD_CMES0_095,Want me to share some insight?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_096,Listen to what the mayor has to say first.
+FLD_CMES0_097,All right, I can teach you about techs.\Do you want to learn?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_098,That's about it. Feel a little more confident now?
+FLD_CMES0_099,I can tell you've got potential. You'll learn a number\of skills, or "techs," as you fight more battles.<PAGE>\Techs are special attacks that utilize your\weapons as well as your own innate potential.\But mastering them requires repeated practice\and training. Keep at it!
+FLD_CMES0_100,My, my! You've certainly got enthusiasm!\Why don't you take this to help you get\your equipment in order?<PAGE><CT>\\Obtained 300 G!
+FLD_CMES0_101,Want to learn about the types of status ailments\you can suffer in combat?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_102,Shelters are quite useful.\Do you know about them?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_103,You can use shelters at save points, or anywhere on\the world map, to completely restore HP and MP.\They come in very handy.
+FLD_CMES0_104,Certain enemy attacks inflict detrimental status\ailments in addition to ordinary damage.
+FLD_CMES0_105,Poison\   HP gradually decreases and attacks are weakened.
+FLD_CMES0_106,Slow\   Lengthens the waiting time between turns.
+FLD_CMES0_107,Sleep\   Puts you to sleep, preventing you from acting.\   A good hit will wake you up again.
+FLD_CMES0_108,Confuse\   Confuses you into attacking allies.\   This can be a little tough on friendships.
+FLD_CMES0_109,Blind\   Clouds your vision, making it difficult to hit\   enemies.
+FLD_CMES0_110,Lock\   Prevents the use of techs.
+FLD_CMES0_111,Stop\   Immobilizes and disables you.
+FLD_CMES0_112,These status ailments lower your Defense as well,\meaning you'll sustain more damage when they're in\effect.<PAGE>\Use a panacea to remove them during battle, or wait\until the battle ends and you will recover automatically.
+FLD_CMES0_113,Would you like to hear more?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_114,When your HP is reduced to 0, you'll be KO'd.<PAGE>\Athenian water can revive a fallen party member,\but if the entire party is KO'd, you're out of luck.\Be careful!
+FLD_CMES0_115,Tap the flee icon and wait a few seconds to escape\from battle. He who fights and runs away lives to\fight another day!<PAGE>\Of course, he who always runs away will never get\any stronger, so don't flee from every battle just\because you can.<PAGE>\Oh, and let me explain the Equipment menu, too.\The number next to the Sword icon indicates Attack.\The number beside the Shield icon indicates Defense.<PAGE>\Defense represents how effectively physical attacks\can be resisted. Magic Defense, on the other hand,\is used to resist magical attacks.<PAGE>\If your Magic Defense is 40, for example,\magic damage dealt to you will be reduced\by 40%.<PAGE>\Stars in place of a number beside any attribute\mean that the attribute has reached its highest\possible value.
+FLD_CMES0_116,Hey!
+FLD_CMES0_117,Fritz: D-Dad!
+FLD_CMES0_118,You're not shirking off, are you?
+FLD_CMES0_119,Fritz: I, um... I mean...of course not!
+FLD_CMES0_120,Elaine: N-no, of course not!
+FLD_CMES0_121,Well, all right, then...
+FLD_CMES0_122,<NAME_CRO>...\I appreciate what you did.
+FLD_CMES0_123,Fritz: Now, <NAME_CRO>, down to business.\Please, won't you buy something?
+FLD_CMES0_124,Fritz: Welcome, <NAME_PT1>!
+FLD_CMES0_125,Fritz: Thanks!
+FLD_CMES0_126,Hello, there!\What can I do for you?
+FLD_CMES0_127,Visit our stall in Leene Square!
+FLD_CMES0_128,Elaine must be down at the pier again.\That Fritz! Where could he be?
+FLD_CMES0_129,Fritz: Welcome! Come on in and have a—
+FLD_CMES0_130,Fritz: <NAME_CRO>! Oh, you really saved my neck!\I wouldn't be here right now if it weren't for you.
+FLD_CMES0_131,Fritz: Whew, was I ever in a tight spot...\I'd gone off on a buying trip, thinking I'd show\my dad I didn't need him anymore.<PAGE>\That was all well and good, but then some\soldiers showed up at the inn where I was\staying to arrest a gang of thieves, and\mistook me for one of the criminals.<PAGE>\They wouldn't listen to a word I said!\They were going to execute me, just like that!\So...whew, I owe you one!
+FLD_CMES0_132,Elaine: We're in your debt!\Thank you ever so much!
+FLD_CMES0_133,Fritz: Don't tell my dad I gave you these.\<PAGE><CT>\\Obtained 10 Mid-Ethers!
+FLD_CMES0_134,You don't have enough money.
+FLD_CMES0_135,Thank you very much.
+FLD_CMES0_136,Fair? Have you gone mad?\This is no time for mirth and mummery!
+FLD_CMES0_137,Where are you, you say? You some sort of simpleton?\Even a half-wit should know this land for Guardia!<PAGE>\Our kingdom wages war with the Fiendlord's army day\and night, fighting to restore the realm's peace.
+FLD_CMES0_138,Pray tell you knew that much, at least!\<S10><S10><C1>Of course.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_139,Then might you show the good grace to stop wandering\about pestering folk with moronic questions?
+FLD_CMES0_140,Truly? You're a...wayfarer, then?\I suppose you might not know, if that's the case.
+FLD_CMES0_141,The Fiendlord's army laid waste to Zenan Bridge.\We've lost our only road to the southern continent.
+FLD_CMES0_142,Oh, praise be! They found Queen Leene wandering\up in the canyon. She'd been missing for so long,\I'd feared the worst.
+FLD_CMES0_143,She must be back at the castle by now, getting\some much-needed rest.
+FLD_CMES0_144,It seems she was spouting nonsensical things like a\woman possessed when they found her. I don't know\what happened, but the trauma must have taken its toll.
+FLD_CMES0_145,I think our hearts are all a little more at ease now.\When Queen Leene disappeared, it was all the King\could think of.<PAGE>\He thought it the Fiendlord's doing, and dispatched\soldiers to the four corners of the realm to find her.\But she's been found, and that's all that matters!
+FLD_CMES0_146,Toma: You an outsider, too? The name's Toma.\I'm an explorer. And if you can spare 10 G to\buy this round, I'll be a storyteller, too.
+FLD_CMES0_147,What do you say?\<S10><S10><C1>Buy him a drink.</C1>\<S10><S10><C2>Decline.</C2>
+FLD_CMES0_148,Toma: Cheers, friend.<PAGE>\Well then, a promise is a promise!\It's about the missing Queen.<PAGE>\My travels have taken me to the cathedral in the\western wood, and there's something most peculiar\about that place. It's only a hunch, but—<PAGE>\Beg your pardon?\They found Queen Leene in the canyon?\Hmm... It seems my suspicions were misplaced.
+FLD_CMES0_149,Toma: Hmm... I was all but certain something foul was\afoot at that cathedral to the west.
+FLD_CMES0_150,Toma: Very well. I'm no beggar.\You needn't buy me one if you don't wish.
+FLD_CMES0_151,Toma: Beg pardons.
+FLD_CMES0_152,Rooms are 10 G for the night.\Will you be staying?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_153,Welcome!
+FLD_CMES0_154,A Millennial Fair? Here? Have you been in your cups?\Our kingdom is only 600 years old! King Guardia XXI\still reigns, last as I checked.
+FLD_CMES0_155,I scarce remember the days before the war against\the Fiendlord began. The months turn to years.\When will all this end?
+FLD_CMES0_156,I'm Banta, the village blacksmith.\I'm forging this bell at the King's behest,\as a symbol of his love for Queen Leene.
+FLD_CMES0_157,The Queen's vanishing act had me wondering if all\this work would be for naught. After all, what's the\bell without the Queen, eh?<PAGE>\But it seems they found her in the canyon up north.\She's back at the castle now, and I'm back to work.
+FLD_CMES0_158,My husband wants a daughter both clever and fair.
+FLD_CMES0_159,Just as I was preparing to put the finishing touches\on Leene's Bell, our King was wounded by <NAME_MAG>'s\fiends in battle. It's enough to make a man lose his\will to work.
+FLD_CMES0_160,I hope this bell will ring in an age of peace.
+FLD_CMES0_161,You didn't come all this way just to look, did you?\Surely there's something you'd like to buy!
+FLD_CMES0_162,My thanks. Do come again!
+FLD_CMES0_163,So, you've a mind to buy some weapons and join the\fight against the Fiendlord's army, have you?\Wonderful!<PAGE>\But remember to equip the weapons you buy.\Not much meaning elsewise!
+FLD_CMES0_164,<NAME_MAR>: So, how do we get home?
+FLD_CMES0_165,<NAME_LUC>: Well, Your Highness, we—
+FLD_CMES0_166,<NAME_MAR>: Please, call me <NAME_MAR>!
+FLD_CMES0_167,<NAME_LUC>: Well then, <NAME_MAR>...\Observe!
+FLD_CMES0_168,<NAME_MAR>: Whoa!
+FLD_CMES0_169,<NAME_MAR>: <NAME_LUC>, you're amazing!
+FLD_CMES0_170,<NAME_LUC>: Hee hee hee!
+FLD_CMES0_171,<NAME_LUC>: S-sorry, I should be more humble in front\of—
+FLD_CMES0_172,<NAME_MAR>: Enough already! I'm a princess, but what's\that mean? I can't do anything special.<PAGE>\But you—you're incredible!\I'd trade my name for your genius in a heartbeat!
+FLD_CMES0_173,<NAME_LUC>: Well, if you say so...
+FLD_CMES0_174,<NAME_LUC>: Anyway, I call these distortions "Gates."
+FLD_CMES0_175,They're basically portals to the same location in a\different time.
+FLD_CMES0_176,But Gates are unstable—that's why they appear\and disappear all the time. So I used the principle\behind my Telepod device...
+FLD_CMES0_177,<NAME_LUC>: ...to create this Gate Key!\It's what's locking the Gate in place.
+FLD_CMES0_178,<NAME_MAR>: But why did this Gate suddenly appear\in the first place?
+FLD_CMES0_179,<NAME_LUC>: Either the Telepod had something to do\with it, or something...else made it.
+FLD_CMES0_180,<NAME_MAR>: This is starting to sound complicated.\Why don't we head back to our own time for now?
+FLD_CMES0_181,<NAME_LUC>: All right!\Coming, <NAME_CRO>?
+FLD_CMES0_182,Is the talk true? I heard the Fiendlord's army has\broken our line and taken the bridge!
+FLD_CMES0_183,They say even the King himself was wounded.\Is this the end?
+FLD_CMES0_184,The Hero has come. He'll save us!
+FLD_CMES0_185,Have you heard? He's come at last!\The Hero—the legendary Hero!<PAGE>\He's gone to see the King already.\Now the Fiendlord hasn't a chance!
+FLD_CMES0_186,There's naught to worry about now, the Hero's come\to save us. There's no doubting it, he bore the\Hero's Badge!<PAGE>\Ah... It will be nice to have peace in the realm again!\
+FLD_CMES0_187,The runners say the Fiendlord's army has reached\Zenan Bridge. What will happen now, I wonder.
+FLD_CMES0_188,<NAME_FRO>: Awaken, <NAME_CRO>!
+FLD_CMES0_189,Another mug!
+FLD_CMES0_190,The Hero delivered us peace, and I delivered\the King his bell. All is well again.<PAGE>\Hurrah for Guardia!\A toast, to our kingdom!
+FLD_CMES0_191,Peace is an overdue visitor, but it's on its\way now at long last.
+FLD_CMES0_192,Yahoooo!<PAGE>\I'm so excited I can't stop!\Hurrah for the Hero, and hurrah for Guardia!
+FLD_CMES0_193,There's talk of constructing a town square to\celebrate the peace that's come at last.
+FLD_CMES0_194,They say it's to be named Leene Square, for\the Queen.
+FLD_CMES0_195,A cause for celebration if ever there was one!\On a day like today, there's no need for restraint!
+FLD_CMES0_196,That long and terrible conflict is finally behind us.
+FLD_CMES0_197,My dream has come true.\Peace is ours!
+FLD_CMES0_198,<NICK_CRO>!<WAIT>0a</WAIT><AUTO_PAGE>\<NICK_CRO>! <NICK_CRO>!\<NICK_CRO>! <NICK_CRO>!\<NICK_CRO>! <NICK_CRO>!\<NICK_CRO>! <NICK_CRO>!<WAIT>0a</WAIT><AUTO_END>
+FLD_CMES0_199,<NAME_MAR>: Hmm...<PAGE>\Uh...<PAGE>\<NAME_CRO>...<PAGE>\<NICK_CRO>!
+FLD_CMES0_200,<NAME_LUC>: Hold it, <NAME_CRO>!<PAGE>\<NICK_CRO>!
+FLD_CMES0_201,<NAME_ROB>: Danger, <NAME_CRO>!<PAGE>\<NICK_CRO>!
+FLD_CMES0_202,<NAME_FRO>: N-nooooo!<PAGE>\<NAME_CRO>... <NICK_CRO>!
+FLD_CMES0_203,<NAME_AYL>: <NICK_CRO>!\Nooo!<PAGE>\<NICK_CRO>!
+FLD_CMES0_204,<NAME_MAR>: Uhhn...
+FLD_CMES0_205,<NAME_LUC>: Ugh...
+FLD_CMES0_206,<NAME_ROB>: ...!?
+FLD_CMES0_207,<NAME_FRO>: Ugh...
+FLD_CMES0_208,<NAME_AYL>: Uga...
+FLD_CMES0_209,The item inside is reacting to the pendant.\Remove the item?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_210,"This box has been handed down for generations.\Should you somehow manage to open it, you are\welcome to the contents."
+FLD_CMES0_211,<CT>\Blue Vest upgraded!\Obtained Blue Plate!
+FLD_CMES0_212,<CT>\Obtained Blue Vest!
+FLD_CMES0_213,<CT>\A mysterious force seals it shut.
+FLD_CMES0_214,<NAME_CRO>...\\\<WAIT>0a</WAIT><AUTO_PAGE>\<NAME_CRO>!\\<WAIT>0a</WAIT><AUTO_PAGE>\<NAME_CRO>—!<WAIT>09</WAIT><AUTO_END>
+FLD_CMES0_215,Soldier: You! Wake up, and get your wretched body\out of bed!\<WAIT>0b</WAIT><AUTO_END>
+FLD_CMES0_216,Soldier: Your stay of execution has been withdrawn.\You will accompany us to the castle now, where we\will carry out your sentence.<WAIT>11</WAIT><AUTO_END>
+FLD_CMES0_217,You can run by using the directional buttons.\Hold down <BTN_DASH> if you want to walk.<PAGE>\You can switch the run and walk commands\from the Movement option in the Settings menu.
+FLD_CMES0_218,Did you know you could use the stylus to move around?<PAGE>\Hold the stylus to the Touch Screen, and you'll walk\in the stylus's direction from the center of the screen.\Touch the edge of the screen, and you'll run in that\direction.<PAGE>\You can also tap the Touch Screen quickly to talk to\someone or examine an object.
+FLD_CMES0_219,Would you like an explanation of how to use\menus?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_220,Menus are entirely touch-controlled.<PAGE>\From the main menu, just tap any category button\to bring up the corresponding screen.<PAGE>\To select individual items or techs, tap once to\highlight the item or tech you wish to use, then\tap once more to confirm.
+FLD_CMES0_221,You may return to the previous screen at any time\with the Return button, or close the menu with the\Exit button.<PAGE>\Navigating through menus is as easy as tap, tap,\tapping away!
+FLD_CMES0_222,You can also tap the various icons,\slide your finger to scroll, and more.\Try everything out and you'll be a menu\master in no time!
+FLD_CMES0_223,Shall I teach you the basics of battle\commands?\<S10><S10><C1>Yes, please.</C1>\<S10><S10><C2>Maybe later.</C2>
+FLD_CMES0_224,In battle, you must make use of the Attack, Tech,\and Item commands to defeat your enemies.<PAGE>\When a character's turn comes around, commands\will be displayed at the bottom of the screen.<PAGE>\If multiple characters are able to act, you can\switch between them by tapping the character icons \at the top of the screen.<PAGE>\Select your desired command by tapping it\directly, or slide up and down to move the\cursor.<PAGE>\With the cursor indicating your desired command,\simply tap once more to execute it.
+FLD_CMES0_225,To select the target of an action, tap on it \directly or slide your finger in any\direction to move the cursor.<PAGE>\After selecting your desired target, tap once\more to confirm.<PAGE>\You may tap the Return button at any time to \return to the previous state.
+FLD_CMES0_226,"A Treatise on Game Modes."\Read the document?\<S10><S10><C1>Yes.</C1>\<S10><S10><C2>No.</C2>
+FLD_CMES0_227,The report contains two sections.\Which would you like to read?\<S10><S10><C1>DS Mode.</C1>\<S10><S10><C2>Classic Mode.</C2>
+FLD_CMES0_228,DS Mode employs both screens, allowing for convenient\Touch Screen controls.<PAGE>\The upper screen is left uncluttered, while the lower\screen displays useful information and allows for\command input via the stylus.<PAGE>\DS Mode is geared towards those who wish to\experience the game in a new way, using only the\Touch Screen to play.
+FLD_CMES0_229,In Classic Mode, the battle screen is presented just\as it was in the original.<PAGE>\The lower screen is used to display extra information,\such as information about enemies, making it easier\to keep track of your situation.<PAGE>\Classic Mode is recommended for those who wish to\bask in the nostalgic glory of bygone days, without\trying anything new.
+FLD_CMES0_230,
+FLD_CMES0_231,
+FLD_CMES0_232,
+FLD_CMES0_233,
+FLD_CMES0_234,
+FLD_CMES0_235,
+FLD_CMES0_236,
+FLD_CMES0_237,
+FLD_CMES0_238,
+FLD_CMES0_239,
+FLD_CMES0_240,
+FLD_CMES0_241,
+FLD_CMES0_242,
+FLD_CMES0_243,
+FLD_CMES0_244,
+FLD_CMES0_245,
+FLD_CMES0_246,
+FLD_CMES0_247,
+FLD_CMES0_248,
+FLD_CMES0_249,
+FLD_CMES0_250,
+FLD_CMES0_251,
+FLD_CMES0_252,
+FLD_CMES0_253,
+FLD_CMES0_254,
+FLD_CMES0_255,
