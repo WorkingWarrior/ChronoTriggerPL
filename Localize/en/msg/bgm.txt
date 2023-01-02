@@ -1,69 +1,69 @@
-MSG_EXTRA_BGM_01,A Premonition
+MSG_EXTRA_BGM_01,Przeczucie
 MSG_EXTRA_BGM_02,Chrono Trigger
-MSG_EXTRA_BGM_03,Morning Glow
-MSG_EXTRA_BGM_04,Peaceful Days
-MSG_EXTRA_BGM_05,Green Memories
-MSG_EXTRA_BGM_06,Guardia's Millennial Fair
-MSG_EXTRA_BGM_07,Gato's Song
-MSG_EXTRA_BGM_08,Strange Occurrences
-MSG_EXTRA_BGM_09,Yearnings of the Wind
-MSG_EXTRA_BGM_10,Good Night
-MSG_EXTRA_BGM_11,Secret of the Forest
-MSG_EXTRA_BGM_12,Battle
-MSG_EXTRA_BGM_13,Guardia Castle - Pride & Glory
-MSG_EXTRA_BGM_14,Huh!?
-MSG_EXTRA_BGM_15,The Cathedral
-MSG_EXTRA_BGM_16,A Prayer for the Wayfarer
-MSG_EXTRA_BGM_17,Light of Silence
-MSG_EXTRA_BGM_18,Boss Battle 1
-MSG_EXTRA_BGM_19,Frog's Theme
-MSG_EXTRA_BGM_20,Fanfare 1
-MSG_EXTRA_BGM_21,The Trial
-MSG_EXTRA_BGM_22,The Hidden Truth
-MSG_EXTRA_BGM_23,Critical Moment
-MSG_EXTRA_BGM_24,A Desolate World
-MSG_EXTRA_BGM_25,Mystery from the Past
-MSG_EXTRA_BGM_26,Site 16
-MSG_EXTRA_BGM_27,Those Without the Will to Live
-MSG_EXTRA_BGM_28,Lavos's Theme
-MSG_EXTRA_BGM_29,The Last Day of the World
-MSG_EXTRA_BGM_30,Johnny of the Robo Gang 
-MSG_EXTRA_BGM_31,Bike Chase
-MSG_EXTRA_BGM_32,Robo's Theme
-MSG_EXTRA_BGM_33,Derelict Factory
-MSG_EXTRA_BGM_34,Battle 2
-MSG_EXTRA_BGM_35,Fanfare 2
-MSG_EXTRA_BGM_36,At the End of Time
-MSG_EXTRA_BGM_37,Jolly Ol' Spekkio
-MSG_EXTRA_BGM_38,Fanfare 3
-MSG_EXTRA_BGM_39,Creeping through the Sewers
-MSG_EXTRA_BGM_40,Boss Battle 2
-MSG_EXTRA_BGM_41,Primeval Mountain
-MSG_EXTRA_BGM_42,Ayla's Theme
-MSG_EXTRA_BGM_43,Rhythm of Earth, Wind, and Sky
-MSG_EXTRA_BGM_44,Burn! Bobonga! Burn!
-MSG_EXTRA_BGM_45,The Fiendlord's Keep
-MSG_EXTRA_BGM_46,Strains of Insanity
-MSG_EXTRA_BGM_47,Magus Confronted
-MSG_EXTRA_BGM_48,Singing Mountain
-MSG_EXTRA_BGM_49,Tyranno Lair
-MSG_EXTRA_BGM_50,Depths of the Night
-MSG_EXTRA_BGM_51,Corridor of Time
-MSG_EXTRA_BGM_52,Zeal Palace
-MSG_EXTRA_BGM_53,Schala's Theme
-MSG_EXTRA_BGM_54,Sealed Door
-MSG_EXTRA_BGM_55,Ocean Palace
-MSG_EXTRA_BGM_56,Crono & Marle - A Distant Promise
-MSG_EXTRA_BGM_57,The Epoch - Wings of Time
-MSG_EXTRA_BGM_58,Black Omen
-MSG_EXTRA_BGM_59,Determination
-MSG_EXTRA_BGM_60,World Revolution
-MSG_EXTRA_BGM_61,The Final Battle
-MSG_EXTRA_BGM_62,Festival of Stars
-MSG_EXTRA_BGM_63,Epilogue - To My Dear Friends
-MSG_EXTRA_BGM_64,Outskirts of Time
-MSG_EXTRA_BGM_65,Rat-a-tat-tat, it's...Mitsuda 
-MSG_EXTRA_BGM_66,One Sunny Day When We Met
-MSG_EXTRA_BGM_67,Scattering Blossoms
-MSG_EXTRA_BGM_68,A Meeting with Destiny
-MSG_EXTRA_BGM_69,Time to Rest - After the Battle
+MSG_EXTRA_BGM_03,Poranny blask
+MSG_EXTRA_BGM_04,Spokojne dni
+MSG_EXTRA_BGM_05,Zielone wspomnienia
+MSG_EXTRA_BGM_06,Milenijny festyn Guardii
+MSG_EXTRA_BGM_07,Piosenka Gato
+MSG_EXTRA_BGM_08,Dziwne zdarzenia
+MSG_EXTRA_BGM_09,Tęsknota wiatru
+MSG_EXTRA_BGM_10,Dobranoc
+MSG_EXTRA_BGM_11,Tajemnica lasu
+MSG_EXTRA_BGM_12,Bitwa
+MSG_EXTRA_BGM_13,Zamek Guardia - Duma i chwała
+MSG_EXTRA_BGM_14,Ech?!
+MSG_EXTRA_BGM_15,Katedra
+MSG_EXTRA_BGM_16,Modlitwa za wędrowca
+MSG_EXTRA_BGM_17,Światło milczenia
+MSG_EXTRA_BGM_18,Walka z Bossem 1
+MSG_EXTRA_BGM_19,Motyw Froga
+MSG_EXTRA_BGM_20,Fanfara 1
+MSG_EXTRA_BGM_21,Proces
+MSG_EXTRA_BGM_22,Ukryta prawda
+MSG_EXTRA_BGM_23,Krytyczny moment
+MSG_EXTRA_BGM_24,Opuszczony świat
+MSG_EXTRA_BGM_25,Tajemnica z przeszłości
+MSG_EXTRA_BGM_26,Strefa 16
+MSG_EXTRA_BGM_27,Ci bez woli życia
+MSG_EXTRA_BGM_28,Motyw Lavosa
+MSG_EXTRA_BGM_29,Ostatni dzień świata
+MSG_EXTRA_BGM_30,Johnny z Gangu Robocyklistów
+MSG_EXTRA_BGM_31,Wyścig motorowy
+MSG_EXTRA_BGM_32,Motyw Robo
+MSG_EXTRA_BGM_33,Porzucona fabryka
+MSG_EXTRA_BGM_34,Bitwa 2
+MSG_EXTRA_BGM_35,Fanfara 2
+MSG_EXTRA_BGM_36,Na Końcu Czasu
+MSG_EXTRA_BGM_37,Stary, dobry Spekkio
+MSG_EXTRA_BGM_38,Fanfara 3
+MSG_EXTRA_BGM_39,Skradając się przez ścieki
+MSG_EXTRA_BGM_40,Walka z Bossem 2
+MSG_EXTRA_BGM_41,Pierwotna Góra
+MSG_EXTRA_BGM_42,Motyw Ayli
+MSG_EXTRA_BGM_43,Rytm ziemi, wiatru i nieba
+MSG_EXTRA_BGM_44,Płoń! Bobonga! Płoń!
+MSG_EXTRA_BGM_45,Twierdza Władcy Demonów
+MSG_EXTRA_BGM_46,Ucisk szaleństwa
+MSG_EXTRA_BGM_47,Konfrontacja z Magusem
+MSG_EXTRA_BGM_48,Śpiewająca góra
+MSG_EXTRA_BGM_49,Leże Tyranno
+MSG_EXTRA_BGM_50,Głębie nocy
+MSG_EXTRA_BGM_51,Korytarz czasu
+MSG_EXTRA_BGM_52,Pałac Zeal
+MSG_EXTRA_BGM_53,Motyw Schali
+MSG_EXTRA_BGM_54,Zapieczętowane drzwi
+MSG_EXTRA_BGM_55,Oceaniczny pałac
+MSG_EXTRA_BGM_56,Crono i Marle - Dawna obietnica
+MSG_EXTRA_BGM_57,Epoch - Skrzydła Czasu
+MSG_EXTRA_BGM_58,Czarny Omen
+MSG_EXTRA_BGM_59,Determinacja
+MSG_EXTRA_BGM_60,Światowa rewolucja
+MSG_EXTRA_BGM_61,Ostateczna bitwa
+MSG_EXTRA_BGM_62,Festyn Gwiazd
+MSG_EXTRA_BGM_63,Epilog - Do moich przyjaciół
+MSG_EXTRA_BGM_64,Peryferia czasu
+MSG_EXTRA_BGM_65,Rat-a-tat-tat, to... Mitsuda
+MSG_EXTRA_BGM_66,Pewnego słonecznego dnia, gdy się poznaliśmy
+MSG_EXTRA_BGM_67,Rozsiane kwiecie
+MSG_EXTRA_BGM_68,Spotkanie z przeznaczeniem
+MSG_EXTRA_BGM_69,Czas odpoczynku - po walce
