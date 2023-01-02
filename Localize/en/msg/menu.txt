@@ -197,7 +197,7 @@ Dostosuj głośność muzyki.
 Dostosuj głośność efektów.
 Dostosuj ustawienia graficzne.
 Grafika podobna do oryginału.
-Grafika wysokiej rozdzielczości.
+Grafika o wysokiej rozdzielczości.
 *Rozmiar ekranu możesz dostosować w menu głównym.
 Zmień ustawienia sterowania.
 Interfejs można dostosować do systemu.
