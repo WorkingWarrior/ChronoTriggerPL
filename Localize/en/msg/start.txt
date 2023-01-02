@@ -2,7 +2,7 @@ MSG_GAME_START_01,Nowa gra
 MSG_GAME_START_02,Wczytaj grę
 MSG_GAME_START_03,Nowa gra +
 MSG_GAME_START_06,Wznów
-MSG_GAME_START_07,(C) 1995, 2018 SQUARE ENIX CO., LTD. Wszelkie prawa zastrzeżone.\Ilustracje: (C) 1995 BIRD STUDIO / SHUEISHA\Fabuła i scenariusz: (C) 1995, 2008 ARMOR PROJECT / SQUARE ENIX\Konwersja przekładu: Svartskogen
+MSG_GAME_START_07,(C) 1995, 2018 SQUARE ENIX CO., LTD. Wszelkie prawa zastrzeżone.\Ilustracje: (C) 1995 BIRD STUDIO / SHUEISHA\Fabuła i scenariusz: (C) 1995, 2008 ARMOR PROJECT / SQUARE ENIX
 MSG_GAME_START_04,Arena
 MSG_GAME_START_05,Dodatki
 MSG_SAVE_LOAD_01,Wróć
@@ -14,76 +14,76 @@ MSG_SAVE_LOAD_06,Plik 2
 MSG_SAVE_LOAD_07,Plik 3
 MSG_SAVE_LOAD_08,Dane są uszkodzone
 MSG_SAVE_LOAD_09,<S10><S10><S1>Zapis #
-MSG_SAVE_LOAD_10,Empty
+MSG_SAVE_LOAD_10,Pusty
 MSG_SAVE_LOAD_11,Tak
 MSG_SAVE_LOAD_12,Nie
-MSG_SAVE_LOAD_13,Please select a file.
-MSG_SAVE_LOAD_14,Save data to this file?
-MSG_SAVE_LOAD_15,Overwrite existing data?
-MSG_SAVE_LOAD_16,Saving data.
-MSG_SAVE_LOAD_17,Saving system data.
-MSG_SAVE_LOAD_18,Save complete.
-MSG_SAVE_LOAD_19,Save failed.
-MSG_SAVE_LOAD_20,Please select a file to load.
-MSG_SAVE_LOAD_21,Load this file?
-MSG_SAVE_LOAD_22,Loading file.
-MSG_SAVE_LOAD_23,Load complete.
-MSG_SAVE_LOAD_24,Load failed.
-MSG_SAVE_LOAD_25,Loading data.
-MSG_SAVE_LOAD_26,The data in the existing file is corrupted.\Overwrite existing data?
-MSG_SAVE_LOAD_27,Save game completion data?
-MSG_SAVE_LOAD_28,Return to the title screen?
-MSG_SAVE_LOAD_29,Bookmark save failed.
-MSG_SAVE_LOAD_30,Resume failed.
-MSG_SAVE_LOAD_31,You can save your current progress.
-MSG_SAVE_LOAD_32,Bookmark your progress and exit the game?
-MSG_SAVE_LOAD_33,Saving data.
-MSG_SAVE_LOAD_34,Bookmark saved. Select Resume to\pick up where you left off.
-MSG_SAVE_LOAD_35,Return to Title
-MSG_SAVE_LOAD_36,Resume a bookmarked game.
-MSG_SAVE_LOAD_37,Resume bookmarked game?
-MSG_SAVE_LOAD_38,Loading bookmark file.
-MSG_SAVE_LOAD_47,You can now access the Arena and\Extras options from the title screen!
-MSG_SAVE_LOAD_39,Overwrite existing bookmark file?
-MSG_NEWGAME_01,Game Settings
-MSG_NEWGAME_02,Battle Mode
-MSG_NEWGAME_03,ACTIVE
-MSG_NEWGAME_04,WAIT
-MSG_NEWGAME_05,\Time flows constantly in battle,\allowing for fast-paced combat.\
-MSG_NEWGAME_06,Time freezes while you select\items or techs from windows,\allowing you to carefully plan\your battle strategy.
-MSG_NEWGAME_07,Defaults
-MSG_NEWGAME_08,Accept
-MSG_NEWGAME_09,These settings can be changed later.
-MSG_NEWGAME_10,Touch to Start
-MSG_NEWGAME_11,*Use up to 5 characters.
-MSG_NEWGAME_12,Press Any Key
-MSG_NEWGAME_13,*Characters and symbols of other languages cannot be used.
-MSG_GAMECLEAR_01,You've completed the game!
-MSG_GAMECLEAR_02,Clear count:
+MSG_SAVE_LOAD_13,Wybierz plik.
+MSG_SAVE_LOAD_14,Zapisać dane do tego pliku?
+MSG_SAVE_LOAD_15,Nadpisać istniejące dane?
+MSG_SAVE_LOAD_16,Zapisywanie danych.
+MSG_SAVE_LOAD_17,Zapisywanie danych systemowych.
+MSG_SAVE_LOAD_18,Zapis zakończony.
+MSG_SAVE_LOAD_19,Zapis nie powiódł się. 
+MSG_SAVE_LOAD_20,Wybierz plik do wczytania.
+MSG_SAVE_LOAD_21,Wczytać ten plik?
+MSG_SAVE_LOAD_22,Wczytywanie pliku.
+MSG_SAVE_LOAD_23,Wczytywanie zakończone.
+MSG_SAVE_LOAD_24,Wczytywanie nie powiodło się.
+MSG_SAVE_LOAD_25,Wczytywanie danych.
+MSG_SAVE_LOAD_26,Dane w istniejącym pliku są uszkodzone.\Czy chcesz je nadpisać?
+MSG_SAVE_LOAD_27,Zapisać dane ukończenia gry?
+MSG_SAVE_LOAD_28,Powrócić do ekranu tytułowego?
+MSG_SAVE_LOAD_29,Zapis zakładki nie powiódł się.
+MSG_SAVE_LOAD_30,Nie udało się wznowić gry.
+MSG_SAVE_LOAD_31,Możesz zapisać obecny postęp w grze.
+MSG_SAVE_LOAD_32,Utworzyć zakładkę i wyjść z gry?
+MSG_SAVE_LOAD_33,Zapisywanie danych.
+MSG_SAVE_LOAD_34,Zakładka utworzona. Wybierz Wznów,\aby wrócić tam, gdzie skończyłeś.
+MSG_SAVE_LOAD_35,Wróć do ekranu tytułowego
+MSG_SAVE_LOAD_36,Wznów grę od zakładki.
+MSG_SAVE_LOAD_37,Wznowić grę?
+MSG_SAVE_LOAD_38,Wczytywanie zakładki.
+MSG_SAVE_LOAD_47,Masz teraz dostęp do Areny\i Dodatków z poziomu ekranu tytułowego!
+MSG_SAVE_LOAD_39,Nadpisać zakładkę?
+MSG_NEWGAME_01,Ustawienia gry
+MSG_NEWGAME_02,Tryb walki
+MSG_NEWGAME_03,AKTYWNY
+MSG_NEWGAME_04,PASYWNY
+MSG_NEWGAME_05,\W tym dynamicznym trybie\czas w walce płynie nieustannie.\
+MSG_NEWGAME_06,Ten tryb pozwala ci przemyśleć\swoje decyzje i zaplanować strategię,\gdy czas zatrzymuje się\w trakcie wyboru przedmiotów i technik.
+MSG_NEWGAME_07,Domyślne
+MSG_NEWGAME_08,Zaakceptuj
+MSG_NEWGAME_09,Te ustawienia mogą być zmienione później.
+MSG_NEWGAME_10,Dotknij, aby rozpocząć.
+MSG_NEWGAME_11,*Wpisz maks. 5 znaków.
+MSG_NEWGAME_12,Naciśnij dowolny klawisz
+MSG_NEWGAME_13,*Mogą być użyte tylko znaki łacińskie.
+MSG_GAMECLEAR_01,Udało Ci się ukończyć grę!
+MSG_GAMECLEAR_02,Liczba ukończeń:
 MSG_GAMECLEAR_03,times
-MSG_GAMECLEAR_04,Ending No.
-MSG_GAMECLEAR_05,Save game completion data?
-MSG_GAMECLEAR_06,Overwrite existing save data?
-MSG_GAMECLEAR_07,Return to the title screen?
-MSG_GAMECLEAR_08,Saving data.
-MSG_GAMECLEAR_09,Save complete.
+MSG_GAMECLEAR_04,Zakończenie nr.
+MSG_GAMECLEAR_05,Zapisać dane ukończenia gry?
+MSG_GAMECLEAR_06,Nadpisać istniejące dane?
+MSG_GAMECLEAR_07,Powrócić do ekranu tytułowego?
+MSG_GAMECLEAR_08,Zapisywanie danych.
+MSG_GAMECLEAR_09,Zapis zakończony.
 MSG_GAMECLEAR_10,
-MSG_GAMECLEAR_11,You can now visit the Dimensional Vortex!
+MSG_GAMECLEAR_11,Odblokowano Wir międzywymiarowy!
 MSG_GAMECLEAR_12,
 MSG_GAMECLEAR_13,
-MSG_GAMECLEAR_14,Obtained Dreamseeker!
+MSG_GAMECLEAR_14,Otrzymano Poszukiwacza Snów!
 MSG_GAMECLEAR_15,
-MSG_GAMECLEAR_16,New option added to the Extras menu:
+MSG_GAMECLEAR_16,Dodano nową opcję do menu Dodatków:
 MSG_GAMECLEAR_17,
-MSG_SKIP_MOVIE_01,Accept
-MSG_SKIP_MOVIE_02,Would you like to skip the event?
-MSG_CONFIG_01,Change graphics settings.
-MSG_CONFIG_02,Original
-MSG_CONFIG_03,High Resolution
-MSG_CONFIG_04,Play with graphics similar to the original pixel art.
-MSG_CONFIG_05,Play with graphics supported by high-resolution displays.
-MSG_CONFIG_06,Easy gamepad/keyboard controls.
-MSG_CONFIG_07,Easy touch pad/mouse controls.
+MSG_SKIP_MOVIE_01,Zaakceptuj
+MSG_SKIP_MOVIE_02,Pominąć zdarzenie?
+MSG_CONFIG_01,Dostosuj ustawienia graficzne.
+MSG_CONFIG_02,Oryginalne
+MSG_CONFIG_03,Wysoka rozdzielczość
+MSG_CONFIG_04,Graj z grafiką podobną do oryginału.
+MSG_CONFIG_05,Graj z grafiką o wysokiej rozdzielczości.
+MSG_CONFIG_06,Proste sterowanie kontrolerem/klawiaturą.
+MSG_CONFIG_07,Proste sterowanie touch padem/myszą.
 MSG_LINEUP_09,
 MSG_LINEUP_10,
 MSG_LINEUP_11,
