@@ -5,11 +5,11 @@ MSG_FONT_04,ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざ�
 MSG_FONT_05,ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミ×ムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶ
 MSG_FONT_06,ー!?/&'.魔王() -´
 MSG_FONT_07,¡¿ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜßàáâäçèéêëìíîïñòóôöùúûüŒœ
-MSG_SYSTEM_01,Back
-MSG_SYSTEM_02,Accept
-MSG_SYSTEM_03,<CT>\Obtained <NAME_ITM>!
-MSG_SYSTEM_04,<CT>\It's empty!
-MSG_SYSTEM_05,<CT>\Obtained <NUMBER> G!
+MSG_SYSTEM_01,Powrót
+MSG_SYSTEM_02,Zaakceptuj
+MSG_SYSTEM_03,<CT>\<NAME_ITM> wędruje do plecaka!!
+MSG_SYSTEM_04,<CT>\Pusto!
+MSG_SYSTEM_05,<CT>\Otrzymano <NUMBER> G!
 MSG_SYSTEM_06,
 MSG_SYSTEM_07,
 MSG_SYSTEM_08,
@@ -24,10 +24,10 @@ MSG_SYSTEM_16,
 MSG_SYSTEM_17,
 MSG_SYSTEM_18,
 MSG_SYSTEM_19,
-MSG_SYSTEM_20,Interface
-MSG_SYSTEM_21,The interface can adapt to the system environment.
-MSG_SYSTEM_22,Touch Pad/Mouse
-MSG_SYSTEM_23,Gamepad/Keyboard
+MSG_SYSTEM_20,Interfejs
+MSG_SYSTEM_21,Interfejs może zostać dostosowany do systemu.
+MSG_SYSTEM_22,Touch Pad/Mysz
+MSG_SYSTEM_23,Kontroler/Klawiatura
 MSG_SYSTEM_24,
 MSG_SYSTEM_25,
 MSG_SYSTEM_26,
