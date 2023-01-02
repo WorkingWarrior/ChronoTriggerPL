@@ -1,17 +1,17 @@
-FLD_CMES0_000,<NAME_CRO>...\\\<WAIT>09</WAIT><AUTO_PAGE>\<NAME_CRO>!\\<WAIT>0a</WAIT><AUTO_PAGE>\<NAME_CRO>, wciąż śpisz?<WAIT>09</WAIT><AUTO_END>
+FLD_CMES0_000,<NAME_CRO>...\\\<WAIT>09</WAIT><AUTO_PAGE>\<NAME_CRO>!\\<WAIT>0a</WAIT><AUTO_PAGE>\<NAME_CRO>, nadal śpisz?<WAIT>09</WAIT><AUTO_END>
 FLD_CMES0_001,Matka: Dalej, śpiochu!\Czas wstawać!<WAIT>0b</WAIT><AUTO_END>
-FLD_CMES0_002,Matka: Dear me! I'd forgotten how beautiful\Leene's Bell sounds!\<WAIT>0a</WAIT><AUTO_END>
-FLD_CMES0_003,Matka: You must have been so excited about the\Millennial Fair that you couldn't sleep last night,\could you?<WAIT>11</WAIT><AUTO_PAGE>\Well, you'd better not let that giddiness get you into\any trouble. I want you to behave yourself today!\<WAIT>0e</WAIT><AUTO_END>
-FLD_CMES0_004,Matka: Come on, now! Out of bed with you!<WAIT>09</WAIT><AUTO_END>
-FLD_CMES0_005,<NAME_CRO>...<PAGE>\<NAME_CRO>!<PAGE>\<NAME_CRO>, are you still sleeping?
-FLD_CMES0_006,Matka: Come on, sleepyhead!\It's time to get up!
-FLD_CMES0_007,Matka: O rany! Zapomniałam już, jak cudownie\brzmi Dzwon Leene!<WAIT>0a</WAIT>
+FLD_CMES0_002,Matka: O rany! Zapomniałam już,\jak cudownie brzmi Dzwon Leene!\<WAIT>0a</WAIT><AUTO_END>
+FLD_CMES0_003,Matka: Byłeś tak podekscytowany Milenijnym Festynem,\że nie mogłeś zasnąć, prawda?<WAIT>11</WAIT><AUTO_PAGE>\Tylko żebyś nie wpadł przez to w żadne kłopoty.\Masz się dziś zachowywać!\<WAIT>0e</WAIT><AUTO_END>
+FLD_CMES0_004,Matka: No dalej! Wynocha z łóżka!<WAIT>09</WAIT><AUTO_END>
+FLD_CMES0_005,<NAME_CRO>...<PAGE>\<NAME_CRO>!<PAGE>\<NAME_CRO>, wciąż śpisz?
+FLD_CMES0_006,Matka: Dalej, śpiochu!\Czas wstawać!
+FLD_CMES0_007,Matka: O rany! Zapomniałam już,\jak cudownie brzmi Dzwon Leene!<WAIT>0a</WAIT>
 FLD_CMES0_008,Matka: Byłeś tak podekscytowany Milenijnym Festynem,\że nie mogłeś zasnąć, prawda?<PAGE>\Tylko żebyś nie wpadł przez to w żadne kłopoty.\Masz się dziś zachowywać!
 FLD_CMES0_009,Matka: No dalej! Wynocha z łóżka!
-FLD_CMES0_010,Matka: No wreszcie!\W ogóle, miałeś spotkać się z<PAGE>\Jak jej było?\Wiesz, o kim mówię. Ta twoja młoda przyjaciółka wynalazczyni...
+FLD_CMES0_010,Matka: No wreszcie!\W ogóle, miałeś spotkać się z...<PAGE>\Jak jej było?\Wiesz, o kim mówię.\Ta twoja młoda przyjaciółka wynalazczyni...
 FLD_CMES0_011,Matka: A, tak! <NAME_LUC>!\Idziesz zobaczyć jej nowy wynalazek na festynie,\czyż nie?
 FLD_CMES0_012,Matka: No, to zmykaj.\Nie zapomnij wrócić na obiad!
-FLD_CMES0_013,Matka: Prawie bym zapomniała!\Masz tu kieszonkowe, skarbie.\Dobrej zabawy na festynie!<PAGE><CT>\\Otrzymano 200 G!
+FLD_CMES0_013,Matka: Prawie bym zapomniała!\Masz tu kieszonkowe, skarbie.\Baw się dobrze!<PAGE><CT>\\Otrzymano 200 G!
 FLD_CMES0_014,Odpocząć chwilę?\<S10><S10><C1>Tak.</C1>\<S10><S10><C2>Nie.</C2>
 FLD_CMES0_015,<CT>\Otrzymano lalkę-podmiankę.
 FLD_CMES0_016,Matka: Cześć, <NAME_CRO>!
