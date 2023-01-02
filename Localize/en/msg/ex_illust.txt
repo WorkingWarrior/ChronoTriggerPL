@@ -5,38 +5,38 @@ MSG_EX_ILLUST_04,Robo
 MSG_EX_ILLUST_05,Frog
 MSG_EX_ILLUST_06,Ayla
 MSG_EX_ILLUST_07,Magus
-MSG_EX_ILLUST_08,Ice and Flame
-MSG_EX_ILLUST_09,Ayla's Entrance
-MSG_EX_ILLUST_10,Ayla and the Dactyl
-MSG_EX_ILLUST_11,Chief, Fly High
-MSG_EX_ILLUST_12,The Epoch
-MSG_EX_ILLUST_13,Smiling Princess
-MSG_EX_ILLUST_14,Into the Maw of Darkness
-MSG_EX_ILLUST_15,Wings of Time
-MSG_EX_ILLUST_16,Wedding Ceremony
-MSG_EX_ILLUST_17,Crono Sketch
-MSG_EX_ILLUST_18,Marle Sketch
-MSG_EX_ILLUST_19,Lucca Sketch
-MSG_EX_ILLUST_20,Robo Sketch
-MSG_EX_ILLUST_21,Frog Sketch
-MSG_EX_ILLUST_22,Ayla Sketch
-MSG_EX_ILLUST_23,Magus Sketch
-MSG_EX_ILLUST_24,Dungeon Battle
-MSG_EX_ILLUST_25,Combo Attack
-MSG_EX_ILLUST_26,Fiendlord Face-off
-MSG_EX_ILLUST_27,Dactyl Riders
-MSG_EX_ILLUST_28,Epoch, Away!
-MSG_EX_ILLUST_29,The Forest Camp
-MSG_EX_ILLUST_30,Beneath Starlit Skies
-MSG_EX_MOVIE_01,Reflections
-MSG_EX_MOVIE_02,What Comes to Pass
-MSG_EX_MOVIE_03,Misfortune Falls
-MSG_EX_MOVIE_04,Robo in Disrepair
-MSG_EX_MOVIE_05,The Mighty Ayla
-MSG_EX_MOVIE_06,The Masamune Unsheathed
-MSG_EX_MOVIE_07,Before the Fiendlord
-MSG_EX_MOVIE_08,Flight of the Dactyls
-MSG_EX_MOVIE_09,The Epoch's Maiden Flight
-MSG_EX_MOVIE_10,Prophecy Fulfilled
-MSG_EX_ILLUST_31,Defend the City
-MSG_EX_ILLUST_32,My Home
+MSG_EX_ILLUST_08,Lód i Ogień
+MSG_EX_ILLUST_09,Wejście Ayli
+MSG_EX_ILLUST_10,Ayla i Daktyl
+MSG_EX_ILLUST_11,Bezpiecznego lotu, wodzu!
+MSG_EX_ILLUST_12,Epoch
+MSG_EX_ILLUST_13,Uśmiech księżniczki
+MSG_EX_ILLUST_14,W paszczę ciemności
+MSG_EX_ILLUST_15,Skrzydła Czasu
+MSG_EX_ILLUST_16,Ceremonia ślubna
+MSG_EX_ILLUST_17,Szkic Crono
+MSG_EX_ILLUST_18,Szkic Marle
+MSG_EX_ILLUST_19,Szkic Lucci
+MSG_EX_ILLUST_20,Szkic Robo
+MSG_EX_ILLUST_21,Szkic Froga
+MSG_EX_ILLUST_22,Szkic Ayli
+MSG_EX_ILLUST_23,Szkic Magusa
+MSG_EX_ILLUST_24,Bitwa w lochu
+MSG_EX_ILLUST_25,Atak łączony
+MSG_EX_ILLUST_26,Starcie z Władcą Demonów
+MSG_EX_ILLUST_27,Jeźdźcy daktyli
+MSG_EX_ILLUST_28,Epoch, ruszamy!
+MSG_EX_ILLUST_29,Leśny obóz
+MSG_EX_ILLUST_30,Pod rozgwieżdżonym niebem
+MSG_EX_MOVIE_01,Odbicia
+MSG_EX_MOVIE_02,Co ma być
+MSG_EX_MOVIE_03,Nieszczęście
+MSG_EX_MOVIE_04,Robo w rozbiórce
+MSG_EX_MOVIE_05,Potężna Ayla
+MSG_EX_MOVIE_06,Masamune w pełnej krasie
+MSG_EX_MOVIE_07,Wejście Magusa
+MSG_EX_MOVIE_08,Lot daktyli
+MSG_EX_MOVIE_09,Dziewiczy lot Epocha
+MSG_EX_MOVIE_10,Przepowiednia spełniona
+MSG_EX_ILLUST_31,Bronić Miasto!
+MSG_EX_ILLUST_32,Mój dom
