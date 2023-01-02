@@ -105,7 +105,7 @@ Walka I
 Walka II
 Sterowanie
 Filmy
-Target UI Display
+Wyświetlacz UI
 Sklep
 Kup
 Sprzedaj
