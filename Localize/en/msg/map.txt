@@ -13,7 +13,7 @@ MSG_FIELD_GENDAI_12,Gospoda w Porre
 MSG_FIELD_GENDAI_13,Knajpa pod Ślimakiem
 MSG_FIELD_GENDAI_14,Leśne ruiny
 MSG_FIELD_GENDAI_15,Gospoda w Medinie
-MSG_FIELD_GENDAI_16,Plac Mediny
+MSG_FIELD_GENDAI_16,Plac w Medinie
 MSG_FIELD_GENDAI_17,Chatka Melchiora
 MSG_FIELD_GENDAI_18,Jaskinia Heckrana
 MSG_FIELD_GENDAI_19,Gospoda w Choras
@@ -42,7 +42,7 @@ MSG_FIELD_CHUSEI_13,Gospoda w Porre
 MSG_FIELD_CHUSEI_14,Dom Taty
 MSG_FIELD_CHUSEI_15,Tawerna
 MSG_FIELD_CHUSEI_16,Gospoda w Choras
-MSG_FIELD_CHUSEI_17,Pazur giganta
+MSG_FIELD_CHUSEI_17,Szpon giganta
 MSG_FIELD_CHUSEI_18,Twierdza Władcy Demonów
 MSG_FIELD_CHUSEI_19,Fort Ozziego
 MSG_FIELD_CHUSEI_20,Kaplica słońca
@@ -66,7 +66,7 @@ MSG_FIELD_GENSHI_01,Mistyczne góry
 MSG_FIELD_GENSHI_02,Chatka wodza
 MSG_FIELD_GENSHI_03,Chatka Ioka
 MSG_FIELD_GENSHI_04,Teren spotkań
-MSG_FIELD_GENSHI_05,Ruiny Laruba
+MSG_FIELD_GENSHI_05,Ruiny Laruby
 MSG_FIELD_GENSHI_06,Gniazdo daktyli
 MSG_FIELD_GENSHI_07,Tereny łowieckie
 MSG_FIELD_GENSHI_08,Leśny labirynt
