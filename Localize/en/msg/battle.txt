@@ -1,51 +1,51 @@
-Attack
-Tech
-Combo
-Item
-Escape
-Single Tech
-Dual Tech
-Triple Tech
-Poison
-Slow
-Sleep
-Confuse
-Blind
-Lock
+Atak
+Technika
+Kombinacja
+Przedmiot
+Ucieczka
+Technika pojedyncza
+Technika podwójna
+Technika potrójna
+Trucizna
+Spowolnienie
+Sen
+Zamęt
+Oślepienie
+Blokada
 Stop
-Sap
-Omnilock
-Curse
+Wyssanie
+Kompletna blokada
+Klątwa
 KO
-Haste
-Protect
-Barrier
-Reraise
-Berserk
-Enemies:
-Obtained
+Przyspieszenie
+Ochrona
+Bariera
+Niezłomność
+Szał
+Przeciwnicy:
+Otrzymano
 !
-EXP
-TP
-Money
+PD
+PT
+Pieniędzy
 G
 x
-<NAME_CNO>'s level\increased!
-LV
+<NAME_CNO> osiąga\nowy poziom!
+Poz.
 →
-<NAME_CNO> learned 
+<NAME_CNO> umie teraz 
 !
-Earned <NUMBER> EXP.
-Earned <NUMBER> TP.
-Found <NUMBER> G.
-Obtained <NAME_ITM>.
-<NAME_CNO>'s level increased!
-<NAME_CNO> learned <NAME_TEC>!
-Learned <NAME_TEC> dual tech!
-Learned <NAME_TEC> triple tech!
-Escaped!
-Can't escape!
-Enemy has nothing to give but gratitude.
+Otrzymano <NUMBER> PD.
+Otrzymano <NUMBER> PT.
+Znaleziono <NUMBER> G.
+<NAME_ITM> wędruje do plecaka.
+<NAME_CNO> osiąga nowy poziom!
+<NAME_CNO> umie teraz <NAME_TEC>!
+Nauczono się podwójnej techniki <NAME_TEC>!
+Nauczono się potrójnej techniki <NAME_TEC>!
+Ucieczka!
+Nie można uciec!
+Przeciwnik nie ma nic, nawet szacunku.
 <NAME_MON>    <NUMBER>/<NUMBER>
-<NAME_CNO> got back up!
-Target
+<NAME_CNO> jest już na nogach!
+Cel
