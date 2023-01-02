@@ -1,99 +1,96 @@
 
-Mayor's Manor
-Residence
-<NAME_CRO>'s House
-<NAME_LUC>'s House
-Gobu's house
-Truce Inn
-Snail Stop
-Eternal Rest Arbor
-Ripples Arbor
-Leene Square
-Market
-Porre Inn
-Ferry Office
-Guardia Forest
-Guardia Castle
-Zenan Bridge
-Melchior's Cabin
-Forest Ruins
-Heckran Cave
-Fiona's Shrine
-West Cape
-Sun Shrine
-Hero's Grave
-Truce Canyon
-Manolia Cathedral
-Cursed Woods
-Denadoro Mountains
-Tata's House
-Fiona's Villa
-Sunken Desert
-Magic Cave
-Fiendlord's Keep
-Ozzie's Fort
+Rezydencja burmistrza
+Rezydencja
+<NAME_CRO> - dom
+<NAME_LUC> - dom
+Dom Goba
+Gospoda w Truce
+Karczma pod Ślimakiem
+Altana wiecznego spoczynku
+Altana fal
+Plac Leene
+Sklep
+Gospoda w Porre
+Port promowy
+Las Guardia
+Zamek Guardia
+Most Zenan
+Chatka Melchiora
+Leśne ruiny
+Jaskinia Heckrana
+Kaplica Fiony
+Zachodni przylądek
+Kaplica słońca
+Grób bohatera
+Kanion w Truce
+Katedra Manolia
+Przeklęty las
+Góry Denadoro
+Dom Taty
+Willa Fiony
+Zapadnięta pustynia
+Magiczna jaskinia
+Twierdza Władcy Demonów
+Fort Ozziego
 
-Elder's House
-Northern Ruins
+Dom wójta
+Północne ruiny
 
-Bangor Dome
-Trann Dome
-Site 16
-Arris Dome
-Site 32
-Proto Dome
-Derelict Factory
-Abandoned Sewers
-Keeper's Dome
-Death Peak
-Geno Dome
-Sun Temple
-Robot Village
-Mystic Mountains
-Ioka Hut
-Chief's Hut
-Meeting Grounds
-Forest Maze
-Reptite Lair
-Hunting Range
-Dactyl Nest
-Tyranno Lair
-Singing Mountain
-Small Cave
+Kopuła Bangor
+Kopuła Trann
+Strefa 16
+Kopuła Arris
+Strefa 32
+Kopuła Proto
+Opuszczona fabryka
+Porzucone ścieki
+Kopuła Opiekuna
+Szczyt Śmierci
+Kopuła Geno
+Świątynia słońca
+Wioska robotów
+Mistyczne góry
+Chatka Ioka
+Chatka wodza
+Teren spotkań
+Leśny labirynt
+Leże gadzin
+Tereny łowieckie
+Gniazdo daktyli
+Leże Tyranno
+Śpiewająca góra
+Niewielka jaskinia
 Enhasa
 Kajar
-Blackbird
-North Sealed Castle
-Terra Cave
-Zeal Palace
-Ocean Palace
-Surviving Village
-North Cape
-Lavos Carapace
+Czarny ptak
+Północny zapieczętowany zamek
+Jaskinia przyziemnych
+Pałac Zeal
+Oceaniczny pałac
+Ocalała wioska
+Północny przylądek
+Skorupa Lavosa
 
 
-Tavern
-Medina Square
-Black Omen
-Coastal Vortex
-Skyway
-Land Bridge
-<NAME_AYL>'s Hut
-Laruba Ruins
-Tyranno Lair Ruins
-Village Commons
-Medina Inn
-Choras Inn
-Truce Inn
-Dorino Inn
-Porre Inn
-Choras Inn
-Giant's Claw
-Lost Sanctum
-Dimensional Vortex
-
-
-
+Tawerna
+Plac w Medinie
+Czarny Omen
+Przybrzeżny wir
+Podniebna droga
+Most lądowy
+<NAME_AYL> - chatka
+Ruiny Laruby
+Ruiny leża Tyranno
+Wioska pospolitych
+Gospoda w Medinie
+Gospoda w Choras
+Gospoda w Truce
+Gospoda w Dorino
+Gospoda w Porre
+Gospoda w Choras
+Szpon giganta
+Zagubiony Azyl
+Wir międzywymiarowy
 
 
 
@@ -104,9 +101,12 @@ Dimensional Vortex
 
 
 
-1000 A.D.
-600 A.D.
-2300 A.D.
-65,000,000 B.C.
-12,000 B.C.
+
+
+
+1 000 N.E.
+600 N.E.
+2 300 N.E.
+65 000 000 P.N.E.
+12 000 P.N.E.
 ? ? ? ? ? ? 
