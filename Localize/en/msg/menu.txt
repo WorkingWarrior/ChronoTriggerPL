@@ -216,7 +216,7 @@ Opis sterowania
 Rozpocznij
 Wróć
 Dodatki
-Czy "<NAME>" jest poprawne?
+Czy "<NAME>" brzmi dobrze?
 Dostosuj ustawienia wyświetlania
 Tryb ekranu
 Ustaw tryb ekranu gry
