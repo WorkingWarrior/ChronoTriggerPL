@@ -1,22 +1,22 @@
-Cloud save / load
-Confirm save
-Confirm load
-Save to cloud
-Load from cloud
-Current data
-Cloud server data
--Latest Save Data-
--Quick Save-
-TIME
-Save date / time
-EMPTY
-Obtaining data…
-Failed to obtain cloud data.
-"All save data may be saved to or loaded from cloud servers, including quick save data.\\You can load data saved to cloud servers from other devices."
-No save data!
-Current data is identical to cloud server data!
-"The current save data will overwrite save data on the cloud servers.\\Do you wish to proceed?"
-This data will overwrite cloud server save data.
-"Save data from the cloud servers will overwrite the current save data.\\Do you wish to proceed?"
-This data will overwrite (load over) the current data.
-通信に失敗しました。通信環境を確認して、再度試してください。
+Zapisz / wczytaj z chmury
+Potwierdź zapis
+Potwierdź wczytywanie
+Zapisz w chmurze
+Wczytaj z chmury
+Bieżące dane
+Dane w chmurze
+-Ostatnie dane zapisu-
+-Szybki zapis-
+CZAS
+Data i czas zapisu
+PUSTY
+Pobieranie danych…
+Nie udało się pobrać danych z chmury.
+"Wszystkie dane zapisu, włączając w to szybki zapis, mogą być zapisane i wczytane z serwerów chmurowych.\\Możesz wczytać dane zapisane w chmurze na innych urządzeniach."
+Brak danych zapisu!
+Dane lokalne są identyczne z chmurowymi!
+"Obecny zapis nadpisze dane w chmurze.\\Czy chcesz kontynouwać?"
+Te dane nadpiszą zapis w chmurze.
+"Dane z chmury nadpiszą lokalny zapis.\\Czy chcesz kontynuować?"
+Te dane nadpiszą lokalny zapis.
+Komunikacja nie powiodła się. Sprawdź sieć i spróbuj ponownie.
