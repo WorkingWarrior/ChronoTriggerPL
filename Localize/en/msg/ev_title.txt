@@ -1,26 +1,26 @@
-MSG_EV_TITLE_01,The Millennial Fair
-MSG_EV_TITLE_02,The Queen Returns
-MSG_EV_TITLE_03,A Vanished Princess
-MSG_EV_TITLE_04,Homecoming
-MSG_EV_TITLE_05,The Trial
-MSG_EV_TITLE_06,Beyond the Ruins
-MSG_EV_TITLE_07,The Derelict Factory
-MSG_EV_TITLE_08,The End of Time
-MSG_EV_TITLE_09,Fiendish Folk
-MSG_EV_TITLE_10,The Hero Appears
-MSG_EV_TITLE_11,Tata and the Frog
-MSG_EV_TITLE_12,The Rare Red Rock
-MSG_EV_TITLE_13,Footprints! Follow!
-MSG_EV_TITLE_14,The Masamune
-MSG_EV_TITLE_15,The Fiendlord's Keep
-MSG_EV_TITLE_16,Forward to the Past
-MSG_EV_TITLE_17,Unnatural Selection
-MSG_EV_TITLE_18,The Magic Kingdom
-MSG_EV_TITLE_19,To Break the Seal
-MSG_EV_TITLE_20,The Guru of Woe
-MSG_EV_TITLE_21,What Lies Beyond
-MSG_EV_TITLE_22,Lavos Beckons
-MSG_EV_TITLE_23,The New King
-MSG_EV_TITLE_24,The Time Egg
-MSG_EV_TITLE_25,The Fated Hour
-MSG_EV_TITLE_26,Dream's End
+MSG_EV_TITLE_01,Milenijny Festyn
+MSG_EV_TITLE_02,Królowa powraca
+MSG_EV_TITLE_03,Zaginiona księżniczka
+MSG_EV_TITLE_04,Powrót do domu
+MSG_EV_TITLE_05,Proces
+MSG_EV_TITLE_06,Za ruinami
+MSG_EV_TITLE_07,Opuszczona fabryka
+MSG_EV_TITLE_08,Koniec Czasu
+MSG_EV_TITLE_09,Diabelskie dranie
+MSG_EV_TITLE_10,Legendarny bohater
+MSG_EV_TITLE_11,Tata i Frog
+MSG_EV_TITLE_12,Spektakularna szkarłatna skała
+MSG_EV_TITLE_13,Ślady! Śledzić!
+MSG_EV_TITLE_14,Masamune
+MSG_EV_TITLE_15,Twierdza Władcy Demonów
+MSG_EV_TITLE_16,Naprzód, w przeszłość!
+MSG_EV_TITLE_17,Selekcja nienaturalna
+MSG_EV_TITLE_18,Królestwo magii
+MSG_EV_TITLE_19,Złamać pieczęć!
+MSG_EV_TITLE_20,Guru biady
+MSG_EV_TITLE_21,Co czeka dalej?
+MSG_EV_TITLE_22,Lavos wzywa
+MSG_EV_TITLE_23,Nowy król
+MSG_EV_TITLE_24,Jajo czasu
+MSG_EV_TITLE_25,Pamiętna godzina
+MSG_EV_TITLE_26,Koniec snu
