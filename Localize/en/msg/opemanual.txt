@@ -16,4 +16,4 @@ OK
 ,
 +
 Sterowanie
-Tymczasowo pauzuje walkę
+Zapauzuj walkę

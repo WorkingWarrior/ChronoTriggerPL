@@ -57,7 +57,7 @@ MSG_NEWGAME_09,Te ustawienia mogą być zmienione później.
 MSG_NEWGAME_10,Dotknij, aby rozpocząć.
 MSG_NEWGAME_11,*Wpisz maks. 5 znaków.
 MSG_NEWGAME_12,Naciśnij dowolny klawisz
-MSG_NEWGAME_13,*Mogą być użyte tylko znaki łacińskie.
+MSG_NEWGAME_13,*Można wykorzystać tylko znaki łacińskie.
 MSG_GAMECLEAR_01,Udało Ci się ukończyć grę!
 MSG_GAMECLEAR_02,Liczba ukończeń:
 MSG_GAMECLEAR_03,times
