@@ -1,80 +1,80 @@
-﻿MSG_EXTRA_01,Extras
-MSG_EXTRA_02,Personal Data
-MSG_EXTRA_03,★COMPLETION DATA
-MSG_EXTRA_04,Enemies encountered:
-MSG_EXTRA_05,Items obtained:
-MSG_EXTRA_06,Techs learned:
-MSG_EXTRA_07,Save count:
+﻿MSG_EXTRA_01,Dodatki
+MSG_EXTRA_02,Dane osobiste
+MSG_EXTRA_03,★DANE UKOŃCZENIA
+MSG_EXTRA_04,Napotkanych przeciwników:
+MSG_EXTRA_05,Znalezionych przedmiotów:
+MSG_EXTRA_06,Nauczonych technik:
+MSG_EXTRA_07,Liczba zapisów:
 MSG_EXTRA_08,%
-MSG_EXTRA_09,Times
-MSG_EXTRA_10,Theater
-MSG_EXTRA_11,Art Gallery
-MSG_EXTRA_12,Music Box
+MSG_EXTRA_09,Razy
+MSG_EXTRA_10,Kino
+MSG_EXTRA_11,Galeria
+MSG_EXTRA_12,Pozytywka
 MSG_EXTRA_13,Dojo
-MSG_EXTRA_14,Bestiary
-MSG_EXTRA_15,Item Encyclopedia
-MSG_EXTRA_16,Ending Log
-MSG_EXTRA_17,Treasure Atlas
+MSG_EXTRA_14,Bestiariusz
+MSG_EXTRA_15,Kolekcja przedmiotów
+MSG_EXTRA_16,Dziennik zakończeń
+MSG_EXTRA_17,Atlas skarbów
 MSG_EXTRA_18,???
-MSG_EXTRA_19,Track No.
-MSG_EXTRA_20,TITLE
-MSG_EXTRA_21,PLAY
+MSG_EXTRA_19,Scieżka nr
+MSG_EXTRA_20,TYTUŁ
+MSG_EXTRA_21,GRAJ
 MSG_EXTRA_22,Timing
-MSG_EXTRA_23,Notes
-MSG_EXTRA_24,Image
+MSG_EXTRA_23,Notatki
+MSG_EXTRA_24,Obraz
 MSG_EXTRA_25,STOP
-MSG_EXTRA_26,MP
-MSG_EXTRA_27,Single Techs
-MSG_EXTRA_28,Dual Techs
-MSG_EXTRA_29,Triple Techs
-MSG_EXTRA_30,Consumables
-MSG_EXTRA_31,Weapons
-MSG_EXTRA_32,Helms
-MSG_EXTRA_33,Armor
-MSG_EXTRA_34,Accessories
-MSG_EXTRA_35,Key Items
-MSG_EXTRA_36,Effects:
-MSG_EXTRA_37,Attack: 
+MSG_EXTRA_26,PM
+MSG_EXTRA_27,Pojedyncze
+MSG_EXTRA_28,Podwójne
+MSG_EXTRA_29,Potrójne
+MSG_EXTRA_30,Przedmioty zużywalne
+MSG_EXTRA_31,Bronie
+MSG_EXTRA_32,Hełmy
+MSG_EXTRA_33,Zbroje
+MSG_EXTRA_34,Akcesoria
+MSG_EXTRA_35,Przedmioty kluczowe
+MSG_EXTRA_36,Efekty:
+MSG_EXTRA_37,Atak: 
 MSG_EXTRA_38,Defense: 
-MSG_EXTRA_39,Usable by:
-MSG_EXTRA_40,Purchase: 
-MSG_EXTRA_41,Sell: 
+MSG_EXTRA_39,Używalne przez:
+MSG_EXTRA_40,Kupno: 
+MSG_EXTRA_41,Sprzedaż: 
 MSG_EXTRA_42, G
-MSG_EXTRA_43,Prehistory
-MSG_EXTRA_44,Antiquity
-MSG_EXTRA_45,Middle Ages
-MSG_EXTRA_46,Present
-MSG_EXTRA_47,Future
-MSG_EXTRA_48,End of Time
-MSG_EXTRA_49,Black Omen
-MSG_EXTRA_50,Bonus Areas
+MSG_EXTRA_43,Prehistoria
+MSG_EXTRA_44,Starożytność
+MSG_EXTRA_45,Średniowiecze
+MSG_EXTRA_46,Teraźniejszość
+MSG_EXTRA_47,Przyszłość
+MSG_EXTRA_48,Koniec Czasu
+MSG_EXTRA_49,Czarny Omen
+MSG_EXTRA_50,Strefy bonusowe
 MSG_EXTRA_51,<S9>-----
-MSG_EXTRA_HELP_01,View in-game movies.
-MSG_EXTRA_HELP_02,View concept artwork.
-MSG_EXTRA_HELP_03,Listen to music tracks.
-MSG_EXTRA_HELP_04,View character tech skill information.
-MSG_EXTRA_HELP_05,View detailed enemy information.
-MSG_EXTRA_HELP_06,View item information.
-MSG_EXTRA_HELP_07,View requirements for obtaining game endings.
-MSG_EXTRA_HELP_08,View treasure locations.
-MSG_EXTRA_HELP_09,Please select a movie.
-MSG_EXTRA_HELP_10,Please select an illustration.
-MSG_EXTRA_HELP_11,Please select music.
-MSG_EXTRA_HELP_12,Please select a tech.
-MSG_EXTRA_HELP_13,Please select an item.
-MSG_EXTRA_HELP_14,Please select an ending.
-MSG_EXTRA_HELP_15,Please select an era.
-MSG_EXTRA_HELP_16,Please select a map.
-MSG_EX_STEAM_01,Movies
-MSG_EX_STEAM_03,Sound
-MSG_EX_STEAM_04,Illustrations
-MSG_EX_STEAM_05,Now Playing
-MSG_EX_STEAM_06,Requirements
-MSG_EX_STEAM_07,Review
-MSG_EX_STEAM_HELP_01,Clear the game to unlock each category.
-MSG_EX_STEAM_HELP_02,View in-game movies.
-MSG_EX_STEAM_HELP_03,View artwork for the game.
-MSG_EX_STEAM_HELP_04,Listen to music tracks.
-MSG_EX_STEAM_HELP_05,Review endings you've already unlocked.
-MSG_EX_STEAM_HELP_08,Please select an illustration.
-MSG_EX_STEAM_HELP_10,You cannot stop in the middle of an ending.
+MSG_EXTRA_HELP_01,Oglądaj filmy.
+MSG_EXTRA_HELP_02,Oglądaj szkice koncepcyjne.
+MSG_EXTRA_HELP_03,Słuchaj ścieżek dźwiękowych.
+MSG_EXTRA_HELP_04,Przeglądaj informacje o technikach.
+MSG_EXTRA_HELP_05,Przeglądaj dokładne dane o przeciwnikach.
+MSG_EXTRA_HELP_06,Przeglądaj informacje o przedmiotach.
+MSG_EXTRA_HELP_07,Przeglądaj wymagania do uzyskania poszczególnych zakończeń.
+MSG_EXTRA_HELP_08,Przeglądaj położenie skarbów.
+MSG_EXTRA_HELP_09,Wybierz film.
+MSG_EXTRA_HELP_10,Wybierz ilustrację.
+MSG_EXTRA_HELP_11,Wybierz ścieżkę dźwiękową.
+MSG_EXTRA_HELP_12,Wybierz technikę.
+MSG_EXTRA_HELP_13,Wybierz przedmiot.
+MSG_EXTRA_HELP_14,Wybierz zakończenie.
+MSG_EXTRA_HELP_15,Wybierz epokę.
+MSG_EXTRA_HELP_16,Wybierz mapę.
+MSG_EX_STEAM_01,Filmy
+MSG_EX_STEAM_03,Ścieżki dźwiękowe
+MSG_EX_STEAM_04,Ilustracje
+MSG_EX_STEAM_05,Odtwarzane
+MSG_EX_STEAM_06,Wymagania
+MSG_EX_STEAM_07,Przegląd
+MSG_EX_STEAM_HELP_01,Ukończ grę, aby odblokować kategorie.
+MSG_EX_STEAM_HELP_02,Oglądaj filmy.
+MSG_EX_STEAM_HELP_03,Oglądaj ilustracje.
+MSG_EX_STEAM_HELP_04,Słuchaj ścieżek dźwiękowych.
+MSG_EX_STEAM_HELP_05,Przejrzyj zakończenia, do których doszedłeś.
+MSG_EX_STEAM_HELP_08,Wybierz ilustrację.
+MSG_EX_STEAM_HELP_10,Nie możesz zatrzymać w środku zakończenia.
