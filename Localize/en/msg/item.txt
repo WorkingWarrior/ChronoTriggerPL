@@ -1,40 +1,40 @@
 
-Wooden Sword
-Bronze Blade
-Steel Saber
-Silver Sword
-Crimson Blade
-Mammoth Tusk
-Dark Saber
-Primeval Blade
+Drewniany miecz
+Brązowe ostrze
+Stalowa szabla
+Srebrny miecz
+Szkarłatne ostrze
+Mamuci kieł
+Mroczna szabla
+Pierwotne ostrze
 Zanmato
 Vajra Sword
-Empyrean Blade
-Yaksha Blade
+Empirejskie ostrze
+Ostrze Yakshy
 Onimaru
 Suzaku
-Thunder Blade
-Slasher
-Bronze Bowgun
-Iron Bowgun
-Silver Bow
-Bandit's Bow
-Shaman's Bow
-Dreamstone Bow
-Comet Bow
-Sonic Bow
-Valkyrie Bow
-Siren's Kiss
+Ostrze piorunów
+Rzeźnik
+Brązowa kusza
+Żelazna kusza
+Srebrny łuk
+Łuk bandyty
+Łuk szamana
+Łuk z marzyskały
+Kometa
+Łuk soniczny
+Łuk walkirii
+Całus syreny
 
 
 
 
-Airgun
-Pea Shooter
-Pocket Blaster
+Wiatrówka
+Dmuchawka
+Rewolwer
 Picomagnum
-Plasma Gun
-Ruby Gun
+Pistolet plazmowy
+Rubinowy pistolet
 Dreamstone Gun
 Megablaster
 Shockwave
