@@ -1,8 +1,8 @@
-Screen Size
-The screen size has been changed.\\The game will now close.\\Please reboot the game.
-Full Screen
+Rozmiar ekranu
+Rozmiar ekranu został zmieniony.\\Gra zostanie zamknięta.\\Proszę uruchomić ją ponownie.
+Pełny ekran
 %dx%d [%d:%d]
-Quit
-Exit?
-*You can adjust the screen size from the menu on the title screen.
-*You can adjust the screen size from the menu on the title screen.
+Zamknij
+Wyjść?
+*Możesz dostosować wielkość ekranu z poziomu menu tytułowego.
+*Możesz dostosować wielkość ekranu z poziomu menu tytułowego.

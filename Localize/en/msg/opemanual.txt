@@ -1,19 +1,19 @@
-Gamepad Controls
-Keyboard Controls
-Confirm / Talk
-Cancel / Walk
-Open menu / Auto Battle
-Warp / Toggle window position
-Toggle page / Toggle tab
-Open map
-Flee from battle
-Up
-Left
-Right
-Down
+Ustawienia kontrolera
+Ustawienia klawiatury
+Potwierdź / Rozmawiaj
+Anuluj / Idź
+Menu / Auto walka
+Warp / Zmień pozycję okna
+Przełącz stronę / Przełącz zakładkę
+Otwórz mapę
+Ucieknij z pola walki
+Góra
+Lewo
+Prawo
+Dół
 OK
 :
 ,
 +
-Controls
-Pause battles temporarily
+Sterowanie
+Tymczasowo pauzuje walkę

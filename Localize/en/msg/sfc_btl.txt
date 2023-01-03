@@ -1,7 +1,7 @@
-Attack
-Tech
-Item
-Combo
+Atak
+Technika
+Rzeczy
+Kombo
  
 -
 <NAME_CRO>
@@ -11,7 +11,7 @@ Combo
 <NAME_FRO>
 <NAME_AYL>
 <NAME_MAG>
-Dual Tech
-Trip. Tech
+Podw. techniki
+Potr. techniki
 /
-MISS!
+PUDŁO!
