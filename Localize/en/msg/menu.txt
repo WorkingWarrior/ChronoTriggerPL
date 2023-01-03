@@ -201,9 +201,9 @@ Grafika o wysokiej rozdzielczości.
 *Rozmiar ekranu możesz dostosować w menu głównym.
 Zmień ustawienia sterowania.
 Interfejs można dostosować do systemu.
-Wyświetl lub zmień ustawienia kontrolera.
-Wyświetl lub zmień ustawienia klawiatury.
-Wyświetl lub zmień ustawienia myszy.
+Dostosuj ustawienia kontrolera.
+Dostosuj ustawienia klawiatury.
+Dostosuj ustawienia myszy.
 *Zmiany w ustawieniach sterowania będą odzwierciedlone we wszystkich plikach zapisu.
 Wszystkie ustawienia zostaną zresetowane.
 *Wybierz przycisk dla każdej komendy.
