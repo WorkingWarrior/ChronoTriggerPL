@@ -15,7 +15,7 @@ MSG_FIELD_GENDAI_14,Leśne ruiny
 MSG_FIELD_GENDAI_15,Gospoda w Medinie
 MSG_FIELD_GENDAI_16,Plac w Medinie
 MSG_FIELD_GENDAI_17,Chatka Melchiora
-MSG_FIELD_GENDAI_18,Jaskinia Heckrana
+MSG_FIELD_GENDAI_18,Jaskinia Hekrana
 MSG_FIELD_GENDAI_19,Gospoda w Choras
 MSG_FIELD_GENDAI_20,Północne ruiny
 MSG_FIELD_GENDAI_21,Grób bohatera
