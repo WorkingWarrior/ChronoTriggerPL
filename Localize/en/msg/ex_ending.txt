@@ -1,66 +1,66 @@
-MSG_EX_ENDING_01,Defeat Lavos after reviving Crono at Death Peak.
-MSG_EX_ENDING_02,Defeat Lavos while Crono is dead.
-MSG_EX_ENDING_03,Defeat Lavos in the Ocean Palace or immediately\upon starting New Game +.
-MSG_EX_ENDING_04,Defeat Lavos after saving Leene and Marle,\but before visiting the End of Time.
-MSG_EX_ENDING_05,Defeat Lavos after visiting the End of Time,\but before returning to the Middle Ages.
-MSG_EX_ENDING_06,Defeat Lavos after arriving in the Middle Ages,\but before obtaining the Hero's Badge from Tata.
-MSG_EX_ENDING_07,Defeat Lavos after obtaining the Hero's Badge,\but before the Gate Key is stolen in prehistory.
-MSG_EX_ENDING_08,Defeat Lavos after regaining the Gate Key,\but before giving the Masamune to Frog.
-MSG_EX_ENDING_09,Defeat Lavos after giving the Masamune to Frog,\but before facing Magus.
-MSG_EX_ENDING_10,Defeat Lavos after facing Magus, but before\facing Azala.
-MSG_EX_ENDING_11,Defeat Lavos after facing Azala, but before\Schala opens the sealed door.
-MSG_EX_ENDING_12,Defeat Lavos after Schala opens the sealed door,\but before restoring light to the pendant.
-MSG_EX_ENDING_13,Defeat the Dream Devourer beyond Time's Eclipse.
-MSG_EX_ENDING_14,This is the standard ending. Contents vary\according to the status of the Epoch.
-MSG_EX_ENDING_15,This is the ending if Crono is dead. Contents\vary according to the status of the Epoch.
-MSG_EX_ENDING_16,Use the right Telepod to warp to Lavos immediately\after starting New Game +.
-MSG_EX_ENDING_17,Use the Telepod immediately upon returning to\the present.
-MSG_EX_ENDING_18,Use the bucket to warp to Lavos upon reaching\the End of Time.
-MSG_EX_ENDING_19,Face Lavos after the fight with Zombor.
-MSG_EX_ENDING_20,Head to fight Lavos once Tata has given you the\Hero's Badge.
-MSG_EX_ENDING_21,Face Lavos once you have restored the Masamune.
-MSG_EX_ENDING_22,Double back upon entering the Magic Cave and\head for the End of Time.
-MSG_EX_ENDING_23,Go to the End of Time from the Mystic Mountains\after the fight with Magus.
-MSG_EX_ENDING_24,Go to face Lavos without entering the Gate at the\Tyranno Lair.
-MSG_EX_ENDING_25,Face Lavos immediately after opening the sealed\door. Becomes unavailable shortly thereafter.
-MSG_EX_ENDING_26,Use the gate at the End of Time to warp to Time's\Eclipse after clearing the dimensional vortex.
-MSG_EX_EDTITLE_01,Beyond Time
-MSG_EX_EDTITLE_02,Reunion
-MSG_EX_EDTITLE_03,The Dream Project
-MSG_EX_EDTITLE_04,The Successor of Guardia
-MSG_EX_EDTITLE_05,Good Night
-MSG_EX_EDTITLE_06,The Legendary Hero
-MSG_EX_EDTITLE_07,The Unknown Past
-MSG_EX_EDTITLE_08,People of the Times
-MSG_EX_EDTITLE_09,The Oath
-MSG_EX_EDTITLE_10,Dino Age
-MSG_EX_EDTITLE_11,What the Prophet Seeks
-MSG_EX_EDTITLE_12,Memory Lane
-MSG_EX_EDTITLE_13,Dream's Epilogue
-MSG_EX_STEAM_EDTITLE_01,Beyond Time 1
-MSG_EX_STEAM_EDTITLE_02,Beyond Time 2
-MSG_EX_STEAM_EDTITLE_03,Beyond Time 3
-MSG_EX_STEAM_EDTITLE_04,Beyond Time 4
-MSG_EX_STEAM_EDTITLE_05,Reunion 1
-MSG_EX_STEAM_EDTITLE_06,Reunion 2
-MSG_EX_STEAM_EDTITLE_07,Reunion 3
-MSG_EX_STEAM_EDTITLE_08,Reunion 4
-MSG_EX_STEAM_ENDING_01,Defeat Lavos after\reviving Crono at Death\Peak.\(with the Epoch and\Magus)
-MSG_EX_STEAM_ENDING_02,Defeat Lavos after\reviving Crono at Death\Peak.\(with the Epoch, but\without Magus)
-MSG_EX_STEAM_ENDING_03,Defeat Lavos after\reviving Crono at Death\Peak.\(without the Epoch, but\with Magus)
-MSG_EX_STEAM_ENDING_04,Defeat Lavos after\reviving Crono at Death\Peak.\(without the Epoch or\Magus)
-MSG_EX_STEAM_ENDING_05,Defeat Lavos without\reviving Crono.\(with the Epoch and\Magus)
-MSG_EX_STEAM_ENDING_06,Defeat Lavos without\reviving Crono.\(with the Epoch, but\without Magus)
-MSG_EX_STEAM_ENDING_07,Defeat Lavos without\reviving Crono.\(without the Epoch, but\with Magus)
-MSG_EX_STEAM_ENDING_08,Defeat Lavos without\reviving Crono.\(without the Epoch or\Magus)
-MSG_EX_STEAM_ENDING_09,Defeat Lavos in the\Ocean Palace or\immediately after\starting New Game+.
-MSG_EX_STEAM_ENDING_10,Defeat Lavos after\saving Leene and Marle,\but before visiting the\End of Time.
-MSG_EX_STEAM_ENDING_11,Defeat Lavos after\visiting the End of\Time, but before\returning to the Middle\Ages.
-MSG_EX_STEAM_ENDING_12,Defeat Lavos after\arriving in the Middle\Ages, but before\obtaining the Hero's\Badge from Tata.
-MSG_EX_STEAM_ENDING_13,Defeat Lavos after\obtaining the Hero's\Badge from Tata, but\before the Gate Key is\stolen in prehistory.
-MSG_EX_STEAM_ENDING_14,Defeat Lavos after\regaining the Gate Key,\but before giving the\restored Masamune to\Frog.
-MSG_EX_STEAM_ENDING_15,Defeat Lavos after\giving the Masamune to\Frog, but before facing\Magus.
-MSG_EX_STEAM_ENDING_16,Defeat Lavos after\facing Magus, but\before facing Azala.
-MSG_EX_STEAM_ENDING_17,Defeat Lavos after\facing Azala, but\before Schala opens the\sealed door.
-MSG_EX_STEAM_ENDING_18,Defeat Lavos after\Schala opens the sealed\door, but before\restoring light to the\pendant.
-MSG_EX_STEAM_ENDING_19,Defeat the Dream\Devourer in Time's\Eclipse after clearing\the dimensional vortex.
+MSG_EX_ENDING_01,Pokonaj Lavosa, po wskrzeszeniu Crono na Szczycie Śmierci.
+MSG_EX_ENDING_02,Pokonaj Lavosa, gdy Crono nie żyje.
+MSG_EX_ENDING_03,Pokonaj Lavosa w Oceanicznym Pałacu\lub natychmiast po rozpoczęciu Nowej Gry+.
+MSG_EX_ENDING_04,Pokonaj Lavosa, po uratowaniu Leene i Marle,\ale przed odwiedzeniem Końca Czasu.
+MSG_EX_ENDING_05,Pokonaj Lavosa, po odwiedzeniu Końca Czasu,\ale przed powrotem do Średniowiecza.
+MSG_EX_ENDING_06,Pokonaj Lavosa, po przybyciu do Średniowiecza,\ale przed otrzymaniem odznaki bohatera od Taty.
+MSG_EX_ENDING_07,Pokonaj Lavosa, po otrzymaniu odznaki bohatera,\ale przed utratą Klucza do Bram w prehistorii.
+MSG_EX_ENDING_08,Pokonaj Lavosa, po odzyskaniu Klucza do Bram\ale przed zwróceniem Masamune Frogowi.
+MSG_EX_ENDING_09,Pokonaj Lavosa, po zwróceniu Masamune Frogowi,\ale przed zmierzeniem się z Magusem.
+MSG_EX_ENDING_10,Pokonaj Lavosa, po starciu z Lavosem, ale przed\zmierzeniem się z Azalą.
+MSG_EX_ENDING_11,Pokonaj Lavosa, po zmierzeniu się z Azalą,\ale zanim Schala otworzy zapieczętowane drzwi.
+MSG_EX_ENDING_12,Pokonaj Lavosa, po otwarciu zapieczętowanych drzwi\przez Schalę, ale przed przywróceniem światła w wisiorku.
+MSG_EX_ENDING_13,Pokonaj Pożeracza snów za Zaćmieniem Czasu.
+MSG_EX_ENDING_14,Standardowe zakończenie. Zawartość różni się\w zależności od stanu Epocha.
+MSG_EX_ENDING_15,Zakończenie uzyskane, gdy Crono jest martwy.\Zawartość różni sie w zależności od stanu Epocha.
+MSG_EX_ENDING_16,Użyj prawego Telespodka, aby przenieść się\do Lavosa, natychmiast po rozpoczęciu Nowej gry +.
+MSG_EX_ENDING_17,Użyj Telespodka, natychmiast po powrocie\do teraźniejszości.
+MSG_EX_ENDING_18,Użyj wiadra, aby przenieść się do Lavosa\po dotarciu do Końca Czasu.
+MSG_EX_ENDING_19,Zmierz się z Lavosem, po wcale z Kościakiem.
+MSG_EX_ENDING_20,Staw czoła Lavosowi, po otrzymaniu\odznaki bohatera od Taty.
+MSG_EX_ENDING_21,Zmierz się z Lavosem, po naprawieniu Masamune.
+MSG_EX_ENDING_22,Wróć się z Magicznej Jaskini\i udaj się do Końca Czasu.
+MSG_EX_ENDING_23,Idź do Końca Czasu z Mistycznych Gór,\po walce z Magusem.
+MSG_EX_ENDING_24,Zmierz się z Lavosem, bez wchodzenia do\Bramy w Leżu Tyranno.
+MSG_EX_ENDING_25,Zmierz się z Lavosem, natychmiast po otwarciu\zapieczętowanych drzwi. Niedostępne chwilę później.
+MSG_EX_ENDING_26,Użyj Bramy na Końcu Czasu prowadzącej\do Zaćmienia Czasu, po ukończeniu Wiru międzywymiarowego.
+MSG_EX_EDTITLE_01,Poza czasem
+MSG_EX_EDTITLE_02,Ponowne spotkanie
+MSG_EX_EDTITLE_03,Drużyna marzeń
+MSG_EX_EDTITLE_04,Następca Guardii
+MSG_EX_EDTITLE_05,Dobranoc
+MSG_EX_EDTITLE_06,Legendarny bohater
+MSG_EX_EDTITLE_07,Nieznana przeszłość
+MSG_EX_EDTITLE_08,Ludzie dziejów
+MSG_EX_EDTITLE_09,Przysięga
+MSG_EX_EDTITLE_10,Epoka dinozaurów
+MSG_EX_EDTITLE_11,Czego szuka wieszcz
+MSG_EX_EDTITLE_12,Aleja pamięci
+MSG_EX_EDTITLE_13,Epilog snu
+MSG_EX_STEAM_EDTITLE_01,Poza czasem 1
+MSG_EX_STEAM_EDTITLE_02,Poza czasem 2
+MSG_EX_STEAM_EDTITLE_03,Poza czasem 3
+MSG_EX_STEAM_EDTITLE_04,Poza czasem 4
+MSG_EX_STEAM_EDTITLE_05,Ponowne spotkanie 1
+MSG_EX_STEAM_EDTITLE_06,Ponowne spotkanie 2
+MSG_EX_STEAM_EDTITLE_07,Ponowne spotkanie 3
+MSG_EX_STEAM_EDTITLE_08,Ponowne spotkanie 4
+MSG_EX_STEAM_ENDING_01,Pokonaj Lavosa, po\wskrzeszeniu Crono\na Szczycie Śmierci.\(z Epochiem\i Magusem)
+MSG_EX_STEAM_ENDING_02,Pokonaj Lavosa, po\wskrzeszeniu Crono\na Szczycie Śmierci.\(z Epochiem,\ale bez Magusa)
+MSG_EX_STEAM_ENDING_03,Pokonaj Lavosa, po\wskrzeszeniu Crono\na Szczycie Śmierci.\(bez Epocha,\ale z Magusem)
+MSG_EX_STEAM_ENDING_04,Pokonaj Lavosa, po\wskrzeszeniu Crono\na Szczycie Śmierci.\(without the Epoch or\Magus)
+MSG_EX_STEAM_ENDING_05,Pokonaj Lavosa, bez\wskrzeszenia Crono.\(z Epochiem\i Magusem)
+MSG_EX_STEAM_ENDING_06,Pokonaj Lavosa, bez\wskrzeszenia Crono.\(z Epochiem,\ale bez Magusa)
+MSG_EX_STEAM_ENDING_07,Pokonaj Lavosa, bez\wskrzeszenia Crono.\(bez Epocha,\ale z Magusem)
+MSG_EX_STEAM_ENDING_08,Pokonaj Lavosa, bez\wskrzeszenia Crono.\(bez Epocha\i Magusa)
+MSG_EX_STEAM_ENDING_09,Pokonaj Lavosa w\Oceanicznym Pałacu\lub natychmiast\po rozpoczęciu Nowej Gry+.
+MSG_EX_STEAM_ENDING_10,Pokonaj Lavosa, po\uratowaniu Leene i Marle,\ale przed odwiedzeniem\Końca Czasu.
+MSG_EX_STEAM_ENDING_11,Pokonaj Lavosa, po\odwiedzeniu Końca Czasu,\ale przed powrotem\do Średniowiecza.
+MSG_EX_STEAM_ENDING_12,Pokonaj Lavosa, po\przybyciu do Średniowiecza,\ale przed otrzymaniem\odznaki bohatera od Taty.
+MSG_EX_STEAM_ENDING_13,Pokonaj Lavosa, po\otrzymaniu odznaki bohatera,\ale przed utratą\Klucza do Bram w prehistorii.
+MSG_EX_STEAM_ENDING_14,Pokonaj Lavosa, po\odzyskaniu Klucza do Bram\ale przed zwróceniem\Masamune Frogowi.
+MSG_EX_STEAM_ENDING_15,Pokonaj Lavosa, po\zwróceniu Masamune Frogowi,\ale przed zmierzeniem się\z Magusem.
+MSG_EX_STEAM_ENDING_16,Pokonaj Lavosa, po\starciu z Lavosem, ale przed\zmierzeniem się z Azalą.
+MSG_EX_STEAM_ENDING_17,Pokonaj Lavosa, po\zmierzeniu się z Azalą,\ale zanim Schala\otworzy zapieczętowane drzwi.
+MSG_EX_STEAM_ENDING_18,Pokonaj Lavosa, po\otwarciu zapieczętowanych drzwi\przez Schalę, ale przed przywróceniem\światła w wisiorku.
+MSG_EX_STEAM_ENDING_19,Pokonaj Pożeracza\snów w Zaćmieniu Czasu,\po ukończeniu Wiru\międzywymiarowego.
