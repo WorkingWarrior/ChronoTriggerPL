@@ -32,123 +32,73 @@ Całus syreny
 Wiatrówka
 Dmuchawka
 Rewolwer
-Picomagnum
+Pikomagnum
 Pistolet plazmowy
-Rubinowy pistolet
-Dreamstone Gun
+Pistolet rubinowy
+Pistolet z marzysk.
 Megablaster
-Shockwave
-Wondershot
-Gravitator
+Elektromiot
+Cudostrzał
+Grawitator
 
 
 
 
-Tin Arm
-Hammer Arm
-Mirage Hand
-Stone Arm
-Death Claw
-Magma Hand
-Megaton Arm
-Heavy Hand
-Kaiser Arm
-Gigaton Arm
-Teraton Arm
-Crisis Arm
+Cynowe ramię
+Młotowe ramię
+Ramię mirażu
+Kamienne ramię
+Szpon śmierci
+Magmowa ręka
+Megatonowe ramię
+Ciężka ręka
+Cesarskie ramię
+Gigatonowe ramię
+Teratonowe ramię
+Kryzysowe ramię
 
-Bronze Sword
-Iron Sword
+Brązowy miecz
+Żelazny miecz
 Masamune
-Radiant Blade
-Smiter's Blade
-Rune Blade
-Brave Sword
+Promienne ostrze
+Ostrze pogromcy
+Runiczne ostrze
+Miecz śmiałka
 Masamune
-Demonslayer
-Fist
-Fist
-Fist
-Iron Fist
-Bronze Fist
+Pogromca demonów
+Pięść
+Pięść
+Pięść
+Żelazna pięść
+Brązowa pięść
 
 
-Moonfall Scythe
-Headman's Scythe
-Hadean Sickle
-Doom Scythe
+Kosa zmroku
+Kosa watażki
+Kosa Hadesu
+Kosa zagłady
 Mop
-Broken Blade
-Broken Hilt
+Złamane ostrze
+Złamana rękojeść
 Masamune
-Swallow
-Slasher II
-Rainbow
+Jaskółka
+Rzeźnik II
+Tęcza
 Dummy
 Dummy
 Dummy
 Dummy
-Icewyrm
-Stardust Bow
-Turboshot
-Dinoblade
-Dragon Arm
-Judgment Scythe
-Dreamseeker
-Venus Bow
-Spellslinger
-Apocalypse Arm
-Dreamreaper
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-Dummy
-
-Hide Tunic
-Padded Vest
-Bronze Armor
-Maiden's Suit
-Iron Suit
-Titanium Vest
-Golden Suit
-Ruby Vest
-Dark Mail
-Mist Robe
-Mesozoic Mail
-Luminous Robe
-Radiant Plate
-Platinum Vest
-Aeonian Suit
-Zodiac Cape
-Nova Armor
-Prismatic Dress
-Moonbeam Armor
-Ruby Armor
-Raven Armor
-Gloom Cape
-White Plate
-Black Plate
-Blue Plate
-Red Plate
-White Vest
-Black Vest
-Blue Vest
-Red Vest
-Taban's Vest
-Taban's Suit
-Dragon Armor
-Reptite Dress
-Saurian Leathers
-Regal Plate
-Regal Gown
-Elemental Aegis
-Shadowplume Robe
+Lodowy żmij
+Gwiezdnopylny łuk
+Turbostrzał
+Dinostrze
+Smocze ramię
+Kosa sądu
+Poszukiwacz snów
+Łuk Wenus
+Czaromiot
+Ramię apokalipsy
+Kosiarz snów
 Dummy
 Dummy
 Dummy
@@ -160,34 +110,45 @@ Dummy
 Dummy
 Dummy
 
-Hide Cap
-Bronze Helm
-Iron Helm
-Porrean Beret
-Golden Helm
-Stone Helm
-Triceratopper
-Radiant Helm
-Platinum Helm
-Aeonian Helm
-Prismatic Helm
-Doom Helm
-Dark Helm
-Gloom Helm
-Guardian Helm
-Taban's Helm
-Clarity Cap
-Memory Cap
-Time Hat
-Vigilant's Hat
-Ozzie Pants
-Haste Helm
-Rainbow Helm
-Mermaid Helm
-Dragonhead
-Reptite Tiara
-Master's Crown
-Angel's Tiara
+Skórzana tunika
+Kabat
+Brązowa zbroja
+Panieński strój
+Żelazna zbroja
+Tytanowy kaftan
+Złota zbroja
+Rubinowy kaftan
+Ciemna kolczuga
+Mglista szata
+Pierwotna zbroja
+Świetlna szata
+Świetlista zbroja
+Platynowy kaftan
+Strój wieczności
+Płaszcz zodiaku
+Zbroja nowy
+Tęczowa suknia
+Zbroja księżyca
+Rubinowa zbroja
+Krucza zbroja
+Ponury płaszcz
+Biała zbroja
+Czarna zbroja
+Niebieska zbroja
+Czerwona zbroja
+Biały kaftan
+Czarny kaftan
+Niebieski kaftan
+Czerwony kaftan
+Kaftan Tabana
+Strój Tabana
+Smocza zbroja
+Gadzinia suknia
+Jaszczurcze skóry
+Królewska zbroja
+Królewska suknia
+Egida żywiołów
+Toga cieniopióra
 Dummy
 Dummy
 Dummy
@@ -199,54 +160,34 @@ Dummy
 Dummy
 Dummy
 
-Headband
-Ribbon
-Power Glove
-Guardian Bangle
-Magic Scarf
-Schala's Amulet
-Speed Ring
-Acuity Ring
-Power Ring
-Magic Ring
-Barrier Ring
-Silver Earring
-Golden Earring
-Silver Stud
-Golden Stud
-Sight Scope
-Alluring Top
-Rage Band
-Wrath Band
-Third Eye
-Workman's Wallet
-Green Dream
-Berserker Ring
-Power Scarf
-Speed Belt
-Black Gemstone
-Blue Gemstone
-Silver Gemstone
-White Gemstone
-Golden Gemstone
-Hero's Badge
-Muscle Ring
-Flea Bustier
-Magic Crest
-Power Crest
-Accessory
-Seraph Song
-Sunglasses
-Prism Spectacles
-Valor Crest
-Champion's Badge
-Dragon's Tear
-Nu Arcana
-Uranian Mirror
-Pontic Mirror
-Promethean Mirror
-Hadean Mirror
-Aresian Mirror
+Skórzany czepek
+Brązowy hełm
+Żelazny hełm
+Beret z Porre
+Złoty hełm
+Kamienny hełm
+Tricerahełm
+Świetlisty hełm
+Platynowy hełm
+Hełm wieczności
+Tęczowy hełm
+Hełm zagłady
+Mroczny hełm
+Ponury hełm
+Hełm strażnika
+Hełm Tabana
+Czapka jasności
+Czapka pamięci
+Kapelusz czasu
+Kapelusz czujnego
+Portki Ozziego
+Hełm pośpiechu
+Hełm tęczy
+Hełm syreny
+Smocza głowa
+Gadzinia tiara
+Korona mistrza
+Anielska tiara
 Dummy
 Dummy
 Dummy
@@ -258,38 +199,54 @@ Dummy
 Dummy
 Dummy
 
-Potion
-Mid-Potion
-Hi-Potion
-Ether
-Mid-Ether
-Hi-Ether
-Elixir
-Turbo Ether
-Megalixir
-Panacea
-Athenian Water
-Shelter
-Ambrosia
-Lapis
-Barrier Sphere
-Shield Sphere
-Strength Capsule
-Magic Capsule
-Speed Capsule
-Slops
-Flameclaw
-Seafang
-Duskeye
-Luxwing
-Hawk Talon
-Shield Cloak
-Feral Wrath
-Smoked Meat
-Dried Mushroom
-Sweet Banana
-Millennia Fruit
-Songbird Egg
+Opaska
+Wstążka
+Rękawica mocy
+Ochronny karwasz
+Magiczny szal
+Amulet Schali
+Pierścień szybk.
+Pierścień celności
+Pierścień mocy
+Pierścień magii
+Pierścień bariery
+Srebrny klips
+Złoty klips
+Srebrny kolczyk
+Złoty kolczyk
+Okular badawczy
+Ponętny stanik
+Opaska szału
+Opaska gniewu
+Trzecie oko
+Portfel pracusia
+Zielony sen
+Pierścień szału
+Szalik mocy
+Pas szybkości
+Czarny klejnot
+Niebieski klejnot
+Srebrny klejnot
+Biały klejnot
+Złoty klejnot
+Odznaka bohatera
+Pierścień krzepy
+Stanik Flei
+Magiczny herb
+Herb mocy
+Akcesorium
+Pieśń Serafimów
+Para lenonek
+Para tęczówek
+Herb odwagi
+Medal bohatera
+Smocza łza
+Arkana Nu
+Lustro Urańskie
+Lustro Pontyjskie
+Lustro Prometejskie
+Lustro Hadesa
+Lustro Aresa
 Dummy
 Dummy
 Dummy
@@ -301,42 +258,85 @@ Dummy
 Dummy
 Dummy
 
-Petal
-Fang
-Horn
-Feather
-Seed
-Jetbike Key
-Pendant
-Gate Key
-Rainbow Shard
+Mikstura
+Ul. mikstura
+Hipermikstura
+Eter
+Ulepszony eter
+Hiper eter
+Eliksir
+Turbo Eter
+Megaliksir
+Panaceum
+Woda ateńska
+Schronienie
+Ambrozja
+Lapis Lazuli
+Kula bariery
+Kula ochrony
+Kapsuła siły
+Kapsuła magii
+Kapsuła szybkości
+Pomyje
+Ognisty pazur
+Morski kieł
+Oko zmroku
+Jasne skrzydło
+Jastrzębi szpon
+Płaszcz ochronny
+Zdziczały gniew
+Wędzone mięso
+Suszone grzyby
+Słodki banan
+Owoc milenijny
+Jajo śpiewoptaków
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+
+Płatek
+Kieł
+Róg
+Pióro
+Ziarno
+Klucz do Motoru Odrzutowego
+Wisiorek
+Klucz do Bram
+Odłamek tęczy
 Chrono Trigger
-Carpenter's Tools
-Spiced Jerky
-Dreamstone
-Race Recorder
-Moon Stone
-Sun Stone
-Ruby Knife
-Yakra's Key
-Doppel Doll
-Toma's Spirits
-2 Petals
-2 Fangs
-2 Horns
-2 Feathers
-Golden Sand
-Golden Hammer
-Prismastone
-Saintstone
-Reptmark
-Waystone
-Godwood
-Steel Ingot
-Sturdy Vines
-Hearty Lunch
-Rusted Blade
-Lumicite Shard
+Zestaw narzędzi
+Pikantna wołowina
+Marzyskała
+Rekorder wyścigów
+Kamień księżycowy
+Kamień słoneczny
+Rubinowy nóż
+Klucz Yakry
+Lalka-podmianka
+Flaszka Tomy
+2 płatki
+2 kły
+2 rogi
+2 pióra
+Złoty piasek
+Złoty młotek
+Tęczoskała
+Skała świętych
+Gadziznak
+Kamień milowy
+Boskie drewno
+Sztabka stali
+Tęgie pnącze
+Obfity obiad
+Rdzawe ostrze
+Światłolit
 Dummy
 Dummy
 Dummy
