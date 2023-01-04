@@ -129,7 +129,7 @@ Kliknij na polę\i wpisz imię.
 Wprowadź pięć\lub mniej liter.
 Musisz wpisać \przynajmniej literę.
 Drużyna
-Usable Combos
+Mogą użyć
 Zapis
 Zakładka
 Zmień ekwipunek postaci.
