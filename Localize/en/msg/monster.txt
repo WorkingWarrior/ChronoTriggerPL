@@ -157,8 +157,8 @@ Nizbel
 Nizbel II
 Slash
 Slash
-Flea
-Diwa Flea
+Pchła
+Diwa-pchła
 Dalton
 Król Dalton
 Mutant
@@ -185,7 +185,7 @@ Ekran
 Mega Mutant
 Mega Mutant
 Super Slash
-Diva Flea
+Diwa-pchła
 Czarny Tyranno
 Rdzawy Tyranno
 Mózg-matka
