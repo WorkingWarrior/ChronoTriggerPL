@@ -1,194 +1,194 @@
 Nu
-Reptite
-Terasaur
+Gadzina
+Terazaur
 Kilwala
-Krawlie
-Underling
-Omicrone
-Martello
-Bellbird
+Pełziak
+Podwładny
+Omikron
+Czarna wieżyczka
+Dzwonnak
 Panel
-Mammon Machine
-Empty
-Blue Imp
-Green Imp
-Stone Imp
-Mud Imp
-Roundillo
-Fiendillo
-Boundillo
-Roundillo Rider
+Maszyna żądzy
+Pusty
+Niebieski chochlik
+Zielony chochlik
+Kamienny chochlik
+Błotny chochlik
+Pankulnik
+Panbiesnik
+Panmagnik
+Jeździec pankulnika
 
-Blue Eaglet
-Golden Eaglet
-Red Eaglet
+Niebieskie orlę
+Złote orlę
+Czerwone orlę
 
-Gilded Bellbird
-Imp Hawk
-Bomber Bird
-Viper
-Fangtooth
+Złocony dzwonniak
+Chochlikostrząb
+Jastrzębi szwadron
+Żmija
+Kłoząb
 Naga
 
-Hydraconda
+Hydrokonda
 
-Ruin Stalker
-Cave Stalker
-White Horror
-Queen Zeal
-Rafflesia
-Floral Horror
-Death Lily
-Blood Yolk
-Egg Ooze
-Fallen
-Fallen
-Skeleton
-Lancer
-Macabre
-Flesh Reaper
-Royal Guard
-Ghost Knight
-Freelancer
-Outlaw
+Tropiciel z ruin
+Tropiciel z jaskiń
+Biały horror
+Królowa Zeal
+Raflezja
+Kwiecisty horror
+Lilia śmierci
+Krwawy żółtek
+Jajeczna ropa
+Upadły
+Upadły
+Szkielet
+Lansjer
+Makabra
+Kosiarz ciał
+Królewski strażnik
+Duch rycerza
+Najemnik
+Banita
 Giga Mutant
 
 Tera Mutant
 
-Juggler
-Melphyx
-Zealot Mage
+Żongler
+Melfyks (rdzeń)
+Mag Zeal
 
-Reptite
-Sentry
-Sentry
-Shieldsman
-Shieldsman
-Watcher
-Nomad
+Gadzina
+Wartownik
+Wartownik
+Tarczownik
+Tarczownik
+Obserwator
+Nomada
 
-Djinn Bottle
-Aecyto Weevil
-Rhino Weevil
-Diablo
-Gargoyle
-Blue Gargoyle
-Underling
-Edible Frog
-Prehistoric Frog
-Prehistoric Frog
-Bullfrog
-Mad Bat
-Vampire Bat
-Scouter
-Flyclops
-Exterminator
-Deverminator
-Deverminator EX
-Sorcerer
-Djinn
+Butelka dżina
+Ryjkorogacz
+Żuk ryjkowiec
+Diabelnik
+Gargulec
+Niebieski gargulec
+Podwładny
+Jadalna żaba
+Pierwotna żaba
+Pierwotna żaba
+Żaba rycząca
+Szalony nietoperz
+Wampir
+Zwiadca
+Cyklotnik
+Eksterminator
+Dezynsektor
+Dezynsektor S
+Czarodziej
+Dżin
 Ghul
 
-Crater
-Volcanite
-Mossback
-Amanita
-Rubble
+Krater
+Wulkanik
+Mszak
+Muchomor
+Gruz
 
-Schist
-Schist
-Dondrago
+Łupiak
+Łupiak
+Nimfiak
 
-Sandrago
-Shadow
-Empty
-Soul
-Acid
-Alkali
-Ion Cloud
-Ion Cloud
-Monk
+Piaskowy nimfiak
+Cień
+Pusty
+Dusza
+Kwas
+Zasada
+Chmura jonów
+Chmura jonów
+Mnich
 
-Elder Lavos Spawn
-Warrior
+St.pomiot Lavosa
+Wojownik
 Ogan
-Monster
-Cave Bat
+Potwór
+Nietoperz
 Ogan
-Servant
-Servant
+Sługa
+Sługa
 
 
 Bao Bao
-Cave Ape
-Megasaur
-Gaoler
-Mudbeast
-Blue Mudbeast
-Red Mudbeast
-Turret
-Lizardactyl
+Oran Gutan
+Megazaur
+Szyldwach
+Błotożer
+Niebieski błotożer
+Czerwony błotożer
+Wieżyczka
+Jaszczurodaktyl
 
-Avian Rex
-Narble
+Lotny Rex
+Szlamik
 Ghaj
-Rat
-Grimling
-Crested Sprinter
-Version 2.0
-Version 3.0
-Version 4.0
-Bug
-Scarab
-Fangbeast
+Szczur
+Gremysz
+Czubiasty biegacz
+Wersja 2.0
+Wersja 3.0
+Wersja 4.0
+Robak
+Skarabeusz
+Kłobestia
 Cyrus
 Yakra
-Prehistoric Frog
+Pierwotna żaba
 Gato
-Dragon Tank
-Wheel
+Smoczy czołg
+Koło
 Golem
-Synchrite
+Synchron
 Masa
 Mune
-Masa & Mune
+Masa i Mune
 Azala
 Nizbel
 Nizbel II
 Slash
 Slash
 Flea
-Diva Flea
+Diwa Flea
 Dalton
-King Dalton
+Król Dalton
 Mutant
-Metal Mutant
+Metalowy mutant
 Super Slash
 Ozzie
 Ozzie
-Ozzie the Great
-Heckran
-Aecytosaur
-Aecytonyx
-Fossil Ape
-Tank Head
-Frog King
-Imp Priest
-Queen Zeal
+Ozzie Wspaniały
+Hekran
+Rogozaur
+Rogobieg
+Gor Ryl
+Głowa czołgu
+Król żab
+Chochlikapłan
+Królowa Zeal
 
 
-Zombor
+Kościak
 
 
 
-Display
+Ekran
 Mega Mutant
 
 Super Slash
-Diva Flea
-Black Tyranno
-Rust Tyranno
-Mother Brain
+Diwa Flea
+Czarny Tyranno
+Rdzawy Tyranno
+Mózg-matka
 
 Atropos XR
 Cybot
@@ -198,24 +198,24 @@ Lavos
 Lavos
 Lavos
 Yakra XIII
-Blubber Hulk
+Spasły siłacz
 Lavos
 Lavos
 
 
 Lavos
-Lavos Core
-Pod
+Moduł
+Dron
 Byte
 Giga Gaia
 
 
-Guardian
-Red Scouter
-Blue Scouter
-Lavos Spawn
+Strażnik
+Czerwony zwiadca
+Niebieski zwiadca
+Pomiot Lavosa
 
-Laser Guard
+Wieżyczka laserowa
 
 
 
@@ -236,73 +236,73 @@ Lavos
 Lavos
 Lavos
 
-Vilepillar
+Złąsiennik
 
-Flea?
+Pchła?
 
-Roundillo Bomber
-Golem Overlord
-Monster
-Daltonite
-Son of the Sun
+Panbombnik
+Nadzorca golemów
+Potwór
+Żołnierz Daltona
+Syn Słońca
 
-R-Series
+Model R
 Magus
 Magus
 
-Steel Shade
-Alabaster Shade
-Crimson Shade
+Stalowy cień
+Alabastrowy cień
+Karmazynowy cień
 Dummy
 Dummy
 Dummy
 Dummy
 
-Exile
-Slate Imp
-Pink Imp
-Wonder Rock
-Deathcreeper
-Jackpot
-Ogan Chieftain
-Ogan Youth
-Ogan Youth
-Kingfrog
-Dire Rat
-Black Bat
-Chrysosaur
+Wygnaniec
+Lazurowy chochlik
+Różowy chochlik
+Skała cudów
+Śmierciopełzak
+Kumurnacja
+Wódz oganów
+Młody ogan
+Młody ogan
+Królewska żaba
+Okropny szczur
+Czarny nietoperz
+Chryzantozaur
 Pterranyx
-Twin Snake
-Hercules Beetle
-Jadewing
-Deathguard
-Bone Knight
-Soul Stalker
-Chaos Mage
-Snowbeast
-Red Ghaj
-Fireball
-Prototype
-Searcher
-Iron Maiden
-Goldhammer
-Nu Guardian
-Nu Master
-Archaeofang
-Archaeofang
-Master-at-Arms
-Bladesman
-Once-King Dalton 
-Eggsterminator
-Dream Devourer
-Magus Effect
-Crono Statue
-Marle Statue
-Lucca Statue
-Robo Statue
-Frog Statue
-Ayla Statue
-Magus Statue
+Bliźniaczy wąż
+Rohatyniec herkules
+Nefrytoskrzydły
+Strażnik śmierci
+Kościany rycerz
+Tropiciel dusz
+Mag chaosu
+Śniegobestia
+Czerwony Ghaj
+Kula ognia
+Prototyp
+Poszukiwacz
+Żelazna dziewica
+Złoty młot
+Strażnik Nu
+Mistrz nu
+Archeokieł
+Archeokieł
+Mistrz miecza
+Mistrz ostrzy
+Były król Dalton
+Ekstermijajtor
+Pożeracz snów
+Efekt Magusa
+Statua Crono
+Statua Marle
+Statua Lucci
+Statua Robo
+Statua Froga
+Statua Ayli
+Statua Magusa
 Dummy
 Dummy
 Dummy
