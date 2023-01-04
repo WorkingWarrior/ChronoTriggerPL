@@ -1,102 +1,102 @@
 MSG_EX_MON_01,Gato
-MSG_EX_MON_02,Amanita
-MSG_EX_MON_03,Scarab
-MSG_EX_MON_04,Gilded Bellbird
-MSG_EX_MON_05,Royal Guard
-MSG_EX_MON_06,Sentry
-MSG_EX_MON_07,Gaoler
-MSG_EX_MON_08,Lancer
-MSG_EX_MON_09,Cave Stalker
-MSG_EX_MON_10,Djinn Bottle
-MSG_EX_MON_11,Rhino Weevil
-MSG_EX_MON_12,Boundillo
-MSG_EX_MON_13,Cave Bat
+MSG_EX_MON_02,Muchomor
+MSG_EX_MON_03,Skarabeusz
+MSG_EX_MON_04,Złocony dzwonniak
+MSG_EX_MON_05,Królewski strażnik
+MSG_EX_MON_06,Wartownik
+MSG_EX_MON_07,Szyldwach
+MSG_EX_MON_08,Lansjer
+MSG_EX_MON_09,Tropiciel z jaskiń
+MSG_EX_MON_10,Butelka dżina
+MSG_EX_MON_11,Żuk ryjkowiec
+MSG_EX_MON_12,Panmagnik
+MSG_EX_MON_13,Nietoperz
 MSG_EX_MON_14,Cyrus
-MSG_EX_MON_15,Blue Imp
-MSG_EX_MON_16,Green Imp
-MSG_EX_MON_17,Roundillo
-MSG_EX_MON_18,Fiendillo
-MSG_EX_MON_19,Imp Hawk
-MSG_EX_MON_20,Roundillo Rider
-MSG_EX_MON_21,Blue Eaglet
+MSG_EX_MON_15,Niebieski chochlik
+MSG_EX_MON_16,Zielony chochlik
+MSG_EX_MON_17,Pankulnik
+MSG_EX_MON_18,Panbiesnik
+MSG_EX_MON_19,Chochlikostrząb
+MSG_EX_MON_20,Jeździec pankulnika
+MSG_EX_MON_21,Niebieskie orlę
 MSG_EX_MON_22,Naga
-MSG_EX_MON_23,Viper
-MSG_EX_MON_24,Diablo
-MSG_EX_MON_25,Underling (Blue)
-MSG_EX_MON_26,Mad Bat
-MSG_EX_MON_27,Skeleton
+MSG_EX_MON_23,Żmija
+MSG_EX_MON_24,Diabelnik
+MSG_EX_MON_25,Podwładny
+MSG_EX_MON_26,Szalony nietoperz
+MSG_EX_MON_27,Szkielet
 MSG_EX_MON_28,Ogan
-MSG_EX_MON_29,Ogan (Hammer)
-MSG_EX_MON_30,Bellbird
-MSG_EX_MON_31,Freelancer
-MSG_EX_MON_32,Edible Frog
-MSG_EX_MON_33,Fangtooth
-MSG_EX_MON_34,Grimling
-MSG_EX_MON_35,Vampire Bat
-MSG_EX_MON_36,Underling (Purple)
-MSG_EX_MON_37,Servant (Sword)
-MSG_EX_MON_38,Servant (Crossbow)
-MSG_EX_MON_39,Blue Gargoyle
-MSG_EX_MON_40,Save Point
-MSG_EX_MON_41,Sorcerer
-MSG_EX_MON_42,Outlaw
-MSG_EX_MON_43,Roundillo Bomber
-MSG_EX_MON_44,Juggler
-MSG_EX_MON_45,Ghost Knight
-MSG_EX_MON_46,Flesh Reaper
-MSG_EX_MON_47,Fallen
-MSG_EX_MON_48,Soul
-MSG_EX_MON_49,Fallen + Soul
-MSG_EX_MON_50,Sandrago
-MSG_EX_MON_51,Vilepillar
-MSG_EX_MON_52,Aecytosaur
-MSG_EX_MON_53,Aecytonyx
-MSG_EX_MON_54,Lizardactyl
-MSG_EX_MON_55,Fossil Ape
-MSG_EX_MON_56,Ruin Stalker
-MSG_EX_MON_57,Floral Horror
-MSG_EX_MON_58,Crater
-MSG_EX_MON_59,Shadow
+MSG_EX_MON_29,Ogan z młotem
+MSG_EX_MON_30,Dzwonnak
+MSG_EX_MON_31,Najemnik
+MSG_EX_MON_32,Jadalna żaba
+MSG_EX_MON_33,Kłoząb
+MSG_EX_MON_34,Gremysz
+MSG_EX_MON_35,Wampir
+MSG_EX_MON_36,Fioletowy podwładny
+MSG_EX_MON_37,Sługa z mieczem (Sword)
+MSG_EX_MON_38,Sługa z kuszą
+MSG_EX_MON_39,Niebieski gargulec
+MSG_EX_MON_40,Punkt zapisu
+MSG_EX_MON_41,Czarodziej
+MSG_EX_MON_42,Banita
+MSG_EX_MON_43,Panbombnik
+MSG_EX_MON_44,Żongler
+MSG_EX_MON_45,Duch rycerza
+MSG_EX_MON_46,Kosiarz ciał
+MSG_EX_MON_47,Upadły
+MSG_EX_MON_48,Dusza
+MSG_EX_MON_49,Upadły + Dusza
+MSG_EX_MON_50,Piaskowy nimfiak
+MSG_EX_MON_51,Złąsiennik
+MSG_EX_MON_52,Rogozaur
+MSG_EX_MON_53,Rogobieg
+MSG_EX_MON_54,Jaszczurodaktyl
+MSG_EX_MON_55,Gor Ryl
+MSG_EX_MON_56,Tropiciel z ruin
+MSG_EX_MON_57,Kwiecisty horror
+MSG_EX_MON_58,Krater
+MSG_EX_MON_59,Cień
 MSG_EX_MON_60,Mutant
-MSG_EX_MON_61,Rat
-MSG_EX_MON_62,Exterminator
-MSG_EX_MON_63,Bug
-MSG_EX_MON_64,Version 2.0
-MSG_EX_MON_65,Dondrago
-MSG_EX_MON_66,Egg Ooze
-MSG_EX_MON_67,Deverminator
-MSG_EX_MON_68,Version 3.0
-MSG_EX_MON_69,Acid
-MSG_EX_MON_70,Alkali
-MSG_EX_MON_71,Blood Yolk
-MSG_EX_MON_72,Macabre
-MSG_EX_MON_73,Deverminator EX
-MSG_EX_MON_74,Version 4.0
-MSG_EX_MON_75,Laser Guard
-MSG_EX_MON_76,Reptite (Green)
+MSG_EX_MON_61,Szczur
+MSG_EX_MON_62,Eksterminator
+MSG_EX_MON_63,Robak
+MSG_EX_MON_64,Wersja 2.0
+MSG_EX_MON_65,Nimfiak
+MSG_EX_MON_66,Jajeczna ropa
+MSG_EX_MON_67,Dezynsektor
+MSG_EX_MON_68,Wersja 3.0
+MSG_EX_MON_69,Kwas
+MSG_EX_MON_70,Zasada
+MSG_EX_MON_71,Krwawy żółtek
+MSG_EX_MON_72,Makabra
+MSG_EX_MON_73,Dezynsektor S
+MSG_EX_MON_74,Wersja 4.0
+MSG_EX_MON_75,Wieżyczka laserowa
+MSG_EX_MON_76,Gadzina
 MSG_EX_MON_77,Kilwala
-MSG_EX_MON_78,Crested Sprinter
-MSG_EX_MON_79,Prehistoric Frog
-MSG_EX_MON_80,Ion Cloud
-MSG_EX_MON_81,Golden Eaglet
-MSG_EX_MON_82,Red Eaglet
-MSG_EX_MON_83,Bao Bao
-MSG_EX_MON_84,Aecyto Weevil
-MSG_EX_MON_85,Megasaur
-MSG_EX_MON_86,Mossback
-MSG_EX_MON_87,Rafflesia
-MSG_EX_MON_88,Cave Ape
-MSG_EX_MON_89,Avian Rex
-MSG_EX_MON_90,Schist
-MSG_EX_MON_91,Terasaur
-MSG_EX_MON_92,Volcanite
-MSG_EX_MON_93,Reptite (Purple)
-MSG_EX_MON_94,Mudbeast
-MSG_EX_MON_95,Rubble
-MSG_EX_MON_96,Bomber Bird
-MSG_EX_MON_97,Stone Imp
-MSG_EX_MON_98,Gargoyle
-MSG_EX_MON_99,Death Lily
+MSG_EX_MON_78,Czubiasty biegacz
+MSG_EX_MON_79,Pierwotna żaba
+MSG_EX_MON_80,Chmura jonów
+MSG_EX_MON_81,Złote orlę
+MSG_EX_MON_82,Czerwone orlę
+MSG_EX_MON_83,Pai Wan
+MSG_EX_MON_84,Ryjkorogacz
+MSG_EX_MON_85,Megazaur
+MSG_EX_MON_86,Mszak
+MSG_EX_MON_87,Raflezja
+MSG_EX_MON_88,Oran Gutan
+MSG_EX_MON_89,Lotny Rex
+MSG_EX_MON_90,Łupek
+MSG_EX_MON_91,Terazaur
+MSG_EX_MON_92,Wulkanik
+MSG_EX_MON_93,Gadzina
+MSG_EX_MON_94,Błotożer
+MSG_EX_MON_95,Gruz
+MSG_EX_MON_96,Jastrzębi szwadron
+MSG_EX_MON_97,Kamienny chochlik
+MSG_EX_MON_98,Gargulec
+MSG_EX_MON_99,Lilia śmierci
 MSG_EX_MON_100,Djinn
 MSG_EX_MON_101,Ghul
 MSG_EX_MON_102,Zealot Mage
