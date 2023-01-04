@@ -7,4 +7,5 @@ Polskie tłumaczenie [steamowej](https://store.steampowered.com/app/613830/CHRON
 ### Narzędzia
 
 * [CTExplore](https://www.rivernyxx.com/projects/download.php?pn=CT_Explore)
+* [Chrono Tools](https://jimzrt.github.io/ChronoTools/#/)
 * [GIMP](https://www.gimp.org/)
